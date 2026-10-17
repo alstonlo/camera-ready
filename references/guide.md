@@ -1,7 +1,8 @@
 # Writing guide
 
-The guide has five sections:
+The guide has six sections:
 
+- [Story](#story): the argument of the whole text, from problem and gap through idea, evidence, and implication; where each stage lives; contributions as claims; sections that open with their question and answer; evaluation organized by questions; and numbers that serve a stated claim.
 - [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
 - [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
 - [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
@@ -10,13 +11,119 @@ The guide has five sections:
 
 | Request | Sections applied |
 |---|---|
-| polish, tighten | all five |
-| cut to a length | all five, with deletion and relocation allowed |
+| polish, tighten | all six |
+| cut to a length | all six, with deletion and relocation allowed |
+| story, flow, or argument check | Story and the rules it links to |
 | overclaiming check, hedging question | Claims |
 | de-AI pass | Deslopping and the prose rules it links to |
 | one convention | that convention alone |
 
 For a request narrower than a polish, also apply every rule linked from the listed sections. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
+
+## Story
+
+The text makes one argument: a problem the reader cares about, a gap that costs something, an idea that closes the gap, evidence that the idea works, and what follows. This section governs that argument at the level of the whole text and its sections. The [rules on claims](#claims) set the strength of each statement, the [rules on cutting](#cutting) decide what stays, and the [rules on prose](#prose) govern paragraphs and sentences. Check the story before editing sentences, since sentence edits cannot repair a broken argument.
+
+Without the author's request, you may reorder sentences within a paragraph or paragraphs within a section so that the claim comes first, rewrite a section's opening from content the section already contains, move numbers out of running text into a table that already holds them, and rewrite a caption to state a conclusion the body text already draws. Flag, rather than make, any change to what the text claims, to the order of its sections, or to its list of contributions, and never supply a cost, explanation, or number the text lacks.
+
+### The arc
+
+**Write the arc down.** Before editing, write five lines from the text itself: the problem, the gap and its cost, the idea, the evidence, and the implication. The idea and evidence lines, compressed, are the core claims of the [spine test](#the-spine-test). Flag any line the text cannot fill.
+
+**Write the arc as one sentence.** The five lines should fit the form "A matters, and B is known, but C fails because D; therefore we propose E, which achieves F." If the sentence needs no "but", the text states no problem and only lists facts. If it needs several, the text has competing problems; flag them and ask which one the text is about.
+
+**Give each stage a home.** In a paper, the stages fall in this order:
+
+| Section | Carries | Its opening states |
+|---|---|---|
+| Abstract | all five stages in one or two sentences each, with the headline result | the problem |
+| Introduction | the problem, the gap with its cost, the idea, and the contributions | the problem and what is missing |
+| Background and related work | only the context the gap needs, and the comparison | what the reader must know to see the gap |
+| Method | the idea in full | the key idea in one sentence, before the steps |
+| Evaluation | the evidence | the questions it answers and their short answers |
+| Discussion | what the results mean, their limits, and alternative explanations | how the results bear on the gap |
+| Conclusion | the implication | what the reader can now believe or do |
+
+A thesis chapter, a report, or a proposal follows the same order under its own section names; a proposal states the evidence it will gather. The main contribution must be clear by the end of the first quarter of the text. Flag a central result that first appears later, since moving it would reorder sections.
+
+**Keep the arc linear.** Each topic appears in one place, and only the core idea returns in every section. A topic that returns after an intervening one (A, B, A) is the section-level form of the [alternation](#paragraphs) the paragraph rules forbid; flag it when the repair would reorder sections. Order the argument by its logic, never by the order in which the work was done, and give no part more space because it took more time. An approach the text later rejects belongs in the main text only as a negative result, under the [triage order](#triage-order), and its flaw is stated before its description so the reader does not invest in a dead end. Give each part of the method depth in proportion to its place on the spine; a text that describes every component at equal depth hides which one carries the contribution.
+
+**Test the arc by skimming.** Reading only the abstract, the headings, the first paragraph of each section, and the captions must recover all five stages. The stage that skimming misses names the fix.
+
+### Problem and gap
+
+**Open with the problem.** The first sentence names what the reader cares about. An opening that tells experts why their own field matters is a [generic opening](#blacklisted-patterns) and is deleted.
+
+- Bad: "Deep learning has achieved remarkable success across many domains."
+- Good: "Learned cost models for compilers must be retrained for each new hardware target, which takes days."
+
+**Give the gap a cost.** A problem has two parts: a condition and a cost the reader pays because of it. Readers recognize a problem only when they see both. "No prior work studies X" is a condition alone, so ask what the reader loses, pays, or cannot do because of it. If the text states no cost, flag it.
+
+- Bad: "No prior system supports incremental updates."
+- Good: "No prior system supports incremental updates, so every schema change forces a full rebuild."
+
+**Say why the problem is hard.** State why the obvious approach fails. Without this, the idea looks arbitrary, and the reader cannot tell whether the gap was unfilled because it was hard or because it was unimportant. Flag a missing account.
+
+### Contributions
+
+**State contributions as claims with their support.** A contribution says what is now true and names the section that supports it, at the strength the [verb ladder](#the-verb-ladder) allows; the [rule on underclaiming](#failure-modes) rewrites an activity into a claim. Check coverage in both directions. Flag a contribution without evidence in the body, and treat a major result that serves no contribution as a candidate for [cutting](#the-spine-test).
+
+- Bad: "We describe the WizWoz system and evaluate it extensively."
+- Good: "The WizWoz type system is sound (Section 4), and type checking is decidable (Section 5)."
+
+**Let the contributions carry the forward references.** When each contribution names its section, a roadmap paragraph that lists the sections names no content, and the [rule on signposts](#concision) deletes it.
+
+### Sections
+
+**Open every section with its question and its answer.** The first paragraph states what the section asks and what it finds, from content the section contains. An opening that announces the topic is a [signpost](#concision).
+
+- Bad: "In this section, we present our experimental results."
+- Good: "This section tests whether the cache reduces tail latency under bursty load. It does, and the gain disappears when the bursts are removed."
+
+**Link backward before moving forward.** A section opening names what the reader now knows, then poses the new question; this applies [old before new](#information-flow-within-a-sentence) at the scale of sections. The opening of a method section states the key idea in one sentence before the steps, and a worked example precedes the general case.
+
+**Place related work where its comparison can be understood**, usually after the idea. Its content follows the [rules on comparing with prior work](#comparing-with-prior-work).
+
+### Evidence
+
+**Organize the evaluation by questions, not by experiments.** State the questions at the start of the evaluation, each tied to a contribution. A heading that names only a dataset or a setup says nothing about what was found. Flag an experiment whose question cannot be named; it is a candidate for cutting.
+
+- Bad: "5.3 Experiments on ImageNet"
+- Good: "5.3 The gain holds at ImageNet scale"
+
+**One question per results paragraph.** The paragraph opens with the question, answers it in the next sentence, and then gives the evidence, as the [rules on paragraphs](#paragraphs) require, so that a reader who doubts a conclusion can trace it to one paragraph. Split a paragraph that answers two questions. Flag one that answers none.
+
+**State the warrant.** When the reader outside the subfield may not see why a measurement supports the claim, state the link between them. Flag a missing warrant.
+
+- Bad: "Throughput rises 40% when we double the cores."
+- Good: "Throughput rises 40% when we double the cores, which is expected only if the lock is no longer the bottleneck."
+
+**Attribute the gain.** When the method has several parts, the evaluation must show which part produces the improvement; flag a missing ablation or equivalent, and credit only the combination under the [rules on causal language](#causal-language). An explanation the evidence does not test is [speculation](#speculation). When an obvious alternative explanation exists and the text does not address it, flag it.
+
+### Numbers
+
+Prose that buries its point under results is the most common story failure in generated text. The remedy is structural: every number serves a claim stated first in words.
+
+**Claim first, then the number.** State the finding in words, give the one number that supports it, and refer to the table for the rest. A sentence that lists several numbers without a finding gives the reader nothing to remember or dispute.
+
+- Bad: "Our method obtains 71.3, 68.9, 74.2, and 70.1 F1 on the four datasets, against 69.8, 67.2, 73.9, and 66.4 for the strongest baseline."
+- Good: "Our method outperforms the strongest baseline on all four datasets; the largest gain, 3.7 F1, is on the low-resource dataset (Table 2)."
+
+**One headline number per claim.** Choose the number the reader should remember; the others belong in the table. Describe the pattern in words: whether the effect is consistent, where it grows, and where it fails. The pattern is the point of the table, and [quantified comparisons](#plain-wording) follow this order.
+
+**Do not restate the table.** Running text adds the conclusion and points to the table; it does not repeat the cells. Move numbers the table already holds out of the text. The number that stays follows the [rules on uncertainty](#uncertainty-and-significance).
+
+**No number without a claim.** For each number in running text, name the claim it serves. If none exists, move the number to a table or an appendix that already exists, or flag it.
+
+**Precision serves the message.** Report the digits the claim needs, consistently; extra digits distract from the trend. Flag excess precision, and never round without the author.
+
+**Captions state the conclusion.** The reader who skims sees the captions and the headline numbers before anything else, so each caption states the finding, as the [caption rules](#figures-and-tables) require.
+
+### Endings
+
+**Return to the gap.** The first paragraph of the discussion says how the results bear on the gap stated in the introduction. The limits follow, under the [rules on limitations](#limitations). A wide opening with a narrow ending overpromises; when the results deliver less than the introduction asks for, flag the mismatch under the [rules on scope](#scope).
+
+**The conclusion adds perspective.** If a reader could understand the conclusion fully before reading the text, it is a summary. The [triage order](#triage-order) keeps one restatement of each contribution; the rest of the conclusion must say what the reader can now believe or do that they could not before. Flag a conclusion that repeats the abstract.
 
 ## Claims
 

@@ -8,10 +8,12 @@ The following are sources cited by the deep research reports used to create this
 - Christopher Berry (2015). [Equation etiquette](https://cplberry.com/2015/02/07/equaquette/).
 - Betty J. Birner and Gregory Ward (2009). [Information Structure and Syntactic Structure](https://doi.org/10.1111/j.1749-818X.2009.00146.x).
 - Michael Black (2024). [Writing a good scientific paper](https://medium.com/@black_51980/writing-a-good-scientific-paper-c0f8af480c91).
+- Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald (2024). [The Craft of Research, Fifth Edition](https://press.uchicago.edu/ucp/books/book/chicago/C/bo215874008.html).
 - Bruce K. Britton and Sami Gülgöz (1991). [Using Kintsch's computational model to improve instructional text: Effects of repairing inference calls on recall and cognitive structures](https://doi.org/10.1037/0022-0663.83.3.329).
 - Rotem Dror, Gili Baumer, Segev Shlomov, and Roi Reichart (2018). [The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing](https://aclanthology.org/P18-1128/).
 - Fredo Durand (n.d.). [Notes on writing](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf).
 - Amanda M. Durik, M. Anne Britt, Rebecca Reynolds, and Jennifer Storey (2008). [The Effects of Hedges in Persuasive Arguments: A Nuanced Analysis of Language](https://journals.sagepub.com/doi/10.1177/0261927X08317947).
+- Michael D. Ernst (2024). [How to write a technical paper or a research paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html).
 - Richard Futrell, Roger P. Levy, and Edward Gibson (2020). [Dependency locality as an explanatory principle for word order](https://tedlab.mit.edu/tedlab_website/researchpapers/Futrell_Levy_Gibson_2020.pdf).
 - Edward Gibson (1998). [Linguistic complexity: locality of syntactic dependencies](https://tedlab.mit.edu/tedlab_website/researchpapers/Gibson_1998_Cogn.pdf).
 - George D. Gopen and Judith A. Swan (1990). [The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf).
@@ -24,19 +26,24 @@ The following are sources cited by the deep research reports used to create this
 - Becky S. C. Kwan, Hang Chan, and Colin Lam (2012). [Evaluating prior scholarship in literature reviews of research articles: A comparative study of practices in two research paradigms](https://doi.org/10.1016/j.esp.2012.02.003).
 - Gerald Lebovits (2020). [Thoughts on Legal Writing from the Greatest of Them All: Joseph M. Williams, Part I](https://nysba.org/thoughts-on-legal-writing-from-the-greatest-of-them-all-joseph-m-williams-part-i/).
 - Kevin P. Lee (n.d.). [A Guide to Writing Mathematics](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf).
+- Roy Levin and David D. Redell (1983). [An Evaluation of the Ninth SOSP Submissions; or, How (and How Not) to Write a Good Systems Paper](https://pages.cs.wisc.edu/~remzi/Classes/736/Spring2000/Papers/sosp.html).
 - Beverly A. Lewin (2005). [Hedging: an exploratory study of authors' and readers' identification of "toning down" in scientific texts](https://www.sciencedirect.com/science/article/abs/pii/S1475158504000372).
 - Zachary C. Lipton (2018). [Heuristics for Scientific Writing (a Machine Learning Perspective)](https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/).
 - Zachary C. Lipton and Jacob Steinhardt (2018). [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341).
 - Danielle S. McNamara, Eileen Kintsch, Nancy Butler Songer, and Walter Kintsch (1996). [Are Good Texts Always Better? Interactions of Text Coherence, Background Knowledge, and Levels of Understanding in Learning From Text](https://doi.org/10.1207/s1532690xci1401_1).
 - Brett Mensh and Konrad Kording (2017). [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619).
 - Neel Nanda (2025). [Highly Opinionated Advice on How to Write ML Papers](https://www.alignmentforum.org/posts/eJGptPbbFPZGLpjsp/highly-opinionated-advice-on-how-to-write-ml-papers).
+- Randy Olson (2015). [Houston, We Have a Narrative: Why Science Needs Story](https://press.uchicago.edu/ucp/books/book/chicago/H/bo21174162.html).
 - Simon Peyton Jones (n.d.). [How to write a great research paper: Seven simple suggestions](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf).
 - Steven Pinker (2014). [Why Academics Stink at Writing](https://grad.ncsu.edu/wp-content/uploads/2016/06/Why-Academics-Stink-at-Writing-1-2.pdf).
 - Geoffrey K. Pullum (n.d.). [The myth that which is banned from integrated relatives](https://pullum.ppls.ed.ac.uk/grammar/relwhich.html).
 - Nicolas P. Rougier, Michael Droettboom, and Philip E. Bourne (2014). [Ten Simple Rules for Better Figures](https://doi.org/10.1371/journal.pcbi.1003833).
+- Joshua Schimel (2011). [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://global.oup.com/academic/product/writing-science-9780199760244).
+- Jonathan Shewchuk (1997). [Three Sins of Authors in Computer Science and Math](https://people.eecs.berkeley.edu/~jrs/sins.html).
 - Jan H. Spyridakis and Carol S. Isakson (1998). [Nominalizations vs. Denominalizations: Do They Influence What Readers Recall?](https://journals.sagepub.com/doi/10.2190/01HD-MHU1-QNX9-R3YE).
 - Jacob Steinhardt (2017). [Advice for Authors](https://jsteinhardt.stat.berkeley.edu/blog/advice-for-authors).
 - Robert Van Buren and Mary Fran Buehler (1980). [The Levels of Edit, Second Edition](https://archive.org/details/nasa_techdoc_19800011701).
 - Gregory Ward and Betty J. Birner (2001). [Discourse and Information Structure](https://faculty.wcas.northwestern.edu/ward/HDA01.pdf).
 - Jennifer Widom (2006). [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html).
+- Joseph M. Williams and Joseph Bizup (2021). [Style: Lessons in Clarity and Grace, Thirteenth Edition](https://www.pearson.com/en-us/subject-catalog/p/style-lessons-in-clarity-and-grace/P200000002140/9780137536603).
 - Stefanie Wulff, Ute Römer, and John Swales (2012). [Attended/unattended this in academic student writing: Quantitative and qualitative perspectives](https://doi.org/10.1515/cllt-2012-0006).
