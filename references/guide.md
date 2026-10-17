@@ -2,7 +2,7 @@
 
 The guide has six sections:
 
-- [Story](#story): the argument of the whole text, from problem and gap through idea, evidence, and implication; where each stage lives; contributions as claims; sections that open with their question and answer; evaluation organized by questions; and numbers that serve a stated claim.
+- [Story](#story): the argument from problem to implication, section order and openings, contributions, evaluation questions, and numbers that support claims.
 - [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
 - [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
 - [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
