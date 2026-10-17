@@ -32,22 +32,4 @@ These two rules override every other rule in this skill.
 
 ## Writing guide
 
-Read the whole guide in full before editing, whatever the request. Its rules link to one another, and a rule read without the rule it links to gives a wrong edit; the request decides which sections you apply, not which you read. [Step 2 of the workflow](#workflow) gives the order of application. The guide has five sections:
-
-- [Claims](references/guide.md#claims): match each claim to its evidence, through the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
-- [Cutting](references/guide.md#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
-- [Prose](references/guide.md#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
-- [Deslopping](references/guide.md#deslopping): the patterns of AI-written prose, in two tiers.
-- [Conventions](references/guide.md#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
-
-| Request | Sections applied |
-|---|---|
-| polish, tighten | all five |
-| cut to a length | all five, with deletion and relocation allowed |
-| overclaiming check, hedging question | Claims |
-| de-AI pass | Deslopping and the prose rules it links to |
-| one convention | that convention alone |
-
-A request narrower than a polish also applies every rule the listed sections link to. Applying a section to a chunk means checking the chunk against every rule in it, with the [non-negotiables](#non-negotiables) overriding them.
-
-Two rules can prescribe different edits for one sentence. Where one of the two links to the other, the linked rule decides. Otherwise the non-negotiables decide, and then your judgement as an expert editor.
+Read the [writing guide](references/guide.md) in full before editing, whatever the request. Its rules link to one another, and a rule read without the rule it links to gives a wrong edit; the request decides which sections you apply, not which you read.

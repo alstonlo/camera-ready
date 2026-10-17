@@ -1,5 +1,23 @@
 # Writing Guide
 
+Five sections, in the order of application:
+
+- [Claims](#claims): match each claim to its evidence, through the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
+- [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
+- [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
+- [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
+- [Conventions](#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
+
+| Request | Sections applied |
+|---|---|
+| polish, tighten | all five |
+| cut to a length | all five, with deletion and relocation allowed |
+| overclaiming check, hedging question | Claims |
+| de-AI pass | Deslopping and the prose rules it links to |
+| one convention | that convention alone |
+
+A request narrower than a polish also applies every rule the listed sections link to. Applying a section to a chunk means checking the chunk against every rule in it. Two rules can prescribe different edits for one sentence. Where one of the two links to the other, the linked rule decides. Otherwise the clearer sentence wins, and then your judgement as an expert editor.
+
 ## Claims
 
 Every claim must match its evidence; overclaiming and underclaiming are both failures. An aspirational goal may motivate the text if the text marks it as not attained.
@@ -138,7 +156,7 @@ Three signals show that a cut should not stand as made:
 
 - **The cut leaves the paragraph underdeveloped or breaks its topic string.** Merge it into a neighbor that shares its point; otherwise repair the missing development or the broken [topic string](#paragraphs).
 - **You are cutting because the passage confuses you.** Diagnose first. Confusion usually signals a missing step rather than an excess one, so supply the [missing step or referent](#plain-wording) when the draft states it elsewhere, and otherwise flag it.
-- **The reader outside the subfield can no longer follow the condensed version.** You are below the floor the [non-negotiables](../SKILL.md#non-negotiables) set, so restore framing and steps instead of cutting further.
+- **The reader outside the subfield can no longer follow the condensed version.** Clarity for that reader is the floor, so restore framing and steps instead of cutting further.
 
 ### After the pass
 
@@ -279,7 +297,7 @@ AI-written prose falls into recognizable patterns, in two tiers.
 1. **Blacklisted patterns are absolute.** Delete every instance; the co-occurrence test of tier 2 does not apply.
 2. **Every other pattern is tolerable.** Fix a tolerable pattern when the fix makes the sentence better on its own terms, and rewrite a whole passage only when three or more tolerable instances co-occur in it.
 
-**Do not over-sanitize, and never inject.** Preserve [varied rhythm](#tolerable-patterns) and genuine authorial stance, and never add a voice the draft lacks: added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a specific the draft does not contain, which the [non-negotiables](../SKILL.md#non-negotiables) forbid; [marking a claim's confidence to match its evidence](#claims) is calibration, not stance. Generic de-AI advice wrongly edits first-person "we", present tense for the text and prior work, and deliberately repeated terminology; the conventions on [voice](#voice-and-person), [tense](#tense), and [terminology](#terminology) govern these.
+**Do not over-sanitize, and never inject.** Preserve [varied rhythm](#tolerable-patterns) and genuine authorial stance, and never add a voice the draft lacks: added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a specific the draft does not contain; [marking a claim's confidence to match its evidence](#claims) is calibration, not stance. Generic de-AI advice wrongly edits first-person "we", present tense for the text and prior work, and deliberately repeated terminology; the conventions on [voice](#voice-and-person), [tense](#tense), and [terminology](#terminology) govern these.
 
 ### Blacklisted patterns
 
