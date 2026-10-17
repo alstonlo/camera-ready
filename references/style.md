@@ -1,5 +1,7 @@
 # Style
 
+Three sections. [Prose](#prose): Build understanding early, Paragraphs, Information flow within a sentence, Sentence structure, Concision, Plain wording, Comparing with prior work. [Conventions](#conventions): Voice and person, Tense, No sentence-initial "And", "But", "So", or "Plus", Terminology, Citation markers are not nouns, Notation and equations, Figures and tables, Typography and small style. [Deslopping](#deslopping): Blacklisted patterns, Tolerable patterns.
+
 ## Prose
 
 ### Build understanding early
@@ -10,24 +12,24 @@ Put the big picture before the details that refine it:
 
 - The high-level idea precedes the fine-grained mechanism.
 - The result and its interpretation precede the supporting evidence.
-- The paragraph's claim is its first sentence (or, in a results paragraph, its second sentence, after the question it answers; [Paragraphs](#paragraphs)), and the section's claim is its first paragraph.
+- The paragraph's claim is its first sentence (or, in a results paragraph, its second sentence, after the [question it answers](#paragraphs)), and the section's claim is its first paragraph.
 - A definition precedes its first use, and context precedes anything new that depends on it.
 
 Test an ordering by covering everything after a given sentence and asking what the reader knows so far. If a covered sentence would have taught the reader more than an uncovered one, move it up. This rule orders paragraphs within a section and sentences within a paragraph; inside a single sentence the new information goes last, in the [stress position](#information-flow-within-a-sentence).
 
 ### Paragraphs
 
-- One point per paragraph, stated in a topic sentence that makes the paragraph's specific claim rather than naming a theme. "Results were mixed" and "We now analyze robustness" announce; "The gain vanishes without pretraining" claims ([Say the thing](#concision)). A results paragraph may instead open with the specific question it tests, provided the next sentence answers it; the evidence follows the answer.
+- One point per paragraph, stated in a topic sentence that makes the paragraph's specific claim rather than naming a theme. "Results were mixed" and "We now analyze robustness" [announce](#concision); "The gain vanishes without pretraining" claims. A results paragraph may instead open with the specific question it tests, provided the next sentence answers it; the evidence follows the answer.
 - Judge a paragraph by whether its point is developed and coherent, not by its sentence count. Merge a short paragraph into its neighbor only when the two share a point, and split a paragraph at the seam when its sentences support two different topic sentences.
 - Transitions must carry logic (*therefore, however, because, in contrast*), and the logic must hold. A "therefore" whose premises do not entail the next sentence asserts an inference the text has not made, so flag the gap rather than keep the word.
 - Do not alternate between two topics (A, B, A); finish one before starting the other. Express parallel ideas in parallel grammatical form.
 
-**Read the topic string.** When a paragraph reads clearly sentence by sentence but does not cohere, list what opens each sentence; that list is the paragraph's topic string. When most openings are new to the passage, rewrite so that each sentence opens with old information ([Information flow](#information-flow-within-a-sentence)). Then test each sentence boundary by inserting, in brackets, the connective it implies ("[however]", "[therefore]"). If no connective fits, or you cannot tell which fits, the link is missing; supply it if the text states it elsewhere, and otherwise flag it. When "[therefore]" fits but the reader outside the subfield could not say why the second sentence follows, the missing link is a step, not a word, so flag the step rather than insert the connective. Finally, check that the new term in each sentence's stress position is used later, unless it is the paragraph's conclusion.
+**Read the topic string.** When a paragraph reads clearly sentence by sentence but does not cohere, list what opens each sentence; that list is the paragraph's topic string. When most openings are new to the passage, rewrite so that each sentence [opens with old information](#information-flow-within-a-sentence). Then test each sentence boundary by inserting, in brackets, the connective it implies ("[however]", "[therefore]"). If no connective fits, or you cannot tell which fits, the link is missing; supply it if the text states it elsewhere, and otherwise flag it. When "[therefore]" fits but the reader outside the subfield could not say why the second sentence follows, the missing link is a step, not a word, so flag the step rather than insert the connective. Finally, check that the new term in each sentence's stress position is used later, unless it is the paragraph's conclusion.
 
 - Bad: "Contrastive pretraining needs large batches. Memory limits batch size on a single GPU. Gradient caching was proposed by Gao et al. (2021). Our method reaches the same accuracy at batch size 256."
 - Good: "Contrastive pretraining needs large batches, but memory limits the batch size on a single GPU. This limit is removed by gradient caching (Gao et al., 2021), which recomputes representations in a second forward pass. Our method also removes the limit, without the second pass, and at batch size 256 it matches the accuracy of gradient caching."
 
-If two adjacent paragraphs can swap places with no edits, either the section is a list of parallel items, which gets a summary sentence naming them ([Say the thing](#concision)), or the second paragraph must state what it builds on.
+If two adjacent paragraphs can swap places with no edits, either the section is a list of parallel items, which gets a [summary sentence](#concision) naming them, or the second paragraph must state what it builds on.
 
 ### Information flow within a sentence
 
@@ -49,7 +51,7 @@ Conversely, do not undo a passive, a "there is", or an "it ... that" sentence wh
 - Bad: "The optimization of the objective through the application of gradient descent led to an improvement in accuracy."
 - Good: "We optimize the objective with gradient descent, which improves accuracy."
 
-Keep the subject-verb pairing literal, since "the schedule launches the jobs" is active but figurative; name the true actor ("we launch the jobs on the schedule"). A component that performs the operation may be the subject ("the filter removes duplicates"); a schedule performs nothing, and a result or figure takes a reporting verb ("the results suggest"; [verb ladder](claims.md#the-verb-ladder)). To find hidden actions, list the paragraph's main verbs. When most are *is*, *has*, or *leads to*, the actions sit in nouns or are missing. If the passage never says what one actor does to another, flag the gap rather than supply the action.
+Keep the subject-verb pairing literal, since "the schedule launches the jobs" is active but figurative; name the true actor ("we launch the jobs on the schedule"). A component that performs the operation may be the subject ("the filter removes duplicates"); a schedule performs nothing, and a result or figure takes a [reporting verb](claims.md#the-verb-ladder) ("the results suggest"). To find hidden actions, list the paragraph's main verbs. When most are *is*, *has*, or *leads to*, the actions sit in nouns or are missing. If the passage never says what one actor does to another, flag the gap rather than supply the action.
 
 **Make every sentence parse on the first pass.** Length alone is not the fault, so do not split a sentence only to shorten it. Find what forces a reread and fix that.
 
@@ -63,7 +65,7 @@ Keep the subject-verb pairing literal, since "the schedule launches the jobs" is
 - Put a claim's conditions before its conclusion, unless a short trailing condition is unambiguous ("unbiased under assumption A1"). When the conditions run long, give them their own sentence ("Suppose that A, B, and C hold. Then X."), and enumerate three or more steps or conditions packed into one sentence.
 - Check that the sentence cannot be misread from left to right. "We prove that A and B imply C" first reads as proving A, so write "We prove that the two conditions A and B together imply C".
 
-**Read the sentence aloud.** Where the voice stalls or has to guess which word takes the stress, find the structural cause and repair the structure rather than the punctuation. This is a diagnostic, not a license to write for the ear ([No writerly asides](#plain-wording)).
+**Read the sentence aloud.** Where the voice stalls or has to guess which word takes the stress, find the structural cause and repair the structure rather than the punctuation. This is a diagnostic, not a license for [writerly asides](#plain-wording).
 
 ### Concision
 
@@ -73,9 +75,9 @@ Keep the subject-verb pairing literal, since "the schedule launches the jobs" is
 
 **Policy in place of finding** puts a rule where a result belongs ("Where a conclusion depends on the choice of metric, we report both metrics"), so name the conclusions, the metrics, and what each one gives. **Empty verbs** such as *affects, varies*, and *has implications for* assert that something happened without a direction or a magnitude, so say which way and by how much; *provides, enables*, and *allows* have the same fault for mechanisms when what follows names only an outcome ("the cache enables fast retrieval"), so name the operation, or flag it when the draft does not state one. **Umbrella nouns** such as *performance* and *quality* hide which quantity was measured, so name it: accuracy, latency, peak memory, or BLEU.
 
-**Fold self-referential signposts into the content.** Replace a sentence about the text ("The previous section analyzed the encoder. This section presents the decoder.") with the content plus the pointer ("The decoder maps each latent code produced by the encoder of Section 3 to a token sequence."). A pointer to the section that holds something ("the proof is in Appendix B") stays, as does a roadmap of at most two sentences at the end of the introduction or of the opening of a thesis chapter. Delete a signpost that names no content ("Section 7 concludes"), a roadmap inside a section that restates its subheadings, and a signpost that costs more to parse than it saves. Transitions and summary sentences are not signposts ([Protect](cutting.md#protect)).
+**Fold self-referential signposts into the content.** Replace a sentence about the text ("The previous section analyzed the encoder. This section presents the decoder.") with the content plus the pointer ("The decoder maps each latent code produced by the encoder of Section 3 to a token sequence."). A pointer to the section that holds something ("the proof is in Appendix B") stays, as does a roadmap of at most two sentences at the end of the introduction or of the opening of a thesis chapter. Delete a signpost that names no content ("Section 7 concludes"), a roadmap inside a section that restates its subheadings, and a signpost that costs more to parse than it saves. Transitions and summary sentences are not signposts and are [protected](cutting.md#protect).
 
-**Cut intensifiers.** *very, quite, extremely, highly*, and similar add no information ([Quantify comparatives](#plain-wording)). A word that softens a claim instead (*essentially, largely, somewhat, relatively*; "the gap is essentially closed") is a hedge, and [Hedges](claims.md#hedges) decides it. Cut *Note that* and *It is worth noting that* unless they warn the reader off a likely misreading. *obviously, clearly, trivially*, and *it is easy to see* have one legitimate use, in a derivation or proof, for a step that is routine for the reader outside the subfield; cut them on an empirical or comparative claim ("clearly outperforms"), and flag the step when it is not routine or replaces a missing argument.
+**Cut intensifiers.** *very, quite, extremely, highly*, and similar add no information; give the [measurement](#plain-wording) instead. A word that softens a claim instead (*essentially, largely, somewhat, relatively*; "the gap is essentially closed") is a [hedge](claims.md#hedges), and the rules on hedges decide it. Cut *Note that* and *It is worth noting that* unless they warn the reader off a likely misreading. *obviously, clearly, trivially*, and *it is easy to see* have one legitimate use, in a derivation or proof, for a step that is routine for the reader outside the subfield; cut them on an empirical or comparative claim ("clearly outperforms"), and flag the step when it is not routine or replaces a missing argument.
 
 ### Plain wording
 
@@ -111,7 +113,7 @@ A term of art may still be the right word; keep it and state the literal operati
 ### Comparing with prior work
 
 - **Compare, do not list.** Each paragraph or cluster on prior work ends by saying how this work differs, on a named dimension (an assumption, a metric, a cost, a setting, or a guarantee) and in terms the reader can check. If the draft does not state the difference, flag it rather than supplying one.
-- **Characterize prior work in its own terms.** Say what a cited work does and under what assumptions before saying what it lacks for this work's setting. Do not turn a scoped difference into a defect ("ignores", "fails to") unless the draft shows the failure, and keep the sentence that credits the predecessor ([Protect](cutting.md#protect)). Keep the cited work's own strength of claim; if the source says its results suggest X, do not write that it shows X.
+- **Characterize prior work in its own terms.** Say what a cited work does and under what assumptions before saying what it lacks for this work's setting. Do not turn a scoped difference into a defect ("ignores", "fails to") unless the draft shows the failure, and keep the sentence that credits the predecessor, which is [protected](cutting.md#protect). Keep the cited work's own strength of claim; if the source says its results suggest X, do not write that it shows X.
 - **Mark what is new.** When a passage mixes the text's own contribution with standard or borrowed components, the reader must be able to tell which is which ("we use the probe of Smith et al. [4]; our change is to ..."). When the text leaves the novelty ambiguous, flag it rather than deciding it.
 
 - Bad: "Gradient caching [12] reduces memory. Memory-efficient attention [8] reduces memory. Our method reduces memory."
@@ -127,8 +129,8 @@ These conventions override generic writing advice.
 
 - Default to active voice with first-person "we" for the authors' actions and decisions. In derivations and proofs, "we" may also mean the author and reader together.
 - Pick one agent for the steps of a method or algorithm, either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate"), and keep it for the whole description. The authors' choices about the method ("we set k = 5") always take "we".
-- Cut indirection. Where the text does what follows, "We can compute X" becomes "We compute X", and "aims to" and "seeks to" become the verb itself; a capability the text does not exercise, or a goal marked as unattained, keeps its wording ([Claims](claims.md#claims)). The ungrammatical "allows to model" becomes "models" or "allows us to model", whichever the draft means.
-- Passive voice is legitimate where the agent is obvious or irrelevant ("Images are normalized to zero mean"), where it keeps old information in the subject position ([Information flow](#information-flow-within-a-sentence)), and where it moves a long agent to the end.
+- Cut indirection. Where the text does what follows, "We can compute X" becomes "We compute X", and "aims to" and "seeks to" become the verb itself; a capability the text does not exercise, or a goal marked as unattained, keeps its wording, since changing it would [change the claim](claims.md#claims). The ungrammatical "allows to model" becomes "models" or "allows us to model", whichever the draft means.
+- Passive voice is legitimate where the agent is obvious or irrelevant ("Images are normalized to zero mean"), where it keeps [old information in the subject position](#information-flow-within-a-sentence), and where it moves a long agent to the end.
 - In single-authored writing, keep the author's choice of "I" or "we" and apply it consistently. Do not change "we" to "I".
 
 ### Tense
@@ -170,8 +172,8 @@ Move a citation out of a lead-in when the sentence states an established result 
 
 ### Notation and equations
 
-- Define each symbol at or before its first use, at least informally, and refresh it on reuse ("the sample space 𝒳", not bare "𝒳" pages later; [Refresh long-lived shorthand](#terminology)).
-- If the text already has a Preliminaries or Notation section, global notation belongs there; move a definition there only when the request allows relocation ([Cutting](cutting.md#cutting)), and flag it otherwise. Do not create such a section (that reorders the text); flag the scattered definitions instead.
+- Define each symbol at or before its first use, at least informally, and [refresh it on reuse](#terminology) ("the sample space 𝒳", not bare "𝒳" pages later).
+- If the text already has a Preliminaries or Notation section, global notation belongs there; move a definition there only when the request [allows relocation](cutting.md#cutting), and flag it otherwise. Do not create such a section (that reorders the text); flag the scattered definitions instead.
 - Introduce no symbol the text does not use again ("Every continuous function on a compact set is bounded" needs no "f"). Do not give one symbol two meanings, or one object two symbols. If L(θ) is the training loss, do not write "L = 0.31" for its final value; write "L(θ_T) = 0.31".
 - Never start a sentence or a clause with a symbol ("A function f is semicontinuous if...", not "f is semicontinuous if..."), and spell out a number that starts a sentence. Separate symbols in adjacent formulas with words ("Consider S_q, where q < p").
 - In running prose, write "for all", "there exists", and "implies", not ∀, ∃, and ⇒, except in work on logic, and do not use a relation symbol as a word inside a verbal phrase ("the step size is at most 0.1", not "is ≤ 0.1").
@@ -185,7 +187,7 @@ Move a citation out of a lead-in when the sentence states an established result 
 
 ### Figures and tables
 
-- **Captions.** A caption lets a reader who has skipped to the figure read it correctly. State what is plotted or tabulated (the quantities, their units where applicable, the axes of a plot, and whether higher or lower is better when that is not obvious), under what conditions (dataset, model, setting), what each visual encoding denotes (line styles, colors, shaded regions, and error bars; see [Uncertainty and significance](claims.md#uncertainty-and-significance)), and the one point the figure exists to show. A caption that names the figure and stops ("Results on ImageNet.") is incomplete; complete it from the paragraph that references the figure, in the same wording, and flag it when the draft holds the facts nowhere. Check that the caption and the body text describe the figure the same way.
+- **Captions.** A caption lets a reader who has skipped to the figure read it correctly. State what is plotted or tabulated (the quantities, their units where applicable, the axes of a plot, and whether higher or lower is better when that is not obvious), under what conditions (dataset, model, setting), what each visual encoding denotes (line styles, colors, shaded regions, and [error bars](claims.md#uncertainty-and-significance)), and the one point the figure exists to show. A caption that names the figure and stops ("Results on ImageNet.") is incomplete; complete it from the paragraph that references the figure, in the same wording, and flag it when the draft holds the facts nowhere. Check that the caption and the body text describe the figure the same way.
 - **References in text.** Every float is referenced in the sentence that makes its claim, and that sentence states the claim ("Accuracy falls as the noise rate rises (Figure 6)" or "Figure 6 shows that accuracy falls as the noise rate rises", not "In Figure 6 we show the results"). When the claim rests on a value the reader could only estimate from the plot, the number belongs in the sentence or the caption; if neither gives it, flag it. Write `Figure~\ref{...}` with a non-breaking space, and capitalize "Figure 6", "Table 2", "Section 4", and "Theorem 1". In LaTeX source, `\label` goes after `\caption`. A "?" or "??" in rendered text marks an undefined `\cite` or `\ref`, so flag each one.
 
 - Bad caption: "Figure 3: Ablation results."
@@ -208,21 +210,21 @@ AI-written prose falls into recognizable patterns, in two tiers.
 1. **Blacklisted patterns are absolute.** Delete every instance; the co-occurrence test of tier 2 does not apply.
 2. **Every other pattern is tolerable.** Fix a tolerable pattern when the fix makes the sentence better on its own terms, and rewrite a whole passage only when three or more tolerable instances co-occur in it.
 
-**Do not over-sanitize, and never inject.** Preserve varied rhythm and genuine authorial stance ([Uniform rhythm](#tolerable-patterns)), and never add a voice the draft lacks: added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a specific the draft does not contain ([Non-negotiables](../SKILL.md#non-negotiables)); marking a claim's confidence to match its evidence ([Claims](claims.md#claims)) is calibration, not stance. Generic de-AI advice wrongly edits first-person "we", present tense for the text and prior work, and deliberately repeated terminology; [Voice and person](#voice-and-person), [Tense](#tense), and [Terminology](#terminology) govern these.
+**Do not over-sanitize, and never inject.** Preserve [varied rhythm](#tolerable-patterns) and genuine authorial stance, and never add a voice the draft lacks: added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a specific the draft does not contain, which the [non-negotiables](../SKILL.md#non-negotiables) forbid; [marking a claim's confidence to match its evidence](claims.md#claims) is calibration, not stance. Generic de-AI advice wrongly edits first-person "we", present tense for the text and prior work, and deliberately repeated terminology; the conventions on [voice](#voice-and-person), [tense](#tense), and [terminology](#terminology) govern these.
 
 ### Blacklisted patterns
 
-**Em dashes.** Delete every em dash, including `---` in LaTeX source and an en dash (–) standing in for the same pause. Where a colon, semicolon, or pair of parentheses in the same slot passes the [Pause punctuation](#tolerable-patterns) test, substitute it; otherwise rebuild the sentence so that it needs no pause. The en dash is correct in a numeric range and a name joined from two people ("Sections 3–5", "Kullback–Leibler divergence"; `--` in source), so sweep `--` only where it is neither. Hyphens in compounds stay.
+**Em dashes.** Delete every em dash, including `---` in LaTeX source and an en dash (–) standing in for the same pause. Where a colon, semicolon, or pair of parentheses in the same slot passes the [pause punctuation](#tolerable-patterns) test, substitute it; otherwise rebuild the sentence so that it needs no pause. The en dash is correct in a numeric range and a name joined from two people ("Sections 3–5", "Kullback–Leibler divergence"; `--` in source), so sweep `--` only where it is neither. Hyphens in compounds stay.
 
 **Chatbot artifacts.** Delete "Certainly!", "Great question", "I hope this helps", "As of my last update", and similar.
 
-**Generic openings and closings.** A sentence that could be prepended to any text in the field ("In the ever-evolving field of deep learning", "The future looks bright") is bloat, and the defensible-sounding forms count too ("There has been much recent interest in X"). Delete it ([Cutting](cutting.md#cutting)), and where the draft states the reason X matters, put that reason in its place.
+**Generic openings and closings.** A sentence that could be prepended to any text in the field ("In the ever-evolving field of deep learning", "The future looks bright") is bloat, and the defensible-sounding forms count too ("There has been much recent interest in X"). Delete it, which [needs no request](cutting.md#cutting), and where the draft states the reason X matters, put that reason in its place.
 
 **Leaked generation artifacts.** Chat-UI citation tokens (`citeturn0search0`, `contentReference[oaicite:...]`), AI-referrer URL parameters (`utm_source=chatgpt.com`), and unfilled template placeholders ("[Your Name]", "[Insert citation]") are residue of an unedited paste; strip every one, keep the sentence it sat in, and flag what each placeholder stood for so the author can supply it.
 
 ### Tolerable patterns
 
-**Patterns whose rule lives in Prose.** Scan for these and apply the linked rule: an ornate word where a plain one exists (*delve, underscore, showcase, pivotal*, and similar; [Plain wording](#plain-wording)), unless it is the precise word; a clause that stacks nominalizations ([Character-action principle](#sentence-structure)); a count and a promise in place of the items ([Say the thing](#concision)); and the shortest fluent wording chosen over the plainest ([Plain wording](#plain-wording)).
+**Patterns with a prose rule.** Scan for these and apply the linked rule: an [ornate word where a plain one exists](#plain-wording) (*delve, underscore, showcase, pivotal*, and similar), unless it is the precise word; a clause that [stacks nominalizations](#sentence-structure); a [count and a promise in place of the items](#concision); and the shortest fluent wording chosen over the plainest.
 
 **Pause punctuation.** The pattern is an assertion too vague to say anything alone ("Retrieval itself helps"), then a colon or semicolon, then a full sentence of evidence with no grammatical link to it, and it is a fault whether or not an em dash was ever there. Subordinate one half into the other ("..., as shown by Vasquez (2024), who reports ...") rather than swapping the mark for a period, and cut a left half that asserts nothing the right half does not carry. The test is the left half read alone; a left half that states a specific fact keeps the mark, as do a list colon, a colon that introduces a display, a quoted definition, or a label, and a semicolon between two specific facts.
 
@@ -242,7 +244,7 @@ Once the colons are gone, the same pattern appears as a trailing comma phrase wi
 
 **False ranges.** A "from X to Y" whose endpoints bound nothing ("tasks ranging from image classification to reinforcement learning") manufactures breadth. Name the settings tested; a range over a real ordered axis ("from 10² to 10⁶ parameters") stays.
 
-**Transition chains.** When *Moreover, Furthermore, Additionally* stacked at paragraph heads merely announce more text, delete them and let order do the work. Keep those that mark a real logical relation ([Paragraphs](#paragraphs)).
+**Transition chains.** When *Moreover, Furthermore, Additionally* stacked at paragraph heads merely announce more text, delete them and let order do the work. Keep those that mark a [real logical relation](#paragraphs).
 
 **Copula avoidance.** "serves as", "acts as", "represents", "boasts", and similar stand where "is" or "has" belongs. Write "is" or "has", or the verb the noun hides ("serves as a feature extractor" becomes "extracts features"). An "acts as" that claims a function, not an identity ("acts as a regularizer"), stays.
 
@@ -252,10 +254,10 @@ Once the colons are gone, the same pattern appears as a trailing comma phrase wi
 
 **Rhetorical questions as transitions.** "But how well does this scale?" pivots between paragraphs. State the answer as the topic sentence instead; research questions the text then answers ("RQ1: ...") stay.
 
-**Uniform rhythm.** Every sentence runs 15 to 25 words and every paragraph has the same shape. Vary length, but only with sentences that stay complete and literal ([No writerly asides](#plain-wording)).
+**Uniform rhythm.** Every sentence runs 15 to 25 words and every paragraph has the same shape. Vary length, but only with sentences that stay complete and literal, never with [writerly asides](#plain-wording).
 
 **Significance inflation.** An ordinary detail is tied to a grand trend ("marking a pivotal moment", "paving the way"). Delete the phrase, or replace it with the specific, scoped implication the draft states.
 
 **Aphorism formulas.** "X is the Y of Z" ("attention is the currency of deep learning") asserts a resemblance in place of a mechanism. Give the mechanism.
 
-**Relentless positivity and sycophantic framing.** Every result is framed as a triumph. Give failures comparable prominence to successes, and calibrate both to the evidence ([Claims](claims.md#claims)).
+**Relentless positivity and sycophantic framing.** Every result is framed as a triumph. Give failures comparable prominence to successes, and [calibrate both to the evidence](claims.md#claims).

@@ -19,7 +19,7 @@ A claim hedged in the results must not reappear unhedged in the abstract, introd
 
 ## Scope
 
-Evidence sets both a claim's scope and its confidence (plain or hedged). From broadest to narrowest, scope ranges from a guarantee ("X always holds"), through a systematic claim ("X generally happens across contexts") and a narrow claim ("X is best for settings V and W"), to an existence claim ("we find one case where X"). Pick the broadest scope and the plainest confidence the evidence supports. When support is uncertain, leave the claim in place and flag it; that caution is no reason to hedge or drop a claim the evidence does support ([underclaiming](#failure-modes)).
+Evidence sets both a claim's scope and its confidence (plain or hedged). From broadest to narrowest, scope ranges from a guarantee ("X always holds"), through a systematic claim ("X generally happens across contexts") and a narrow claim ("X is best for settings V and W"), to an existence claim ("we find one case where X"). Pick the broadest scope and the plainest confidence the evidence supports. When support is uncertain, leave the claim in place and flag it; that caution is no reason to hedge or drop a claim the evidence does support, which would be [underclaiming](#failure-modes).
 
 Scope every headline claim to its conditions, datasets, and settings; absolutes ("always", "unique") claim the case you did not test. A bare generic plural claims the whole class, so "Transformers fail to retrieve early tokens" asserts it of every Transformer. When the evidence covers only the models tested, write "the four Transformers we test fail to retrieve early tokens".
 
@@ -55,7 +55,7 @@ Place the hedge where data becomes interpretation, so that the measurement is un
 
 Procedures are unhedged wherever the text describes them, in a Methods section or elsewhere; only the rationale for a choice may carry a hedge. Results, Discussion, and Conclusion sections, and any other passage that interprets a measurement, follow this boundary between measurement and interpretation. An abstract or other summary compresses each claim but keeps its rung on the [verb ladder](#the-verb-ladder) and its hedge.
 
-Use at most one hedge per claim, in a standard academic form ("may", "likely", "suggests", "appears to"). Softeners ("somewhat", "relatively", "essentially", and similar; [Cut intensifiers](style.md#concision)) weaken a claim without saying where it fails, so where the draft holds the condition under which the claim fails, or the size of the effect, state that in place of the softener; otherwise keep it and flag it, since deleting a claim's only hedge upgrades it. A qualifier whose deletion changes what is claimed ("usually", "on average", "in most runs") is a scope condition, not a hedge, and stays ([Protect](cutting.md#protect)).
+Use at most one hedge per claim, in a standard academic form ("may", "likely", "suggests", "appears to"). Softeners ("somewhat", "relatively", "essentially", and similar; not the [intensifiers](style.md#concision) that are simply cut) weaken a claim without saying where it fails, so where the draft holds the condition under which the claim fails, or the size of the effect, state that in place of the softener; otherwise keep it and flag it, since deleting a claim's only hedge upgrades it. A qualifier whose deletion changes what is claimed ("usually", "on average", "in most runs") is a scope condition, not a hedge, and is [protected](cutting.md#protect).
 
 - Bad: "Our method is relatively robust to label noise."
 - Good: "Our method loses 2 points of accuracy at 20% label noise, against 9 points for the baseline."
@@ -77,4 +77,4 @@ An explanation built on an undefined term is speculation however it is phrased. 
 
 ## Limitations
 
-State each limitation once and precisely, without apology, and without a decoy limitation that hides the real weakness; flag a decoy, and cut a duplicate only under a length request ([Triage order](cutting.md#triage-order)). Frame each one by its impact on the findings ("results may not transfer to larger models, since every run uses the same 100M-parameter backbone"). A limitation phrased as future work must still say what the current results do not cover.
+State each limitation once and precisely, without apology, and without a decoy limitation that hides the real weakness; flag a decoy, and cut a duplicate only when a length request reaches it in the [triage order](cutting.md#triage-order). Frame each one by its impact on the findings ("results may not transfer to larger models, since every run uses the same 100M-parameter backbone"). A limitation phrased as future work must still say what the current results do not cover.
