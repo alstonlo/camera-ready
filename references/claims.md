@@ -1,6 +1,6 @@
 # Claims
 
-Every claim must match its evidence; overclaiming and underclaiming are both failures. An aspirational goal may motivate the paper if clearly marked as not attained.
+Every claim must match its evidence; overclaiming and underclaiming are both failures. An aspirational goal may motivate the text if clearly marked as not attained.
 
 ## The verb ladder
 
@@ -15,7 +15,7 @@ Pick the reporting verb from the evidence, never from enthusiasm.
 
 A benchmark result never proves a mechanism, and a figure or table "shows" only what it displays; the claim read from it takes its own rung.
 
-A claim hedged in the results must not reappear unhedged in the abstract, introduction, or conclusion. For each claim in the abstract and introduction, find the result that supports it. Where the draft holds the support and the claim lacks a pointer, add one ("(Section 5)", "(Table 2)"). Where no support exists, flag the claim.
+A claim hedged in the results must not reappear unhedged in the abstract, introduction, conclusion, or any other summary of the results. For each claim in the abstract, introduction, or another summary, find the result that supports it. Where the draft holds the support and the claim lacks a pointer, add one ("(Section 5)", "(Table 2)"). Where no support exists, flag the claim.
 
 ## Scope
 
@@ -27,20 +27,20 @@ A result reported without a comparison supports "X works", not "X is better" or 
 
 ## Causal language
 
-Reserve "causes", "leads to", "improves because", and language that credits a design choice for evidence that supports causation, such as an ablation that isolates the component. Correlational results take "is associated with", "correlates with", or "coincides with". When the paper introduces several changes together and isolates none, the text may credit the combination but no single change, and must not imply that every change is necessary.
+Reserve "causes", "leads to", "improves because", and language that credits a design choice for evidence that supports causation, such as an ablation that isolates the component. Correlational results take "is associated with", "correlates with", or "coincides with". When the text introduces several changes together and isolates none, the text may credit the combination but no single change, and must not imply that every change is necessary.
 
 ## Formal and informal claims
 
-Keep every claim visibly formal or visibly informal. A sentence that reads like a theorem ("all local minima have error close to that of the global minimum") but points to no result and states no conditions is neither; tie it to a stated result with its assumptions, rewrite it as the empirical or intuitive claim it is, or flag it when the draft supports neither. When the text invokes a theorem to support an empirical claim, check that the theorem's conclusion bears on that claim under the paper's conditions; a convergence result for convex objectives does not support a claim about non-convex training, so flag the link.
+Keep every claim visibly formal or visibly informal. A sentence that reads like a theorem ("all local minima have error close to that of the global minimum") but points to no result and states no conditions is neither; tie it to a stated result with its assumptions, rewrite it as the empirical or intuitive claim it is, or flag it when the draft supports neither. When the text invokes a theorem to support an empirical claim, check that the theorem's conclusion bears on that claim under the text's conditions; a convergence result for convex objectives does not support a claim about non-convex training, so flag the link.
 
 ## Uncertainty and significance
 
-A comparison between two numbers is a claim, and its evidence includes how much the numbers vary. For every reported comparison, the reader must be able to find three things in the sentence, the caption, or a convention the paper states once: how many runs each number covers and how it summarizes them (mean, median, or best run); whether the ± is a standard deviation, a standard error, or a confidence interval; and what varies (seed, data split, or the test examples a bootstrap resamples). Flag the gap when the draft omits one.
+A comparison between two numbers is a claim, and its evidence includes how much the numbers vary. For every reported comparison, the reader must be able to find three things in the sentence, the caption, or a convention the text states once: how many runs each number covers and how it summarizes them (mean, median, or best run); whether the ± is a standard deviation, a standard error, or a confidence interval; and what varies (seed, data split, or the test examples a bootstrap resamples). Flag the gap when the draft omits one.
 
 - Bad: "Our method significantly outperforms the baseline (71.2 ± 0.4 vs 68.4 ± 0.6)."
 - Good: "Our method outperforms the baseline by 2.8 points (71.2 ± 0.4 vs 68.4 ± 0.6; mean ± standard deviation over five seeds)."
 
-The two sides of a comparison must be computed the same way, so a best-run number is not comparable with a mean of final results, and a number copied from another paper is comparable only under the same evaluation protocol. Flag every comparison whose two sides the text does not show were computed alike.
+The two sides of a comparison must be computed the same way, so a best-run number is not comparable with a mean of final results, and a number copied from another publication is comparable only under the same evaluation protocol. Flag every comparison whose two sides the text does not show were computed alike.
 
 Reserve "significant(ly)" for the result of a statistical test that the text names, paired with the p-value or significance level and, where the draft reports it, the effect size. Where it means large or important, replace it with the magnitude; where it claims statistical significance but names no test, flag it. When the draft tests significance on several datasets or metrics, check that it says how it corrects for multiple comparisons, and flag it if it does not.
 
@@ -53,7 +53,7 @@ Place the hedge where data becomes interpretation, so that the measurement is un
 - Bad: "Accuracy appears to drop by roughly 4.2 points when we remove the auxiliary loss, which shows the loss is a regularizer."
 - Good: "Accuracy drops 4.2 points when we remove the auxiliary loss (Table 3), which suggests the loss acts as a regularizer."
 
-Procedures in Methods are unhedged; only the rationale for a choice may carry a hedge. Results, Discussion, and Conclusion follow this boundary between measurement and interpretation. The abstract compresses each claim but keeps its rung on the [verb ladder](#the-verb-ladder) and its hedge.
+Procedures are unhedged wherever the text describes them, in a Methods section or elsewhere; only the rationale for a choice may carry a hedge. Results, Discussion, and Conclusion sections, and any other passage that interprets a measurement, follow this boundary between measurement and interpretation. An abstract or other summary compresses each claim but keeps its rung on the [verb ladder](#the-verb-ladder) and its hedge.
 
 Use at most one hedge per claim, in a standard academic form ("may", "likely", "suggests", "appears to"). Softeners ("somewhat", "relatively", "essentially", and similar; [Cut intensifiers](style.md#concision)) weaken a claim without saying where it fails, so where the draft holds the condition under which the claim fails, or the size of the effect, state that in place of the softener; otherwise keep it and flag it, since deleting a claim's only hedge upgrades it. A qualifier whose deletion changes what is claimed ("usually", "on average", "in most runs") is a scope condition, not a hedge, and stays ([Protect](cutting.md#protect)).
 

@@ -1,14 +1,14 @@
 # Cutting
 
-The [spine test](#the-spine-test) decides what the paper needs; the request decides what you may delete or relocate.
+The [spine test](#the-spine-test) decides what the text needs; the request decides what you may delete or relocate.
 
 **Delete bloat without asking.** Bloat is [Blacklisted patterns](style.md#blacklisted-patterns), a sentence that announces content in place of stating it ([Say the thing](style.md#concision)), and a signpost that [Fold self-referential signposts](style.md#concision) says to delete; word-level tightening within a surviving sentence also needs no permission.
 
-**Idea-level cutting needs the author's request.** Cut or relocate only when requested ("cut this to eight pages", "condense", or a hard venue limit); otherwise name the candidate and leave it in place ("this paragraph is off-spine; cut it?"). This requirement covers every sentence carrying something the author would miss: an idea, a result, a caveat, evidence, or a transition the argument needs. Reordering within a section ([Build understanding early](style.md#build-understanding-early)) is a prose edit; moving content between sections or out of the main text is relocation.
+**Idea-level cutting needs the author's request.** Cut or relocate only when requested ("cut this to eight pages", "condense", or a hard length limit); otherwise name the candidate and leave it in place ("this paragraph is off-spine; cut it?"). This requirement covers every sentence carrying something the author would miss: an idea, a result, a caveat, evidence, or a transition the argument needs. Reordering within a section ([Build understanding early](style.md#build-understanding-early)) is a prose edit; moving content between sections or out of the main text is relocation.
 
 ## The spine test
 
-State the paper's core claims in one to three sentences. That is the spine; justify each paragraph in one line as supporting it. Test content by **whether the spine needs it**, not whether it is true or interesting. A section you cannot give a short, specific title probably carries more than one point; flag it before cutting inside it. A cut is justified only if the argument reads at least as clearly without the content.
+State the text's core claims in one to three sentences. That is the spine; justify each paragraph in one line as supporting it. Test content by **whether the spine needs it**, not whether it is true or interesting. A section you cannot give a short, specific title probably carries more than one point; flag it before cutting inside it. A cut is justified only if the argument reads at least as clearly without the content.
 
 Work top down. Tag each paragraph *central*, *supporting*, *ancillary*, or *off-spine*. Cut or relocate what is off-spine and trim what is ancillary, as far as the request allows, and only then go sentence by sentence inside what survives.
 
@@ -16,9 +16,9 @@ Work top down. Tag each paragraph *central*, *supporting*, *ancillary*, or *off-
 
 Under a length constraint, cut in this order, most expendable first.
 
-1. **Repeated restatement.** The same point made in the introduction, the section opener, and the conclusion. Keep the instance that carries the most weight, usually the one in the section that owns the point, and cut the echoes. Two kinds of repetition are not echoes and stay: one restatement of each contribution in the abstract, introduction, and conclusion, and a deliberate reminder that refreshes a definition made pages earlier ([Refresh long-lived shorthand](style.md#terminology)). An expected restatement is still not a copy, so a conclusion sentence repeated word for word from the abstract gets the specifics the results established, or a flag.
+1. **Repeated restatement.** The same point made in the introduction, the section or chapter opener, and the conclusion. Keep the instance that carries the most weight, usually the one in the section that owns the point, and cut the echoes. Two kinds of repetition are not echoes and stay: one restatement of each contribution in the abstract, introduction, and conclusion, and a deliberate reminder that refreshes a definition made pages earlier ([Refresh long-lived shorthand](style.md#terminology)). An expected restatement is still not a copy, so a conclusion sentence repeated word for word from the abstract gets the specifics the results established, or a flag.
 2. **Signposting that survives the bloat pass** ([Fold self-referential signposts](style.md#concision)); a pointer to a claim's support or a proof's home is not signposting and stays.
-3. **Tangential background and related work.** Anything that does not motivate this paper's question. A citation list that states no relation to the gap this paper fills is expendable; the two or three works that define the gap are not.
+3. **Tangential background and related work.** Anything that does not motivate the text's question. A citation list that states no relation to the gap the text fills is expendable; the two or three works that define the gap are not.
 4. **Minor results, secondary analyses, and exploratory findings.** A result that advances no central claim leaves the main text. Relocate rather than delete when it supports rigor: sensitivity analyses, robustness checks, and the negative result a skeptical reviewer will ask about. The account of what the authors tried first belongs here too; a failed alternative stays only as a stated negative result.
 5. **Exhaustive parameter and implementation detail.** The main text stays reproducible in outline ([Spell out definitions and procedures](style.md#plain-wording), [Protect](#protect)); the full sweep goes to the appendix.
 
