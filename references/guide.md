@@ -2,7 +2,7 @@
 
 The guide has six sections:
 
-- [Story](#story): the argument from problem to implication, section order and openings, contributions, evaluation questions, and numbers that support claims.
+- [Story](#story): the argument from problem to implication, section order and openings, contributions, results organized by questions, and numbers that support claims.
 - [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
 - [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
 - [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
@@ -47,7 +47,7 @@ Flag changes to the text's claims, section order, or list of contributions inste
 | Introduction | the problem, the gap with its cost, the idea, and the contributions | the problem and what is missing |
 | Background and related work | only the context the gap needs, and the comparison | what the reader must know to see the gap |
 | Method | the idea in full | the key idea in one sentence, before the steps |
-| Evaluation | the evidence | the questions it answers and their short answers |
+| Results | the evidence | the questions it answers and their short answers |
 | Discussion | what the results mean, their limits, and alternative explanations | how the results bear on the gap |
 | Conclusion | the implication | what the reader can now believe or do |
 
@@ -97,7 +97,7 @@ Describe each part of the method in detail proportional to its importance to the
 
 ### Evidence
 
-**Organize the evaluation by questions, not by experiments.** State the questions at the start of the evaluation and connect each to a contribution. A heading that names only a dataset or setup gives no finding. If you cannot identify the question an experiment answers, flag the experiment as a candidate for cutting.
+**Organize results by questions, not by experiments.** State the questions at the start of the Results section and connect each to a contribution. A heading that names only a dataset or setup gives no finding. If you cannot identify the question an experiment answers, flag the experiment as a candidate for cutting.
 
 - Bad: "5.3 Experiments on ImageNet"
 - Good: "5.3 The gain holds at ImageNet scale"
@@ -109,7 +109,7 @@ Describe each part of the method in detail proportional to its importance to the
 - Bad: "Throughput rises 40% when we double the cores."
 - Good: "Throughput rises 40% when we double the cores, which is expected only if the lock is no longer the bottleneck."
 
-**Identify what produces the gain.** For a method with several parts, the evaluation must show which part produces the improvement. If an ablation or equivalent evidence is missing, flag it and credit only the combination under the [rules on causal language](#causal-language). Treat an untested explanation as [speculation](#speculation). Flag any obvious alternative explanation that the text does not address.
+**Identify what produces the gain.** For a method with several parts, the results must show which part produces the improvement. If an ablation or equivalent evidence is missing, flag it and credit only the combination under the [rules on causal language](#causal-language). Treat an untested explanation as [speculation](#speculation). Flag any obvious alternative explanation that the text does not address.
 
 ### Numbers
 
