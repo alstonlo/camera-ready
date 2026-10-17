@@ -1,6 +1,6 @@
 # Claims
 
-Every claim must match its evidence; overclaiming and underclaiming are both failures. An aspirational goal may motivate the text if clearly marked as not attained.
+Every claim must match its evidence; overclaiming and underclaiming are both failures. An aspirational goal may motivate the text if the text marks it as not attained.
 
 ## The verb ladder
 
@@ -23,11 +23,11 @@ Evidence sets both a claim's scope and its confidence (plain or hedged). From br
 
 Scope every headline claim to its conditions, datasets, and settings; absolutes ("always", "unique") claim the case you did not test. A bare generic plural claims the whole class, so "Transformers fail to retrieve early tokens" asserts it of every Transformer. When the evidence covers only the models tested, write "the four Transformers we test fail to retrieve early tokens".
 
-A result reported without a comparison supports "X works", not "X is better" or "X is practical", so flag the missing baseline when the draft claims more. A qualitative example (a generated sample, a saliency map, a case study) carries an existence claim alone. Offered as evidence for anything broader, it needs the text to say how it was chosen (at random, as typical, or as the best case), so flag it when the draft does not say.
+A result reported without a comparison supports "X works", not "X is better" or "X is practical", so flag the missing baseline when the draft claims more. A qualitative example (a generated sample, a saliency map, a case study) supports only an existence claim. Offered as evidence for anything broader, it needs the text to say how it was chosen (at random, as typical, or as the best case), so flag it when the draft does not say.
 
 ## Causal language
 
-Reserve "causes", "leads to", "improves because", and language that credits a design choice for evidence that supports causation, such as an ablation that isolates the component. Correlational results take "is associated with", "correlates with", or "coincides with". When the text introduces several changes together and isolates none, the text may credit the combination but no single change, and must not imply that every change is necessary.
+Use "causes", "leads to", "improves because", and any other wording that credits a design choice only where the evidence supports causation, as an ablation that isolates the component does. Correlational results take "is associated with", "correlates with", or "coincides with". When the text introduces several changes together and isolates none, the text may credit the combination but no single change, and must not imply that every change is necessary.
 
 ## Formal and informal claims
 
@@ -40,7 +40,7 @@ A comparison between two numbers is a claim, and its evidence includes how much 
 - Bad: "Our method significantly outperforms the baseline (71.2 ± 0.4 vs 68.4 ± 0.6)."
 - Good: "Our method outperforms the baseline by 2.8 points (71.2 ± 0.4 vs 68.4 ± 0.6; mean ± standard deviation over five seeds)."
 
-The two sides of a comparison must be computed the same way, so a best-run number is not comparable with a mean of final results, and a number copied from another publication is comparable only under the same evaluation protocol. Flag every comparison whose two sides the text does not show were computed alike.
+The two sides of a comparison must be computed the same way, so a best-run number is not comparable with a mean of final results, and a number copied from another publication is comparable only under the same evaluation protocol. Flag every comparison where the text does not show that its two sides were computed alike.
 
 Reserve "significant(ly)" for the result of a statistical test that the text names, paired with the p-value or significance level and, where the draft reports it, the effect size. Where it means large or important, replace it with the magnitude; where it claims statistical significance but names no test, flag it. When the draft tests significance on several datasets or metrics, check that it says how it corrects for multiple comparisons, and flag it if it does not.
 
@@ -62,7 +62,7 @@ Use at most one hedge per claim, in a standard academic form ("may", "likely", "
 
 ## Failure modes
 
-**Overclaiming.** The following are banned for empirical results: *solves, proves, optimal, guarantees, first to* (unless verified), unsupported superlatives, "human-level" or "state-of-the-art" without naming the task, benchmark, and metric, and "novel" as filler.
+**Overclaiming.** The following are banned for empirical results: *solves, proves, optimal, guarantees, first to* (unless the draft verifies the claim), unsupported superlatives, "human-level" or "state-of-the-art" without naming the task, benchmark, and metric, and "novel" as filler.
 
 **Underclaiming.** State contributions plainly and completely, and do not weaken a real result with reflexive hedges. Each item in a "Contributions" list states a claim a reader could check and, where the draft has one, a pointer to its support. An item whose whole claim is *study, explore, investigate, describe*, or *discuss* claims nothing, so rewrite it from what the corresponding section reports, or flag it.
 

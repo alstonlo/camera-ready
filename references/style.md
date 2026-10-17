@@ -13,16 +13,16 @@ Put the big picture before the details that refine it:
 - The paragraph's claim is its first sentence (or, in a results paragraph, its second sentence, after the question it answers; [Paragraphs](#paragraphs)), and the section's claim is its first paragraph.
 - A definition precedes its first use, and context precedes anything new that depends on it.
 
-Test an ordering by covering everything after a given sentence. If a later sentence would have taught the reader more than an earlier one, move it up. This rule orders paragraphs within a section and sentences within a paragraph; inside a single sentence the new information goes last, in the [stress position](#information-flow-within-a-sentence).
+Test an ordering by covering everything after a given sentence and asking what the reader knows so far. If a covered sentence would have taught the reader more than an uncovered one, move it up. This rule orders paragraphs within a section and sentences within a paragraph; inside a single sentence the new information goes last, in the [stress position](#information-flow-within-a-sentence).
 
 ### Paragraphs
 
 - One point per paragraph, stated in a topic sentence that makes the paragraph's specific claim rather than naming a theme. "Results were mixed" and "We now analyze robustness" announce; "The gain vanishes without pretraining" claims ([Say the thing](#concision)). A results paragraph may instead open with the specific question it tests, provided the next sentence answers it; the evidence follows the answer.
 - Judge a paragraph by whether its point is developed and coherent, not by its sentence count. Merge a short paragraph into its neighbor only when the two share a point, and split a paragraph at the seam when its sentences support two different topic sentences.
 - Transitions must carry logic (*therefore, however, because, in contrast*), and the logic must hold. A "therefore" whose premises do not entail the next sentence asserts an inference the text has not made, so flag the gap rather than keep the word.
-- Avoid A-B-A zig-zag between topics. Express parallel ideas in parallel grammatical form.
+- Do not alternate between two topics (A, B, A); finish one before starting the other. Express parallel ideas in parallel grammatical form.
 
-**Read the topic string.** When a paragraph reads clearly sentence by sentence but does not cohere, list what opens each sentence. When most openings are new to the passage, rewrite so that each sentence opens with old information ([Information flow](#information-flow-within-a-sentence)). Then test each sentence boundary by inserting, in brackets, the connective it implies ("[however]", "[therefore]"). If no connective fits, or you cannot tell which fits, the link is missing; supply it if the text states it elsewhere, and otherwise flag it. When "[therefore]" fits but the reader outside the subfield could not say why the second sentence follows, the missing link is a step, not a word, so flag the step rather than insert the connective. Finally, check that the new term in each sentence's stress position is used later, unless it is the paragraph's conclusion.
+**Read the topic string.** When a paragraph reads clearly sentence by sentence but does not cohere, list what opens each sentence; that list is the paragraph's topic string. When most openings are new to the passage, rewrite so that each sentence opens with old information ([Information flow](#information-flow-within-a-sentence)). Then test each sentence boundary by inserting, in brackets, the connective it implies ("[however]", "[therefore]"). If no connective fits, or you cannot tell which fits, the link is missing; supply it if the text states it elsewhere, and otherwise flag it. When "[therefore]" fits but the reader outside the subfield could not say why the second sentence follows, the missing link is a step, not a word, so flag the step rather than insert the connective. Finally, check that the new term in each sentence's stress position is used later, unless it is the paragraph's conclusion.
 
 - Bad: "Contrastive pretraining needs large batches. Memory limits batch size on a single GPU. Gradient caching was proposed by Gao et al. (2021). Our method reaches the same accuracy at batch size 256."
 - Good: "Contrastive pretraining needs large batches, but memory limits the batch size on a single GPU. This limit is removed by gradient caching (Gao et al., 2021), which recomputes representations in a second forward pass. Our method also removes the limit, without the second pass, and at batch size 256 it matches the accuracy of gradient caching."
@@ -31,7 +31,7 @@ If two adjacent paragraphs can swap places with no edits, either the section is 
 
 ### Information flow within a sentence
 
-**Old before new.** Open the sentence with material that links back to what the passage has already said: a term from an earlier sentence, or something the reader can infer from one (a part, a member, an attribute, or an alternative of it). A concept every reader in the field knows but the passage has not yet mentioned is familiar, not old. When both elements are old, open with the one mentioned more recently.
+**Old before new.** Open the sentence with material that links back to what the passage has already said: a term from an earlier sentence, or something the reader can infer from one (a part, a member, an attribute, or an alternative of it). A concept every reader in the field knows but the passage has not yet mentioned is familiar, not old. When a sentence has two old elements, open with the one mentioned more recently.
 
 **Stress position at the end.** Readers emphasize what arrives at the point of syntactic closure, so put the new information you want remembered there ("In our experiments, adding the auxiliary loss improves accuracy by 12%", not "Accuracy improves by 12% when we add the auxiliary loss, in our experiments").
 
@@ -49,7 +49,7 @@ Conversely, do not undo a passive, a "there is", or an "it ... that" sentence wh
 - Bad: "The optimization of the objective through the application of gradient descent led to an improvement in accuracy."
 - Good: "We optimize the objective with gradient descent, which improves accuracy."
 
-Keep the subject-verb pairing literal, since "the schedule launches the jobs" is active but figurative; name the true actor ("we launch the jobs on the schedule"). A component that performs the operation may be the subject ("the filter removes duplicates"); a schedule performs nothing, and a result or figure takes a reporting verb ("the results suggest"; [verb ladder](claims.md#the-verb-ladder)). To find hidden actions, list the paragraph's main verbs. When most are *is*, *has*, or *leads to*, the actions sit in nouns or are missing. If the passage never says what one player does to another, flag the gap rather than supply the action.
+Keep the subject-verb pairing literal, since "the schedule launches the jobs" is active but figurative; name the true actor ("we launch the jobs on the schedule"). A component that performs the operation may be the subject ("the filter removes duplicates"); a schedule performs nothing, and a result or figure takes a reporting verb ("the results suggest"; [verb ladder](claims.md#the-verb-ladder)). To find hidden actions, list the paragraph's main verbs. When most are *is*, *has*, or *leads to*, the actions sit in nouns or are missing. If the passage never says what one actor does to another, flag the gap rather than supply the action.
 
 **Make every sentence parse on the first pass.** Length alone is not the fault, so do not split a sentence only to shorten it. Find what forces a reread and fix that.
 
@@ -69,7 +69,7 @@ Keep the subject-verb pairing literal, since "the schedule launches the jobs" is
 
 **Delete-test every clause.** For each word, phrase, and clause, ask what it adds. If the sentence keeps its meaning and stays as easy to read, the cut stands. The test cuts words that carry nothing, never words that carry a referent, a scope, a logical connection, or authorial stance.
 
-**Say the thing, do not announce it.** A sentence that names a quantity or a category of content and then defers the content ("Three changes alter the reported accuracies, and we note each where it lands") gives the reader nothing to picture, check, or disagree with, so state the changes where the draft holds them, and otherwise flag the promise. Test it by covering the rest of the paragraph; if what remains amounts to "there are some, and they are below", the sentence is empty, and the trailing promise ("..., and we discuss each below") is cut where the draft states the content. The opposite, and protected, is a summary sentence that states the high-level idea or counts items that follow at once ("We make four observations. First, ... Second, ..."); a count fails only when its items are deferred or absent.
+**Say the thing, do not announce it.** A sentence that names a quantity or a category of content and then defers the content ("Three changes alter the reported accuracies, and we note each where it lands") gives the reader nothing to picture, check, or disagree with, so state the changes where the draft holds them, and otherwise flag the promise. Test it by covering the rest of the paragraph; if what remains amounts to "there are some, and they are below", the sentence is empty, and the trailing promise ("..., and we discuss each below") is cut where the draft states the content. The opposite pattern is protected: a summary sentence that states the high-level idea, or that counts items which follow at once ("We make four observations. First, ... Second, ..."). A count fails only when its items are deferred or absent.
 
 **Policy in place of finding** puts a rule where a result belongs ("Where a conclusion depends on the choice of metric, we report both metrics"), so name the conclusions, the metrics, and what each one gives. **Empty verbs** such as *affects, varies*, and *has implications for* assert that something happened without a direction or a magnitude, so say which way and by how much; *provides, enables*, and *allows* have the same fault for mechanisms when what follows names only an outcome ("the cache enables fast retrieval"), so name the operation, or flag it when the draft does not state one. **Umbrella nouns** such as *performance* and *quality* hide which quantity was measured, so name it: accuracy, latency, peak memory, or BLEU.
 
@@ -106,7 +106,7 @@ A term of art may still be the right word; keep it and state the literal operati
 
 **Quantify comparatives.** Give the measurement rather than the comparative ("Our method runs in 0.3 s per example versus 1.1 s for the baseline (3.7× faster)", not "Our method is much faster"). Quantify judiciously, leading with the headline number, stating the pattern in words, and pointing to the table for the rest.
 
-**Give the reasons.** Never "for various reasons" or a trailing "etc." unless the remaining items are genuinely obvious.
+**Give the reasons.** Never "for various reasons" or a trailing "etc." unless the remaining items are obvious.
 
 ### Comparing with prior work
 
@@ -147,7 +147,7 @@ Mid-sentence coordination is correct and stays ("we expect a gain but find none"
 
 ### Terminology
 
-Same concept, same word, everywhere. No elegant variation ("network/model/architecture/system" cycling). Vary sentence structure and function words, never technical terms. To find variation, list every word the text uses for each of its most frequent concepts; more than one entry per concept is the error unless the text defines them as different things. When a later passage treats a parallel or more general case, reuse the earlier wording word for word and then state the difference.
+Same concept, same word, everywhere. No elegant variation, that is, no cycling through synonyms ("network", "model", "architecture", "system"). Vary sentence structure and function words, never technical terms. To find variation, list every word the text uses for each of its most frequent concepts; more than one entry per concept is the error unless the text defines them as different things. When a later passage treats a parallel or more general case, reuse the earlier wording word for word and then state the difference.
 
 Where the text lets you, give each technical term one part of speech. "Sample", "estimate", and "model" all serve as noun and verb, and a sentence that uses one in both roles ("we sample 1,000 samples") makes the reader resolve each occurrence. Where the text needs both roles, keep them out of the same sentence ("we draw 1,000 samples").
 
