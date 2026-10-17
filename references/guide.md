@@ -1,12 +1,12 @@
 # Writing guide
 
-Apply the five sections in this order:
+The guide has five sections:
 
 - [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
 - [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
 - [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
-- [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
 - [Conventions](#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
+- [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
 
 | Request | Sections applied |
 |---|---|
@@ -300,65 +300,6 @@ A technical term may still be the right word. Keep it and explain the literal op
 
 A comparison that is vague on both sides is the [false concession](#tolerable-patterns) pattern. Leave the related-work section where it is, and flag it only when it comes before the method and cannot be understood without it.
 
-## Deslopping
-
-Classify recognizable patterns of AI-written prose in two tiers.
-
-1. **Blacklisted patterns.** Delete every instance, regardless of the co-occurrence test in tier two.
-2. **Tolerable patterns.** All other patterns are tolerable. Edit one when doing so improves the sentence itself. Rewrite a whole passage only when it contains three or more tolerable instances.
-
-**Preserve the author's voice.** Keep [varied rhythm](#tolerable-patterns) and genuine authorial stance. Never introduce a voice the draft lacks through added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a detail absent from the draft. [Matching a claim's confidence to its evidence](#claims) calibrates the claim without adding stance. Follow the conventions on [voice](#voice-and-person), [tense](#tense), and [terminology](#terminology) when using first-person "we", present tense for the text and prior work, and deliberately repeated terminology. Generic de-AI advice wrongly changes these features.
-
-### Blacklisted patterns
-
-**Em dashes.** Delete every em dash, including `---` in LaTeX source and an en dash (–) used for the same pause. Substitute a colon, semicolon, or pair of parentheses only if it passes the [pause punctuation](#tolerable-patterns) test in that position. Otherwise rewrite the sentence to remove the need for a pause. Keep an en dash in a numeric range or a name formed from two people's names ("Sections 3–5", "Kullback–Leibler divergence"; `--` in source). Replace `--` only when used for neither purpose. Preserve hyphens in compounds.
-
-**Chatbot artifacts.** Delete "Certainly!", "Great question", "I hope this helps", "As of my last update", and similar.
-
-**Generic openings and closings.** Delete a sentence that could be added to any text in the field ("In the ever-evolving field of deep learning", "The future looks bright"), including apparently defensible versions ("There has been much recent interest in X"). Removing this bloat [needs no request](#cutting). If the draft states why X matters, replace the generic sentence with that reason.
-
-**Leaked generation artifacts.** Remove every chat-interface citation token (`citeturn0search0`, `contentReference[oaicite:...]`), AI-referrer URL parameter (`utm_source=chatgpt.com`), and unfilled template placeholder ("[Your Name]", "[Insert citation]") left by an unedited paste. Keep the surrounding sentence and flag the information missing from each placeholder so the author can supply it.
-
-### Tolerable patterns
-
-**Patterns with a prose rule.** Check for [ornate words with plain alternatives](#plain-wording) (*delve, underscore, showcase, pivotal*, and similar), clauses with [several nominalizations](#sentence-structure), and [counts that promise items without stating them](#concision). Apply the linked rules, keeping an ornate word when it is precise. Also check for wording chosen for brevity and fluency at the expense of plainness.
-
-**Pause punctuation.** Check for a vague assertion ("Retrieval itself helps") followed by a colon or semicolon and a full sentence of evidence without a grammatical link to the assertion. This construction needs revision whether or not it previously contained an em dash. Make one clause subordinate to the other ("..., as shown by Vasquez (2024), who reports ..."); replacing the punctuation with a period does not fix the problem. Cut the first clause if the second already states its entire claim. To test the construction, read the first clause alone. Keep the punctuation if that clause states a specific fact. Also keep colons that introduce lists, displays, quoted definitions, or labels, and semicolons between two specific facts.
-
-After removing colons, check for the same pattern in a trailing phrase separated by a comma and missing its verb ("adds 0.9M parameters, under 0.002% of the backbone"). Restore the verb ("which is under"). Preserve appositives, participial adjuncts, and parallel elaborations that omit a previously stated verb ("the first by ..., the second by ..."). Count instances across the passage before deciding whether to rewrite it as a whole; three instances establish a recurring pattern.
-
-**Reasoning-chain leakage.** Phrases such as "Let us think step by step" and "Breaking this down", along with numbered internal monologues, narrate the author's thinking. State the conclusion, then the evidence. Preserve standard mathematical setup ("Let X be", "Consider a graph G").
-
-**Diff-anchored prose.** Accounts of revisions ("In this revised version, we now clarify", "As suggested by the reviewer, we have added") belong in a response letter or change log. In the text itself, state what the method does.
-
-**Vague attribution.** Phrases such as "Studies show", "experts believe", and the agentless passive "X has been shown to" leave the source unnamed. If the draft cites the source nearby, name it ("Smith et al. (2020) report that X"); otherwise flag the claim.
-
-**Negative parallelism.** Phrases such as "It is not just an optimizer, it is a paradigm shift" and "not only faster but also more accurate" inflate a claim by rejecting an artificial alternative. Splitting the contrast into separate sentences preserves the problem ("The headline is not the speedup. The real story is ..."). State the positive claim directly, with numbers. Keep a contrast that excludes a real alternative ("we measure X, not Y").
-
-**False concession.** A sentence such as "While X has made significant strides, Y remains a challenge" states no specific comparison. Name both sides. Keep a concession when both sides are specific ("the gain holds on the two smaller benchmarks but not the largest").
-
-**Reflexive rule-of-three.** Revise triads such as "faster, cheaper, and more robust" when they group items solely for rhythm. Keep lists whose content calls for three elements.
-
-**False ranges.** A "from X to Y" construction suggests breadth when its endpoints bound no actual range ("tasks ranging from image classification to reinforcement learning"). Name the settings tested. Keep ranges along an ordered axis ("from 10² to 10⁶ parameters").
-
-**Transition chains.** Delete repeated paragraph openings such as *Moreover, Furthermore,* and *Additionally* when they merely announce more text. Let the paragraph order convey the sequence. Keep those that express a [real logical relation](#paragraphs).
-
-**Copula avoidance.** Replace "serves as", "acts as", "represents", "boasts", and similar phrases with "is" or "has" when that is their meaning. If the noun expresses an action, use its verb ("serves as a feature extractor" becomes "extracts features"). Keep "acts as" when it states a function rather than an identity ("acts as a regularizer").
-
-**Trailing "-ing" pseudo-analysis.** Delete a trailing participial clause that adds no checkable claim ("..., highlighting its importance, reflecting broader trends"), or rewrite it as a specific claim the draft supports.
-
-**Self-labeling significance.** When a sentence labels the importance of an earlier result ("This last result is the surprising one"), restructure the passage to make that importance clear and cut the label. Preserve a phrase that expresses authorial stance as the claim is introduced ("Interestingly,").
-
-**Rhetorical questions as transitions.** Replace a question used to connect paragraphs ("But how well does this scale?") with its answer as the topic sentence. Keep research questions that the text then answers ("RQ1: ...").
-
-**Uniform rhythm.** If every sentence is 15 to 25 words long and every paragraph has the same structure, vary their lengths. Keep sentences complete and literal, without adding [writerly asides](#plain-wording).
-
-**Significance inflation.** Delete phrases that link an ordinary detail to a grand trend ("marking a pivotal moment", "paving the way"), or replace them with the specific implication and scope stated in the draft.
-
-**Aphorism formulas.** Replace analogies in the form "X is the Y of Z" ("attention is the currency of deep learning") with an explanation of the mechanism.
-
-**Relentless positivity and sycophantic framing.** When every result is presented as a triumph, give failures comparable prominence to successes and [calibrate both to the evidence](#claims).
-
 ## Conventions
 
 These conventions override generic writing advice.
@@ -430,3 +371,62 @@ Move a citation out of a lead-in when the sentence states an established result 
 - Do not use contractions, exclamation marks, emoji, or title case headings beyond the governing style guide. Use italics for definitions, not emphasis. Use quotation marks for quoted text, words mentioned as words, and terms the authors use without endorsing them (the model's "reasoning"). Explain what any such unendorsed term refers to. Do not put scare quotes around ordinary words.
 - Write × (`$\times$`) for multiplication and speedup factors, not the letter x or *, and a minus sign (`$-0.3$`), not a hyphen, for negative numbers. Separate a number from its unit with a non-breaking space (`0.3~s`).
 - Give units for measured quantities and axes where applicable. Use US or UK spelling consistently throughout. If the draft mixes two acceptable forms ("dataset" and "data set"), use the more frequent form unless the style guide specifies one.
+
+## Deslopping
+
+Classify recognizable patterns of AI-written prose in two tiers.
+
+1. **Blacklisted patterns.** Delete every instance, regardless of the co-occurrence test in tier two.
+2. **Tolerable patterns.** All other patterns are tolerable. Edit one when doing so improves the sentence itself. Rewrite a whole passage only when it contains three or more tolerable instances.
+
+**Preserve the author's voice.** Keep [varied rhythm](#tolerable-patterns) and genuine authorial stance. Never introduce a voice the draft lacks through added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a detail absent from the draft. [Matching a claim's confidence to its evidence](#claims) calibrates the claim without adding stance. Follow the conventions on [voice](#voice-and-person), [tense](#tense), and [terminology](#terminology) when using first-person "we", present tense for the text and prior work, and deliberately repeated terminology. Generic de-AI advice wrongly changes these features.
+
+### Blacklisted patterns
+
+**Em dashes.** Delete every em dash, including `---` in LaTeX source and an en dash (–) used for the same pause. Substitute a colon, semicolon, or pair of parentheses only if it passes the [pause punctuation](#tolerable-patterns) test in that position. Otherwise rewrite the sentence to remove the need for a pause. Keep an en dash in a numeric range or a name formed from two people's names ("Sections 3–5", "Kullback–Leibler divergence"; `--` in source). Replace `--` only when used for neither purpose. Preserve hyphens in compounds.
+
+**Chatbot artifacts.** Delete "Certainly!", "Great question", "I hope this helps", "As of my last update", and similar.
+
+**Generic openings and closings.** Delete a sentence that could be added to any text in the field ("In the ever-evolving field of deep learning", "The future looks bright"), including apparently defensible versions ("There has been much recent interest in X"). Removing this bloat [needs no request](#cutting). If the draft states why X matters, replace the generic sentence with that reason.
+
+**Leaked generation artifacts.** Remove every chat-interface citation token (`citeturn0search0`, `contentReference[oaicite:...]`), AI-referrer URL parameter (`utm_source=chatgpt.com`), and unfilled template placeholder ("[Your Name]", "[Insert citation]") left by an unedited paste. Keep the surrounding sentence and flag the information missing from each placeholder so the author can supply it.
+
+### Tolerable patterns
+
+**Patterns with a prose rule.** Check for [ornate words with plain alternatives](#plain-wording) (*delve, underscore, showcase, pivotal*, and similar), clauses with [several nominalizations](#sentence-structure), and [counts that promise items without stating them](#concision). Apply the linked rules, keeping an ornate word when it is precise. Also check for wording chosen for brevity and fluency at the expense of plainness.
+
+**Pause punctuation.** Check for a vague assertion ("Retrieval itself helps") followed by a colon or semicolon and a full sentence of evidence without a grammatical link to the assertion. This construction needs revision whether or not it previously contained an em dash. Make one clause subordinate to the other ("..., as shown by Vasquez (2024), who reports ..."); replacing the punctuation with a period does not fix the problem. Cut the first clause if the second already states its entire claim. To test the construction, read the first clause alone. Keep the punctuation if that clause states a specific fact. Also keep colons that introduce lists, displays, quoted definitions, or labels, and semicolons between two specific facts.
+
+After removing colons, check for the same pattern in a trailing phrase separated by a comma and missing its verb ("adds 0.9M parameters, under 0.002% of the backbone"). Restore the verb ("which is under"). Preserve appositives, participial adjuncts, and parallel elaborations that omit a previously stated verb ("the first by ..., the second by ..."). Count instances across the passage before deciding whether to rewrite it as a whole; three instances establish a recurring pattern.
+
+**Reasoning-chain leakage.** Phrases such as "Let us think step by step" and "Breaking this down", along with numbered internal monologues, narrate the author's thinking. State the conclusion, then the evidence. Preserve standard mathematical setup ("Let X be", "Consider a graph G").
+
+**Diff-anchored prose.** Accounts of revisions ("In this revised version, we now clarify", "As suggested by the reviewer, we have added") belong in a response letter or change log. In the text itself, state what the method does.
+
+**Vague attribution.** Phrases such as "Studies show", "experts believe", and the agentless passive "X has been shown to" leave the source unnamed. If the draft cites the source nearby, name it ("Smith et al. (2020) report that X"); otherwise flag the claim.
+
+**Negative parallelism.** Phrases such as "It is not just an optimizer, it is a paradigm shift" and "not only faster but also more accurate" inflate a claim by rejecting an artificial alternative. Splitting the contrast into separate sentences preserves the problem ("The headline is not the speedup. The real story is ..."). State the positive claim directly, with numbers. Keep a contrast that excludes a real alternative ("we measure X, not Y").
+
+**False concession.** A sentence such as "While X has made significant strides, Y remains a challenge" states no specific comparison. Name both sides. Keep a concession when both sides are specific ("the gain holds on the two smaller benchmarks but not the largest").
+
+**Reflexive rule-of-three.** Revise triads such as "faster, cheaper, and more robust" when they group items solely for rhythm. Keep lists whose content calls for three elements.
+
+**False ranges.** A "from X to Y" construction suggests breadth when its endpoints bound no actual range ("tasks ranging from image classification to reinforcement learning"). Name the settings tested. Keep ranges along an ordered axis ("from 10² to 10⁶ parameters").
+
+**Transition chains.** Delete repeated paragraph openings such as *Moreover, Furthermore,* and *Additionally* when they merely announce more text. Let the paragraph order convey the sequence. Keep those that express a [real logical relation](#paragraphs).
+
+**Copula avoidance.** Replace "serves as", "acts as", "represents", "boasts", and similar phrases with "is" or "has" when that is their meaning. If the noun expresses an action, use its verb ("serves as a feature extractor" becomes "extracts features"). Keep "acts as" when it states a function rather than an identity ("acts as a regularizer").
+
+**Trailing "-ing" pseudo-analysis.** Delete a trailing participial clause that adds no checkable claim ("..., highlighting its importance, reflecting broader trends"), or rewrite it as a specific claim the draft supports.
+
+**Self-labeling significance.** When a sentence labels the importance of an earlier result ("This last result is the surprising one"), restructure the passage to make that importance clear and cut the label. Preserve a phrase that expresses authorial stance as the claim is introduced ("Interestingly,").
+
+**Rhetorical questions as transitions.** Replace a question used to connect paragraphs ("But how well does this scale?") with its answer as the topic sentence. Keep research questions that the text then answers ("RQ1: ...").
+
+**Uniform rhythm.** If every sentence is 15 to 25 words long and every paragraph has the same structure, vary their lengths. Keep sentences complete and literal, without adding [writerly asides](#plain-wording).
+
+**Significance inflation.** Delete phrases that link an ordinary detail to a grand trend ("marking a pivotal moment", "paving the way"), or replace them with the specific implication and scope stated in the draft.
+
+**Aphorism formulas.** Replace analogies in the form "X is the Y of Z" ("attention is the currency of deep learning") with an explanation of the mechanism.
+
+**Relentless positivity and sycophantic framing.** When every result is presented as a triumph, give failures comparable prominence to successes and [calibrate both to the evidence](#claims).
