@@ -1,10 +1,10 @@
-# Camera-Ready
+<h1 align="center">camera-ready</h1>
 
 An editing skill for camera-ready academic writing.
 
 I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizing skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill was created by compiling writing tips across multiple deep research reports on academic writing and prior humanizer skills (see [Credits](#credits)). Afterwards, I personally tuned it by testing the skill on AI-generated reports and providing feedback.
 
-> ⚠️ **Disclaimer.** Writing is subjective and this skill reflects just one of many styles and preferences.
+> ⚠️ **Disclaimer.** Writing is subjective, and this skill reflects just one of many styles and preferences.
 
 ## Installation
 
