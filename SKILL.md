@@ -46,19 +46,22 @@ Classify the request by what the user asks you to do. The table covers common re
 
 ### 2. Audit
 
-Read the whole text before editing anything. Then write your editor's notes to `.camera-ready/notes.md` in the target's directory. Keep the file under about 3,500 words and quote the draft exactly wherever you cite it. Begin with a status block that gives the request's classification, the target, any length target and venue, and a checklist of stages and paragraphs. Mark each checklist item as complete when you finish it. Follow the status block with five parts:
+Read the whole text before editing anything. Then write your editor's notes to `.camera-ready/notes.md` in the target's directory. Keep the file under about 3,500 words and quote the draft exactly wherever you cite it. Begin with a status block that gives the request's classification, the target, any length target and venue, and a checklist of stages and paragraphs. Mark each checklist item as complete when you finish it. Follow the status block with four parts that describe the paper:
 
 1. **Story.** Write the five lines required by the [story rules](references/guide.md#story), using "missing" where the draft supplies nothing.
 2. **Reverse outline.** Write one line per paragraph, giving its location, its point, and its tag from the [spine test](references/guide.md#the-spine-test). Write "unclear" for a paragraph whose point you cannot state.
 3. **Claim ledger.** List every claim in the title, abstract, introduction, contributions, results summaries, and conclusion. For each claim, give its location, its rung on the [verb ladder](references/guide.md#the-verb-ladder), the evidence it refers to, and every number it quotes, copied exactly.
 4. **Style sheet.** Choose one term per concept and list the variants it replaces. List each acronym and where it is defined. Record the notation, spelling, capitalization, and citation choices required by the [terminology rules](references/guide.md#terminology).
-5. **Questions for the author.** Number the questions and phrase each so that a word or a fact answers it.
+
+End with numbered questions for the author and an empty edit log. Phrase each question so that the author can answer it with a word or a fact.
+
+If the notes file exists from an earlier run, read it first. Update its four parts to match the current text: revise quotations that changed, add entries for new paragraphs and claims, and delete entries for text that no longer exists. Replace the status block and questions, and start an empty edit log. Write the notes file once at this stage. After that, change it only with the Edit tool.
 
 For a length request, measure the text with `wc -w`. If the target is in pages, state how many words per page you use. Then add a ranked cut plan that follows the [triage order](references/guide.md#triage-order), giving each item's location and the estimated number of words saved.
 
-Once you have written the ledger, never delete or reword an entry. When an edit changes a claim, append a line under the entry with the old wording, the new wording, and the evidence.
+Once the ledger matches the current text, do not delete or reword an entry for the rest of the run. When an edit changes a claim, append a line to the edit log with the entry's label, the old wording, the new wording, and the evidence.
 
-After editing each paragraph, update the notes with the Edit tool: mark the paragraph as complete, append any ledger change or style decision, and add any new question. Never rewrite the whole notes file. Reread it at the start of each later stage and after each compaction. Name the notes file in the report and leave it in place.
+After editing each paragraph, update the notes with the Edit tool: mark the paragraph as complete, append each claim change to the edit log, and add new questions. Record new style decisions and the author's answers to terminology questions in the style sheet. Reread the notes at the start of each later stage and after each compaction. Name the notes file in the report and leave it in place.
 
 **Ask the author** before editing only when a question changes how you would edit more than one paragraph, no interpretation is clearly preferable, and a wrong choice would be costly to reverse using the report. Such questions usually concern the story, competing problem statements, a term that renames a method throughout, or a cut plan. If the request says "no questions", do not ask. When you can ask, use the AskUserQuestion tool. Ask at most four questions, give one option per possible interpretation with your default first, and do not edit until the tool returns.
 
