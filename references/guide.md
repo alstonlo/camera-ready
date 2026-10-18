@@ -9,16 +9,7 @@ The guide has six sections:
 - [Conventions](#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
 - [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
 
-| Request | Sections applied |
-|---|---|
-| polish, tighten | all six |
-| cut to a length | all six, with deletion and relocation allowed |
-| story, flow, or argument check | Story and the rules it links to |
-| overclaiming check, hedging question | Claims |
-| de-AI pass | Deslopping and the prose rules it links to |
-| one convention | that convention alone |
-
-For a request narrower than a polish, also apply every rule linked from the listed sections. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
+For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
 
 ## Story
 
