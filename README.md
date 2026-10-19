@@ -8,11 +8,31 @@ I created this skill out of frustration with Opus 5's writing style when using a
 
 ## Installation
 
-Clone this repository into your personal skills directory:
+### Claude Code
 
+```text
+/plugin marketplace add alstonlo/camera-ready
+/plugin install camera-ready@camera-ready
 ```
-git clone https://github.com/alstonlo/camera-ready.git ~/.claude/skills/camera-ready
+
+Invoke the Claude Code plugin with `/camera-ready:camera-ready` or the shorter `/camera-ready` unless another command already uses that name. To install updates, run `/plugin marketplace update camera-ready`, or enable automatic updates for the marketplace under **Marketplaces** in `/plugin`.
+
+### Codex
+
+```bash
+codex plugin marketplace add alstonlo/camera-ready
+codex plugin add camera-ready@camera-ready
 ```
+
+Codex runs the skill only when you name it, as in `$camera-ready:camera-ready polish this section`. To install updates, run `codex plugin marketplace upgrade camera-ready`.
+
+### Other agents
+
+```bash
+npx skills add alstonlo/camera-ready --global --agent '*'
+```
+
+This installs the skill for every agent the [Skills CLI](https://github.com/vercel-labs/skills) supports. Omit `--global` to install it only in the current project. If the Skills CLI does not support your agent, copy the whole `skills/camera-ready/` folder into its skills directory, because the skill reads `references/guide.md` on every run.
 
 ## Usage
 

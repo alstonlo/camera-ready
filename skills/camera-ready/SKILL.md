@@ -3,8 +3,7 @@ name: camera-ready
 description: Edits academic writing in computer science into camera-ready form. Use it when the user asks to polish or tighten a draft, cut it to a page limit, check its story or argument, check for overclaiming, answer a question about hedging, check one field convention, or remove patterns of AI-written prose.
 argument-hint: '[request, e.g. "polish §3" or "cut this to eight pages"]'
 disable-model-invocation: true
-metadata:
-  version: 0.1.0
+license: MIT
 ---
 
 # Camera Ready
@@ -28,7 +27,7 @@ These two rules override every other rule in this skill.
 
 ## Workflow
 
-The request is: $ARGUMENTS
+The request is the text the user typed with the skill's name. In Claude Code, it follows `ARGUMENTS:` at the end of this skill.
 
 ### 1. Classify the request
 
