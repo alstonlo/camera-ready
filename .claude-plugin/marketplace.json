@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "camera-ready",
+  "owner": {
+    "name": "alstonlo",
+    "url": "https://github.com/alstonlo"
+  },
+  "description": "Install camera-ready as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "camera-ready",
+      "source": "./",
+      "description": "Edits academic writing into camera-ready form.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "academic", "papers", "prose", "style"]
+    }
+  ]
+}

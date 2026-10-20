@@ -8,21 +8,57 @@ I created this skill out of frustration with Opus 5's writing style when using a
 
 ## Installation
 
-Clone this repository into your personal skills directory:
+### Claude Code
 
+```text
+/plugin marketplace add alstonlo/camera-ready
+/plugin install camera-ready@camera-ready
 ```
-git clone https://github.com/alstonlo/camera-ready.git ~/.claude/skills/camera-ready
+
+Invoke the Claude Code plugin with `/camera-ready:camera-ready` or the shorter `/camera-ready` unless another command already uses that name. To install updates, run `/plugin marketplace update camera-ready`, or enable automatic updates for the marketplace under **Marketplaces** in `/plugin`.
+
+### Codex
+
+```bash
+codex plugin marketplace add alstonlo/camera-ready
+codex plugin add camera-ready@camera-ready
 ```
+
+Codex runs the skill only when you name it. To install updates, run `codex plugin marketplace upgrade camera-ready`.
+
+### Other agents
+
+```bash
+npx skills add alstonlo/camera-ready --global --agent '*'
+```
+
+This installs the skill for every agent the [Skills CLI](https://github.com/vercel-labs/skills) supports. Omit `--global` to install it only in the current project. If the Skills CLI does not support your agent, copy the whole `skills/camera-ready/` folder into its skills directory, because the skill reads `references/guide.md` on every run.
 
 ## Usage
 
-Run `/camera-ready` followed by the request:
+In Claude Code, run `/camera-ready` followed by the request. In Codex, start the request with `$camera-ready:camera-ready` instead.
+
+### Lite mode
+
+By default, the skill edits in lite mode. It reads the whole text and identifies its story, claims, and terminology. It then edits the text chunk by chunk, rereads it, and reports what changed along with questions for the author.
 
 ```
 /camera-ready polish this section
 /camera-ready tighten my abstract
-/camera-ready cut this to eight pages
 ```
+
+### Full mode
+
+For a more comprehensive edit, run the skill in full mode:
+
+```
+/camera-ready full polish this paper
+/camera-ready full cut this to eight pages
+```
+
+Full mode records the paper's argument, each paragraph's purpose, the evidence for its claims, and terminology choices in audit notes. The skill uses these notes to edit for factual consistency, readability, and clear academic style while tracking changes and unresolved questions. Compared with lite mode, full mode should produce higher-quality revisions with greater consistency and attention to detail.
+
+The audit notes are saved in `.camera-ready/` at the project root, the directory where the session started. For example, notes for `paper/main.tex` go in `.camera-ready/paper/main.notes.md`. To store the notes elsewhere, name a directory in the request, set the `CAMERA_READY_ROOT` environment variable, or name a directory in the project's `CLAUDE.md` or `AGENTS.md`.
 
 ## Credits
 

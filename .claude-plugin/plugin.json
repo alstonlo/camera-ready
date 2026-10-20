@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "camera-ready",
+  "description": "Edits academic writing into camera-ready form.",
+  "version": "0.1.0",
+  "author": {
+    "name": "alstonlo",
+    "url": "https://github.com/alstonlo"
+  },
+  "homepage": "https://github.com/alstonlo/camera-ready",
+  "repository": "https://github.com/alstonlo/camera-ready",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "academic", "papers", "prose", "style"]
+}
