@@ -40,7 +40,7 @@ In Claude Code, run `/camera-ready` followed by the request. In Codex, start the
 
 ### Lite mode
 
-By default, the skill edits in one pass in `lite` mode. It reads the whole text and identifies its story, claims, and terminology. It then edits the text chunk by chunk, rereads it, and reports what changed along with questions for the author.
+By default, the skill edits in lite mode. It reads the whole text and identifies its story, claims, and terminology. It then edits the text chunk by chunk, rereads it, and reports what changed along with questions for the author.
 
 ```
 /camera-ready polish this section
@@ -49,16 +49,16 @@ By default, the skill edits in one pass in `lite` mode. It reads the whole text 
 
 ### Full mode
 
-For an edit with saved notes and verification, start the request with `full`:
+For a more comprehensive edit, run the skill in full mode:
 
 ```
 /camera-ready full polish this paper
 /camera-ready full cut this to eight pages
 ```
 
-The full workflow first writes notes on the text: the story, an outline, a claim ledger that lists claims and their evidence, and a style sheet of terms and abbreviations. It uses these notes to guide the edit, verifies the result against them, and keeps them for the next run.
+Full mode records the paper's argument, each paragraph's purpose, the evidence for its claims, and terminology choices in audit notes. The skill uses these notes to edit for factual consistency, readability, and clear academic style while tracking changes and unresolved questions. Compared with lite mode, full mode should produce higher-quality revisions with greater consistency and attention to detail.
 
-Each file you name gets its own notes file in `.camera-ready/` at the project root, the directory where the session started. For example, notes for `paper/main.tex` go in `.camera-ready/paper/main.notes.md`, and they also cover the files that `main.tex` includes. To store the notes elsewhere, name a directory in the request, set the `CAMERA_READY_ROOT` environment variable, or name a directory in the project's `CLAUDE.md` or `AGENTS.md`. The skill checks these sources in that order, uses the first directory specified, and resolves a relative path against the project root.
+The audit notes are saved in `.camera-ready/` at the project root, the directory where the session started. For example, notes for `paper/main.tex` go in `.camera-ready/paper/main.notes.md`. To store the notes elsewhere, name a directory in the request, set the `CAMERA_READY_ROOT` environment variable, or name a directory in the project's `CLAUDE.md` or `AGENTS.md`.
 
 ## Credits
 
