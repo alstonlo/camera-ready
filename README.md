@@ -24,7 +24,7 @@ codex plugin marketplace add alstonlo/camera-ready
 codex plugin add camera-ready@camera-ready
 ```
 
-Codex runs the skill only when you name it, as in `$camera-ready:camera-ready polish this section`. To install updates, run `codex plugin marketplace upgrade camera-ready`.
+Codex runs the skill only when you name it. To install updates, run `codex plugin marketplace upgrade camera-ready`.
 
 ### Other agents
 
@@ -36,13 +36,29 @@ This installs the skill for every agent the [Skills CLI](https://github.com/verc
 
 ## Usage
 
-Run `/camera-ready` followed by the request:
+In Claude Code, run `/camera-ready` followed by the request. In Codex, start the request with `$camera-ready:camera-ready` instead.
+
+### Lite mode
+
+By default, the skill edits in one pass in `lite` mode. It reads the whole text and identifies its story, claims, and terminology. It then edits the text chunk by chunk, rereads it, and reports what changed along with questions for the author.
 
 ```
 /camera-ready polish this section
 /camera-ready tighten my abstract
-/camera-ready cut this to eight pages
 ```
+
+### Full mode
+
+For an edit with saved notes and verification, start the request with `full`:
+
+```
+/camera-ready full polish this paper
+/camera-ready full cut this to eight pages
+```
+
+The full workflow first writes notes on the text: the story, an outline, a claim ledger that lists claims and their evidence, and a style sheet of terms and abbreviations. It uses these notes to guide the edit, verifies the result against them, and keeps them for the next run.
+
+Each file you name gets its own notes file in `.camera-ready/` at the project root, the directory where the session started. For example, notes for `paper/main.tex` go in `.camera-ready/paper/main.notes.md`, and they also cover the files that `main.tex` includes. To store the notes elsewhere, name a directory in the request, set the `CAMERA_READY_ROOT` environment variable, or name a directory in the project's `CLAUDE.md` or `AGENTS.md`. The skill checks these sources in that order, uses the first directory specified, and resolves a relative path against the project root.
 
 ## Credits
 
