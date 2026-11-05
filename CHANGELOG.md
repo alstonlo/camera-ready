@@ -8,5 +8,4 @@ This project follows [Semantic Versioning](https://semver.org/). The version is 
 
 ## 0.1.0 (2026-10-20)
 
-- Distributed as a Claude Code and Codex plugin.
-- Added lite mode as the default; full mode keeps audit notes.
+- Initial release.
