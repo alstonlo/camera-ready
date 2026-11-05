@@ -4,7 +4,7 @@ This project follows [Semantic Versioning](https://semver.org/). The version is 
 
 ## 0.2.0 (2026-11-04)
 
-- Added rules for constructions that make AI-written prose hard to process, based on [Clark et al. (2026)](https://arxiv.org/abs/2610.29162).
+- Incorporated guidance from [Clark et al. (2026)](https://arxiv.org/abs/2610.29162).
 
 ## 0.1.0 (2026-10-20)
 
