@@ -47,3 +47,7 @@ The following are sources cited by the deep research reports used to create this
 - Jennifer Widom (2006). [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html).
 - Joseph M. Williams and Joseph Bizup (2021). [Style: Lessons in Clarity and Grace, Thirteenth Edition](https://www.pearson.com/en-us/subject-catalog/p/style-lessons-in-clarity-and-grace/P200000002140/9780137536603).
 - Stefanie Wulff, Ute Römer, and John Swales (2012). [Attended/unattended this in academic student writing: Quantitative and qualitative perspectives](https://doi.org/10.1515/cllt-2012-0006).
+
+I found the following sources myself, and Claude added their advice to the skill:
+
+- Thomas Hikaru Clark, Matias B. Martin, and Kyle Mahowald (2026). [Why is AI-generated language so hard to understand?](https://arxiv.org/abs/2610.29162).
