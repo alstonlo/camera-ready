@@ -71,7 +71,7 @@ Writing guidance compiled from:
 - [brandonwise/humanizer](https://github.com/brandonwise/humanizer)
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
 
-See [REFERENCES.md](REFERENCES.md) for the sources cited by the deep research reports.
+See [REFERENCES.md](REFERENCES.md) for the sources cited by the deep research reports and for sources I found myself.
 
 ## License
 
