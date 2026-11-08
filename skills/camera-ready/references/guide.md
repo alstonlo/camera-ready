@@ -3,17 +3,17 @@
 This guide is generated from a collection of writing rules. Each rule is encoded in a page in the folder `rules/` next to this guide, each with the following format:
 
 ```markdown
-# <Name of the rule>
+# {{ Name of the rule }}
 
-<A summary of the rule.>
+{{ A summary of the rule. }}
 
 ## Details
 
-<Optional additional details about the rule, omitted from the summary for concision.>
+{{ Optional additional details about the rule, omitted from the summary for concision. }}
 
 ## Examples
 
-<Optional examples that adhere to or break the rule.>
+{{ Optional examples that adhere to or break the rule. }}
 ```
 
 This guide copies each rule page's heading and summary text below. The Details and Examples subsections are optional, and not every page has them. Read a rule page fully only when it applies to the text being edited and you require additional details beyond the summary.
