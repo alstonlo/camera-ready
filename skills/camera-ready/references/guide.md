@@ -1,22 +1,22 @@
 # Writing guide
 
-This guide is generated from rule pages, one page per rule. The pages are in the folder `rules/` next to this guide, with one subfolder for each section of the guide. Each page has the following format, in which the Details and Examples sections are optional:
+This guide is generated from a collection of writing rules. Each rule is encoded in a page in the folder `rules/` next to this guide, each with the following format:
 
 ```markdown
 # <Name of the rule>
 
-<The rule: one or more paragraphs or a list.>
+<A summary of the rule.>
 
 ## Details
 
-<An explanation of the rule and its harder cases.>
+<Optional additional details about the rule, omitted from the summary for concision.>
 
 ## Examples
 
-<Bad and Good versions of a passage.>
+<Optional examples that adhere to or break the rule.>
 ```
 
-The guide copies each page's heading and rule text. In the guide, each rule begins with its name in bold as a link to the rule's page. The text after the name is the complete rule; follow it as written here. The Details and Examples sections explain the rule but never add a requirement. Open a rule's page only when the rule applies to the passage you are editing and its text in this guide leaves you unsure how to apply it. A link within the rule text points to another rule's page. That rule also appears in this guide under its name in bold.
+This guide copies each rule page's heading and summary text below. The Details and Examples subsections are optional, and not every page has them. Read a rule page fully only when it applies to the text being edited and you require additional details beyond the summary.
 
 ## Table of contents
 
