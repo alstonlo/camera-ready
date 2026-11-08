@@ -1,6 +1,6 @@
 # Open every section with its question and answer
 
-In the first paragraph, state the section's question and finding using content already in the section. An opening that merely announces the topic is a [signpost](../../guide.md#concision).
+In the first paragraph, state the section's question and finding using content already in the section. An opening that merely announces the topic is a [signpost](../prose/signposts.md).
 
 ## Examples
 

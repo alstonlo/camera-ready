@@ -1,6 +1,6 @@
 # Writing guide
 
-The guide has six sections:
+After the description of [rule pages](#rule-pages), the guide has six sections of rules:
 
 - [Story](#story): the argument from problem to implication, section order and openings, contributions, results organized by questions, and numbers that support claims.
 - [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
@@ -11,7 +11,25 @@ The guide has six sections:
 
 For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
 
-Each rule below opens with its name in bold, and the name links to the rule's own page in the `references/rules/` folder, which has one subfolder per section. The text after the name is the complete rule: follow it as written here. A rule's page starts with the same text and may continue with a Details section, which explains the rule and its harder cases, and an Examples section, which shows Bad and Good versions of a passage. A page never adds a requirement that the text here lacks. Open a rule's page only when the rule bears on the passage you are editing and the text here leaves you unsure how to apply it.
+## Rule pages
+
+This guide is generated from a collection of rule pages, one page per rule. The pages are in the folder `rules/` next to this guide, and that folder has one subfolder per section of this guide. Every page has the following format, where the Details and Examples sections are optional:
+
+```markdown
+# <Name of the rule>
+
+<The rule: one or more paragraphs or a list.>
+
+## Details
+
+<An explanation of the rule and its harder cases.>
+
+## Examples
+
+<Bad and Good versions of a passage.>
+```
+
+The guide copies the first two parts of each page. Each rule below opens with its name in bold, the name links to the rule's page, and the text after the name is the rule. That text is the complete rule, so follow it as written here. The Details and Examples sections explain the rule but never add a requirement to it. Open a rule's page only when the rule bears on the passage you are editing and the text here leaves you unsure how to apply it. A link inside a rule's text points to the page of another rule, which also appears in this guide under its name in bold.
 
 ## Story
 

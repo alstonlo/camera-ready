@@ -1,7 +1,7 @@
 # Notation and equations
 
-- Define each symbol at or before its first use, at least informally, and [refresh it on reuse](../../guide.md#terminology) ("the sample space 𝒳", not bare "𝒳" pages later).
-- If the text already has a Preliminaries or Notation section, move global notation there only when the request [allows relocation](../../guide.md#cutting). Otherwise flag the misplaced definitions. If no such section exists, flag the scattered definitions. Do not create the section, since that would reorder the text.
+- Define each symbol at or before its first use, at least informally, and [refresh it on reuse](refresh-shorthand.md) ("the sample space 𝒳", not bare "𝒳" pages later).
+- If the text already has a Preliminaries or Notation section, move global notation there only when the request [allows relocation](../cutting/idea-level.md). Otherwise flag the misplaced definitions. If no such section exists, flag the scattered definitions. Do not create the section, since that would reorder the text.
 - Introduce no symbol the text does not use again ("Every continuous function on a compact set is bounded" needs no "f"). Do not give one symbol two meanings, or one object two symbols. If L(θ) is the training loss, do not write "L = 0.31" for its final value; write "L(θ_T) = 0.31".
 - Never start a sentence or a clause with a symbol ("A function f is semicontinuous if...", not "f is semicontinuous if..."), and spell out a number that starts a sentence. Separate symbols in adjacent formulas with words ("Consider S_q, where q < p").
 - In running prose, write "for all", "there exists", and "implies" in place of ∀, ∃, and ⇒, except in work on logic. Do not use a relation symbol as a word within a verbal phrase ("the step size is at most 0.1", not "is ≤ 0.1").

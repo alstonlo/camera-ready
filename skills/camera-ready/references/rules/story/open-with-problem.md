@@ -1,6 +1,6 @@
 # Open with the problem
 
-Name what the reader cares about in the first sentence. Delete an opening that tells experts why their own field matters, following the rule on [generic openings](../../guide.md#blacklisted-patterns).
+Name what the reader cares about in the first sentence. Delete an opening that tells experts why their own field matters, following the rule on [generic openings](../deslopping/generic-openings.md).
 
 ## Examples
 

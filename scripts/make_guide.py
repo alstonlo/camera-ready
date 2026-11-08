@@ -19,18 +19,18 @@ def fail(msg: str):
     sys.exit(f"make_guide: {msg}")
 
 
-def read_rule(path: Path) -> tuple[str, str]:
-    title, _, body = path.read_text().partition("\n")
+def read_rule(name: str, text: str) -> tuple[str, str]:
+    title, _, body = text.partition("\n")
     if not title.startswith("# "):
-        fail(f"{path.relative_to(RULES)}: the first line must be '# <rule name>'")
+        fail(f"{name}.md: the first line must be '# <rule name>'")
 
     heads = re.findall(r"^#+ .*$", body, flags=re.M)
     if heads != [h for h in PARTS if h in heads]:
-        fail(f"{path.relative_to(RULES)}: the only headings allowed are {PARTS}, in that order")
+        fail(f"{name}.md: the only headings allowed are {PARTS}, in that order")
 
     summary = re.split(r"^## ", body, maxsplit=1, flags=re.M)[0].strip()
     if not summary:
-        fail(f"{path.relative_to(RULES)}: the rule text after the title is empty")
+        fail(f"{name}.md: the rule text after the title is empty")
     return title[2:].strip(), summary
 
 
@@ -38,13 +38,10 @@ def relink(target: str, name: str, names: set[str]) -> str:
     if target.startswith(("http://", "https://")):
         return target
 
-    path, _, anchor = target.partition("#")
-    path = posixpath.normpath(posixpath.join("rules", posixpath.dirname(name), path))
-    if path == "guide.md" and anchor:
-        return f"#{anchor}"
-    if path.startswith("rules/") and path.removeprefix("rules/").removesuffix(".md") in names:
-        return path
-    fail(f"{name}.md: link to {target} is neither a URL, a guide heading, nor a rule page")
+    path = posixpath.normpath(posixpath.join(posixpath.dirname(name), target))
+    if path.removesuffix(".md") not in names:
+        fail(f"{name}.md: link to {target} is neither a URL nor a rule page")
+    return f"rules/{path}"
 
 
 def render(name: str, title: str, summary: str, names: set[str]) -> str:
@@ -60,9 +57,16 @@ def slug(heading: str) -> str:
 
 
 def build() -> str:
-    paths = sorted(RULES.glob("*/*.md"))
-    rules = {p.relative_to(RULES).with_suffix("").as_posix(): read_rule(p) for p in paths}
+    pages = {
+        p.relative_to(RULES).with_suffix("").as_posix(): p.read_text()
+        for p in sorted(RULES.glob("*/*.md"))
+    }
+    rules = {name: read_rule(name, text) for name, text in pages.items()}
     names = set(rules)
+    for name, text in pages.items():
+        for target in LINK.findall(text):
+            relink(target, name, names)
+
     template = TEMPLATE.read_text()
     slots = SLOT.findall(template)
 
@@ -76,9 +80,10 @@ def build() -> str:
 
     anchors = {slug(h) for h in re.findall(r"^#+ (.*)$", guide, flags=re.M)}
     anchors |= set(re.findall(r'<a id="([\w-]+)"></a>', guide))
-    sources = {p.relative_to(RULES).as_posix(): p.read_text() for p in paths}
-    sources["SKILL.md"] = (SKILL / "SKILL.md").read_text()
-    sources["guide.md"] = re.sub(r"\]\(#", "](guide.md#", guide)
+    sources = {
+        "SKILL.md": (SKILL / "SKILL.md").read_text(),
+        "guide.md": re.sub(r"\]\(#", "](guide.md#", guide),
+    }
     for page, text in sources.items():
         broken = sorted(set(ANCHOR_LINK.findall(text)) - anchors)
         if broken:
