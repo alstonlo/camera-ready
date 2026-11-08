@@ -16,8 +16,8 @@ This rule has no further details.
 >
 > **Good.** The lid reduces evaporation by 20%.
 
-The draft attributes the reduction to the lid.
-
+> **Context.** The draft attributes the reduction to the lid.
+>
 > **Bad.** The headline is not the lid. The real story is the 20% reduction in evaporation.
 >
 > **Good.** The lid reduces evaporation by 20%.

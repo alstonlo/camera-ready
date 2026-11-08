@@ -12,8 +12,8 @@ This rule has no further details.
 >
 > **Good.** The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
 
-The draft says the operator should rinse the jar instead of the lid.
-
+> **Context.** The draft says the operator should rinse the jar instead of the lid.
+>
 > **Bad.** The operator should rinse the jar.
 >
 > **Good.** The operator should rinse the jar rather than the lid.

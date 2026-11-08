@@ -8,32 +8,32 @@ This rule has no further details.
 
 ## Examples
 
-The preceding paragraph describes the new window seals, and this paragraph uses a question only to lead into its finding.
-
+> **Context.** The preceding paragraph describes the new window seals, and this paragraph uses a question only to lead into its finding.
+>
 > **Bad.** What do the seals mean in practice? With the seals, the room stays above 18 °C overnight.
 >
 > **Good.** With the seals, the room stays above 18 °C overnight.
 
-The study tests whether salt delays germination; the first question only connects paragraphs.
-
+> **Context.** The study tests whether salt delays germination; the first question only connects paragraphs.
+>
 > **Bad.** What should we ask next? Does salt delay germination? In our tests, it delays germination by 2 days.
 >
 > **Good.** Does salt delay germination? In our tests, it delays germination by 2 days.
 
-The draft establishes the blocked-root explanation; the first question only introduces the paragraph, whereas the second reframes the preceding details.
-
+> **Context.** The draft establishes the blocked-root explanation; the first question only introduces the paragraph, whereas the second reframes the preceding details.
+>
 > **Bad.** What do we learn? The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 >
 > **Good.** The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 
-The draft supplies measurements showing that the mulch reduces water loss in these tests; Good is the proposed revision.
-
+> **Context.** The draft supplies measurements showing that the mulch reduces water loss in these tests; Good is the proposed revision.
+>
 > **Bad.** Do these tests not prove that the mulch prevents water loss?
 >
 > **Good.** The mulch reduces water loss in these tests.
 
-The question only links to the next trial and states no research objective.
-
+> **Context.** The question only links to the next trial and states no research objective.
+>
 > **Bad.** The lid stays dry. What does that tell us about the seal? The next trial uses a metal lid.
 >
 > **Good.** The lid stays dry. The next trial uses a metal lid.

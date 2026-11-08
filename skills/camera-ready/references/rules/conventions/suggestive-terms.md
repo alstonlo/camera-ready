@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-The draft states that the cell moves toward the light.
-
+> **Context.** The draft states that the cell moves toward the light.
+>
 > **Bad.** The cell wants to move toward the light.
 >
 > **Good.** The cell moves toward the light.
 
-The draft states that the coating darkens when heated; the Good line proposes literal wording to the author.
-
+> **Context.** The draft states that the coating darkens when heated; the Good line proposes literal wording to the author.
+>
 > **Bad.** We test an intelligent coating.
 >
 > **Good.** We test a coating that darkens when heated.
@@ -24,26 +24,26 @@ The draft states that the coating darkens when heated; the Good line proposes li
 >
 > **Good.** The tank level grows linearly, rising by 2 cm each minute.
 
-The draft defines the reported stability as thermal stability.
-
+> **Context.** The draft defines the reported stability as thermal stability.
+>
 > **Bad.** We measure the stability of the alloy.
 >
 > **Good.** We measure the thermal stability of the alloy.
 
-At this first use of "recognizes", the draft states that the enzyme binds to the substrate's phosphate group.
-
+> **Context.** At this first use of "recognizes", the draft states that the enzyme binds to the substrate's phosphate group.
+>
 > **Bad.** The enzyme recognizes its substrate.
 >
 > **Good.** The enzyme recognizes its substrate by binding to the substrate's phosphate group.
 
-In the draft, the first "normal" means routine, while the second names the probability distribution.
-
+> **Context.** In the draft, the first "normal" means routine, while the second names the probability distribution.
+>
 > **Bad.** We draw a normal sample from the normal distribution.
 >
 > **Good.** We draw a routine sample from the normal distribution.
 
-The draft states that leak detection is the authors' design goal, not an established capability.
-
+> **Context.** The draft states that leak detection is the authors' design goal, not an established capability.
+>
 > **Bad.** The sensor hopes to detect leaks.
 >
 > **Good.** We design the sensor to detect leaks.

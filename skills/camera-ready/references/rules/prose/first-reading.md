@@ -32,8 +32,8 @@ A readability score does not measure whether readers in the field can follow a s
 >
 > **Good.** The test makes clear that the lid leaks whenever pressure exceeds the limit.
 
-The preceding text discusses whether the lid leaks and has introduced trial 2.
-
+> **Context.** The preceding text discusses whether the lid leaks and has introduced trial 2.
+>
 > **Bad.** That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
 >
 > **Good.** That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
@@ -42,8 +42,8 @@ The preceding text discusses whether the lid leaks and has introduced trial 2.
 >
 > **Good.** We inspect the cover of the drain for roof water.
 
-“Scanning electron microscope” is the instrument’s established name.
-
+> **Context.** “Scanning electron microscope” is the instrument’s established name.
+>
 > **Bad.** We inspect the scanning electron microscope sample holder cover.
 >
 > **Good.** We inspect the cover of the sample holder for the scanning electron microscope.
@@ -52,14 +52,14 @@ The preceding text discusses whether the lid leaks and has introduced trial 2.
 >
 > **Good.** We test the newly installed valve, which is manually operated and difficult to reach.
 
-The draft identifies the cup, not the tray, as cracked.
-
+> **Context.** The draft identifies the cup, not the tray, as cracked.
+>
 > **Bad.** We remove the cup from the tray that is cracked.
 >
 > **Good.** We remove the cracked cup from the tray.
 
-The draft says the technician, not the vial, was wearing gloves.
-
+> **Context.** The draft says the technician, not the vial, was wearing gloves.
+>
 > **Bad.** Wearing gloves, the vial was opened by the technician.
 >
 > **Good.** Wearing gloves, the technician opened the vial.
@@ -80,8 +80,8 @@ The draft says the technician, not the vial, was wearing gloves.
 >
 > **Good.** We place the sample beside the scale.
 
-The draft says the technician weighs jars and no other objects.
-
+> **Context.** The draft says the technician weighs jars and no other objects.
+>
 > **Bad.** The technician only weighs jars.
 >
 > **Good.** The technician weighs only jars.
@@ -94,14 +94,14 @@ The draft says the technician weighs jars and no other objects.
 >
 > **Good.** Opening the valve requires two conditions. The lid must have remained closed throughout the heating cycle, and the pressure must be below the marked limit.
 
-The symbols ↵ mark line breaks.
-
+> **Context.** The symbols ↵ mark line breaks.
+>
 > **Bad.** Open the valve only if the lid is shut, the pump is off, and the tank is cool.
 >
 > **Good.** Open the valve only if all three conditions hold: ↵ 1. The lid is shut. ↵ 2. The pump is off. ↵ 3. The tank is cool.
 
-The draft says adjusting the rate is intended to double output.
-
+> **Context.** The draft says adjusting the rate is intended to double output.
+>
 > **Bad.** We set the rate to double the output.
 >
 > **Good.** We set the rate in order to double the output.

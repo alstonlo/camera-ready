@@ -13,8 +13,8 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 ## Examples
 
-{{ Optional context that the example needs. }}
-
+> **Context.** {{ Optional context that the example needs. }}
+>
 > **Bad.** {{ A passage that breaks the rule. }}
 >
 > **Good.** {{ The same passage, corrected under this rule alone. }}

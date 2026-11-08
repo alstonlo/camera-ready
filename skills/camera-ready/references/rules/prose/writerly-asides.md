@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-The draft reports that both routes take 25 min.
-
+> **Context.** The draft reports that both routes take 25 min.
+>
 > **Bad.** Call it a wash between the two routes.
 >
 > **Good.** Both routes take 25 min.
 
-The draft says the second trial matters because it tests the seal under pressure.
-
+> **Context.** The draft says the second trial matters because it tests the seal under pressure.
+>
 > **Bad.** Do not overlook the second trial.
 >
 > **Good.** The second trial matters because it tests the seal under pressure.
 
-The draft reports that neither of the two pumps moves water.
-
+> **Context.** The draft reports that neither of the two pumps moves water.
+>
 > **Bad.** Neither pump moves water. Regrettably, that is the long and short of it.
 >
 > **Good.** Regrettably, neither pump moves water.

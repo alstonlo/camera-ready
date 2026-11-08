@@ -24,8 +24,8 @@ Also delete offers to continue, disclaimers about the assistant's status, and di
 >
 > **Good.** The freezer holds twelve trays.
 
-The paper analyzes responses to the quoted prompt.
-
+> **Context.** The paper analyzes responses to the quoted prompt.
+>
 > **Bad.** Certainly! The test prompt is "Great question!".
 >
 > **Good.** The test prompt is "Great question!".

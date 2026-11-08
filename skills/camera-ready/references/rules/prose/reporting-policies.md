@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-The draft's Results section reports that the cotton towel dries in 3 h and the wool towel in 5 h.
-
+> **Context.** The draft's Results section reports that the cotton towel dries in 3 h and the wool towel in 5 h.
+>
 > **Bad.** We report the drying times of the cotton towel and the wool towel.
 >
 > **Good.** The cotton towel dries in 3 h and the wool towel in 5 h.
 
-The draft reports a mean drying time of 3 h for cotton.
-
+> **Context.** The draft reports a mean drying time of 3 h for cotton.
+>
 > **Bad.** We report means over five trials. For cotton, we report the drying time.
 >
 > **Good.** We report means over five trials. For cotton, the mean drying time is 3 h.

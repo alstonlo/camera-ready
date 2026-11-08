@@ -8,26 +8,26 @@ Also check for unfinished author fields and citation tokens from other chat inte
 
 ## Examples
 
-The draft gives the opening date without a source; the edit removes the placeholder and flags the missing citation.
-
+> **Context.** The draft gives the opening date without a source; the edit removes the placeholder and flags the missing citation.
+>
 > **Bad.** The bridge opened in 1986. [Insert citation]
 >
 > **Good.** The bridge opened in 1986.
 
-The draft gives the opening date without a source; the edit removes the leaked token and flags the missing citation.
-
+> **Context.** The draft gives the opening date without a source; the edit removes the leaked token and flags the missing citation.
+>
 > **Bad.** The bridge opened in 1986. citeturn0search0
 >
 > **Good.** The bridge opened in 1986.
 
-The draft gives the survey month but omits the author's name; the edit removes the placeholder and flags the missing name.
-
+> **Context.** The draft gives the survey month but omits the author's name; the edit removes the placeholder and flags the missing name.
+>
 > **Bad.** The survey was conducted in May. [Author name here]
 >
 > **Good.** The survey was conducted in May.
 
-The edited text leaves the URL unchanged, while a flag proposes removing the referrer parameter as shown in Good.
-
+> **Context.** The edited text leaves the URL unchanged, while a flag proposes removing the referrer parameter as shown in Good.
+>
 > **Bad.** Data are at https://example.org/data?utm_source=chatgpt.com.
 >
 > **Good.** Data are at https://example.org/data.

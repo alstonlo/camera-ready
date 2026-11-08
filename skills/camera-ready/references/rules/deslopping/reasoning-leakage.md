@@ -24,8 +24,8 @@ Keep a model's reasoning trace when the paper quotes or analyzes it as experimen
 >
 > **Good.** The box holds six vials, so two boxes hold twelve.
 
-The paper analyzes the quoted model output.
-
+> **Context.** The paper analyzes the quoted model output.
+>
 > **Bad.** Let us think step by step. The model output begins "First, I should compare the load and the limit."
 >
 > **Good.** The model output begins "First, I should compare the load and the limit."

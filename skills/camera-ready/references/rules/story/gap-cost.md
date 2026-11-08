@@ -8,32 +8,32 @@ Compare the claimed gap with what the cited work establishes; a sweeping claim t
 
 ## Examples
 
-The draft states that without knowing the load limit, one cannot determine whether the bridge can carry the new buses; Good is the proposed revision for the author.
-
+> **Context.** The draft states that without knowing the load limit, one cannot determine whether the bridge can carry the new buses; Good is the proposed revision for the author.
+>
 > **Bad.** The bridge's maximum safe load is unknown.
 >
 > **Good.** The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
 
-The draft asks whether the seeds can sprout after a winter freeze and states that this question determines whether autumn sowing is viable; Good is the proposed revision for the author.
-
+> **Context.** The draft asks whether the seeds can sprout after a winter freeze and states that this question determines whether autumn sowing is viable; Good is the proposed revision for the author.
+>
 > **Bad.** Little is known about these seeds, so the viability of autumn sowing is unclear.
 >
 > **Good.** Whether these seeds can sprout after a winter freeze is unknown, so the viability of autumn sowing is unclear.
 
-The draft states that earlier work measures nesting dates on the coast but not inland, leaving inland nesting time unknown; Good is the proposed revision for the author.
-
+> **Context.** The draft states that earlier work measures nesting dates on the coast but not inland, leaving inland nesting time unknown; Good is the proposed revision for the author.
+>
 > **Bad.** No nesting dates are known, so inland nesting time remains unknown.
 >
 > **Good.** Nesting dates are known on the coast but not inland, so inland nesting time remains unknown.
 
-The draft measures whether a membrane passes salt to inform the design of a water filter, but it does not build a filter; Good is the proposed revision for the author.
-
+> **Context.** The draft measures whether a membrane passes salt to inform the design of a water filter, but it does not build a filter; Good is the proposed revision for the author.
+>
 > **Bad.** We measure whether the membrane passes salt to build a water filter in this study.
 >
 > **Good.** We measure whether the membrane passes salt to obtain knowledge needed to design a water filter.
 
-The draft proposes irrigation planning as a possible use of the missing soil measurements, not a demonstrated benefit; Good is the proposed revision for the author.
-
+> **Context.** The draft proposes irrigation planning as a possible use of the missing soil measurements, not a demonstrated benefit; Good is the proposed revision for the author.
+>
 > **Bad.** The missing soil measurements will improve irrigation planning.
 >
 > **Good.** The missing soil measurements may improve irrigation planning.

@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-The draft consistently uses "dataset" elsewhere, and the venue specifies neither form.
-
+> **Context.** The draft consistently uses "dataset" elsewhere, and the venue specifies neither form.
+>
 > **Bad.** The data set contains labeled traffic flows.
 >
 > **Good.** The dataset contains labeled traffic flows.
 
-The draft uses US spelling throughout.
-
+> **Context.** The draft uses US spelling throughout.
+>
 > **Bad.** The solution changes colour.
 >
 > **Good.** The solution changes color.
 
-The venue requires "data set", although the draft more often uses "dataset".
-
+> **Context.** The venue requires "data set", although the draft more often uses "dataset".
+>
 > **Bad.** The dataset contains hourly readings.
 >
 > **Good.** The data set contains hourly readings.

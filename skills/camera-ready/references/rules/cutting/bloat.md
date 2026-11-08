@@ -16,8 +16,8 @@ This rule has no further details.
 >
 > **Good.** We test three filters.
 
-The draft gives the depth without a source; Good is the proposed revision, with the missing source flagged.
-
+> **Context.** The draft gives the depth without a source; Good is the proposed revision, with the missing source flagged.
+>
 > **Bad.** The well is 12 m deep. [Insert source]
 >
 > **Good.** The well is 12 m deep.

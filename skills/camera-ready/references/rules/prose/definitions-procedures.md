@@ -20,110 +20,110 @@ When an explanation cannot be followed, use an example already in the draft to l
 
 ## Examples
 
-The draft defines germination rate as the fraction of planted seeds that sprout within seven days.
-
+> **Context.** The draft defines germination rate as the fraction of planted seeds that sprout within seven days.
+>
 > **Bad.** Germination rate measures how well seeds germinate.
 >
 > **Good.** Germination rate is the fraction of planted seeds that sprout within seven days.
 
-The draft defines drying time as the time until mass stops falling.
-
+> **Context.** The draft defines drying time as the time until mass stops falling.
+>
 > **Bad.** DT stands for drying time.
 >
 > **Good.** DT stands for drying time, the time until mass stops falling.
 
-The draft defines m as total mass and n as the number of equal portions.
-
+> **Context.** The draft defines m as total mass and n as the number of equal portions.
+>
 > **Bad.** Portion mass is m/n.
 >
 > **Good.** Portion mass is m/n, the total mass divided by the number of equal portions.
 
-The draft defines both rates as fractions of seeds: germination counts sprouts, and emergence counts shoots above soil.
-
+> **Context.** The draft defines both rates as fractions of seeds: germination counts sprouts, and emergence counts shoots above soil.
+>
 > **Bad.** Germination and emergence are two rates.
 >
 > **Good.** Germination and emergence are fractions of seeds: germination counts sprouts, and emergence counts shoots above soil.
 
-The draft chooses visible cracks because imaging detects them.
-
+> **Context.** The draft chooses visible cracks because imaging detects them.
+>
 > **Bad.** Damage can mean visible cracks or reduced strength. We measure damage.
 >
 > **Good.** Damage can mean visible cracks or reduced strength. We measure damage as visible cracks because imaging detects them.
 
-The draft modifies Lee’s protocol by drying for 2 h instead of 1 h; Good is the proposed revision.
-
+> **Context.** The draft modifies Lee’s protocol by drying for 2 h instead of 1 h; Good is the proposed revision.
+>
 > **Bad.** We follow Lee’s protocol [4].
 >
 > **Good.** We follow Lee’s protocol [4], but dry for 2 h instead of 1 h.
 
-The draft says decanting separates the water from settled sand.
-
+> **Context.** The draft says decanting separates the water from settled sand.
+>
 > **Bad.** We let the sand settle, then pour off the water.
 >
 > **Good.** To separate the water from the sand, we let the sand settle, then pour off the water.
 
-The draft defines mean mass as total mass divided by count and states the correct mean of 3 g elsewhere; Good is the correction proposed to the author.
-
+> **Context.** The draft defines mean mass as total mass divided by count and states the correct mean of 3 g elsewhere; Good is the correction proposed to the author.
+>
 > **Bad.** For masses of 2 g and 4 g, the mean mass is 6 g.
 >
 > **Good.** For masses of 2 g and 4 g, the mean mass is 3 g.
 
-The draft intends this sentence as the full definition of a valid reading.
-
+> **Context.** The draft intends this sentence as the full definition of a valid reading.
+>
 > **Bad.** A reading is valid if it lies between the two limits.
 >
 > **Good.** We define a reading as valid if it lies between the two limits.
 
-During a claims check, you find elsewhere in the draft that the input list must be sorted; Good is the proposed revision.
-
+> **Context.** During a claims check, you find elsewhere in the draft that the input list must be sorted; Good is the proposed revision.
+>
 > **Bad.** The search takes a list and returns the target’s position.
 >
 > **Good.** The search takes a sorted list and returns the target’s position.
 
-The draft says the loop totals the masses.
-
+> **Context.** The draft says the loop totals the masses.
+>
 > **Bad.** The loop visits each mass and updates the variable.
 >
 > **Good.** The loop totals the masses.
 
-During a claims check, you find elsewhere in the draft that the error bound uses 64-bit arithmetic; Good is the proposed revision.
-
+> **Context.** During a claims check, you find elsewhere in the draft that the error bound uses 64-bit arithmetic; Good is the proposed revision.
+>
 > **Bad.** The calculation’s error is below 0.001.
 >
 > **Good.** With 64-bit arithmetic, the calculation’s error is below 0.001.
 
-During a story check, you find elsewhere in the draft that the leaves are dried at 60 °C; Good is the proposed revision.
-
+> **Context.** During a story check, you find elsewhere in the draft that the leaves are dried at 60 °C; Good is the proposed revision.
+>
 > **Bad.** We dry the leaves for 2 h.
 >
 > **Good.** We dry the leaves for 2 h at 60 °C.
 
-During a claims check, you find elsewhere in the draft that the apples were selected at random from the orchard; Good is the proposed revision.
-
+> **Context.** During a claims check, you find elsewhere in the draft that the apples were selected at random from the orchard; Good is the proposed revision.
+>
 > **Bad.** We measure 20 apples.
 >
 > **Good.** We measure 20 apples selected at random from the orchard.
 
-During a story check, you find elsewhere in the draft that participants were instructed to rate legibility; Good is the proposed revision.
-
+> **Context.** During a story check, you find elsewhere in the draft that participants were instructed to rate legibility; Good is the proposed revision.
+>
 > **Bad.** Participants rate each label.
 >
 > **Good.** Participants rate each label’s legibility.
 
-The draft supplies the operation and an example: an 8 g filled jar and a 3 g empty jar give 5 g of water.
-
+> **Context.** The draft supplies the operation and an example: an 8 g filled jar and a 3 g empty jar give 5 g of water.
+>
 > **Bad.** We obtain the water’s mass from the jar measurements.
 >
 > **Good.** We subtract the empty jar’s mass from the filled jar’s mass: 8 g minus 3 g gives 5 g of water.
 
-The draft says this example demonstrates the method’s handling of ties.
-
+> **Context.** The draft says this example demonstrates the method’s handling of ties.
+>
 > **Bad.** For scores of 4, 4, and 2, the method retains both scores of 4.
 >
 > **Good.** To illustrate tie handling, for scores of 4, 4, and 2, the method retains both scores of 4.
 
-The draft supplies both cases, and the example is meant to distinguish a strict cutoff above 5 from an inclusive cutoff at 5.
-
+> **Context.** The draft supplies both cases, and the example is meant to distinguish a strict cutoff above 5 from an inclusive cutoff at 5.
+>
 > **Bad.** To compare the cutoffs, we test a score of 6, which both admit.
 >
 > **Good.** To compare the cutoffs, we test a score of 5, which only the inclusive cutoff admits.

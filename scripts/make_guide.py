@@ -14,8 +14,7 @@ LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
 RULE_LINK = re.compile(r"\brules/([a-z0-9-]+/[a-z0-9-]+)\.md\)")
 HEADS = ["## Details", "## Examples"]
-PAIR = re.compile(r"> \*\*(Bad|Good)\.\*\* (\S.*)")
-ITEM = re.compile(r"\s*([-*+>]|\d+\.)")
+PAIR = re.compile(r"> \*\*(Context|Bad|Good)\.\*\* (\S.*)")
 
 
 def fail(msg: str):
@@ -25,14 +24,11 @@ def fail(msg: str):
 def check_examples(name: str, examples: str):
     lines = [line for line in examples.splitlines() if line.strip()]
     pairs = [PAIR.match(line) for line in lines]
-    kinds = "".join(
-        m[1][0] if m else "s" if line == ">" else "x" if ITEM.match(line) else "c"
-        for line, m in zip(lines, pairs)
-    )
-    if not re.fullmatch(r"(c*BsG)+", kinds):
+    kinds = "".join(m[1][0] if m else "s" if line == ">" else "x" for line, m in zip(lines, pairs))
+    if not re.fullmatch(r"((Cs)?BsG)+", kinds):
         fail(
             f"{name}.md: each example must be a quote of '> **Bad.** ...', '>', and "
-            "'> **Good.** ...' lines, optionally preceded by context lines"
+            "'> **Good.** ...' lines, optionally preceded by '> **Context.** ...' and '>'"
         )
 
     for i in (m.start() for m in re.finditer("B", kinds)):

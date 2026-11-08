@@ -8,38 +8,38 @@ A section reminder can name the question, system, comparison, or essential proce
 
 ## Examples
 
-This sentence opens Results; the Methods section defines the two schedules as feeding the fish once or three times a day.
-
+> **Context.** This sentence opens Results; the Methods section defines the two schedules as feeding the fish once or three times a day.
+>
 > **Bad.** We compare fish growth under the two feeding schedules.
 >
 > **Good.** We compare fish growth under the two feeding schedules: once or three times a day.
 
-The preceding section establishes that cooling time limits production; the current section tests a fan to shorten that time.
-
+> **Context.** The preceding section establishes that cooling time limits production; the current section tests a fan to shorten that time.
+>
 > **Bad.** We test a fan.
 >
 > **Good.** To shorten the cooling time that limits production, we test a fan.
 
-The draft defines the seal in the abstract as a rubber ring; this is its first mention in the introduction.
-
+> **Context.** The draft defines the seal in the abstract as a rubber ring; this is its first mention in the introduction.
+>
 > **Bad.** The seal prevents leaks at the pipe joint.
 >
 > **Good.** The seal, a rubber ring, prevents leaks at the pipe joint.
 
-These sentences open Methods.
-
+> **Context.** These sentences open Methods.
+>
 > **Bad.** We attach a fan to the lid. We use airflow to shorten cooling time.
 >
 > **Good.** We use airflow to shorten cooling time. We attach a fan to the lid.
 
-Both sentences appear in the same Methods section; the draft uses the two-jug example to explain equal division.
-
+> **Context.** Both sentences appear in the same Methods section; the draft uses the two-jug example to explain equal division.
+>
 > **Bad.** Divide the water equally among all jugs. For two jugs, pour half into each.
 >
 > **Good.** For two jugs, pour half into each. Divide the water equally among all jugs.
 
-The supplement describes weighing the sample before and after drying, and Results gives the first account of the mass measurement in the main text.
-
+> **Context.** The supplement describes weighing the sample before and after drying, and Results gives the first account of the mass measurement in the main text.
+>
 > **Bad.** Drying removes 3 g of water (Supplementary Methods).
 >
 > **Good.** We weigh the sample before and after drying (Supplementary Methods). Drying removes 3 g of water.

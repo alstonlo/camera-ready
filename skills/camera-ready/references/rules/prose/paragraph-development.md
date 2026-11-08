@@ -10,8 +10,8 @@ End the paragraph on the point it develops or on a supported implication of that
 
 ## Examples
 
-This results paragraph describes a freezing test of six clay pots and six steel pots.
-
+> **Context.** This results paragraph describes a freezing test of six clay pots and six steel pots.
+>
 > **Bad.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
 >
 > **Good.** Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
@@ -28,14 +28,14 @@ This results paragraph describes a freezing test of six clay pots and six steel 
 >
 > **Good.** Rinse the jar, then dry it.
 
-The symbol ¶ marks a paragraph break.
-
+> **Context.** The symbol ¶ marks a paragraph break.
+>
 > **Bad.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
 >
 > **Good.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
 
-The symbol ¶ marks a paragraph break.
-
+> **Context.** The symbol ¶ marks a paragraph break.
+>
 > **Bad.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
 >
 > **Good.** The glass jar survives freezing. The clay jar cracks under the same conditions.

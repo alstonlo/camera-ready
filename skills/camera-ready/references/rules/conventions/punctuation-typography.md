@@ -20,14 +20,14 @@ Replacing straight quotes with curly quotes can change a shell argument or exact
 >
 > **Good.** The lid fits.
 
-The venue does not require title-case headings.
-
+> **Context.** The venue does not require title-case headings.
+>
 > **Bad.** Seed Storage Conditions
 >
 > **Good.** Seed storage conditions
 
-The venue requires title-case headings.
-
+> **Context.** The venue requires title-case headings.
+>
 > **Bad.** Seed Storage Conditions!
 >
 > **Good.** Seed Storage Conditions
@@ -44,8 +44,8 @@ The venue requires title-case headings.
 >
 > **Good.** We heat the base rather than the lid.
 
-The draft does not settle the intended contrast, so keep the italics, flag the ambiguous focus, and expand the contraction.
-
+> **Context.** The draft does not settle the intended contrast, so keep the italics, flag the ambiguous focus, and expand the contraction.
+>
 > **Bad.** We don't heat the *lid*.
 >
 > **Good.** We do not heat the *lid*.
@@ -58,26 +58,26 @@ The draft does not settle the intended contrast, so keep the italics, flag the a
 >
 > **Good.** The word "cold" appears on the label. We weigh the sample.
 
-The draft defines the cell's "decision" as a change in swimming direction, without attributing conscious choice.
-
+> **Context.** The draft defines the cell's "decision" as a change in swimming direction, without attributing conscious choice.
+>
 > **Bad.** We record the cell's "decision".
 >
 > **Good.** We record the cell's "decision", its change in swimming direction.
 
-The draft identifies the command as `pwd`, without a period.
-
+> **Context.** The draft identifies the command as `pwd`, without a period.
+>
 > **Bad.** The command is `pwd.`
 >
 > **Good.** The command is `pwd`.
 
-The draft states that the program prints `Done.`, with the period as part of the output.
-
+> **Context.** The draft states that the program prints `Done.`, with the period as part of the output.
+>
 > **Bad.** The output is `Done`.
 >
 > **Good.** The output is `Done.`.
 
-The script in the draft uses straight quotes in `echo "ready"`; the Good line proposes replacing the curly quotes for the author.
-
+> **Context.** The script in the draft uses straight quotes in `echo "ready"`; the Good line proposes replacing the curly quotes for the author.
+>
 > **Bad.** The command is `echo “ready”`.
 >
 > **Good.** The command is `echo "ready"`.

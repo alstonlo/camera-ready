@@ -16,8 +16,8 @@ To check a retained roadmap, compare the items it promises, in order, against th
 >
 > **Good.** The seal leaks above 20 kPa (Table 3).
 
-This section has the subheadings “Heat test” and “Pressure test”; ↵ marks line breaks.
-
+> **Context.** This section has the subheadings “Heat test” and “Pressure test”; ↵ marks line breaks.
+>
 > **Bad.** This section covers the heat test and the pressure test. ↵ **Heat test.** The seal survives heating.
 >
 > **Good.** **Heat test.** The seal survives heating.
@@ -26,14 +26,14 @@ This section has the subheadings “Heat test” and “Pressure test”; ↵ ma
 >
 > **Good.** The lid leaks above 20 kPa.
 
-At the end of the introduction, the draft’s headings place drying in Section 2 and weighing in Section 3.
-
+> **Context.** At the end of the introduction, the draft’s headings place drying in Section 2 and weighing in Section 3.
+>
 > **Bad.** Section 2 describes weighing; Section 3 describes drying.
 >
 > **Good.** Section 2 describes drying; Section 3 describes weighing.
 
-The draft has two tests, heating and freezing, and no cooling test.
-
+> **Context.** The draft has two tests, heating and freezing, and no cooling test.
+>
 > **Bad.** The next section presents three tests: heating and cooling.
 >
 > **Good.** The next section presents two tests: heating and freezing.

@@ -10,8 +10,8 @@ Do not treat a priority claim (a claim to be the first) as verified merely becau
 
 ## Examples
 
-The draft compares fabrics only by the amount of water they absorb and reports that fabric A absorbs the most; the revision is proposed to the author.
-
+> **Context.** The draft compares fabrics only by the amount of water they absorb and reports that fabric A absorbs the most; the revision is proposed to the author.
+>
 > **Bad.** Among the tested fabrics, fabric A is the best.
 >
 > **Good.** Among the tested fabrics, fabric A absorbs the most water.
@@ -20,32 +20,32 @@ The draft compares fabrics only by the amount of water they absorb and reports t
 >
 > **Good.** We use a tray to hold the seeds.
 
-The draft reports that the latch prevented opening in ten tests and supplies no guarantee.
-
+> **Context.** The draft reports that the latch prevented opening in ten tests and supplies no guarantee.
+>
 > **Bad.** The latch guarantees that the door stays shut.
 >
 > **Good.** The latch kept the door shut in ten tests.
 
-The draft compares hole diameter and finds that only sieve A among the tested sieves has 1 mm holes; the revision is proposed to the author.
-
+> **Context.** The draft compares hole diameter and finds that only sieve A among the tested sieves has 1 mm holes; the revision is proposed to the author.
+>
 > **Bad.** Sieve A is unique.
 >
 > **Good.** Among the tested sieves, only sieve A has 1 mm holes.
 
-The draft supports the claim only with five scratch tests and gives no theorem.
-
+> **Context.** The draft supports the claim only with five scratch tests and gives no theorem.
+>
 > **Bad.** The five tests prove that the coating resists scratches.
 >
 > **Good.** The five tests suggest that the coating resists scratches.
 
-The draft establishes priority for this open catalog but gives no evidence that it is optimal.
-
+> **Context.** The draft establishes priority for this open catalog but gives no evidence that it is optimal.
+>
 > **Bad.** We provide the first open catalog of these specimens, an optimal resource.
 >
 > **Good.** We provide the first open catalog of these specimens.
 
-The draft's record claim concerns water absorbed per gram among the ten tested fabrics; the revision is proposed to the author.
-
+> **Context.** The draft's record claim concerns water absorbed per gram among the ten tested fabrics; the revision is proposed to the author.
+>
 > **Bad.** Fabric A sets a record.
 >
 > **Good.** Fabric A absorbs the most water per gram among the ten tested fabrics.

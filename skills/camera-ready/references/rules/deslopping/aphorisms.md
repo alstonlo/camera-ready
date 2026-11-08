@@ -8,8 +8,8 @@ This rule has no further details.
 
 ## Examples
 
-The draft states that the safety valve releases gas when the pressure rises above the limit.
-
+> **Context.** The draft states that the safety valve releases gas when the pressure rises above the limit.
+>
 > **Bad.** The safety valve is the guardian of the tank.
 >
 > **Good.** The safety valve releases gas when the pressure rises above the limit.
@@ -18,8 +18,8 @@ The draft states that the safety valve releases gas when the pressure rises abov
 >
 > **Good.** The latch closes with one turn.
 
-The draft states that the membrane admits only water without explaining how; the revision deletes the empty slogan, keeps the gatekeeper analogy, and flags the missing mechanism.
-
+> **Context.** The draft states that the membrane admits only water without explaining how; the revision deletes the empty slogan, keeps the gatekeeper analogy, and flags the missing mechanism.
+>
 > **Bad.** The membrane is the gatekeeper that admits only water. It is the hero of the filter.
 >
 > **Good.** The membrane is the gatekeeper that admits only water.

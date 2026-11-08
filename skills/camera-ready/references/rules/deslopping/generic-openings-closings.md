@@ -20,14 +20,14 @@ This rule has no further details.
 >
 > **Good.** We measure the reflectance of three roof paints.
 
-The draft states that dark roofs absorb sunlight and heat the rooms below.
-
+> **Context.** The draft states that dark roofs absorb sunlight and heat the rooms below.
+>
 > **Bad.** Roof paint has attracted much attention. We test white paint.
 >
 > **Good.** Dark roofs absorb sunlight and heat the rooms below. We test white paint.
 
-The intended readers need the definition of dormancy before the study question.
-
+> **Context.** The intended readers need the definition of dormancy before the study question.
+>
 > **Bad.** Gardening is an exciting field. Dormancy is a period without growth. We test whether cold ends dormancy.
 >
 > **Good.** Dormancy is a period without growth. We test whether cold ends dormancy.

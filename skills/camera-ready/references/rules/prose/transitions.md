@@ -12,20 +12,20 @@ When choosing a contrastive connective, distinguish a comparison, an exception, 
 >
 > **Good.** The lid prevents spills. The handle makes the jug easy to carry.
 
-The draft reports timing, not causation.
-
+> **Context.** The draft reports timing, not causation.
+>
 > **Bad.** As the pump stops, the lamp flashes.
 >
 > **Good.** When the pump stops, the lamp flashes.
 
-The draft establishes that the crack causes the leak.
-
+> **Context.** The draft establishes that the crack causes the leak.
+>
 > **Bad.** Since the seal is cracked, the jar leaks.
 >
 > **Good.** Because the seal is cracked, the jar leaks.
 
-The draft compares two materials rather than describing simultaneous events.
-
+> **Context.** The draft compares two materials rather than describing simultaneous events.
+>
 > **Bad.** While wax repels water, paper absorbs it.
 >
 > **Good.** Whereas wax repels water, paper absorbs it.
@@ -38,8 +38,8 @@ The draft compares two materials rather than describing simultaneous events.
 >
 > **Good.** Because the gasket is cracked, the lid leaks.
 
-The draft supplies the missing premise that every cracked jar leaks; Good is the proposed revision.
-
+> **Context.** The draft supplies the missing premise that every cracked jar leaks; Good is the proposed revision.
+>
 > **Bad.** This jar is cracked. Therefore, it leaks.
 >
 > **Good.** Every cracked jar leaks. This jar is cracked. Therefore, it leaks.

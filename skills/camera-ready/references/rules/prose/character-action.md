@@ -22,8 +22,8 @@ Keep conventional computing terms such as a model learning. When the draft descr
 >
 > **Good.** We evaluate quantization.
 
-The draft identifies the authors as the people detecting faint signals.
-
+> **Context.** The draft identifies the authors as the people detecting faint signals.
+>
 > **Bad.** Noise fell after filtering. This reduction in noise permits the detection of faint signals.
 >
 > **Good.** Noise fell after filtering. This reduction in noise permits us to detect faint signals.
@@ -32,8 +32,8 @@ The draft identifies the authors as the people detecting faint signals.
 >
 > **Good.** The leak in the seal delayed the test.
 
-The draft states that the recorder deletes readings after an hour.
-
+> **Context.** The draft states that the recorder deletes readings after an hour.
+>
 > **Bad.** The recorder forgets readings after an hour.
 >
 > **Good.** The recorder deletes readings after an hour.

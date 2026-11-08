@@ -28,8 +28,8 @@ Different sentence lengths can conceal repeated grammatical constructions, so ch
 >
 > **Good.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber and 2 mm thick.
 
-The draft gives neither clause special emphasis.
-
+> **Context.** The draft gives neither clause special emphasis.
+>
 > **Bad.** It is the pump that fills the tank. It is the small overflow pipe beside the gate that drains the tank.
 >
 > **Good.** The pump fills the tank, and the small overflow pipe beside the gate drains it.

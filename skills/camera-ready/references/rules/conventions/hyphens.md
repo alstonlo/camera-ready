@@ -16,8 +16,8 @@ This rule has no further details.
 >
 > **Good.** The pump is battery powered.
 
-The draft consistently writes the established field term "fluid mechanics" without a hyphen.
-
+> **Context.** The draft consistently writes the established field term "fluid mechanics" without a hyphen.
+>
 > **Bad.** We use a battery powered pump in the fluid mechanics laboratory.
 >
 > **Good.** We use a battery-powered pump in the fluid mechanics laboratory.

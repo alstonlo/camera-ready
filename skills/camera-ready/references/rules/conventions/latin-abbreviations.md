@@ -16,8 +16,8 @@ This rule has no further details.
 >
 > **Good.** We test both states, i.e., open and closed.
 
-The draft uses US style.
-
+> **Context.** The draft uses US style.
+>
 > **Bad.** We test porous materials, e.g. cork.
 >
 > **Good.** We test porous materials, e.g., cork.

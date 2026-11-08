@@ -12,14 +12,14 @@ This rule has no further details.
 >
 > **Good.** The filter removes 90% of the dust.
 
-The draft states that the smaller filter fits inside the tested bottles.
-
+> **Context.** The draft states that the smaller filter fits inside the tested bottles.
+>
 > **Bad.** The smaller filter ushers in a new era of water treatment.
 >
 > **Good.** The smaller filter fits inside the tested bottles.
 
-The draft makes this safety claim without supporting safety tests; Good is the proposed revision, which keeps the claim and flags the missing support.
-
+> **Context.** The draft makes this safety claim without supporting safety tests; Good is the proposed revision, which keeps the claim and flags the missing support.
+>
 > **Bad.** The filter makes river water safe to drink, marking a historic turning point.
 >
 > **Good.** The filter makes river water safe to drink.

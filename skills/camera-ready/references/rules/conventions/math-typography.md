@@ -10,14 +10,14 @@ Check whether a slash fraction leaves the extent of the denominator unclear, a s
 
 ## Examples
 
-The draft defines $x$ as a positive concentration ratio and $\log$ as the logarithm.
-
+> **Context.** The draft defines $x$ as a positive concentration ratio and $\log$ as the logarithm.
+>
 > **Bad.** We evaluate $log(x)$.
 >
 > **Good.** We evaluate $\log(x)$.
 
-The draft defines $i$ as a sample index and "cool" as the label for cooling time.
-
+> **Context.** The draft defines $i$ as a sample index and "cool" as the label for cooling time.
+>
 > **Bad.** We compare $t_i$ with $t_{cool}$.
 >
 > **Good.** We compare $t_i$ with $t_{\text{cool}}$.
@@ -38,20 +38,20 @@ The draft defines $i$ as a sample index and "cool" as the label for cooling time
 >
 > **Good.** The code `a*b` computes $a \times b$.
 
-The draft states that the denominator is $b+c$; the Good line proposes a clearer fraction to the author.
-
+> **Context.** The draft states that the denominator is $b+c$; the Good line proposes a clearer fraction to the author.
+>
 > **Bad.** The ratio is $a/b+c$.
 >
 > **Good.** The ratio is $\frac{a}{b+c}$.
 
-The draft specifies an exponent of one half; the Good line proposes a more legible form to the author.
-
+> **Context.** The draft specifies an exponent of one half; the Good line proposes a more legible form to the author.
+>
 > **Bad.** The factor is $e^{\frac{1}{2}}$.
 >
 > **Good.** The factor is $e^{1/2}$.
 
-The draft encloses the whole sum in parentheses; the Good line proposes smaller delimiters to the author.
-
+> **Context.** The draft encloses the whole sum in parentheses; the Good line proposes smaller delimiters to the author.
+>
 > **Bad.** The total is $\left(\frac{a}{b}+c\right)$.
 >
 > **Good.** The total is $(\frac{a}{b}+c)$.

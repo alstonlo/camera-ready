@@ -14,32 +14,32 @@ When replacing a slash, check whether it expresses alternatives, joint requireme
 
 ## Examples
 
-The draft states that two of the five jars leaked and the other three did not.
-
+> **Context.** The draft states that two of the five jars leaked and the other three did not.
+>
 > **Bad.** All five jars did not leak.
 >
 > **Good.** Not all five jars leaked.
 
-The draft requires every jar to pass.
-
+> **Context.** The draft requires every jar to pass.
+>
 > **Bad.** The batch passes if any jar passes.
 >
 > **Good.** The batch passes if every jar passes.
 
-The draft requires one or more working lamps.
-
+> **Context.** The draft requires one or more working lamps.
+>
 > **Bad.** The display works if any lamp works.
 >
 > **Good.** The display works if at least one lamp works.
 
-The draft reports that all ten samples passed.
-
+> **Context.** The draft reports that all ten samples passed.
+>
 > **Bad.** Some of the ten samples passed.
 >
 > **Good.** All ten samples passed.
 
-The draft assigns a separate temperature to every sample.
-
+> **Context.** The draft assigns a separate temperature to every sample.
+>
 > **Bad.** All samples are held at a set temperature.
 >
 > **Good.** Each sample is held at its own set temperature.
@@ -48,62 +48,62 @@ The draft assigns a separate temperature to every sample.
 >
 > **Good.** The score is at least 60.
 
-The draft explicitly denies that heating caused the crack and requires every seal to pass.
-
+> **Context.** The draft explicitly denies that heating caused the crack and requires every seal to pass.
+>
 > **Bad.** Heating did not cause the crack. The batch passes if any seal passes.
 >
 > **Good.** Heating did not cause the crack. The batch passes if every seal passes.
 
-The draft states that a rate is not increasing monotonically and requires at least one valid reading.
-
+> **Context.** The draft states that a rate is not increasing monotonically and requires at least one valid reading.
+>
 > **Bad.** The rate is not increasing monotonically. Retain the run if any reading is valid.
 >
 > **Good.** The rate is not increasing monotonically. Retain the run if at least one reading is valid.
 
-The draft describes what the pump is capable of, not what the operator is permitted to do.
-
+> **Context.** The draft describes what the pump is capable of, not what the operator is permitted to do.
+>
 > **Bad.** The pump can move hot water.
 >
 > **Good.** The pump is capable of moving hot water.
 
-The draft recommends replacing the seal.
-
+> **Context.** The draft recommends replacing the seal.
+>
 > **Bad.** The seal should be replaced.
 >
 > **Good.** We recommend replacing the seal.
 
-The draft says gloves are optional.
-
+> **Context.** The draft says gloves are optional.
+>
 > **Bad.** You should not wear gloves.
 >
 > **Good.** You need not wear gloves.
 
-The draft permits either or both cleaning agents.
-
+> **Context.** The draft permits either or both cleaning agents.
+>
 > **Bad.** Use soap/alcohol.
 >
 > **Good.** Use soap, alcohol, or both.
 
-The draft requires both measurements.
-
+> **Context.** The draft requires both measurements.
+>
 > **Bad.** Record mass/volume.
 >
 > **Good.** Record mass and volume.
 
-The draft requires both mass and volume; S/N is its established signal-to-noise notation.
-
+> **Context.** The draft requires both mass and volume; S/N is its established signal-to-noise notation.
+>
 > **Bad.** Record S/N, then mass/volume.
 >
 > **Good.** Record S/N, then mass and volume.
 
-The original draft specifies steel and glass as the kit’s complete material list; Bad weakens that specification.
-
+> **Context.** The original draft specifies steel and glass as the kit’s complete material list; Bad weakens that specification.
+>
 > **Bad.** The kit includes steel and glass.
 >
 > **Good.** The kit consists of steel and glass.
 
-The draft states that the kit includes steel and glass but does not say whether it includes anything else.
-
+> **Context.** The draft states that the kit includes steel and glass but does not say whether it includes anything else.
+>
 > **Bad.** The kit includes steel and glass, so it must contain another material.
 >
 > **Good.** The kit includes steel and glass.
@@ -112,8 +112,8 @@ The draft states that the kit includes steel and glass but does not say whether 
 >
 > **Good.** If the force is zero, then acceleration is zero.
 
-The draft states that every element of B belongs to A, not that B is itself an element of A.
-
+> **Context.** The draft states that every element of B belongs to A, not that B is itself an element of A.
+>
 > **Bad.** The set A contains B.
 >
 > **Good.** The set A contains every element of B.
@@ -122,14 +122,14 @@ The draft states that every element of B belongs to A, not that B is itself an e
 >
 > **Good.** If the lid is closed and the seal is intact, then the jar holds water.
 
-The draft says the lid closed, but the spring did not cause it to close.
-
+> **Context.** The draft says the lid closed, but the spring did not cause it to close.
+>
 > **Bad.** The lid did not close because of the spring.
 >
 > **Good.** The lid closed, but not because of the spring.
 
-The draft proves the bound unconditionally and uses it to compare the two designs.
-
+> **Context.** The draft proves the bound unconditionally and uses it to compare the two designs.
+>
 > **Bad.** If we compare the two designs, the theorem gives a 5 W bound.
 >
 > **Good.** The theorem gives a 5 W bound, which we use to compare the two designs.

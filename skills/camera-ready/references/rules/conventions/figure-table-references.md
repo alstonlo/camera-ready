@@ -8,8 +8,8 @@ Write `Figure~\ref{...}` with a non-breaking space. Capitalize numbered referenc
 
 ## Examples
 
-The draft identifies the lower plot as Figure 4(b).
-
+> **Context.** The draft identifies the lower plot as Figure 4(b).
+>
 > **Bad.** The water level falls during summer, as shown in the plot below.
 >
 > **Good.** The water level falls during summer, as shown in Figure 4(b).
@@ -18,20 +18,20 @@ The draft identifies the lower plot as Figure 4(b).
 >
 > **Good.** Water loss increases with temperature (Figure 2).
 
-The draft identifies the comparison as open jars versus sealed jars.
-
+> **Context.** The draft identifies the comparison as open jars versus sealed jars.
+>
 > **Bad.** Water loss is greater (Figure 3).
 >
 > **Good.** Water loss is greater in open jars than in sealed jars (Figure 3).
 
-The draft gives the water level as 5.2 cm, which the reader cannot read from the plot alone.
-
+> **Context.** The draft gives the water level as 5.2 cm, which the reader cannot read from the plot alone.
+>
 > **Bad.** The water level exceeds the 5 cm limit (Figure 4).
 >
 > **Good.** The water level is 5.2 cm, exceeding the 5 cm limit (Figure 4).
 
-The draft identifies Figure 4 as the supporting plot; the Good line proposes replacing the unresolved marker for the author.
-
+> **Context.** The draft identifies Figure 4 as the supporting plot; the Good line proposes replacing the unresolved marker for the author.
+>
 > **Bad.** The water level falls during summer (Figure ??).
 >
 > **Good.** The water level falls during summer (Figure 4).

@@ -12,8 +12,8 @@ This rule has no further details.
 >
 > **Good.** We use a ruler to measure the stem.
 
-In statistics, a pivotal quantity is a defined technical term.
-
+> **Context.** In statistics, a pivotal quantity is a defined technical term.
+>
 > **Bad.** We delve into a pivotal quantity for the mean.
 >
 > **Good.** We study a pivotal quantity for the mean.
@@ -22,8 +22,8 @@ In statistics, a pivotal quantity is a defined technical term.
 >
 > **Good.** We collect and measure the seeds.
 
-The draft supplies these two observations.
-
+> **Context.** The draft supplies these two observations.
+>
 > **Bad.** We make two observations, which we discuss later.
 >
 > **Good.** The leaves curl, and the stems bend.
@@ -32,8 +32,8 @@ The draft supplies these two observations.
 >
 > **Good.** We report two findings: the leaves curl, and the stems bend.
 
-The slash separates two bullet lines.
-
+> **Context.** The slash separates two bullet lines.
+>
 > **Bad.** - The seal leaks. / - Water reaches the contacts because the seal leaks.
 >
 > **Good.** The seal leaks, so water reaches the contacts.

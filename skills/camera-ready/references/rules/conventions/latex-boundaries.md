@@ -10,26 +10,26 @@ For blank lines around displayed equations, follow [math prose](math-prose.md).
 
 ## Examples
 
-The original source keeps both sentences in one paragraph, and `\n` denotes a newline.
-
+> **Context.** The original source keeps both sentences in one paragraph, and `\n` denotes a newline.
+>
 > **Bad.** `We rinse the jars.\n\nWe leave them to dry.`
 >
 > **Good.** `We rinse the jars.\nWe leave them to dry.`
 
-The original source starts a new paragraph before the second sentence, and `\n` denotes a newline.
-
+> **Context.** The original source starts a new paragraph before the second sentence, and `\n` denotes a newline.
+>
 > **Bad.** `We rinse the jars.\nWe store them in a cool room.`
 >
 > **Good.** `We rinse the jars.\n\nWe store them in a cool room.`
 
-The original source puts the sentence on the line after the comment, and `\n` denotes a newline.
-
+> **Context.** The original source puts the sentence on the line after the comment, and `\n` denotes a newline.
+>
 > **Bad.** `% check label We weigh the jar.`
 >
 > **Good.** `% check label\nWe weigh the jar.`
 
-The original source keeps the comment `% check label` on one line, and `\n` denotes a newline.
-
+> **Context.** The original source keeps the comment `% check label` on one line, and `\n` denotes a newline.
+>
 > **Bad.** `% check\nlabel\nWe weigh the jar.`
 >
 > **Good.** `% check label\nWe weigh the jar.`

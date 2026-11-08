@@ -8,20 +8,20 @@ Check these skimmed passages both for missing stages and for claims whose scope 
 
 ## Examples
 
-The body text reports that the tested batteries last twice as long at 20 °C as at 0 °C, but the skimmed passages omit this finding; this example shows the figure caption.
-
+> **Context.** The body text reports that the tested batteries last twice as long at 20 °C as at 0 °C, but the skimmed passages omit this finding; this example shows the figure caption.
+>
 > **Bad.** Figure 3: Battery life at 0 °C and 20 °C.
 >
 > **Good.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
 
-The first paragraph of Discussion states the measured gain, and a later paragraph in Discussion explains that this gain allows hourly sampling; the skimmed passages omit that implication.
-
+> **Context.** The first paragraph of Discussion states the measured gain, and a later paragraph in Discussion explains that this gain allows hourly sampling; the skimmed passages omit that implication.
+>
 > **Bad.** The larger battery lasts twice as long in the tested sensor.
 >
 > **Good.** The larger battery lasts twice as long in the tested sensor, allowing hourly sampling.
 
-The draft supplies the result for indoor tests only; Good is the caption revision proposed to the author after the skim test exposes the mismatch.
-
+> **Context.** The draft supplies the result for indoor tests only; Good is the caption revision proposed to the author after the skim test exposes the mismatch.
+>
 > **Bad.** Figure 2: The cover halves water loss indoors and outdoors.
 >
 > **Good.** Figure 2: The cover halves water loss indoors.

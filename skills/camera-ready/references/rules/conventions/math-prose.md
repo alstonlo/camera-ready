@@ -14,8 +14,8 @@ In LaTeX, omit blank lines around a display that continues its paragraph, even w
 >
 > **Good.** The area of a circle of radius $r$ is \[\pi r^2.\]
 
-The draft defines $r$ as the circle's radius.
-
+> **Context.** The draft defines $r$ as the circle's radius.
+>
 > **Bad.** The circumference $2\pi r$.
 >
 > **Good.** The circumference is $2\pi r$.
@@ -28,20 +28,20 @@ The draft defines $r$ as the circle's radius.
 >
 > **Good.** Twelve jars remain sealed.
 
-The draft defines $a$ and $b$ as lengths.
-
+> **Context.** The draft defines $a$ and $b$ as lengths.
+>
 > **Bad.** We compare $a$ $b$.
 >
 > **Good.** We compare $a$ with $b$.
 
-The draft defines $a$ as the observed length.
-
+> **Context.** The draft defines $a$ as the observed length.
+>
 > **Bad.** We measure $a$. $b$ denotes the predicted length.
 >
 > **Good.** We measure $a$. The symbol $b$ denotes the predicted length.
 
-The passage states a bound on sample size and is not part of work on logic.
-
+> **Context.** The passage states a bound on sample size and is not part of work on logic.
+>
 > **Bad.** The bound holds $\forall n$.
 >
 > **Good.** The bound holds for all $n$.
@@ -50,20 +50,20 @@ The passage states a bound on sample size and is not part of work on logic.
 >
 > **Good.** The error is at most 0.2.
 
-The passage explains universal quantification in a logic paper.
-
+> **Context.** The passage explains universal quantification in a logic paper.
+>
 > **Bad.** $P$ is the predicate in $\forall x\,P(x)$.
 >
 > **Good.** The symbol $P$ is the predicate in $\forall x\,P(x)$.
 
-The draft defines $a$ and $b$ as the two component masses.
-
+> **Context.** The draft defines $a$ and $b$ as the two component masses.
+>
 > **Bad.** The total is \[s=a+b\]
 >
 > **Good.** The total is \[s=a+b.\]
 
-The draft has already defined $a$ and $b$ as component masses and introduces $s$ here.
-
+> **Context.** The draft has already defined $a$ and $b$ as component masses and introduces $s$ here.
+>
 > **Bad.** The total is \[s=a+b\] where $s$ denotes total mass.
 >
 > **Good.** The total is \[s=a+b,\] where $s$ denotes total mass.
@@ -72,8 +72,8 @@ The draft has already defined $a$ and $b$ as component masses and introduces $s$
 >
 > **Good.** Let $q$ denote net inflow. The value of $q$ is positive.
 
-The display stays in the same paragraph, $a$ and $b$ are already defined, and `\n` denotes a newline.
-
+> **Context.** The display stays in the same paragraph, $a$ and $b$ are already defined, and `\n` denotes a newline.
+>
 > **Bad.** `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
 >
 > **Good.** `The total is\n\[s=a+b.\]\nWe compare it with the limit.`

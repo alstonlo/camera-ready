@@ -20,8 +20,8 @@ This rule has no further details.
 >
 > **Good.** We enter the readings in a spreadsheet.
 
-The draft states that "pressure stewardship" means maintaining pressure.
-
+> **Context.** The draft states that "pressure stewardship" means maintaining pressure.
+>
 > **Bad.** The pump performs pressure stewardship.
 >
 > **Good.** The pump maintains pressure.
@@ -30,8 +30,8 @@ The draft states that "pressure stewardship" means maintaining pressure.
 >
 > **Good.** We show that the samples we heat expand.
 
-The preceding sentence identifies one pump.
-
+> **Context.** The preceding sentence identifies one pump.
+>
 > **Bad.** We test pump in water.
 >
 > **Good.** We test the pump in water.
@@ -40,8 +40,8 @@ The preceding sentence identifies one pump.
 >
 > **Good.** After we remove the weights and drain the jar, the lid opens.
 
-The field uses "heat flux sensor" as an established term.
-
+> **Context.** The field uses "heat flux sensor" as an established term.
+>
 > **Bad.** The heat flux sensor calibration procedure is documented.
 >
 > **Good.** The procedure for calibrating the heat flux sensor is documented.

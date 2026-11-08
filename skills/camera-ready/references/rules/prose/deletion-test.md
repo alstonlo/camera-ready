@@ -8,8 +8,8 @@ To test equivalence, compare the exact cases in which the original and the revis
 
 ## Examples
 
-The original draft says the sensor works only below 40 °C; Bad is an edit that dropped this restriction.
-
+> **Context.** The original draft says the sensor works only below 40 °C; Bad is an edit that dropped this restriction.
+>
 > **Bad.** The sensor works.
 >
 > **Good.** The sensor works only below 40 °C.
@@ -18,32 +18,32 @@ The original draft says the sensor works only below 40 °C; Bad is an edit that
 >
 > **Good.** We repeated the test.
 
-The original draft says the nurse asks the patient to lift the weight; Bad drops an action.
-
+> **Context.** The original draft says the nurse asks the patient to lift the weight; Bad drops an action.
+>
 > **Bad.** The nurse lifts the weight.
 >
 > **Good.** The nurse asks the patient to lift the weight.
 
-The original draft states a capability; Bad turns it into a performed action.
-
+> **Context.** The original draft states a capability; Bad turns it into a performed action.
+>
 > **Bad.** The latch locks automatically.
 >
 > **Good.** The latch can lock automatically.
 
-The original defines a passing score as at least 60; Bad changes the boundary.
-
+> **Context.** The original defines a passing score as at least 60; Bad changes the boundary.
+>
 > **Bad.** A passing score exceeds 60.
 >
 > **Good.** A passing score is at least 60.
 
-The original draft says the lamp stays off unless the door opens; Bad asserts sufficiency.
-
+> **Context.** The original draft says the lamp stays off unless the door opens; Bad asserts sufficiency.
+>
 > **Bad.** The lamp turns on if the door opens.
 >
 > **Good.** The lamp stays off unless the door opens.
 
-The original draft says the authors were surprised that the thin coating lasted longer than the thick one; Bad drops this stance.
-
+> **Context.** The original draft says the authors were surprised that the thin coating lasted longer than the thick one; Bad drops this stance.
+>
 > **Bad.** The thin coating lasted longer than the thick one.
 >
 > **Good.** Surprisingly, the thin coating lasted longer than the thick one.
@@ -52,8 +52,8 @@ The original draft says the authors were surprised that the thin coating lasted 
 >
 > **Good.** We found that the scale that we used was faulty.
 
-The original draft says half the planted seeds sprouted; Bad changes the denominator.
-
+> **Context.** The original draft says half the planted seeds sprouted; Bad changes the denominator.
+>
 > **Bad.** Half the seeds sprouted.
 >
 > **Good.** Half the planted seeds sprouted.

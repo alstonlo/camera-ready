@@ -16,14 +16,14 @@ This rule has no further details.
 >
 > **Good.** We weigh twice because the scale drifts.
 
-The study compares two pump designs.
-
+> **Context.** The study compares two pump designs.
+>
 > **Bad.** As requested by the reviewer, we note that the second pump design uses less power than the first.
 >
 > **Good.** The second pump design uses less power than the first.
 
-The labels identify excerpts from the response letter and the paper.
-
+> **Context.** The labels identify excerpts from the response letter and the paper.
+>
 > **Bad.** Reviewer response: We added the calibration test. Manuscript: In this revision, we report a calibration error of 2%.
 >
 > **Good.** Reviewer response: We added the calibration test. Manuscript: We report a calibration error of 2%.

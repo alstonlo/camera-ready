@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-The draft identifies the reported percentage as the program's spelling accuracy.
-
+> **Context.** The draft identifies the reported percentage as the program's spelling accuracy.
+>
 > **Bad.** The program's performance is 94%.
 >
 > **Good.** The program's spelling accuracy is 94%.
 
-The draft defines quality as purity and yield and identifies the 98% measurement as purity.
-
+> **Context.** The draft defines quality as purity and yield and identifies the 98% measurement as purity.
+>
 > **Bad.** We assess quality using purity and yield. Performance reaches 98%.
 >
 > **Good.** We assess quality using purity and yield. Purity reaches 98%.

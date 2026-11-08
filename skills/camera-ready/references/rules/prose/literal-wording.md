@@ -16,20 +16,20 @@ To check an analogy, match the technical objects to their familiar counterparts 
 >
 > **Good.** We use a ruler to measure each leaf.
 
-The draft identifies a foam pad as the support.
-
+> **Context.** The draft identifies a foam pad as the support.
+>
 > **Bad.** Our support strategy holds the vial upright.
 >
 > **Good.** A foam pad holds the vial upright.
 
-The preceding sentence defines “the framework” as the steel frame around the tank.
-
+> **Context.** The preceding sentence defines “the framework” as the steel frame around the tank.
+>
 > **Bad.** We utilize the framework to support the tank.
 >
 > **Good.** We use the framework to support the tank.
 
-The draft says the filter discards duplicate readings.
-
+> **Context.** The draft says the filter discards duplicate readings.
+>
 > **Bad.** The filter swallows duplicate readings.
 >
 > **Good.** The filter discards duplicate readings.
@@ -38,8 +38,8 @@ The draft says the filter discards duplicate readings.
 >
 > **Good.** We enter the readings in a spreadsheet.
 
-The draft calls the measurement uncertain because the scale drifts.
-
+> **Context.** The draft calls the measurement uncertain because the scale drifts.
+>
 > **Bad.** Scale drift makes the measurement epistemically slippery.
 >
 > **Good.** Scale drift makes the measurement uncertain.
@@ -48,14 +48,14 @@ The draft calls the measurement uncertain because the scale drifts.
 >
 > **Good.** We use centrifugation to pellet the cells.
 
-The draft defines emergence as the fraction of all planted seeds producing a shoot above the soil.
-
+> **Context.** The draft defines emergence as the fraction of all planted seeds producing a shoot above the soil.
+>
 > **Bad.** Emergence captures the seeds’ breakthrough.
 >
 > **Good.** Emergence is the fraction of all planted seeds producing a shoot above the soil.
 
-The draft says the controller gradually reduces heater power.
-
+> **Context.** The draft says the controller gradually reduces heater power.
+>
 > **Bad.** The controller dials back heater power.
 >
 > **Good.** The controller gradually reduces heater power.
@@ -64,20 +64,20 @@ The draft says the controller gradually reduces heater power.
 >
 > **Good.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
 
-The draft states that the spring closes the lid.
-
+> **Context.** The draft states that the spring closes the lid.
+>
 > **Bad.** The spring is the lid’s tireless guardian.
 >
 > **Good.** The spring closes the lid.
 
-The draft states that the stones remain submerged throughout weighing.
-
+> **Context.** The draft states that the stones remain submerged throughout weighing.
+>
 > **Bad.** We weigh the stones in water.
 >
 > **Good.** We weigh the stones while they are submerged in water.
 
-The draft says the steel pin is removed and a brass pin takes its place.
-
+> **Context.** The draft says the steel pin is removed and a brass pin takes its place.
+>
 > **Bad.** We substitute the steel and brass pins.
 >
 > **Good.** We replace the steel pin with a brass pin.

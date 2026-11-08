@@ -8,38 +8,38 @@ A missing connection between a procedure and a result does not establish that th
 
 ## Examples
 
-The draft states that shade reduces water loss in the tested ferns; Good is the heading proposed to the author.
-
+> **Context.** The draft states that shade reduces water loss in the tested ferns; Good is the heading proposed to the author.
+>
 > **Bad.** Fern experiment
 >
 > **Good.** Shade reduces water loss in the tested ferns
 
-The draft names reduced refill frequency as its contribution and states that the tank trial tests whether a lid reduces water loss enough to reduce refill frequency; Good is the proposed Results opening for the author.
-
+> **Context.** The draft names reduced refill frequency as its contribution and states that the tank trial tests whether a lid reduces water loss enough to reduce refill frequency; Good is the proposed Results opening for the author.
+>
 > **Bad.** We test whether the lid reduces water loss.
 >
 > **Good.** We test whether the lid reduces water loss enough to reduce refill frequency.
 
-In the draft, cracks in the first coat motivate adding a second coat, but the sections separate all methods from all results; Good is the sequence proposed to the author.
-
+> **Context.** In the draft, cracks in the first coat motivate adding a second coat, but the sections separate all methods from all results; Good is the sequence proposed to the author.
+>
 > **Bad.** Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
 >
 > **Good.** Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
 
-The draft states that the reported mass loss comes from the weighing procedure in Section 2; Good is the proposed revision for the author.
-
+> **Context.** The draft states that the reported mass loss comes from the weighing procedure in Section 2; Good is the proposed revision for the author.
+>
 > **Bad.** The sample loses 3 g.
 >
 > **Good.** The sample loses 3 g, measured by the weighing procedure in Section 2.
 
-The draft's Section 4 reports leakage measured by the pressure test, but the passage that describes the test leaves its role unstated; Good is the proposed revision for the author.
-
+> **Context.** The draft's Section 4 reports leakage measured by the pressure test, but the passage that describes the test leaves its role unstated; Good is the proposed revision for the author.
+>
 > **Bad.** We also perform a pressure test.
 >
 > **Good.** We also perform a pressure test to measure the leakage reported in Section 4.
 
-Theorem 2 of the draft proves the stated upper bound, so no empirical Methods section is needed; Good is the proposed revision for the author.
-
+> **Context.** Theorem 2 of the draft proves the stated upper bound, so no empirical Methods section is needed; Good is the proposed revision for the author.
+>
 > **Bad.** Every path has length at most 6 m.
 >
 > **Good.** Every path has length at most 6 m (Theorem 2).

@@ -8,26 +8,26 @@ When no further authorized cut can preserve clarity, report the remaining excess
 
 ## Examples
 
-A proposed cut removes the draft's statement that there are eighteen seedlings.
-
+> **Context.** A proposed cut removes the draft's statement that there are eighteen seedlings.
+>
 > **Bad.** Each tray holds six seedlings. We therefore need three trays.
 >
 > **Good.** Each tray holds six seedlings. We have eighteen seedlings and therefore need three trays.
 
-A cut leaves two adjacent paragraphs that make the same point (with "/" marking the paragraph break).
-
+> **Context.** A cut leaves two adjacent paragraphs that make the same point (with "/" marking the paragraph break).
+>
 > **Bad.** The lid reduces evaporation. / Less water is lost overnight.
 >
 > **Good.** The lid reduces evaporation. Less water is lost overnight.
 
-A cut removes the draft's definition of the meniscus as the curved liquid surface, which readers outside the subfield need.
-
+> **Context.** A cut removes the draft's definition of the meniscus as the curved liquid surface, which readers outside the subfield need.
+>
 > **Bad.** We record the meniscus height.
 >
 > **Good.** The meniscus is the curved liquid surface. We record the meniscus height.
 
-The draft already contains \smallskip, and a proposed length edit adds negative \vspace to meet the length limit. No further authorized cut preserves clarity, so keep the original spacing and report the remaining excess.
-
+> **Context.** The draft already contains \smallskip, and a proposed length edit adds negative \vspace to meet the length limit. No further authorized cut preserves clarity, so keep the original spacing and report the remaining excess.
+>
 > **Bad.** \smallskip The sample remains dry. \vspace{-4mm}
 >
 > **Good.** \smallskip The sample remains dry.

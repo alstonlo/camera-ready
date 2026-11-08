@@ -8,32 +8,32 @@ A reference to a nearby equation whose role is clear needs no added description.
 
 ## Examples
 
-An earlier section gives the energy balance in display (9); this passage follows several pages later.
-
+> **Context.** An earlier section gives the energy balance in display (9); this passage follows several pages later.
+>
 > **Bad.** We use (9) to calculate the heat loss.
 >
 > **Good.** We use the energy balance (9) to calculate the heat loss.
 
-Section 2 defines the rainfall rate $r$, and several sections separate that definition from this passage.
-
+> **Context.** Section 2 defines the rainfall rate $r$, and several sections separate that definition from this passage.
+>
 > **Bad.** We compare $r$ across sites.
 >
 > **Good.** We compare the rainfall rate $r$, defined in Section 2, across sites.
 
-Section 2 defines the rainfall rate $r$, and this passage appears in Section 5.
-
+> **Context.** Section 2 defines the rainfall rate $r$, and this passage appears in Section 5.
+>
 > **Bad.** Let $r$ denote the rainfall rate. We compare $r$ across sites.
 >
 > **Good.** Recall that $r$ denotes the rainfall rate. We compare $r$ across sites.
 
-The draft discusses both evaporation and infiltration rates and attributes this summer increase to evaporation.
-
+> **Context.** The draft discusses both evaporation and infiltration rates and attributes this summer increase to evaporation.
+>
 > **Bad.** The rate increases in summer.
 >
 > **Good.** The evaporation rate increases in summer.
 
-The energy balance appears several pages earlier as display (9).
-
+> **Context.** The energy balance appears several pages earlier as display (9).
+>
 > **Bad.** Equation (3) gives the heat loss. We evaluate (3), then apply (9).
 >
 > **Good.** Equation (3) gives the heat loss. We evaluate (3), then apply the energy balance (9).

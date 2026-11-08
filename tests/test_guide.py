@@ -18,7 +18,13 @@ def test_guide_is_up_to_date():
     "text",
     [
         page("## Details", "More cases.", "## Examples", PAIR),
-        page("## Details", "More cases.", "## Examples", "In a Methods section:", PAIR, PAIR),
+        page(
+            "## Details",
+            "More cases.",
+            "## Examples",
+            "> **Context.** In a Methods section.\n>\n" + PAIR,
+            PAIR,
+        ),
     ],
 )
 def test_valid_pages_render_only_title_and_summary(text: str):
@@ -55,7 +61,8 @@ def test_valid_pages_render_only_title_and_summary(text: str):
             "## Examples",
             "> **Bad.** A.\n\nContext.\n\n> **Good.** B.",
         ),
-        page("## Details", "More cases.", "## Examples", PAIR, "Trailing context."),
+        page("## Details", "More cases.", "## Examples", "In a Methods section.", PAIR),
+        page("## Details", "More cases.", "## Examples", PAIR, "> **Context.** Trailing."),
         page(
             "## Details", "More cases.", "## Examples", "> Bad caption: A.\n>\n> Good caption: B."
         ),

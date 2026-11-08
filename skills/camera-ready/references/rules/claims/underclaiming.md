@@ -10,26 +10,26 @@ Remove a hedge only when the evidence establishes the unhedged claim; if support
 
 ## Examples
 
-The draft's contributions list includes the item below, and its Section 4 reports that thicker wool samples retained more heat in the tests.
-
+> **Context.** The draft's contributions list includes the item below, and its Section 4 reports that thicker wool samples retained more heat in the tests.
+>
 > **Bad.** We investigate whether thicker wool samples retain more heat in the tests (Section 4).
 >
 > **Good.** We find that thicker wool samples retain more heat in the tests (Section 4).
 
-The draft directly measures a 2 cm gap in every tested panel.
-
+> **Context.** The draft directly measures a 2 cm gap in every tested panel.
+>
 > **Bad.** We may have found a 2 cm gap in every tested panel.
 >
 > **Good.** We found a 2 cm gap in every tested panel.
 
-The draft's Section 3 presents a catalog of 200 labeled leaf images as its resource contribution.
-
+> **Context.** The draft's Section 3 presents a catalog of 200 labeled leaf images as its resource contribution.
+>
 > **Bad.** We explore leaf images (Section 3).
 >
 > **Good.** We present a catalog of 200 labeled leaf images (Section 3).
 
-The draft establishes the stated result in Section 4.
-
+> **Context.** The draft establishes the stated result in Section 4.
+>
 > **Bad.** We find that the coating reduces water uptake in the tests.
 >
 > **Good.** We find that the coating reduces water uptake in the tests (Section 4).

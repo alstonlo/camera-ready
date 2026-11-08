@@ -8,8 +8,8 @@ This rule has no further details.
 
 ## Examples
 
-The draft tests the paint only on brick and metal.
-
+> **Context.** The draft tests the paint only on brick and metal.
+>
 > **Bad.** We test the paint on surfaces ranging from brick to metal.
 >
 > **Good.** We test the paint on brick and metal.
@@ -18,8 +18,8 @@ The draft tests the paint only on brick and metal.
 >
 > **Good.** We test brick, wood, and metal.
 
-The draft tests only brick and metal.
-
+> **Context.** The draft tests only brick and metal.
+>
 > **Bad.** We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
 >
 > **Good.** We test brick and metal at 10–30 °C in 10 °C increments.

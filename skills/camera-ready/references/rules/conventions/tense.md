@@ -12,26 +12,26 @@ Replace a relative date such as "last year" with the calendar date given in the 
 >
 > **Good.** Section 6 reports the simulator's memory use.
 
-The draft consistently describes the method in present tense.
-
+> **Context.** The draft consistently describes the method in present tense.
+>
 > **Bad.** We rinse the seeds and dried them.
 >
 > **Good.** We rinse the seeds and dry them.
 
-The draft consistently describes these experiments in past tense.
-
+> **Context.** The draft consistently describes these experiments in past tense.
+>
 > **Bad.** We rinsed the seeds and dry them.
 >
 > **Good.** We rinsed the seeds and dried them.
 
-The draft describes a completed storm outside the experimental procedure.
-
+> **Context.** The draft describes a completed storm outside the experimental procedure.
+>
 > **Bad.** A storm damages the greenhouse in 2020.
 >
 > **Good.** A storm damaged the greenhouse in 2020.
 
-The authors have not yet conducted the repeat study at the second site.
-
+> **Context.** The authors have not yet conducted the repeat study at the second site.
+>
 > **Bad.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
 >
 > **Good.** Section 3 describes the pilot. We will repeat the pilot at a second site.
@@ -64,14 +64,14 @@ The authors have not yet conducted the repeat study at the second site.
 >
 > **Good.** Section 6 explains why future studies should test colder water.
 
-The draft dates the storm to 2023.
-
+> **Context.** The draft dates the storm to 2023.
+>
 > **Bad.** The storm occurred last year.
 >
 > **Good.** The storm occurred in 2023.
 
-The draft presents both Ortiz's model and the freezing-point relation as continuing knowledge rather than historical events.
-
+> **Context.** The draft presents both Ortiz's model and the freezing-point relation as continuing knowledge rather than historical events.
+>
 > **Bad.** Ortiz's model described how salt lowered the freezing point.
 >
 > **Good.** Ortiz's model describes how salt lowers the freezing point.

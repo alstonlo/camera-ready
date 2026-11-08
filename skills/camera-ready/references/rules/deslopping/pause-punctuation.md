@@ -12,14 +12,14 @@ An appositive names the same thing as the preceding noun, and a clear participia
 >
 > **Good.** The new tap reduces water use by 18%.
 
-The draft measures the lid only by whether it leaks.
-
+> **Context.** The draft measures the lid only by whether it leaks.
+>
 > **Bad.** The lid works well: no leaks at 10 °C, 20 °C, or 30 °C.
 >
 > **Good.** The lid does not leak at 10 °C, 20 °C, or 30 °C.
 
-The draft uses the lack of escaping water as evidence that the seal works.
-
+> **Context.** The draft uses the lack of escaping water as evidence that the seal works.
+>
 > **Bad.** The seal works; no water escapes during the pressure test.
 >
 > **Good.** The seal works, as shown by the absence of escaping water during the pressure test.
@@ -36,8 +36,8 @@ The draft uses the lack of escaping water as evidence that the seal works.
 >
 > **Good.** We pack three tools: a ruler, a brush, and a tray. The load is 2 kg, which is below the limit.
 
-The draft reports simultaneous events but gives no causal explanation.
-
+> **Context.** The draft reports simultaneous events but gives no causal explanation.
+>
 > **Bad.** The valve opens: the lamp turns green.
 >
 > **Good.** The valve opens; the lamp turns green.

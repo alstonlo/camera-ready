@@ -12,14 +12,14 @@ This rule has no further details.
 >
 > **Good.** We weigh each empty jar before filling it.
 
-The draft names leaks and evaporation as the two sources of water loss.
-
+> **Context.** The draft names leaks and evaporation as the two sources of water loss.
+>
 > **Bad.** Two sources of water loss are discussed later.
 >
 > **Good.** Water is lost through leaks and evaporation.
 
-The paragraph goes on to explain how insulation slows heat loss.
-
+> **Context.** The paragraph goes on to explain how insulation slows heat loss.
+>
 > **Bad.** Insulation slows heat loss, and we explain how below.
 >
 > **Good.** Insulation slows heat loss.

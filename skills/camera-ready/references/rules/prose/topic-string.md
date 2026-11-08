@@ -14,8 +14,8 @@ Check that the paragraph’s opening and ending fit its role in the section. Whe
 >
 > **Good.** The library lends musical instruments. Each instrument is protected by a padded case. Each case is easy to carry because of a shoulder strap.
 
-The draft states that the lid prevents rain from entering; Good is the proposed revision.
-
+> **Context.** The draft states that the lid prevents rain from entering; Good is the proposed revision.
+>
 > **Bad.** The box has a lid. The tools stay dry.
 >
 > **Good.** The box has a lid that prevents rain from entering. The tools stay dry.
@@ -24,20 +24,20 @@ The draft states that the lid prevents rain from entering; Good is the proposed 
 >
 > **Good.** The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
 
-The paragraph describes the room’s light and sound; the trees are an incidental location.
-
+> **Context.** The paragraph describes the room’s light and sound; the trees are an incidental location.
+>
 > **Bad.** The room faces the trees. Noise is blocked by the room’s thick walls.
 >
 > **Good.** The room faces the trees. The room’s thick walls block noise.
 
-The passage describes a box; ¶ marks a paragraph break.
-
+> **Context.** The passage describes a box; ¶ marks a paragraph break.
+>
 > **Bad.** The lid has a gasket. ¶ The base has a drain.
 >
 > **Good.** The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
 
-The draft states that draining must precede drying; ¶ marks a paragraph break.
-
+> **Context.** The draft states that draining must precede drying; ¶ marks a paragraph break.
+>
 > **Bad.** We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
 >
 > **Good.** We open the valve to drain the tank. ¶ After draining, we dry the empty tank with warm air.

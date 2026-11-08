@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-The author asks only for a polish, and the draft reads, "We weigh each sample twice because the scale sometimes drifts."
-
+> **Context.** The author asks only for a polish, and the draft reads, "We weigh each sample twice because the scale sometimes drifts."
+>
 > **Bad.** We weigh each sample twice.
 >
 > **Good.** We weigh each sample twice because the scale sometimes drifts.
 
-The author requests condensation, and the sundial is unrelated to any claim.
-
+> **Context.** The author requests condensation, and the sundial is unrelated to any claim.
+>
 > **Bad.** The test measures soil acidity. The garden also has a sundial.
 >
 > **Good.** The test measures soil acidity.
 
-The author asks only for a polish, and the draft reads, "We dry the seeds overnight at 30 °C." Moving the temperature to Appendix A is an unauthorized relocation.
-
+> **Context.** The author asks only for a polish, and the draft reads, "We dry the seeds overnight at 30 °C." Moving the temperature to Appendix A is an unauthorized relocation.
+>
 > **Bad.** We dry the seeds overnight; see Appendix A for the procedure.
 >
 > **Good.** We dry the seeds overnight at 30 °C.

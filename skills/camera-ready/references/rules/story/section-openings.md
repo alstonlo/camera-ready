@@ -8,20 +8,20 @@ The section's question may be stated declaratively; do not add a rhetorical ques
 
 ## Examples
 
-Later in the section, the draft reports that a lid halves water loss during boiling.
-
+> **Context.** Later in the section, the draft reports that a lid halves water loss during boiling.
+>
 > **Bad.** We test whether a lid reduces water loss during boiling.
 >
 > **Good.** We test whether a lid reduces water loss during boiling; the lid halves water loss.
 
-The Methods section explains that the lid prevents evaporation by returning condensed water to the tank.
-
+> **Context.** The Methods section explains that the lid prevents evaporation by returning condensed water to the tank.
+>
 > **Bad.** We describe how the lid prevents evaporation.
 >
 > **Good.** The lid prevents evaporation by returning condensed water to the tank.
 
-The proof establishes the bound by splitting the path into two equal segments.
-
+> **Context.** The proof establishes the bound by splitting the path into two equal segments.
+>
 > **Bad.** We prove the path-length bound.
 >
 > **Good.** We prove the path-length bound by splitting the path into two equal segments.

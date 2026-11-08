@@ -16,8 +16,8 @@ The same rule applies to "highly", "remarkably", and "exceptionally" when they a
 >
 > **Good.** The seal is reliable.
 
-The draft reports a cable length of 40 m.
-
+> **Context.** The draft reports a cable length of 40 m.
+>
 > **Bad.** The cable is extremely long.
 >
 > **Good.** The cable is 40 m long.
@@ -26,14 +26,14 @@ The draft reports a cable length of 40 m.
 >
 > **Good.** The coating largely prevents rust.
 
-The draft reports that the coating keeps 98% of the surface free of rust.
-
+> **Context.** The draft reports that the coating keeps 98% of the surface free of rust.
+>
 > **Bad.** The coating essentially prevents rust.
 >
 > **Good.** The coating keeps 98% of the surface free of rust.
 
-The preceding sentence defines a score of zero as no detected damage, not no damage.
-
+> **Context.** The preceding sentence defines a score of zero as no detected damage, not no damage.
+>
 > **Bad.** Note that a zero score does not rule out damage. The test is very useful.
 >
 > **Good.** Note that a zero score does not rule out damage. The test is useful.
@@ -42,14 +42,14 @@ The preceding sentence defines a score of zero as no detected damage, not no dam
 >
 > **Good.** The treated seeds sprout sooner.
 
-In a proof, the zero term is the last term of the sum.
-
+> **Context.** In a proof, the zero term is the last term of the sum.
+>
 > **Bad.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
 >
 > **Good.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
 
-The draft supplies a bound on the tail in Lemma 2; Good is the proposed revision.
-
+> **Context.** The draft supplies a bound on the tail in Lemma 2; Good is the proposed revision.
+>
 > **Bad.** Clearly, the infinite sum converges.
 >
 > **Good.** The infinite sum converges by the tail bound in Lemma 2.

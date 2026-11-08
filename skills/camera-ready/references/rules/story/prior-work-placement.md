@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-The draft first explains the two brick-drying schedules in Section 3; Good is the placement proposed to the author.
-
+> **Context.** The draft first explains the two brick-drying schedules in Section 3; Good is the placement proposed to the author.
+>
 > **Bad.** Before Section 3: Unlike the standard schedule, the staggered schedule avoids idle periods between batches.
 >
 > **Good.** After Section 3: Unlike the standard schedule, the staggered schedule avoids idle periods between batches.
 
-The comparison of fly sizes is understandable in the introduction, whereas comparing the mesh ratio requires the definition in Methods; Good is the placement proposed to the author.
-
+> **Context.** The comparison of fly sizes is understandable in the introduction, whereas comparing the mesh ratio requires the definition in Methods; Good is the placement proposed to the author.
+>
 > **Bad.** Introduction: Lee's screen blocks adult flies; ours also blocks small flies. Our mesh ratio is lower. Methods: We define the mesh ratio.
 >
 > **Good.** Introduction: Lee's screen blocks adult flies; ours also blocks small flies. Methods: We define the mesh ratio. Our mesh ratio is lower.

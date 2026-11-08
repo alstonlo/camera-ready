@@ -40,8 +40,8 @@ In LaTeX, `--` produces an en dash. Keep it for numeric ranges and two-person na
 >
 > **Good.** The seal holds, but only below 30 °C.
 
-The purchase date is a subsidiary detail.
-
+> **Context.** The purchase date is a subsidiary detail.
+>
 > **Bad.** The tray—purchased in May—holds six vials.
 >
 > **Good.** The tray (purchased in May) holds six vials.
