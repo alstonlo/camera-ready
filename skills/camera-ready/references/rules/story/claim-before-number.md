@@ -1,8 +1,14 @@
 # State the claim before the number
 
-State the finding in words, give the one number that supports it, and refer to the table for the remaining numbers. A sentence that lists several numbers without a finding gives the reader nothing to remember or dispute. Identify the claim supported by each number in running text. If there is no claim, move the number to an existing table or appendix, or flag it.
+State the finding in words before the number that supports it, then refer to the table for the remaining values. Identify the claim that each number supports. Flag a number that supports no identifiable claim; move it only when the request permits relocation and a suitable destination exists. Remove a number that a table already contains only under the [headline-number rule](headline-number.md), preserving needed comparisons and uncertainty.
+
+## Details
+
+A list of measurements leaves readers to infer the finding. State the finding first and use the headline-number rule to select the supporting values.
+
+A number that appears in no table may not be deleted merely because its paragraph states no claim. Relocation still requires the request's permission.
 
 ## Examples
 
-- Bad: "Our method obtains 71.3, 68.9, 74.2, and 70.1 F1 on the four datasets, against 69.8, 67.2, 73.9, and 66.4 for the strongest baseline."
-- Good: "Our method outperforms the strongest baseline on all four datasets; the largest gain, 3.7 F1, is on the low-resource dataset (Table 2)."
+- Bad: The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
+- Good: The new brakes shorten stopping distance: the average stopping distance falls from 18 m to 12 m.

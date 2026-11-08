@@ -1,15 +1,27 @@
-# Cut sentence by sentence, repairing what each cut breaks
+# Repair dependencies when cutting or relocating sentences
 
-For each sentence in a surviving paragraph, ask these questions in order:
+For each sentence within [the request's scope](idea-level.md):
 
-1. **Does the spine need it?** If the sentence supports no central claim, consider deleting or relocating it according to steps 2 to 4.
-2. **Does the reader need it?** A sentence can add no new claim and still be [protected](protect.md) because it frames the argument, connects ideas, calibrates a claim, or orients the reader.
-3. **What breaks without it?** Check later passages for dependencies: a later "this" or "as shown above", a citation or term that appears only here, a claim whose hedge or evidence is in this sentence, or the paragraph's topic string. Repair every dependency in the same edit or keep the sentence.
-4. **Delete or relocate?** Delete content that no reader needs. Relocate it to an appendix, supplement, or footnote when only a minority of readers, or one skeptical reviewer, needs it. Reproducibility content is [protected](protect.md): relocate it, never delete it. Use an appendix or supplement only if it already exists; otherwise leave the content in place and flag what the appendix or supplement would need to contain. A footnote may be new.
-5. **Read across the gap.** Read the sentences before and after the gap together. The second must open with a term, result, or referent supplied by the first. If the link requires an inference that the deleted sentence made, add a clause to an adjacent sentence to restore it, or reuse the original framing sentence to open what follows.
+1. **Check its role.** Does a core claim or the reader need it? Apply "Protect sentences the argument depends on" before considering deletion.
+2. **Check dependencies.** Look for a later "this" or "as shown above", a term defined or citation supplied only here, a claim whose hedge or evidence is here, or the paragraph's topic string. Repair each dependency in the same edit or keep the sentence.
+3. **Choose deletion or relocation.** Delete only content that no reader needs. Relocate content that only some readers, or a skeptical reviewer, need; never delete reproducibility content. Use an appendix or supplement only if it already exists; otherwise keep the content and flag what the destination would need to contain. Make relocated material understandable on its own, point to it from the main text where it is relevant, and keep enough method and rationale in the main text to judge the results. You may create footnotes for subsidiary comments if venue requirements allow footnotes. Keep essential algorithm steps in the main explanation, along with definitions used later. For parenthetical asides, see the page.
+4. **Read across the gap.** Check that the sentence after the gap opens with a referent or result that the remaining text supplies. Restore any lost link using content from the draft, or keep the original framing sentence.
+
+## Details
+
+Search later passages for terms introduced only in the sentence being cut, pronouns that depend on it, and claims whose evidence or qualification appears there. Repairing the adjacent sentence does not resolve dependencies farther away.
+
+A pointer into a large supplement must name the relevant section, figure, or procedure. Use a destination that exists; do not guess a subsection number. Keep enough explanation in the main text for readers to know why they would follow the pointer.
+
+A relocated passage must name its objects and purpose and explain enough to be understood on its own. Reuse available definitions or precise references rather than moving a fragment whose opening assumes deleted context. Place the pointer where the claim or method step needs it.
+
+A footnote or parenthetical aside, which readers may skip, must not contain an essential algorithm step or the only definition used in later reasoning. Move such content into the main explanation when relocation is authorized; otherwise flag its placement. A short notation definition in parentheses may stay there when it is already clear and easy to find.
+
+Dependency repair can require recasting a sentence instead of deleting more words. Sharing a repeated condition across clauses can save space while preserving the condition; removing the condition cannot.
 
 ## Examples
 
-- Before: "We also sweep the learning rate over five values; 3e-4 is best. We use it for all remaining experiments."
-- Bad: "We use it for all remaining experiments." ("it" now points at nothing.)
-- Good: "We use a learning rate of 3e-4 for all remaining experiments (sweep in Appendix B)."
+A length cut removes the preceding sentence, which reported that the blue dye was easiest to see.
+
+- Bad: We use it for all remaining experiments.
+- Good: Because the blue dye was easiest to see, we use it for all remaining experiments.

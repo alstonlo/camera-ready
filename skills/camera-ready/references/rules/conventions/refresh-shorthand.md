@@ -1,3 +1,16 @@
 # Refresh long-lived shorthand
 
-When shorthand returns after a gap or at a section boundary, remind the reader of its definition ("the graph-search step (Dijkstra's algorithm)", "the contrastive loss L_c defined in Section 3"). Generic shorthand is especially easy to misread ("search" for Dijkstra's algorithm, "the loss" in a text that defined three). Reuse the same term with a reference to its definition, and phrase the reminder as a reminder. Do not substitute a synonym.
+When shorthand returns after a long gap or section boundary, remind the reader of its established name and its definition or the definition's location. Make the wording a reminder rather than a new definition. Replace a generic label such as "the loss" when several losses could fit, using the original name. For a bare display number far from its display, add the draft's name for that display, as in "the admission score (9)".
+
+## Details
+
+Reuse the term from the original definition rather than inventing a shorter synonym. Remind the reader what a returning symbol or display does in the argument without defining a different object. A nearby equation reference whose role is already clear needs no added description.
+
+Apply the [acronym rule](acronyms.md) when the returning shorthand is an acronym. A reminder can give the existing definition's section or equation number as well as its name.
+
+## Examples
+
+An earlier section defines the admission score in display (9); this passage follows several pages later.
+
+- Bad: We use (9) to rank waiting jobs.
+- Good: We use the admission score (9) to rank waiting jobs.

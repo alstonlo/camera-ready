@@ -1,10 +1,16 @@
 # Read the topic string
 
-When individual sentences are clear but the paragraph does not cohere, list the opening of each sentence. This list is the paragraph's topic string. If most openings introduce new material, rewrite so that each sentence [opens with old information](old-before-new.md). Then test each sentence boundary by inserting the implied connective in brackets ("[however]", "[therefore]"). If no connective fits, or you cannot determine which fits, the link is missing. Supply it if the text states it elsewhere; otherwise flag it. If "[therefore]" fits but the reader outside the subfield could not explain why the second sentence follows, flag the missing step in the argument. Inserting the connective cannot supply that step. Finally, check that each new term in a sentence's stress position is used later, unless it is the paragraph's conclusion.
+When each sentence is clear but the paragraph does not cohere, list the opening words of each sentence; this list is the topic string. Check that the openings develop the paragraph's point. Repeating words between sentences can connect them without developing that point. If most openings introduce new material, rewrite so that each sentence opens with [old information](old-before-new.md). Then identify the relation between each pair of adjacent sentences, such as contrast, consequence, or example. Restore a missing link from elsewhere in the draft or flag the gap; a connective cannot replace missing reasoning. Consecutive sentences may keep the same topic. A new term at the end of a sentence need not recur unless the text promises to develop it. If adjacent paragraphs could swap places without other edits, add a [summary naming their parallel items](direct-content.md) when they present parallel items; otherwise, state how the second depends on the first.
 
-If two adjacent paragraphs can exchange places without further edits, determine whether the section lists parallel items. If so, add a [summary sentence](direct-content.md) naming them. Otherwise revise the second paragraph to state how it depends on the first.
+## Details
+
+Insert a candidate connective in brackets ("[however]") between adjacent sentences, then check whether the draft establishes that relation. This bracket test is a diagnostic, not an instruction to insert a transition word at every boundary.
+
+Compare the paragraph's opening, ending, and role in its section. A sequence may read smoothly yet fail to develop its announced point. After editing a sentence, read its neighbors and check that the next sentence answers the expectation it creates. Trace a broken connection backward before assuming that the later sentence is at fault.
+
+Different concepts can support one theme. State their grouping principle when the draft supplies it, while keeping their differences explicit. Moving ideas between sections or deleting them still depends on the request.
 
 ## Examples
 
-- Bad: "Contrastive pretraining needs large batches. Memory limits batch size on a single GPU. Gradient caching was proposed by Gao et al. (2021). Our method reaches the same accuracy at batch size 256."
-- Good: "Contrastive pretraining needs large batches, but memory limits the batch size on a single GPU. This limit is removed by gradient caching (Gao et al., 2021), which recomputes representations in a second forward pass. Our method also removes the limit, without the second pass, and at batch size 256 it matches the accuracy of gradient caching."
+- Bad: The library lends musical instruments. A padded case protects each instrument. A shoulder strap makes each case easy to carry.
+- Good: The library lends musical instruments. Each instrument is protected by a padded case. Each case is easy to carry because of a shoulder strap.

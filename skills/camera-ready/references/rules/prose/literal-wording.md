@@ -1,17 +1,25 @@
 # Say what literally happens
 
-Name the actual event, object, and quantity in the words you would use to explain them at a whiteboard.
+Name the actual object and operation. Replace inflated "utilize" or "leverage" with "use" when equivalent. Check whether "approach", "framework", "strategy", or "issue" hides a more specific meaning; keep a defined term the paper reuses as shorthand. Name an object before labeling its role. Expand figurative verbs, nouns used as verbs for one occasion ("we changelog the fix"), and unusual word pairs when readers must decode them, following [parts of speech](../conventions/parts-of-speech.md). Preserve established technical terms, verbs, and word combinations; when explaining an unfamiliar term, keep the population, metric, and denominator it covers. Replace an opaque phrasal verb only with an exact equivalent. Keep an existing analogy whose correspondence the draft makes clear; replace decorative or misleading imagery with literal wording, without adding an analogy. The [aphorism rule](../deslopping/aphorisms.md) governs slogan formulas. For an ambiguous preposition, or a "replace" or "substitute" phrase that leaves unclear which item takes the other's place, use the page's diagnostics.
 
-- *Figurative verbs.* In descriptions such as a loader that "retires" malformed rows, results that "move", or a filter that "passes on" borderline examples, replace the figurative verb with the literal event: the rows are deleted, the accuracy drops, or the filter accepts (or rejects) the examples.
-- *Nouns used as verbs.* When a noun is used as a verb for one occasion ("calendar it", "we footnote the caveat"), the reader must reanalyze the word as a verb and guess the action. Replace the word with a verb phrase that names the action ("add it to the calendar", "we state the caveat in a footnote"). Keep such a verb when the field uses it routinely ("we benchmark", "we cache the results"). Follow the [rule on parts of speech](../conventions/parts-of-speech.md) for technical terms.
-- *Unusual word pairs.* When two words rarely appear together ("verified red", "a reader-patience budget"), the pair compresses an idea into a phrase the reader must decode. Replace the pair with the ordinary wording for the idea ("verified that the test fails on the original code"). Keep established technical collocations, however rare outside the field.
-- *Phrasal verbs.* A verb with a particle ("carry out", "come up with", "figure out", and similar) has several meanings that its parts do not predict. Replace it with a single verb naming the operation ("run", "propose", "determine"), unless it is the standard term and no single verb has the same meaning.
-- *Inflated words.* Write "use" for "utilize" or "leverage", and "try to determine" for "endeavor to ascertain".
-- *Abstraction.* General nouns such as *approach, framework, strategy,* and *issue* describe an idea indirectly. For example, "we adopt a data-augmentation strategy to address the issue of overfitting" becomes "we augment the training data to reduce overfitting". Functional labels name an object by its role in the authors' setup ("the assessment word" for "the word *true* or *false*"). Name the object first, then its role if needed.
+## Details
 
-A technical term may still be the right word. Keep it and explain the literal operation at first use, as in "Losses above 10.0 are set to 10.0 before averaging (winsorization)."
+- A figurative verb may obscure whether an operation deletes, rejects, delays, or transforms an object. Name the operation the draft describes. Do not choose an event merely because it is a plausible interpretation of the image.
+- An improvised verb formed from a noun can make readers guess the intended action. Expand it into a familiar verb phrase. Keep established technical verbs rather than replacing them with cumbersome paraphrases.
+- An unusual word pair may compress a relation that needs a clause. State that relation directly, while retaining established combinations of technical terms.
+- A phrasal verb may have several readings. Replace it only when another expression names exactly the same operation; a shorter verb is not necessarily more precise.
+- Inflated vocabulary can delay an ordinary action. Prefer the ordinary equivalent without changing the claim or the technical meaning.
+- A broad abstraction may name a role rather than the object serving it. Identify the object first, then its role when relevant. Once defined, an abstraction can be useful shorthand.
+
+For an ambiguous preposition, identify whether its phrase expresses an instrument, accompaniment, cause, method, or time. Expand it only when the draft settles the relation. For a replacement, make clear which item is removed and which takes its place.
+
+An explanation of terminology must retain the original population, metric, and denominator. A familiar subset cannot substitute for the full technical class.
+
+For an existing analogy, identify the technical objects, their familiar counterparts, and the relation being explained. Similarity in that relation does not transfer every property of the comparison. Keep the literal operation explicit. Flag an unsupported scientific inference instead of changing the claim through figurative wording.
+
+A clear analogy needs no added account of an obvious correspondence. Replace an obscure or incompatible image with literal language; do not manufacture a new image or authorial voice. State a limit of the analogy only to correct a specific misleading implication, not to attach a generic caveat to every analogy.
 
 ## Examples
 
-- Bad: "Losses above the threshold are winsorized."
-- Good: "Losses above 10.0 are set to 10.0 before averaging (winsorization)."
+- Bad: We utilize a ruler to measure each leaf.
+- Good: We use a ruler to measure each leaf.

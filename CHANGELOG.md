@@ -4,8 +4,9 @@ This project follows [Semantic Versioning](https://semver.org/). The version is 
 
 ## Unreleased
 
-- Split the writing guide into one page per rule in `skills/camera-ready/references/rules/`, one subfolder per section. The script `scripts/make_guide.py` builds `references/guide.md` from these pages, and the rule pages link to one another instead of to headings in the guide. The Bad/Good examples moved from the guide to the rule pages.
-- Reorganized the rules so that each page states one rule. Each page's title now states its rule as an instruction. Split pages that covered a whole topic (typography, notation, terminology, figures and tables, paragraphs, uncertainty, voice, and prior work) into one page per rule, and merged pages that repeated each other. Every subsection of the guide contains at least two rules, and prior work moved from Prose to Story. The substance of the rules is unchanged.
+- Split the writing guide into one page per rule.
+- Incorporated guidance from writing textbooks.
+- Added examples to every rule page.
 
 ## 0.2.0 (2026-11-04)
 

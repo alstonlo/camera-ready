@@ -8,7 +8,6 @@ The following are sources cited by the deep research reports used to create this
 - Christopher Berry (2015). [Equation etiquette](https://cplberry.com/2015/02/07/equaquette/).
 - Betty J. Birner and Gregory Ward (2009). [Information Structure and Syntactic Structure](https://doi.org/10.1111/j.1749-818X.2009.00146.x).
 - Michael Black (2024). [Writing a good scientific paper](https://medium.com/@black_51980/writing-a-good-scientific-paper-c0f8af480c91).
-- Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald (2024). [The Craft of Research, Fifth Edition](https://press.uchicago.edu/ucp/books/book/chicago/C/bo215874008.html).
 - Bruce K. Britton and Sami Gülgöz (1991). [Using Kintsch's computational model to improve instructional text: Effects of repairing inference calls on recall and cognitive structures](https://doi.org/10.1037/0022-0663.83.3.329).
 - Rotem Dror, Gili Baumer, Segev Shlomov, and Roi Reichart (2018). [The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing](https://aclanthology.org/P18-1128/).
 - Fredo Durand (n.d.). [Notes on writing](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf).
@@ -21,7 +20,6 @@ The following are sources cited by the deep research reports used to create this
 - Scott Hotaling (2020). [Simple rules for concise scientific writing](https://doi.org/10.1002/lol2.10165).
 - Chieh-Yang Huang et al. (2023). [Summaries as Captions: Generating Figure Captions for Scientific Documents with Automated Text Summarization](https://arxiv.org/abs/2302.12324).
 - Ken Hyland (2001). [Humble servants of the discipline? Self-mention in research articles](https://doi.org/10.1016/S0889-4906(00)00012-0).
-- Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1989). [Mathematical Writing](https://www-cs-faculty.stanford.edu/~knuth/papers/cs1193.pdf).
 - Steven G. Krantz (2016). [A Primer of Mathematical Writing, Second Edition](https://arxiv.org/abs/1612.04888).
 - Becky S. C. Kwan, Hang Chan, and Colin Lam (2012). [Evaluating prior scholarship in literature reviews of research articles: A comparative study of practices in two research paradigms](https://doi.org/10.1016/j.esp.2012.02.003).
 - Gerald Lebovits (2020). [Thoughts on Legal Writing from the Greatest of Them All: Joseph M. Williams, Part I](https://nysba.org/thoughts-on-legal-writing-from-the-greatest-of-them-all-joseph-m-williams-part-i/).
@@ -38,16 +36,28 @@ The following are sources cited by the deep research reports used to create this
 - Steven Pinker (2014). [Why Academics Stink at Writing](https://grad.ncsu.edu/wp-content/uploads/2016/06/Why-Academics-Stink-at-Writing-1-2.pdf).
 - Geoffrey K. Pullum (n.d.). [The myth that which is banned from integrated relatives](https://pullum.ppls.ed.ac.uk/grammar/relwhich.html).
 - Nicolas P. Rougier, Michael Droettboom, and Philip E. Bourne (2014). [Ten Simple Rules for Better Figures](https://doi.org/10.1371/journal.pcbi.1003833).
-- Joshua Schimel (2011). [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://global.oup.com/academic/product/writing-science-9780199760244).
 - Jonathan Shewchuk (1997). [Three Sins of Authors in Computer Science and Math](https://people.eecs.berkeley.edu/~jrs/sins.html).
 - Jan H. Spyridakis and Carol S. Isakson (1998). [Nominalizations vs. Denominalizations: Do They Influence What Readers Recall?](https://journals.sagepub.com/doi/10.2190/01HD-MHU1-QNX9-R3YE).
 - Jacob Steinhardt (2017). [Advice for Authors](https://jsteinhardt.stat.berkeley.edu/blog/advice-for-authors).
 - Robert Van Buren and Mary Fran Buehler (1980). [The Levels of Edit, Second Edition](https://archive.org/details/nasa_techdoc_19800011701).
 - Gregory Ward and Betty J. Birner (2001). [Discourse and Information Structure](https://faculty.wcas.northwestern.edu/ward/HDA01.pdf).
 - Jennifer Widom (2006). [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html).
-- Joseph M. Williams and Joseph Bizup (2021). [Style: Lessons in Clarity and Grace, Thirteenth Edition](https://www.pearson.com/en-us/subject-catalog/p/style-lessons-in-clarity-and-grace/P200000002140/9780137536603).
 - Stefanie Wulff, Ute Römer, and John Swales (2012). [Attended/unattended this in academic student writing: Quantitative and qualitative perspectives](https://doi.org/10.1515/cllt-2012-0006).
 
 I found the following sources myself, and Claude added their advice to the skill:
 
+- Michael Alley (2018). *The Craft of Scientific Writing*.
+- Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald (2024). *The Craft of Research*.
 - Thomas Hikaru Clark, Matias B. Martin, and Kyle Mahowald (2026). [Why is AI-generated language so hard to understand?](https://arxiv.org/abs/2610.29162).
+- Hilary Glasman-Deal (2020). *Science Research Writing for Native and Non-Native Speakers of English*.
+- George D. Gopen (2004). *The Sense of Structure: Writing from the Reader's Perspective*.
+- Anne E. Greene (2013). *Writing Science in Plain English*.
+- Stephen B. Heard (2026). *The Scientist's Guide to Writing: How to Write More Easily and Effectively throughout Your Scientific Career*.
+- Nicholas J. Higham (1998). *Handbook of Writing for the Mathematical Sciences*.
+- Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1989). *Mathematical Writing*.
+- Steven Pinker (2014). *The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century*.
+- Joshua Schimel (2012). *Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded*.
+- John M. Swales and Christine B. Feak (2012). *Academic Writing for Graduate Students: Essential Tasks and Skills*.
+- Helen Sword (2012). *Stylish Academic Writing*.
+- Joseph M. Williams and Joseph Bizup (2021). *Style: Lessons in Clarity and Grace*.
+- Justin Zobel (2014). *Writing for Computer Science*.

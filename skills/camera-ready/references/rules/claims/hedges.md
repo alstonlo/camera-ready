@@ -1,15 +1,20 @@
 # Hedge interpretations, not measurements or procedures
 
-Hedge the interpretation of a measurement, including a proposed mechanism, and leave the measurement itself unhedged.
+Hedge tentative interpretations, including proposed mechanisms; state measurements and performed procedures directly, retaining measurement uncertainty. For a performed procedure, hedge only its rationale. Change a claim's confidence only when the evidence settles it. A summary keeps both the claim's [verb-ladder strength](verb-ladder.md) and its hedge. Use at most one hedge per uncertain claim, in a standard form ("may", "likely", "suggests"). When removing a redundant hedge, keep scope conditions and hedges on other uncertain claims. Replace vague softeners such as *somewhat* or *relatively* with conditions or magnitudes the draft supplies; otherwise keep them and flag the gap. Deleting the only hedge strengthens the claim. A qualifier whose deletion changes the conditions or cases a claim covers, such as *usually*, *on average*, or *in most runs*, is a [scope condition](../cutting/protect.md); preserve it when removing redundant hedges.
 
-Describe procedures without hedges, whether in a Methods section or elsewhere. Only the rationale for a choice may be hedged. In Results, Discussion, and Conclusion sections, and in any other passage that interprets a measurement, preserve this distinction between measurement and interpretation. An abstract or other summary may compress a claim but must retain its strength on the [verb ladder](verb-ladder.md) and its hedge.
+## Details
 
-Use at most one hedge per claim, in a standard academic form ("may", "likely", "suggests", "appears to"). Softeners ("somewhat", "relatively", "essentially", and similar) weaken a claim without saying where it fails. If the draft states the condition under which the claim fails or the size of the effect, replace the softener with that information. Otherwise keep it and flag it, since deleting a claim's only hedge strengthens the claim. These softeners differ from [intensifiers](../prose/intensifiers.md), which are simply cut. A qualifier whose deletion changes what is claimed ("usually", "on average", "in most runs") is a scope condition, not a hedge, and is [protected](../cutting/protect.md).
+The distinction between observations, performed procedures, and tentative interpretations applies in Methods, Results, Discussion, and summaries. Reporting a measurement directly does not remove its uncertainty interval.
+
+Softeners such as "essentially" and "largely" may carry real uncertainty. Keep that meaning unless the draft supplies a precise replacement. Empty intensifiers add emphasis without changing the claim; removing them is different from removing a hedge.
+
+Two hedges on one proposition may be redundant. A confidence hedge combined with a scope condition, or separate hedges on separate uncertain propositions, is not necessarily redundant. Shortening must preserve those meanings.
+
+An interpretation established by the evidence needs no added hedge. Evidence that merely suggests a mechanism does not establish it.
 
 ## Examples
 
-- Bad: "Accuracy appears to drop by roughly 4.2 points when we remove the auxiliary loss, which shows the loss is a regularizer."
-- Good: "Accuracy drops 4.2 points when we remove the auxiliary loss (Table 3), which suggests the loss acts as a regularizer."
+The draft reports that plants in shaded pots grew more slowly than plants in sunny pots.
 
-- Bad: "Our method is relatively robust to label noise."
-- Good: "Our method loses 2 points of accuracy at 20% label noise, against 9 points for the baseline."
+- Bad: Damp soil may possibly explain why plants in shaded pots grew more slowly than plants in sunny pots.
+- Good: Damp soil may explain why plants in shaded pots grew more slowly than plants in sunny pots.

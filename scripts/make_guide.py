@@ -13,11 +13,29 @@ SLOT = re.compile(r"^\{\{([a-z0-9-]+/[a-z0-9-]+)\}\}$", flags=re.M)
 LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
 RULE_LINK = re.compile(r"\brules/([a-z0-9-]+/[a-z0-9-]+)\.md\)")
-PARTS = ["## Details", "## Examples"]
+HEADS = (["## Examples"], ["## Details", "## Examples"])
+PAIR = re.compile(r"- (Bad|Good): \S")
+ITEM = re.compile(r"\s*([-*+]|\d+\.) ")
 
 
 def fail(msg: str):
     sys.exit(f"make_guide: {msg}")
+
+
+def check_examples(name: str, examples: str):
+    lines = [line for line in examples.splitlines() if line.strip()]
+    kinds = "".join(
+        line[2] if PAIR.match(line) else "x" if ITEM.match(line) else "c" for line in lines
+    )
+    if not re.fullmatch(r"(c*BG)+", kinds):
+        fail(
+            f"{name}.md: Examples must be '- Bad: ...' lines, each followed by a '- Good: ...' "
+            "line and optionally preceded by context lines"
+        )
+
+    for i in (m.start() for m in re.finditer("B", kinds)):
+        if lines[i][7:].strip() == lines[i + 1][8:].strip():
+            fail(f"{name}.md: an example's Good passage repeats its Bad passage")
 
 
 def read_rule(name: str, text: str) -> tuple[str, str]:
@@ -26,12 +44,16 @@ def read_rule(name: str, text: str) -> tuple[str, str]:
         fail(f"{name}.md: the first line must be '# <rule name>'")
 
     heads = re.findall(r"^#+ .*$", body, flags=re.M)
-    if heads != [h for h in PARTS if h in heads]:
-        fail(f"{name}.md: the only headings allowed are {PARTS}, in that order")
+    if heads not in HEADS:
+        fail(f"{name}.md: the headings must be an optional '## Details', then '## Examples'")
 
-    summary = re.split(r"^## ", body, maxsplit=1, flags=re.M)[0].strip()
+    summary, *parts = (part.strip() for part in re.split(r"^## .*$", body, flags=re.M))
     if not summary:
         fail(f"{name}.md: the rule text after the title is empty")
+    if not all(parts):
+        fail(f"{name}.md: a section under {heads} is empty")
+
+    check_examples(name, parts[-1])
     return title[2:].strip(), summary
 
 

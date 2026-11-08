@@ -1,12 +1,12 @@
 # Build understanding early
 
-At any point in the text, the reader should understand as much as the preceding material could have explained.
+Give the main idea before its mechanism, and give a finding and its interpretation before the evidence for them. State a section's claim in its first paragraph, and open each paragraph as the [paragraph rule](paragraphs.md) directs. Define each unfamiliar term before its first use. Test the order by covering everything after a sentence. If a covered sentence explains something that the visible text needs, move it earlier. Reorder sentences within a paragraph and paragraphs within a section; flag moves between sections. Within a sentence, follow [old before new](old-before-new.md) and [stress position](stress-position.md).
 
-Present the main ideas before the details:
+## Details
 
-- The high-level idea precedes the detailed mechanism.
-- The result and its interpretation precede the supporting evidence.
-- State the paragraph's claim in its first sentence. A results paragraph may state it in the second sentence, after the [question it answers](paragraphs.md). State the section's claim in its first paragraph.
-- A definition precedes its first use, and context precedes anything new that depends on it.
+The covering test looks for a missing prerequisite, not for every detail that could make a statement more precise. Ask what readers need to understand the sentence in front of them. Move that explanation before the sentence that depends on it, then check that the explanation itself introduces no undefined term. Follow the paragraph rule's conditions for any setup before a claim.
 
-Test the order by covering everything after a given sentence and asking what the reader knows so far. If a covered sentence would explain more than an uncovered one, move it earlier. Apply this rule to paragraphs within a section and sentences within a paragraph. Within a sentence, put new information last, in the [stress position](stress-position.md).
+## Examples
+
+- Bad: We measured the settling time for each mixture. Settling time is the time needed for solid particles in a liquid to sink to the bottom.
+- Good: Settling time is the time needed for solid particles in a liquid to sink to the bottom. We measured the settling time for each mixture.
