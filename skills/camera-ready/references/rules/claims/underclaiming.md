@@ -1,4 +1,4 @@
-# Underclaiming
+# State supported contributions without underclaiming
 
 State contributions plainly and completely, without weakening a real result through reflexive hedging. Each item in a "Contributions" list must state a claim the reader can check and refer to its support where the draft provides it. An item that only says *study, explore, investigate, describe*, or *discuss* states no claim. Rewrite it using the findings in the corresponding section, or flag it.
 

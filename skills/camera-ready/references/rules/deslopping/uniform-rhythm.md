@@ -1,3 +1,3 @@
-# Uniform rhythm
+# Vary uniform rhythm
 
 If every sentence is 15 to 25 words long and every paragraph has the same structure, vary their lengths. Keep sentences complete and literal, without adding [writerly asides](../prose/writerly-asides.md).

@@ -1,0 +1,3 @@
+# Cite each figure and table where its claim is stated
+
+Refer to every float in the sentence stating its claim ("Accuracy falls as the noise rate rises (Figure 6)" or "Figure 6 shows that accuracy falls as the noise rate rises", not "In Figure 6 we show the results"). If the claim depends on a value the reader can only estimate from the plot, give that number in the sentence or caption. Flag it if neither states the value. Write `Figure~\ref{...}` with a non-breaking space, and capitalize "Figure 6", "Table 2", "Section 4", and "Theorem 1". In LaTeX source, put `\label` after `\caption`. Flag every "?" or "??" in rendered text, which marks an undefined `\cite` or `\ref`.

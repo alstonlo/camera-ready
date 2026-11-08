@@ -1,0 +1,3 @@
+# Spell out acronyms and coin them sparingly
+
+Spell out an acronym at first use and again at the start of each major section or chapter where it reappears. An abstract does not count as first use. Do not coin an acronym for a term used only once or twice. Prefer the spelled-out term unless the acronym is standard in the field or replaces a long multi-word name used throughout the text. Spell out acronyms that save no syllables when read aloud ("BS" for batch size) or have another common expansion in the field ("LR"). If the acronym also appears in tables or figures, flag the change to avoid making them inconsistent with the prose.

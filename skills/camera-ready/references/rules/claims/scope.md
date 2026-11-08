@@ -1,4 +1,4 @@
-# Scope
+# Match scope and confidence to the evidence
 
 Evidence determines both a claim's scope and its confidence (plain or hedged). From broadest to narrowest, scope ranges from a guarantee ("X always holds"), through a systematic claim ("X generally happens across contexts") and a narrow claim ("X is best for settings V and W"), to an existence claim ("we find one case where X"). Choose the broadest scope and the most direct statement of confidence the evidence supports. When support is uncertain, leave the claim in place and flag it. This caution does not justify hedging or dropping a claim that the evidence does support; doing so would be [underclaiming](underclaiming.md).
 

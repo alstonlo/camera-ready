@@ -1,3 +1,3 @@
-# Formal and informal claims
+# Make clear whether each claim is formal or informal
 
 Make clear whether each claim is formal or informal. A sentence that reads like a theorem ("all local minima have error close to that of the global minimum") but cites no result and states no conditions leaves its status unclear. Link it to a stated result with its assumptions, rewrite it as the empirical or intuitive claim it is, or flag it if the draft supports neither. When the text invokes a theorem to support an empirical claim, check that the theorem's conclusion applies under the text's conditions. Flag a link that does not hold, such as a convergence result for convex objectives used to support a claim about non-convex training.

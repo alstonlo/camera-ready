@@ -1,4 +1,4 @@
-# The verb ladder
+# Choose the reporting verb from the verb ladder
 
 Choose the reporting verb that the evidence supports, regardless of enthusiasm for the result.
 

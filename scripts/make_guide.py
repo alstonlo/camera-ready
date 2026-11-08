@@ -12,6 +12,7 @@ TEMPLATE = ROOT / "scripts" / "guide.template.md"
 SLOT = re.compile(r"^\{\{([a-z0-9-]+/[a-z0-9-]+)\}\}$", flags=re.M)
 LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
+RULE_LINK = re.compile(r"\brules/([a-z0-9-]+/[a-z0-9-]+)\.md\)")
 PARTS = ["## Details", "## Examples"]
 
 
@@ -88,6 +89,9 @@ def build() -> str:
         broken = sorted(set(ANCHOR_LINK.findall(text)) - anchors)
         if broken:
             fail(f"{page}: links to missing guide headings {broken}")
+        missing = sorted(set(RULE_LINK.findall(text)) - names)
+        if missing:
+            fail(f"{page}: links to missing rule pages {missing}")
     return guide
 
 

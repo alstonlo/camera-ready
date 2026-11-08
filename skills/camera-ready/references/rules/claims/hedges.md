@@ -1,4 +1,4 @@
-# Hedges
+# Hedge interpretations, not measurements or procedures
 
 Hedge the interpretation of a measurement, including a proposed mechanism, and leave the measurement itself unhedged.
 

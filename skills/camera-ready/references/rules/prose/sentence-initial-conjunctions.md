@@ -1,4 +1,4 @@
-# No sentence-initial "And", "But", "So", or "Plus"
+# Do not open a sentence with "And", "But", "So", or "Plus"
 
 Do not open a sentence with "And", "But", "So", or "Plus"; the replacement must keep the relation the conjunction signaled.
 

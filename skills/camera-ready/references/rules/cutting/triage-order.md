@@ -1,4 +1,4 @@
-# Triage order
+# Cut in the triage order under a length constraint
 
 Under a length constraint, cut in this order, most expendable first.
 

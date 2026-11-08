@@ -2,6 +2,8 @@
 
 For each contribution, state what is now true and name the supporting section. Use the strength allowed by the [verb ladder](../claims/verb-ladder.md), and follow the [rule on underclaiming](../claims/underclaiming.md) to turn an activity into a claim. Check that each contribution has evidence in the body and that each major result supports a contribution. Flag a contribution without evidence. Treat a major result that supports no contribution as a candidate for [cutting](../cutting/spine-test.md).
 
+When each contribution names its supporting section, delete a roadmap paragraph that only lists the sections without naming content, following the [rule on signposts](../prose/signposts.md).
+
 ## Examples
 
 - Bad: "We describe the WizWoz system and evaluate it extensively."

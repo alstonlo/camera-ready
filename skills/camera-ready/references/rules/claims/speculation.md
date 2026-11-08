@@ -1,4 +1,4 @@
-# Speculation
+# Never state speculation as fact
 
 Never state speculation in the grammatical form of established fact. Mark it with "We conjecture" or "One possible explanation is", or confine it to a Motivation or Discussion paragraph that the text marks, as a whole, as speculation.
 

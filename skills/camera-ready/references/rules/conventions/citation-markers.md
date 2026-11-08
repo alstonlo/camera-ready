@@ -1,4 +1,4 @@
-# Citation markers are not nouns
+# Keep citation markers out of subject and object positions
 
 A bracketed or parenthetical citation marker cannot be the subject or object of a sentence because it is not a noun. An author name is a noun and may be either.
 

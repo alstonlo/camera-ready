@@ -1,4 +1,4 @@
-# Stop rules
+# Revise cuts when stop rules apply
 
 Revise a cut when any of these three conditions applies:
 

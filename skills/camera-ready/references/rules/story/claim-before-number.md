@@ -1,6 +1,6 @@
 # State the claim before the number
 
-State the finding in words, give the one number that supports it, and refer to the table for the remaining numbers. A sentence that lists several numbers without a finding gives the reader nothing to remember or dispute.
+State the finding in words, give the one number that supports it, and refer to the table for the remaining numbers. A sentence that lists several numbers without a finding gives the reader nothing to remember or dispute. Identify the claim supported by each number in running text. If there is no claim, move the number to an existing table or appendix, or flag it.
 
 ## Examples
 

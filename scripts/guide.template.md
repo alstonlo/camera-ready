@@ -22,11 +22,11 @@ This guide copies each rule page's heading and summary text below. The Details a
 
 Below, the guide has six sections of rules:
 
-- [Story](#story): the argument from problem to implication, section order and openings, contributions, results organized by questions, and numbers that support claims.
+- [Story](#story): the argument from problem to implication, section order and openings, contributions, related work, results organized by questions, and numbers that support claims.
 - [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
 - [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
-- [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
-- [Conventions](#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
+- [Prose](#prose): ordering, paragraphs, information flow, sentence structure, content in place of promises, concrete quantities, and plain wording.
+- [Conventions](#conventions): voice, tense, terminology, mathematics, citations, figures and tables, and typography.
 - [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
 
 For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
@@ -44,7 +44,7 @@ Without the author's request, you may:
 
 Flag changes to the text's claims, section order, or list of contributions instead of making them. Never supply a cost, explanation, or number that the text lacks.
 
-### The arc
+### The whole argument
 
 {{story/five-line-summary}}
 
@@ -56,7 +56,7 @@ Flag changes to the text's claims, section order, or list of contributions inste
 
 {{story/skim-test}}
 
-### Problem and gap
+### Problem, gap, and contribution
 
 {{story/open-with-problem}}
 
@@ -64,21 +64,23 @@ Flag changes to the text's claims, section order, or list of contributions inste
 
 {{story/why-hard}}
 
-### Contributions
-
 {{story/contribution-claims}}
 
-{{story/contribution-sections}}
-
-### Sections
+### Section openings and connections
 
 {{story/section-openings}}
 
 {{story/section-connections}}
 
+### Related work
+
+{{story/prior-work}}
+
+{{story/novelty}}
+
 {{story/related-work-placement}}
 
-### Evidence
+### Results
 
 {{story/results-by-question}}
 
@@ -96,15 +98,9 @@ The most common failure in the argument of generated text is to obscure the poin
 
 {{story/headline-number}}
 
-{{story/no-restated-table}}
-
-{{story/numbers-to-claims}}
-
 {{story/precision}}
 
-{{story/caption-conclusion}}
-
-### Endings
+### Discussion and conclusion
 
 {{story/return-to-gap}}
 
@@ -114,85 +110,73 @@ The most common failure in the argument of generated text is to obscure the poin
 
 Every claim must match its evidence. Both overclaiming and underclaiming are errors. An aspirational goal may motivate the text if the text states that the goal remains unattained.
 
-### The verb ladder
+### Strength and scope
 
 {{claims/verb-ladder}}
 
-### Scope
-
 {{claims/scope}}
-
-### Causal language
-
-{{claims/causal-language}}
-
-### Formal and informal claims
-
-{{claims/formal-informal}}
-
-### Uncertainty and significance
-
-{{claims/uncertainty}}
-
-### Hedges
-
-{{claims/hedges}}
-
-### Failure modes
 
 {{claims/overclaiming}}
 
 {{claims/underclaiming}}
 
-### Speculation
+### Causation and formal support
+
+{{claims/causal-language}}
+
+{{claims/formal-informal}}
+
+### Numerical comparisons
+
+{{claims/uncertainty}}
+
+{{claims/significance}}
+
+### Qualification and limits
+
+{{claims/hedges}}
 
 {{claims/speculation}}
-
-### Limitations
 
 {{claims/limitations}}
 
 ## Cutting
 
-Use the [spine test](#the-spine-test) to determine what the text needs and the request to determine what you may delete or relocate.
+Use the [spine test](rules/cutting/spine-test.md) to determine what the text needs and the request to determine what you may delete or relocate.
+
+### Deciding what to cut
 
 {{cutting/bloat}}
 
 {{cutting/idea-level}}
 
-### The spine test
-
 {{cutting/spine-test}}
-
-### Triage order
 
 {{cutting/triage-order}}
 
-### Protect
-
 {{cutting/protect}}
 
-### Sentence by sentence
+### Making the cut
 
 {{cutting/sentence-by-sentence}}
 
-### Stop rules
-
 {{cutting/stop-rules}}
-
-### After the pass
 
 {{cutting/after-the-pass}}
 
 ## Prose
 
-### Build understanding early
-
 {{prose/build-understanding-early}}
+
+{{prose/deletion-test}}
 
 ### Paragraphs
 
 {{prose/paragraphs}}
+
+{{prose/transitions}}
+
+{{prose/topic-order}}
 
 {{prose/topic-string}}
 
@@ -210,23 +194,29 @@ Use the [spine test](#the-spine-test) to determine what the text needs and the r
 
 {{prose/first-reading}}
 
+{{prose/parallel-form}}
+
 {{prose/sentence-initial-conjunctions}}
 
 {{prose/read-aloud}}
 
-### Concision
-
-{{prose/deletion-test}}
+### Content instead of promises
 
 {{prose/direct-content}}
 
 {{prose/policy-for-finding}}
 
+{{prose/signposts}}
+
+{{prose/reasons}}
+
+### Concrete quantities and operations
+
 {{prose/empty-verbs}}
 
 {{prose/umbrella-nouns}}
 
-{{prose/signposts}}
+{{prose/quantified-comparatives}}
 
 {{prose/intensifiers}}
 
@@ -244,23 +234,15 @@ Use the [spine test](#the-spine-test) to determine what the text needs and the r
 
 {{prose/writerly-asides}}
 
-{{prose/quantified-comparatives}}
-
-{{prose/reasons}}
-
-### Comparing with prior work
-
-{{prose/prior-work}}
-
 ## Conventions
 
 These conventions override generic writing advice.
 
-### Voice and person
+### Voice and tense
 
 {{conventions/voice}}
 
-### Tense
+{{conventions/actions}}
 
 {{conventions/tense}}
 
@@ -268,25 +250,51 @@ These conventions override generic writing advice.
 
 {{conventions/terminology}}
 
+{{conventions/parts-of-speech}}
+
+{{conventions/acronyms}}
+
+{{conventions/spelling}}
+
 {{conventions/refresh-shorthand}}
 
 {{conventions/suggestive-terms}}
 
-### Citation markers are not nouns
-
-{{conventions/citation-markers}}
-
-### Notation and equations
+### Mathematics
 
 {{conventions/notation}}
 
-### Figures and tables
+{{conventions/math-prose}}
+
+{{conventions/math-type}}
+
+{{conventions/displays}}
+
+{{conventions/theorems}}
+
+{{conventions/proofs}}
+
+### Citations, figures, and tables
+
+{{conventions/citation-markers}}
 
 {{conventions/figures-tables}}
 
-### Typography and small style
+{{conventions/float-refs}}
 
-{{conventions/typography}}
+### Typography
+
+{{conventions/hyphens}}
+
+{{conventions/number-forms}}
+
+{{conventions/latin-abbreviations}}
+
+{{conventions/clause-commas}}
+
+{{conventions/formal-marks}}
+
+{{conventions/units}}
 
 ## Deslopping
 

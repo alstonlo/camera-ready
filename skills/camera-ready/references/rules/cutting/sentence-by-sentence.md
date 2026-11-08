@@ -1,4 +1,4 @@
-# Sentence by sentence
+# Cut sentence by sentence, repairing what each cut breaks
 
 For each sentence in a surviving paragraph, ask these questions in order:
 
