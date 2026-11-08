@@ -1,0 +1,3 @@
+# Use logical words unambiguously
+
+Replace "Any" with "every" or "some", according to the intended meaning ("the bound holds for every learning rate below 1/L"). Prefer "each" with a singular noun to "all" with a plural when the plural could imply that the objects share one value ("each run uses its own tuned learning rate"). Combine "if A, then if B, then C" into "if A and B, then C". Keep "then" after an "if" clause when the conclusion is a formula or technical claim. Preserve the negation of a monotonicity term, since "not nonincreasing" does not mean "increasing". Where the distinction matters, specify whether "Contains" means membership or inclusion as a subset.

@@ -1,0 +1,3 @@
+# State the content directly
+
+A sentence that gives a quantity or category but defers the content ("Three changes alter the reported accuracies, and we note each where it lands") gives the reader nothing to picture, check, or disagree with. State the changes if the draft provides them; otherwise flag the promise. To test the sentence, cover the rest of the paragraph. If the sentence amounts to "there are some, and they are below", it is empty. Cut a trailing promise ("..., and we discuss each below") when the draft states the content. Preserve a summary sentence that states the high-level idea or counts items that follow immediately ("We make four observations. First, ... Second, ..."). A count fails only when its items are deferred or absent.

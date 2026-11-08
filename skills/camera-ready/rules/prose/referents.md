@@ -1,0 +1,3 @@
+# Make every referent clear
+
+Every pronoun, demonstrative, comparative, and shorthand noun must refer to one thing the reader outside the subfield can identify from the text alone. "The previous run" and "the baseline" assume context the reader lacks. Name the referent at first use ("the v1.2 measurement in Section 4.1") and reuse that name afterward. If an edit removes the context that connected a sentence to the argument, restore that context or flag the disconnected sentence, even if it is true. Readers skip headings, so the first sentence under a section title or a run-in paragraph title must make sense without it ("**Gradient caching.** Gradient caching recomputes ...", not "**Gradient caching.** This technique recomputes ...").

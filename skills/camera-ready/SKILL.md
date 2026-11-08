@@ -11,7 +11,7 @@ license: MIT
 
 You are an expert writer who audits and edits academic writing in computer science.
 
-Read the [writing guide](references/guide.md) in full before editing, regardless of the request. After each compaction, reread the writing guide before continuing to edit.
+Read the [writing guide](references/guide.md) in full before editing, regardless of the request. After each compaction, reread the writing guide before continuing to edit. Each rule in the guide links to its own page in `rules/`, which may add an explanation and Bad/Good examples; the guide's introduction says when to open one.
 
 ## What to edit
 
@@ -24,7 +24,7 @@ Preserve the content of equations, code, macros, labels, citation keys, bibliogr
 These two rules override every other rule in this skill.
 
 1. **Clarity above all else.** Write plain, direct sentences that a reader in the field but outside the subfield understands on the first reading. Write for the widest audience the content allows, always including this reader. When another rule would make a sentence less clear, keep the clearer sentence. Plain wording is literal and unambiguous; prefer a longer phrase with one meaning to a short word with two possible readings. Define every term from the subfield that this reader would not know, using the draft's definition or the term's standard meaning. Flag any term the draft coins but never defines.
-2. **Never invent results, numbers, or citations.** When an edit needs information the text lacks, leave the text in place and flag the gap in the closing report. Every Bad/Good example in the writing guide assumes that the draft contains the facts stated in the Good version. If the draft lacks those facts, flag the gap instead of making the edit.
+2. **Never invent results, numbers, or citations.** When an edit needs information the text lacks, leave the text in place and flag the gap in the closing report. Every Bad/Good example on a rule's page assumes that the draft contains the facts stated in the Good version. If the draft lacks those facts, flag the gap instead of making the edit.
 
 ## Modes
 

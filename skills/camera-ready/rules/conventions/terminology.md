@@ -1,0 +1,7 @@
+# Terminology
+
+Use the same word for a concept throughout the text. Do not alternate synonyms ("network", "model", "architecture", "system") for variety. Vary sentence structure and function words while keeping technical terms consistent. To find inconsistent usage, list every word used for each of the text's most frequent concepts. More than one entry per concept is an error unless the text defines the terms as different things. When a later passage treats a parallel or more general case, repeat the earlier wording exactly, then state the difference.
+
+Where possible, use each technical term as one part of speech. "Sample", "estimate", and "model" can be nouns or verbs. Using one in both roles within a sentence ("we sample 1,000 samples") requires the reader to identify the part of speech at each occurrence. If the text needs both roles, keep them in separate sentences ("we draw 1,000 samples").
+
+Spell out an acronym at first use and again at the start of each major section or chapter where it reappears. An abstract does not count as first use. Do not coin an acronym for a term used only once or twice. Prefer the spelled-out term unless the acronym is standard in the field or replaces a long multi-word name used throughout the text. Spell out acronyms that save no syllables when read aloud ("BS" for batch size) or have another common expansion in the field ("LR"). If the acronym also appears in tables or figures, flag the change to avoid making them inconsistent with the prose.
