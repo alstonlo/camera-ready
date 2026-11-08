@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / "skills" / "camera-ready"
-RULES = SKILL / "rules"
+RULES = SKILL / "references" / "rules"
 GUIDE = SKILL / "references" / "guide.md"
 TEMPLATE = ROOT / "scripts" / "guide.template.md"
 
@@ -45,16 +45,16 @@ def relink(target: str, name: str, names: set[str]) -> str:
 
     path, _, anchor = target.partition("#")
     path = posixpath.normpath(posixpath.join("rules", posixpath.dirname(name), path))
-    if path == "references/guide.md" and anchor:
+    if path == "guide.md" and anchor:
         return f"#{anchor}"
     if path.startswith("rules/") and path.removeprefix("rules/").removesuffix(".md") in names:
-        return f"../{path}"
+        return path
     fail(f"{name}.md: link to {target} is neither a URL, a guide heading, nor a rule page")
 
 
 def render(name: str, title: str, summary: str, names: set[str]) -> str:
     summary = LINK.sub(lambda m: f"]({relink(m[1], name, names)})", summary)
-    lead = f"**[{title}](../rules/{name}.md).**"
+    lead = f"**[{title}](rules/{name}.md).**"
     if re.match(r"[-*] |\d+\. |\|", summary):
         return f"{lead}\n\n{summary}"
     return f"{lead} {summary}"

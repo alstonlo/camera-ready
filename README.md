@@ -33,7 +33,7 @@ Codex runs the skill only when you name it. To install updates, run `codex plugi
 npx skills add alstonlo/camera-ready --global --agent '*'
 ```
 
-This installs the skill for every agent the [Skills CLI](https://github.com/vercel-labs/skills) supports. Omit `--global` to install it only in the current project. If the Skills CLI does not support your agent, copy the whole `skills/camera-ready/` folder into its skills directory, because the skill reads `references/guide.md` on every run and opens the rule pages in `rules/` when it needs them.
+This installs the skill for every agent the [Skills CLI](https://github.com/vercel-labs/skills) supports. Omit `--global` to install it only in the current project. If the Skills CLI does not support your agent, copy the whole `skills/camera-ready/` folder into its skills directory, because the skill reads `references/guide.md` on every run and opens the rule pages in `references/rules/` when it needs them.
 
 ## Usage
 
@@ -63,7 +63,7 @@ The audit notes are saved in `.camera-ready/` at the project root, the directory
 
 ## Editing the rules
 
-Each rule has its own page in `skills/camera-ready/rules/`, in the subfolder of its section (for example, `rules/claims/hedges.md`). A rule page has this layout:
+Each rule has its own page in `skills/camera-ready/references/rules/`, in the subfolder of its section (for example, `references/rules/claims/hedges.md`). A rule page has this layout:
 
 1. The first line, `# <rule name>`.
 2. The rule itself: everything the agent needs to apply the rule correctly, including its exceptions.
@@ -72,7 +72,7 @@ Each rule has its own page in `skills/camera-ready/rules/`, in the subfolder of 
 
 The agent reads the rule itself in `references/guide.md` on every run, but opens a rule page only when it is unsure how to apply the rule. The Details and Examples sections may therefore explain the rule, but must never add a requirement that the rule itself leaves out.
 
-The script `scripts/build_guide.py` builds `skills/camera-ready/references/guide.md` from the rule pages and from the template `scripts/guide.template.md`. The template holds the guide's section introductions and gives the order of the rules as lines of the form `{{claims/hedges}}`. Do not edit `guide.md` directly. To add a rule, write its page and add its line to the template. In a rule page, link to a heading of the guide as `../../references/guide.md#triage-order`, to a rule in the same section as `hedges.md`, and to a rule in another section as `../claims/hedges.md`.
+The script `scripts/build_guide.py` builds `skills/camera-ready/references/guide.md` from the rule pages and from the template `scripts/guide.template.md`. The template holds the guide's section introductions and gives the order of the rules as lines of the form `{{claims/hedges}}`. Do not edit `guide.md` directly. To add a rule, write its page and add its line to the template. In a rule page, link to a heading of the guide as `../../guide.md#triage-order`, to a rule in the same section as `hedges.md`, and to a rule in another section as `../claims/hedges.md`.
 
 After changing a rule or the template, run `python3 scripts/build_guide.py`. The script also checks that every rule page appears in the template and that every link to a guide heading resolves. To run it on every commit, install [pre-commit](https://pre-commit.com) and run `pre-commit install` once in the repository. The CI workflow runs `python3 scripts/build_guide.py --check` on every push and fails if `guide.md` is out of date.
 

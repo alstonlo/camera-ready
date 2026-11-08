@@ -11,7 +11,7 @@ The guide has six sections:
 
 For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
 
-Each rule below opens with its name in bold, and the name links to the rule's own page in the `rules/` folder, which has one subfolder per section. The text after the name is the complete rule: follow it as written here. A rule's page starts with the same text and may continue with a Details section, which explains the rule and its harder cases, and an Examples section, which shows Bad and Good versions of a passage. A page never adds a requirement that the text here lacks. Open a rule's page only when the rule bears on the passage you are editing and the text here leaves you unsure how to apply it.
+Each rule below opens with its name in bold, and the name links to the rule's own page in the `references/rules/` folder, which has one subfolder per section. The text after the name is the complete rule: follow it as written here. A rule's page starts with the same text and may continue with a Details section, which explains the rule and its harder cases, and an Examples section, which shows Bad and Good versions of a passage. A page never adds a requirement that the text here lacks. Open a rule's page only when the rule bears on the passage you are editing and the text here leaves you unsure how to apply it.
 
 ## Story
 

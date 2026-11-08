@@ -1,7 +1,0 @@
-# Scope
-
-Evidence determines both a claim's scope and its confidence (plain or hedged). From broadest to narrowest, scope ranges from a guarantee ("X always holds"), through a systematic claim ("X generally happens across contexts") and a narrow claim ("X is best for settings V and W"), to an existence claim ("we find one case where X"). Choose the broadest scope and the most direct statement of confidence the evidence supports. When support is uncertain, leave the claim in place and flag it. This caution does not justify hedging or dropping a claim that the evidence does support; doing so would be [underclaiming](../../references/guide.md#failure-modes).
-
-Limit every headline claim to its conditions, datasets, and settings. Absolutes ("always", "unique") extend a claim to untested cases. A bare generic plural claims the whole class, so "Transformers fail to retrieve early tokens" asserts it of every Transformer. When the evidence covers only the models tested, write "the four Transformers we test fail to retrieve early tokens".
-
-A result reported without a comparison supports "X works", not "X is better" or "X is practical". Flag the missing baseline when the draft claims more. A qualitative example (a generated sample, a saliency map, a case study) supports only an existence claim. If the text offers it as evidence for a broader claim, it must say how the example was chosen (at random, as typical, or as the best case). Flag any missing account of that choice.

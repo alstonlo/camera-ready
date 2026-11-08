@@ -1,3 +1,0 @@
-# Idea-level cutting needs the author's request
-
-Cut or relocate ideas only when requested ("cut this to eight pages", "condense", or a hard length limit). Otherwise identify the candidate and leave it in place ("this paragraph is off-spine; cut it?"). This requirement covers every sentence containing something the author would miss: an idea, a result, a caveat, evidence, or a transition the argument needs. Reordering within a section to [build understanding early](../../references/guide.md#build-understanding-early) is a prose edit. Moving content between sections or out of the main text is relocation.

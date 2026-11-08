@@ -1,3 +1,0 @@
-# Cut intensifiers
-
-Words such as *very, quite, extremely,* and *highly* add no information. Give the [measurement](../../references/guide.md#plain-wording) instead. Words that soften a claim (*essentially, largely, somewhat, relatively*; "the gap is essentially closed") are [hedges](../../references/guide.md#hedges); apply the rules on hedges to them. Cut *Note that* and *It is worth noting that* unless they warn against a likely misreading. Use *obviously, clearly, trivially,* and *it is easy to see* only for a step in a derivation or proof that is routine for the reader outside the subfield. Cut them from empirical or comparative claims ("clearly outperforms"), and flag any step that is not routine or is used in place of an argument.

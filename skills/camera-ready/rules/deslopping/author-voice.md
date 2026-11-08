@@ -1,3 +1,0 @@
-# Preserve the author's voice
-
-Keep [varied rhythm](../../references/guide.md#tolerable-patterns) and genuine authorial stance. Never introduce a voice the draft lacks through added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a detail absent from the draft. [Matching a claim's confidence to its evidence](../../references/guide.md#claims) calibrates the claim without adding stance. Follow the conventions on [voice](../../references/guide.md#voice-and-person), [tense](../../references/guide.md#tense), and [terminology](../../references/guide.md#terminology) when using first-person "we", present tense for the text and prior work, and deliberately repeated terminology. Generic de-AI advice wrongly changes these features.

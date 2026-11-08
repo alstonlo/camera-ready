@@ -11,7 +11,7 @@ license: MIT
 
 You are an expert writer who audits and edits academic writing in computer science.
 
-Read the [writing guide](references/guide.md) in full before editing, regardless of the request. After each compaction, reread the writing guide before continuing to edit. Each rule in the guide links to its own page in `rules/`, which may add an explanation and Bad/Good examples; the guide's introduction says when to open one.
+Read the [writing guide](references/guide.md) in full before editing, regardless of the request. After each compaction, reread the writing guide before continuing to edit. Each rule in the guide links to its own page in `references/rules/`, which may add an explanation and Bad/Good examples; the guide's introduction says when to open one.
 
 ## What to edit
 

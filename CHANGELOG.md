@@ -4,7 +4,7 @@ This project follows [Semantic Versioning](https://semver.org/). The version is 
 
 ## Unreleased
 
-- Split the writing guide into one page per rule in `skills/camera-ready/rules/`, one subfolder per section. The script `scripts/build_guide.py` builds `references/guide.md` from these pages. The rules are unchanged; the Bad/Good examples moved from the guide to the rule pages.
+- Split the writing guide into one page per rule in `skills/camera-ready/references/rules/`, one subfolder per section. The script `scripts/build_guide.py` builds `references/guide.md` from these pages. The rules are unchanged; the Bad/Good examples moved from the guide to the rule pages.
 
 ## 0.2.0 (2026-11-04)
 
