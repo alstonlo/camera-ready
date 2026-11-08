@@ -10,34 +10,34 @@ An independent clause usually gives its content more prominence than a subordina
 
 The paragraph reports the kettle's boiling time.
 
-> Bad: The kettle boiled the water in 90 s with the lid on and the stove at full heat.
+> **Bad.** The kettle boiled the water in 90 s with the lid on and the stove at full heat.
 >
-> Good: With the lid on and the stove at full heat, the kettle boiled the water in 90 s.
+> **Good.** With the lid on and the stove at full heat, the kettle boiled the water in 90 s.
 
 The paragraph gives equal weight to heat loss and noise.
 
-> Bad: In these tests, the shield reduces heat loss and noise.
+> **Bad.** In these tests, the shield reduces heat loss and noise.
 >
-> Good: In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
+> **Good.** In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
 
 The rest of the paragraph explains the lid’s safety catch.
 
-> Bad: The safety catch is part of the lid. The catch prevents the lid from opening under pressure.
+> **Bad.** The safety catch is part of the lid. The catch prevents the lid from opening under pressure.
 >
-> Good: The lid includes a safety catch. The catch prevents the lid from opening under pressure.
+> **Good.** The lid includes a safety catch. The catch prevents the lid from opening under pressure.
 
 The draft treats the leak as a limitation as important as the faster flow; Bad subordinates it.
 
-> Bad: Although the joint leaks, it allows faster flow.
+> **Bad.** Although the joint leaks, it allows faster flow.
 >
-> Good: The joint leaks, but it allows faster flow.
+> **Good.** The joint leaks, but it allows faster flow.
 
-> Bad: The sensor works (only below 40 °C).
+> **Bad.** The sensor works (only below 40 °C).
 >
-> Good: The sensor works only below 40 °C.
+> **Good.** The sensor works only below 40 °C.
 
 The paragraph concerns boiling time; the model number is incidental.
 
-> Bad: The kettle (model K2) boils water in 90 s in this test.
+> **Bad.** The kettle (model K2) boils water in 90 s in this test.
 >
-> Good: In this test, the kettle (model K2) boils water in 90 s.
+> **Good.** In this test, the kettle (model K2) boils water in 90 s.

@@ -1,7 +1,7 @@
 import make_guide
 import pytest
 
-PAIR = "> Bad: We perform an evaluation of the model.\n>\n> Good: We evaluate the model."
+PAIR = "> **Bad.** We perform an evaluation of the model.\n>\n> **Good.** We evaluate the model."
 
 
 def page(*sections: str) -> str:
@@ -36,22 +36,32 @@ def test_valid_pages_render_only_title_and_summary(text: str):
         page("## Details", "More cases."),
         page("## Examples", "## Details", "More cases."),
         page("## Details", "", "## Examples", PAIR),
-        page("## Details", "More cases.", "## Examples", "> Bad: We perform an evaluation."),
+        page("## Details", "More cases.", "## Examples", "> **Bad.** We perform an evaluation."),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "> Good: We evaluate.\n>\n> Bad: We perform an evaluation.",
+            "> **Good.** We evaluate.\n>\n> **Bad.** We perform an evaluation.",
         ),
-        page("## Details", "More cases.", "## Examples", "> Bad: A.\n>\n> Bad: B.\n>\n> Good: C."),
-        page("## Details", "More cases.", "## Examples", "> Bad: A.\n\nContext.\n\n> Good: B."),
+        page(
+            "## Details",
+            "More cases.",
+            "## Examples",
+            "> **Bad.** A.\n>\n> **Bad.** B.\n>\n> **Good.** C.",
+        ),
+        page(
+            "## Details",
+            "More cases.",
+            "## Examples",
+            "> **Bad.** A.\n\nContext.\n\n> **Good.** B.",
+        ),
         page("## Details", "More cases.", "## Examples", PAIR, "Trailing context."),
         page(
             "## Details", "More cases.", "## Examples", "> Bad caption: A.\n>\n> Good caption: B."
         ),
-        page("## Details", "More cases.", "## Examples", "> Bad: Same.\n>\n> Good: Same."),
-        page("## Details", "More cases.", "## Examples", "- Bad: A.\n- Good: B."),
-        page("## Details", "More cases.", "## Examples", "> Bad: A.\n> Good: B."),
+        page("## Details", "More cases.", "## Examples", "> **Bad.** Same.\n>\n> **Good.** Same."),
+        page("## Details", "More cases.", "## Examples", "- **Bad.** A.\n- **Good.** B."),
+        page("## Details", "More cases.", "## Examples", "> **Bad.** A.\n> **Good.** B."),
     ],
 )
 def test_invalid_pages_fail(text: str):

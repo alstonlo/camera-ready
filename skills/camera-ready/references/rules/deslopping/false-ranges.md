@@ -4,22 +4,22 @@ When the endpoints of "from X to Y" do not lie on an ordered scale, the phrase s
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
 The draft tests the paint only on brick and metal.
 
-> Bad: We test the paint on surfaces ranging from brick to metal.
+> **Bad.** We test the paint on surfaces ranging from brick to metal.
 >
-> Good: We test the paint on brick and metal.
+> **Good.** We test the paint on brick and metal.
 
-> Bad: We test materials ranging from brick through wood to metal.
+> **Bad.** We test materials ranging from brick through wood to metal.
 >
-> Good: We test brick, wood, and metal.
+> **Good.** We test brick, wood, and metal.
 
 The draft tests only brick and metal.
 
-> Bad: We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
+> **Bad.** We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
 >
-> Good: We test brick and metal at 10–30 °C in 10 °C increments.
+> **Good.** We test brick and metal at 10–30 °C in 10 °C increments.

@@ -10,34 +10,34 @@ Keep conventional computing terms such as a model learning. When the draft descr
 
 ## Examples
 
-> Bad: The technician performs the weighing of each sample.
+> **Bad.** The technician performs the weighing of each sample.
 >
-> Good: The technician weighs each sample.
+> **Good.** The technician weighs each sample.
 
-> Bad: The technician’s inspection of the seal precedes the technician’s replacement of it.
+> **Bad.** The technician’s inspection of the seal precedes the technician’s replacement of it.
 >
-> Good: The technician inspects the seal before replacing it.
+> **Good.** The technician inspects the seal before replacing it.
 
-> Bad: We perform an evaluation of quantization.
+> **Bad.** We perform an evaluation of quantization.
 >
-> Good: We evaluate quantization.
+> **Good.** We evaluate quantization.
 
 The draft identifies the authors as the people detecting faint signals.
 
-> Bad: Noise fell after filtering. This reduction in noise permits the detection of faint signals.
+> **Bad.** Noise fell after filtering. This reduction in noise permits the detection of faint signals.
 >
-> Good: Noise fell after filtering. This reduction in noise permits us to detect faint signals.
+> **Good.** Noise fell after filtering. This reduction in noise permits us to detect faint signals.
 
-> Bad: The fact that the seal leaked delayed the test.
+> **Bad.** The fact that the seal leaked delayed the test.
 >
-> Good: The leak in the seal delayed the test.
+> **Good.** The leak in the seal delayed the test.
 
 The draft states that the recorder deletes readings after an hour.
 
-> Bad: The recorder forgets readings after an hour.
+> **Bad.** The recorder forgets readings after an hour.
 >
-> Good: The recorder deletes readings after an hour.
+> **Good.** The recorder deletes readings after an hour.
 
-> Bad: The results suggest that the coating causes a reduction in heat loss.
+> **Bad.** The results suggest that the coating causes a reduction in heat loss.
 >
-> Good: The results suggest that the coating reduces heat loss.
+> **Good.** The results suggest that the coating reduces heat loss.

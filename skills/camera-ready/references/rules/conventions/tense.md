@@ -8,70 +8,70 @@ Replace a relative date such as "last year" with the calendar date given in the 
 
 ## Examples
 
-> Bad: Section 6 will report the simulator's memory use.
+> **Bad.** Section 6 will report the simulator's memory use.
 >
-> Good: Section 6 reports the simulator's memory use.
+> **Good.** Section 6 reports the simulator's memory use.
 
 The draft consistently describes the method in present tense.
 
-> Bad: We rinse the seeds and dried them.
+> **Bad.** We rinse the seeds and dried them.
 >
-> Good: We rinse the seeds and dry them.
+> **Good.** We rinse the seeds and dry them.
 
 The draft consistently describes these experiments in past tense.
 
-> Bad: We rinsed the seeds and dry them.
+> **Bad.** We rinsed the seeds and dry them.
 >
-> Good: We rinsed the seeds and dried them.
+> **Good.** We rinsed the seeds and dried them.
 
 The draft describes a completed storm outside the experimental procedure.
 
-> Bad: A storm damages the greenhouse in 2020.
+> **Bad.** A storm damages the greenhouse in 2020.
 >
-> Good: A storm damaged the greenhouse in 2020.
+> **Good.** A storm damaged the greenhouse in 2020.
 
 The authors have not yet conducted the repeat study at the second site.
 
-> Bad: Section 3 will describe the pilot. We will repeat the pilot at a second site.
+> **Bad.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
 >
-> Good: Section 3 describes the pilot. We will repeat the pilot at a second site.
+> **Good.** Section 3 describes the pilot. We will repeat the pilot at a second site.
 
-> Bad: Table 2 has been listing the masses.
+> **Bad.** Table 2 has been listing the masses.
 >
-> Good: Table 2 lists the masses.
+> **Good.** Table 2 lists the masses.
 
-> Bad: The pump had stopped before we arrived. Section 3 will describe the damage.
+> **Bad.** The pump had stopped before we arrived. Section 3 will describe the damage.
 >
-> Good: The pump had stopped before we arrived. Section 3 describes the damage.
+> **Good.** The pump had stopped before we arrived. Section 3 describes the damage.
 
-> Bad: No study has tested this alloy in seawater. Section 2 will describe the gap.
+> **Bad.** No study has tested this alloy in seawater. Section 2 will describe the gap.
 >
-> Good: No study has tested this alloy in seawater. Section 2 describes the gap.
+> **Good.** No study has tested this alloy in seawater. Section 2 describes the gap.
 
-> Bad: Ortiz found that the lid was loose. Section 2 will discuss that finding.
+> **Bad.** Ortiz found that the lid was loose. Section 2 will discuss that finding.
 >
-> Good: Ortiz found that the lid was loose. Section 2 discusses that finding.
+> **Good.** Ortiz found that the lid was loose. Section 2 discusses that finding.
 
-> Bad: Section 5 will examine what would happen if the wall were thinner.
+> **Bad.** Section 5 will examine what would happen if the wall were thinner.
 >
-> Good: Section 5 examines what would happen if the wall were thinner.
+> **Good.** Section 5 examines what would happen if the wall were thinner.
 
-> Bad: No study had tested the alloy before Ortiz. Section 2 will discuss that study.
+> **Bad.** No study had tested the alloy before Ortiz. Section 2 will discuss that study.
 >
-> Good: No study had tested the alloy before Ortiz. Section 2 discusses that study.
+> **Good.** No study had tested the alloy before Ortiz. Section 2 discusses that study.
 
-> Bad: Section 6 will explain why future studies should test colder water.
+> **Bad.** Section 6 will explain why future studies should test colder water.
 >
-> Good: Section 6 explains why future studies should test colder water.
+> **Good.** Section 6 explains why future studies should test colder water.
 
 The draft dates the storm to 2023.
 
-> Bad: The storm occurred last year.
+> **Bad.** The storm occurred last year.
 >
-> Good: The storm occurred in 2023.
+> **Good.** The storm occurred in 2023.
 
 The draft presents both Ortiz's model and the freezing-point relation as continuing knowledge rather than historical events.
 
-> Bad: Ortiz's model described how salt lowered the freezing point.
+> **Bad.** Ortiz's model described how salt lowered the freezing point.
 >
-> Good: Ortiz's model describes how salt lowers the freezing point.
+> **Good.** Ortiz's model describes how salt lowers the freezing point.

@@ -4,34 +4,34 @@ Replace promises of deferred content and generic apologies about complexity with
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The weighing procedure requires a complex explanation. We weigh each empty jar before filling it.
+> **Bad.** The weighing procedure requires a complex explanation. We weigh each empty jar before filling it.
 >
-> Good: We weigh each empty jar before filling it.
+> **Good.** We weigh each empty jar before filling it.
 
 The draft names leaks and evaporation as the two sources of water loss.
 
-> Bad: Two sources of water loss are discussed later.
+> **Bad.** Two sources of water loss are discussed later.
 >
-> Good: Water is lost through leaks and evaporation.
+> **Good.** Water is lost through leaks and evaporation.
 
 The paragraph goes on to explain how insulation slows heat loss.
 
-> Bad: Insulation slows heat loss, and we explain how below.
+> **Bad.** Insulation slows heat loss, and we explain how below.
 >
-> Good: Insulation slows heat loss.
+> **Good.** Insulation slows heat loss.
 
-> Bad: We make two observations, which we discuss below. First, the lid bends. Second, the seal leaks.
+> **Bad.** We make two observations, which we discuss below. First, the lid bends. Second, the seal leaks.
 >
-> Good: We make two observations. First, the lid bends. Second, the seal leaks.
+> **Good.** We make two observations. First, the lid bends. Second, the seal leaks.
 
-> Bad: The definition is complicated. Lee counts cracked seeds as damaged; Patel counts only split seeds.
+> **Bad.** The definition is complicated. Lee counts cracked seeds as damaged; Patel counts only split seeds.
 >
-> Good: Lee counts cracked seeds as damaged; Patel counts only split seeds.
+> **Good.** Lee counts cracked seeds as damaged; Patel counts only split seeds.
 
-> Bad: This issue is complex. We have not defined partial failure, so these tests cannot distinguish it from complete failure.
+> **Bad.** This issue is complex. We have not defined partial failure, so these tests cannot distinguish it from complete failure.
 >
-> Good: We have not defined partial failure, so these tests cannot distinguish it from complete failure.
+> **Good.** We have not defined partial failure, so these tests cannot distinguish it from complete failure.

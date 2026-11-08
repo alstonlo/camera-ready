@@ -14,60 +14,60 @@ When the abstract depends on a cited work, identify that work within the abstrac
 
 This sentence is in the abstract, which already states the result supported by Section 5.
 
-> Bad: The filter removes all visible sand from the tested water samples (see Section 5 for this result).
+> **Bad.** The filter removes all visible sand from the tested water samples (see Section 5 for this result).
 >
-> Good: The filter removes all visible sand from the tested water samples.
+> **Good.** The filter removes all visible sand from the tested water samples.
 
 The Methods section defines the depth calibration needed to understand Results; Good is the section order proposed to the author.
 
-> Bad: Introduction; Results using depth calibration; Methods defining depth calibration; Discussion
+> **Bad.** Introduction; Results using depth calibration; Methods defining depth calibration; Discussion
 >
-> Good: Introduction; Methods defining depth calibration; Results using depth calibration; Discussion
+> **Good.** Introduction; Methods defining depth calibration; Results using depth calibration; Discussion
 
 The venue places Methods last; the draft states that depths come from calibrated echo times and gives the full procedure in Methods. Good is the proposed Results opening for the author.
 
-> Bad: The lake is 12 m deep at the sampling point.
+> **Bad.** The lake is 12 m deep at the sampling point.
 >
-> Good: We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
+> **Good.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
 
 The draft first reports its central result, that the lid halves water loss, in Results after the first quarter of the paper; Good is the proposed addition to the introduction for the author.
 
-> Bad: We test a lid to reduce water loss.
+> **Bad.** We test a lid to reduce water loss.
 >
-> Good: We test a lid to reduce water loss. The lid halves water loss in the tested tank.
+> **Good.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
 
 This draft is a proposal to measure salt removal; the experiment has not been performed. Good is the proposed account for the author.
 
-> Bad: We establish how much salt the filter removes.
+> **Bad.** We establish how much salt the filter removes.
 >
-> Good: We plan to measure how much salt the filter removes.
+> **Good.** We plan to measure how much salt the filter removes.
 
 The draft reports that the filter removes all visible sand from the tested samples; the abstract gives only a pointer. Good is the proposed abstract revision for the author.
 
-> Bad: The filter's result appears in Section 5.
+> **Bad.** The filter's result appears in Section 5.
 >
-> Good: The filter removes all visible sand from the tested samples.
+> **Good.** The filter removes all visible sand from the tested samples.
 
 The bibliography identifies [7] as Lee (2024), and the venue permits author-and-year citations in the abstract.
 
-> Bad: We test the filter introduced in [7].
+> **Bad.** We test the filter introduced in [7].
 >
-> Good: We test the filter introduced by Lee (2024).
+> **Good.** We test the filter introduced by Lee (2024).
 
 The draft calls its ceramic water filter Pebble; this abstract otherwise names neither the system nor the technique.
 
-> Bad: Pebble removes sand from water.
+> **Bad.** Pebble removes sand from water.
 >
-> Good: Pebble, a ceramic water filter, removes sand from water.
+> **Good.** Pebble, a ceramic water filter, removes sand from water.
 
 The survey draft reports that all six reviewed studies find lower heat loss with lids; Good is the proposed abstract statement for the author.
 
-> Bad: We review six studies of lids and heat loss.
+> **Bad.** We review six studies of lids and heat loss.
 >
-> Good: The six reviewed studies find lower heat loss with lids.
+> **Good.** The six reviewed studies find lower heat loss with lids.
 
 The draft describes a temperature-calibration procedure and its small validation result in Methods; a substantial drying procedure first appears in Results. Good is the proposed placement for the author.
 
-> Bad: Methods: temperature calibration and validation. Results: drying procedure and drying results.
+> **Bad.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
 >
-> Good: Methods: temperature calibration and validation; drying procedure. Results: drying results.
+> **Good.** Methods: temperature calibration and validation; drying procedure. Results: drying results.

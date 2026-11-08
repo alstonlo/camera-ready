@@ -9,15 +9,15 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 ## Details
 
-{{ Explanation, further cases, and procedures omitted from the summary for concision, or, if there are none, the sentence "This rule needs no details beyond its summary." }}
+{{ Explanation, further cases, and procedures omitted from the summary for concision, or, if there are none, the sentence "This rule has no further details." }}
 
 ## Examples
 
 {{ Optional context that the example needs. }}
 
-> Bad: {{ A passage that breaks the rule. }}
+> **Bad.** {{ A passage that breaks the rule. }}
 >
-> Good: {{ The same passage, corrected under this rule alone. }}
+> **Good.** {{ The same passage, corrected under this rule alone. }}
 ```
 
 The guide below reproduces each rule's heading and summary; each rule page adds `Details` and at least one example. Read a rule page in full when the rule applies to the text you are editing and the summary does not settle the edit, or when the summary names a case that its page covers. Each example illustrates one edit under its rule and does not widen what the request permits you to change.

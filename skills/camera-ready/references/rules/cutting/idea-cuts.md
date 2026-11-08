@@ -4,24 +4,24 @@ Delete or relocate substantive content only when the request authorizes condensa
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
 The author asks only for a polish, and the draft reads, "We weigh each sample twice because the scale sometimes drifts."
 
-> Bad: We weigh each sample twice.
+> **Bad.** We weigh each sample twice.
 >
-> Good: We weigh each sample twice because the scale sometimes drifts.
+> **Good.** We weigh each sample twice because the scale sometimes drifts.
 
 The author requests condensation, and the sundial is unrelated to any claim.
 
-> Bad: The test measures soil acidity. The garden also has a sundial.
+> **Bad.** The test measures soil acidity. The garden also has a sundial.
 >
-> Good: The test measures soil acidity.
+> **Good.** The test measures soil acidity.
 
 The author asks only for a polish, and the draft reads, "We dry the seeds overnight at 30 °C." Moving the temperature to Appendix A is an unauthorized relocation.
 
-> Bad: We dry the seeds overnight; see Appendix A for the procedure.
+> **Bad.** We dry the seeds overnight; see Appendix A for the procedure.
 >
-> Good: We dry the seeds overnight at 30 °C.
+> **Good.** We dry the seeds overnight at 30 °C.

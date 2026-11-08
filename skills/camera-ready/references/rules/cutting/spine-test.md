@@ -10,24 +10,24 @@ Testing whether a short title can summarize a section checks the section's subst
 
 The author requests a length cut in a paper that tests whether gravel reduces soil erosion and makes no claim about aquarium design.
 
-> Bad: Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
+> **Bad.** Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
 >
-> Good: Gravel reduces soil erosion in our tests.
+> **Good.** Gravel reduces soil erosion in our tests.
 
 The author requests a length cut. Preventing leaf entry is a core claim, whereas blocking grit is an ancillary extension.
 
-> Bad: The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
+> **Bad.** The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
 >
-> Good: The mesh prevents leaf entry. A finer mesh might also block grit.
+> **Good.** The mesh prevents leaf entry. A finer mesh might also block grit.
 
 The draft tests whether the mesh excludes debris and reports that it blocks leaves but lets sand through. A proposed cut removes the sand result as off-spine.
 
-> Bad: The mesh blocks leaves.
+> **Bad.** The mesh blocks leaves.
 >
-> Good: The mesh blocks leaves but lets sand through.
+> **Good.** The mesh blocks leaves but lets sand through.
 
 The author requests a length cut. A section of the draft reads, "The mesh blocks leaves. The pump draws 5 W.", and no short, specific title covers both points. A proposed cut deletes the sentence about the pump; Good is the proposed revision, with the competing points flagged.
 
-> Bad: The mesh blocks leaves.
+> **Bad.** The mesh blocks leaves.
 >
-> Good: The mesh blocks leaves. The pump draws 5 W.
+> **Good.** The mesh blocks leaves. The pump draws 5 W.

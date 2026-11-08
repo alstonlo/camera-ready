@@ -8,14 +8,14 @@ The covering test checks whether the reader has the prerequisites to understand 
 
 ## Examples
 
-> Bad: We measured the settling time for each mixture. Settling time is the time needed for solid particles in a liquid to sink to the bottom.
+> **Bad.** We measured the settling time for each mixture. Settling time is the time needed for solid particles in a liquid to sink to the bottom.
 >
-> Good: Settling time is the time needed for solid particles in a liquid to sink to the bottom. We measured the settling time for each mixture.
+> **Good.** Settling time is the time needed for solid particles in a liquid to sink to the bottom. We measured the settling time for each mixture.
 
-> Bad: A spring pushes the lid against a rubber ring. The lid seals the jar.
+> **Bad.** A spring pushes the lid against a rubber ring. The lid seals the jar.
 >
-> Good: The lid seals the jar. A spring pushes the lid against a rubber ring.
+> **Good.** The lid seals the jar. A spring pushes the lid against a rubber ring.
 
-> Bad: All six wet boards sagged; none of the dry boards did. Only wet boards sagged, suggesting that moisture weakens them.
+> **Bad.** All six wet boards sagged; none of the dry boards did. Only wet boards sagged, suggesting that moisture weakens them.
 >
-> Good: Only wet boards sagged, suggesting that moisture weakens them. All six wet boards sagged; none of the dry boards did.
+> **Good.** Only wet boards sagged, suggesting that moisture weakens them. All six wet boards sagged; none of the dry boards did.

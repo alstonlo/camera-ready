@@ -12,42 +12,42 @@ Propose a simpler mathematical condition only when the draft establishes that it
 
 The draft reports the bridge's response only in a simulation, with no measurements of the actual bridge; the revision is proposed to the author.
 
-> Bad: Under the tested load, the bridge bends by 2 cm.
+> **Bad.** Under the tested load, the bridge bends by 2 cm.
 >
-> Good: In the simulation, under the tested load, the bridge bends by 2 cm.
+> **Good.** In the simulation, under the tested load, the bridge bends by 2 cm.
 
 The draft's Theorem 2 proves uniqueness for positive stiffness.
 
-> Bad: The equilibrium is unique.
+> **Bad.** The equilibrium is unique.
 >
-> Good: By Theorem 2, the equilibrium is unique when stiffness is positive.
+> **Good.** By Theorem 2, the equilibrium is unique when stiffness is positive.
 
 The draft reports only that five tested mixtures settled within an hour.
 
-> Bad: Every mixture settles within an hour.
+> **Bad.** Every mixture settles within an hour.
 >
-> Good: Each of the five tested mixtures settles within an hour.
+> **Good.** Each of the five tested mixtures settles within an hour.
 
 The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors; the revision is proposed to the author.
 
-> Bad: The correlated errors in these sensors make Theorem 1 false.
+> **Bad.** The correlated errors in these sensors make Theorem 1 false.
 >
-> Good: The correlated errors in these sensors make Theorem 1 inapplicable here.
+> **Good.** The correlated errors in these sensors make Theorem 1 inapplicable here.
 
 The draft proves the convergence result only for positive step sizes.
 
-> Bad: Theorem 3 guarantees convergence for any step size.
+> **Bad.** Theorem 3 guarantees convergence for any step size.
 >
-> Good: Theorem 3 guarantees convergence for any positive step size.
+> **Good.** Theorem 3 guarantees convergence for any positive step size.
 
 The draft calculates the load from a static model and reports no simulation; the revision is proposed to the author.
 
-> Bad: The simulation gives a load of 6 N.
+> **Bad.** The simulation gives a load of 6 N.
 >
-> Good: The model calculation gives a load of 6 N.
+> **Good.** The model calculation gives a load of 6 N.
 
 The draft establishes that positivity makes the nonzero condition redundant for this bound; the revision is proposed to the author.
 
-> Bad: For positive, nonzero x, the bound holds.
+> **Bad.** For positive, nonzero x, the bound holds.
 >
-> Good: For positive x, the bound holds.
+> **Good.** For positive x, the bound holds.

@@ -4,22 +4,22 @@ Give each results paragraph one question and its answer, placing them as the [pa
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens the time to sprouting.
+> **Bad.** Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens the time to sprouting.
 >
-> Good: Soaking shortens the time to sprouting. Seeds sprout in 4 days after soaking and 7 days without soaking.
+> **Good.** Soaking shortens the time to sprouting. Seeds sprout in 4 days after soaking and 7 days without soaking.
 
 The two findings answer independent questions; the paragraph break in Good separates them.
 
-> Bad: Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking. Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
+> **Bad.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking. Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
 >
-> Good: Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.<br><br>Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
+> **Good.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.<br><br>Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
 
 The opening question states the experiment's actual research question.
 
-> Bad: Does soaking shorten sprouting time? Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens sprouting time.
+> **Bad.** Does soaking shorten sprouting time? Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens sprouting time.
 >
-> Good: Does soaking shorten sprouting time? Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.
+> **Good.** Does soaking shorten sprouting time? Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.

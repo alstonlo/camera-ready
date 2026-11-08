@@ -8,52 +8,52 @@ An appositive names the same thing as the preceding noun, and a clear participia
 
 ## Examples
 
-> Bad: The new tap is effective: it reduces water use by 18%.
+> **Bad.** The new tap is effective: it reduces water use by 18%.
 >
-> Good: The new tap reduces water use by 18%.
+> **Good.** The new tap reduces water use by 18%.
 
 The draft measures the lid only by whether it leaks.
 
-> Bad: The lid works well: no leaks at 10 °C, 20 °C, or 30 °C.
+> **Bad.** The lid works well: no leaks at 10 °C, 20 °C, or 30 °C.
 >
-> Good: The lid does not leak at 10 °C, 20 °C, or 30 °C.
+> **Good.** The lid does not leak at 10 °C, 20 °C, or 30 °C.
 
 The draft uses the lack of escaping water as evidence that the seal works.
 
-> Bad: The seal works; no water escapes during the pressure test.
+> **Bad.** The seal works; no water escapes during the pressure test.
 >
-> Good: The seal works, as shown by the absence of escaping water during the pressure test.
+> **Good.** The seal works, as shown by the absence of escaping water during the pressure test.
 
-> Bad: The box weighs 4 kg; the lid weighs 1 kg, below the limit.
+> **Bad.** The box weighs 4 kg; the lid weighs 1 kg, below the limit.
 >
-> Good: The box weighs 4 kg; the lid weighs 1 kg, which is below the limit.
+> **Good.** The box weighs 4 kg; the lid weighs 1 kg, which is below the limit.
 
-> Bad: The lamp has one fault: its battery supplies 2 V, below the required voltage.
+> **Bad.** The lamp has one fault: its battery supplies 2 V, below the required voltage.
 >
-> Good: The lamp has one fault: its battery supplies 2 V, which is below the required voltage.
+> **Good.** The lamp has one fault: its battery supplies 2 V, which is below the required voltage.
 
-> Bad: We pack three tools: a ruler, a brush, and a tray. The load is 2 kg, below the limit.
+> **Bad.** We pack three tools: a ruler, a brush, and a tray. The load is 2 kg, below the limit.
 >
-> Good: We pack three tools: a ruler, a brush, and a tray. The load is 2 kg, which is below the limit.
+> **Good.** We pack three tools: a ruler, a brush, and a tray. The load is 2 kg, which is below the limit.
 
 The draft reports simultaneous events but gives no causal explanation.
 
-> Bad: The valve opens: the lamp turns green.
+> **Bad.** The valve opens: the lamp turns green.
 >
-> Good: The valve opens; the lamp turns green.
+> **Good.** The valve opens; the lamp turns green.
 
-> Bad: The jar contains three metals: iron and copper.
+> **Bad.** The jar contains three metals: iron and copper.
 >
-> Good: The jar contains three metals, including iron and copper.
+> **Good.** The jar contains three metals, including iron and copper.
 
-> Bad: The tray, a steel rectangle, weighs 2 kg, below the limit.
+> **Bad.** The tray, a steel rectangle, weighs 2 kg, below the limit.
 >
-> Good: The tray, a steel rectangle, weighs 2 kg, which is below the limit.
+> **Good.** The tray, a steel rectangle, weighs 2 kg, which is below the limit.
 
-> Bad: The pump runs, filling the tank. It draws 5 W, below the limit.
+> **Bad.** The pump runs, filling the tank. It draws 5 W, below the limit.
 >
-> Good: The pump runs, filling the tank. It draws 5 W, which is below the limit.
+> **Good.** The pump runs, filling the tank. It draws 5 W, which is below the limit.
 
-> Bad: The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
+> **Bad.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
 >
-> Good: The tank holds 5 L, the bottle 1 L. The test uses 2 L, which is below the capacity of the tank.
+> **Good.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, which is below the capacity of the tank.

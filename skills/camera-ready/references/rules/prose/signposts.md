@@ -8,36 +8,36 @@ To check a retained roadmap, compare the items it promises, in order, against th
 
 ## Examples
 
-> Bad: Section 4 describes the filter. The filter traps particles larger than 5 micrometers.
+> **Bad.** Section 4 describes the filter. The filter traps particles larger than 5 micrometers.
 >
-> Good: The filter (Section 4) traps particles larger than 5 micrometers.
+> **Good.** The filter (Section 4) traps particles larger than 5 micrometers.
 
-> Bad: The seal leaks above 20 kPa (Table 3). Section 7 concludes.
+> **Bad.** The seal leaks above 20 kPa (Table 3). Section 7 concludes.
 >
-> Good: The seal leaks above 20 kPa (Table 3).
+> **Good.** The seal leaks above 20 kPa (Table 3).
 
 This section has the subheadings “Heat test” and “Pressure test”; ↵ marks line breaks.
 
-> Bad: This section covers the heat test and the pressure test. ↵ **Heat test.** The seal survives heating.
+> **Bad.** This section covers the heat test and the pressure test. ↵ **Heat test.** The seal survives heating.
 >
-> Good: **Heat test.** The seal survives heating.
+> **Good.** **Heat test.** The seal survives heating.
 
-> Bad: The point to which we now turn, and toward which the preceding discussion has been building, concerns the lid. The lid leaks above 20 kPa.
+> **Bad.** The point to which we now turn, and toward which the preceding discussion has been building, concerns the lid. The lid leaks above 20 kPa.
 >
-> Good: The lid leaks above 20 kPa.
+> **Good.** The lid leaks above 20 kPa.
 
 At the end of the introduction, the draft’s headings place drying in Section 2 and weighing in Section 3.
 
-> Bad: Section 2 describes weighing; Section 3 describes drying.
+> **Bad.** Section 2 describes weighing; Section 3 describes drying.
 >
-> Good: Section 2 describes drying; Section 3 describes weighing.
+> **Good.** Section 2 describes drying; Section 3 describes weighing.
 
 The draft has two tests, heating and freezing, and no cooling test.
 
-> Bad: The next section presents three tests: heating and cooling.
+> **Bad.** The next section presents three tests: heating and cooling.
 >
-> Good: The next section presents two tests: heating and freezing.
+> **Good.** The next section presents two tests: heating and freezing.
 
-> Bad: Heat loss is at most 5 W, as proved in Appendix A. The next section presents the measurements. Measured heat loss is 4 W.
+> **Bad.** Heat loss is at most 5 W, as proved in Appendix A. The next section presents the measurements. Measured heat loss is 4 W.
 >
-> Good: Heat loss is at most 5 W, as proved in Appendix A. Measured heat loss is 4 W.
+> **Good.** Heat loss is at most 5 W, as proved in Appendix A. Measured heat loss is 4 W.

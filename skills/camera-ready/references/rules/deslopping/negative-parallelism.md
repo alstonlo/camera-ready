@@ -4,24 +4,24 @@ Replace constructions such as "not only … but also" and "It is not just X, it 
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The lid is not only removable but also washable.
+> **Bad.** The lid is not only removable but also washable.
 >
-> Good: The lid is removable and washable.
+> **Good.** The lid is removable and washable.
 
-> Bad: The lid is not just a cover; it reduces evaporation by 20%.
+> **Bad.** The lid is not just a cover; it reduces evaporation by 20%.
 >
-> Good: The lid reduces evaporation by 20%.
+> **Good.** The lid reduces evaporation by 20%.
 
 The draft attributes the reduction to the lid.
 
-> Bad: The headline is not the lid. The real story is the 20% reduction in evaporation.
+> **Bad.** The headline is not the lid. The real story is the 20% reduction in evaporation.
 >
-> Good: The lid reduces evaporation by 20%.
+> **Good.** The lid reduces evaporation by 20%.
 
-> Bad: We measure mass, not volume, and record not only the mass but also the temperature.
+> **Bad.** We measure mass, not volume, and record not only the mass but also the temperature.
 >
-> Good: We measure mass, not volume, and record the mass and the temperature.
+> **Good.** We measure mass, not volume, and record the mass and the temperature.

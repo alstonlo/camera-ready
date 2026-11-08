@@ -8,24 +8,24 @@ Also delete offers to continue, disclaimers about the assistant's status, and di
 
 ## Examples
 
-> Bad: Certainly! The freezer holds twelve trays.
+> **Bad.** Certainly! The freezer holds twelve trays.
 >
-> Good: The freezer holds twelve trays.
+> **Good.** The freezer holds twelve trays.
 
-> Bad: The freezer holds twelve trays. Let me know if you need more details.
+> **Bad.** The freezer holds twelve trays. Let me know if you need more details.
 >
-> Good: The freezer holds twelve trays.
+> **Good.** The freezer holds twelve trays.
 
-> Bad: Here is the paragraph you requested. The freezer holds twelve trays.
+> **Bad.** Here is the paragraph you requested. The freezer holds twelve trays.
 >
-> Good: The freezer holds twelve trays.
+> **Good.** The freezer holds twelve trays.
 
-> Bad: As an AI assistant, I cannot visit the lab. The freezer holds twelve trays.
+> **Bad.** As an AI assistant, I cannot visit the lab. The freezer holds twelve trays.
 >
-> Good: The freezer holds twelve trays.
+> **Good.** The freezer holds twelve trays.
 
 The paper analyzes responses to the quoted prompt.
 
-> Bad: Certainly! The test prompt is "Great question!".
+> **Bad.** Certainly! The test prompt is "Great question!".
 >
-> Good: The test prompt is "Great question!".
+> **Good.** The test prompt is "Great question!".

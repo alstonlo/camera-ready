@@ -4,10 +4,10 @@ State the finding in words before the number that supports it, then refer to the
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
+> **Bad.** The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
 >
-> Good: The new brakes shorten stopping distance: the average stopping distance falls from 18 m to 12 m.
+> **Good.** The new brakes shorten stopping distance: the average stopping distance falls from 18 m to 12 m.

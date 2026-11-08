@@ -4,26 +4,26 @@ In the paper, replace accounts of manuscript revisions (diff-anchored prose), su
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: As requested by the reviewer, we add that each jar contains 200 mL of water.
+> **Bad.** As requested by the reviewer, we add that each jar contains 200 mL of water.
 >
-> Good: Each jar contains 200 mL of water.
+> **Good.** Each jar contains 200 mL of water.
 
-> Bad: In this revision, we explain that we weigh twice because the scale drifts.
+> **Bad.** In this revision, we explain that we weigh twice because the scale drifts.
 >
-> Good: We weigh twice because the scale drifts.
+> **Good.** We weigh twice because the scale drifts.
 
 The study compares two pump designs.
 
-> Bad: As requested by the reviewer, we note that the second pump design uses less power than the first.
+> **Bad.** As requested by the reviewer, we note that the second pump design uses less power than the first.
 >
-> Good: The second pump design uses less power than the first.
+> **Good.** The second pump design uses less power than the first.
 
 The labels identify excerpts from the response letter and the paper.
 
-> Bad: Reviewer response: We added the calibration test. Manuscript: In this revision, we report a calibration error of 2%.
+> **Bad.** Reviewer response: We added the calibration test. Manuscript: In this revision, we report a calibration error of 2%.
 >
-> Good: Reviewer response: We added the calibration test. Manuscript: We report a calibration error of 2%.
+> **Good.** Reviewer response: We added the calibration test. Manuscript: We report a calibration error of 2%.

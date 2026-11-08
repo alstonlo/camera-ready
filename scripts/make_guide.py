@@ -14,7 +14,7 @@ LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
 RULE_LINK = re.compile(r"\brules/([a-z0-9-]+/[a-z0-9-]+)\.md\)")
 HEADS = ["## Details", "## Examples"]
-PAIR = re.compile(r"> (Bad|Good): \S")
+PAIR = re.compile(r"> \*\*(Bad|Good)\.\*\* (\S.*)")
 ITEM = re.compile(r"\s*([-*+>]|\d+\.)")
 
 
@@ -24,18 +24,19 @@ def fail(msg: str):
 
 def check_examples(name: str, examples: str):
     lines = [line for line in examples.splitlines() if line.strip()]
+    pairs = [PAIR.match(line) for line in lines]
     kinds = "".join(
-        line[2] if PAIR.match(line) else "s" if line == ">" else "x" if ITEM.match(line) else "c"
-        for line in lines
+        m[1][0] if m else "s" if line == ">" else "x" if ITEM.match(line) else "c"
+        for line, m in zip(lines, pairs)
     )
     if not re.fullmatch(r"(c*BsG)+", kinds):
         fail(
-            f"{name}.md: each example must be a quote of '> Bad: ...', '>', and '> Good: ...' "
-            "lines, optionally preceded by context lines"
+            f"{name}.md: each example must be a quote of '> **Bad.** ...', '>', and "
+            "'> **Good.** ...' lines, optionally preceded by context lines"
         )
 
     for i in (m.start() for m in re.finditer("B", kinds)):
-        if lines[i][7:].strip() == lines[i + 2][8:].strip():
+        if pairs[i][2].strip() == pairs[i + 2][2].strip():
             fail(f"{name}.md: an example's Good passage repeats its Bad passage")
 
 

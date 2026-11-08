@@ -14,62 +14,62 @@ When a passage moves from a cited source's claims to the paper's own interpretat
 
 The draft uses natbib and cites the single-author paper ortiz2025.
 
-> Bad: \citep{ortiz2025} compares two methods for measuring rainfall.
+> **Bad.** \citep{ortiz2025} compares two methods for measuring rainfall.
 >
-> Good: \citet{ortiz2025} compares two methods for measuring rainfall.
+> **Good.** \citet{ortiz2025} compares two methods for measuring rainfall.
 
 The draft uses natbib and states that the extension concerns Ortiz's method.
 
-> Bad: We extend \citep{ortiz2025}.
+> **Bad.** We extend \citep{ortiz2025}.
 >
-> Good: We extend the method of \citet{ortiz2025}.
+> **Good.** We extend the method of \citet{ortiz2025}.
 
 The draft asserts this established result and uses natbib.
 
-> Bad: In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
+> **Bad.** In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
 >
-> Good: This salt dissolves in water~\citep{ortiz2025}.
+> **Good.** This salt dissolves in water~\citep{ortiz2025}.
 
 The draft assigns the shrinking result to ortiz2025 and the decay result to patel2024.
 
-> Bad: Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
+> **Bad.** Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
 >
-> Good: Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
+> **Good.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
 
 The draft indicates that the cooling hypothesis belongs to the present authors, not to Ortiz; the Good line proposes clarifying the attribution for the author.
 
-> Bad: Ortiz reports that the shell shrinks. Cooling may reduce this effect.
+> **Bad.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
 >
-> Good: Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
+> **Good.** Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
 
-> Bad: The salt has~\citep{ortiz2025} dissolved in water.
+> **Bad.** The salt has~\citep{ortiz2025} dissolved in water.
 >
-> Good: The salt has dissolved in water~\citep{ortiz2025}.
+> **Good.** The salt has dissolved in water~\citep{ortiz2025}.
 
-> Bad: The shell shrinks \citep{ortiz2025}.
+> **Bad.** The shell shrinks \citep{ortiz2025}.
 >
-> Good: The shell shrinks~\citep{ortiz2025}.
+> **Good.** The shell shrinks~\citep{ortiz2025}.
 
 The draft uses biblatex, which provides `\textcite` for textual citations and `\parencite` for parenthetical ones.
 
-> Bad: \parencite{ortiz2025} describes the apparatus.
+> **Bad.** \parencite{ortiz2025} describes the apparatus.
 >
-> Good: \textcite{ortiz2025} describes the apparatus.
+> **Good.** \textcite{ortiz2025} describes the apparatus.
 
 The cited paper has two authors, Ortiz and Patel.
 
-> Bad: Ortiz et al. describe the apparatus.
+> **Bad.** Ortiz et al. describe the apparatus.
 >
-> Good: Ortiz and Patel describe the apparatus.
+> **Good.** Ortiz and Patel describe the apparatus.
 
 The cited paper has three authors.
 
-> Bad: Ortiz et. al describe the apparatus.
+> **Bad.** Ortiz et. al describe the apparatus.
 >
-> Good: Ortiz et al. describe the apparatus.
+> **Good.** Ortiz et al. describe the apparatus.
 
 The cited paper has three authors.
 
-> Bad: Ortiz *et al.* describe the apparatus.
+> **Bad.** Ortiz *et al.* describe the apparatus.
 >
-> Good: Ortiz et al. describe the apparatus.
+> **Good.** Ortiz et al. describe the apparatus.

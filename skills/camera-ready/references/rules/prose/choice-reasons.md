@@ -10,24 +10,24 @@ Check whether the draft explains nonstandard transformations, sample-preparation
 
 The draft states that amber bottles block light that breaks down the dye.
 
-> Bad: We use amber bottles for various reasons.
+> **Bad.** We use amber bottles for various reasons.
 >
-> Good: We use amber bottles because they block light that breaks down the dye.
+> **Good.** We use amber bottles because they block light that breaks down the dye.
 
 The draft lists heat, light, and moisture as the three damaging exposures.
 
-> Bad: We protect the film from heat, light, etc.
+> **Bad.** We protect the film from heat, light, etc.
 >
-> Good: We protect the film from heat, light, and moisture.
+> **Good.** We protect the film from heat, light, and moisture.
 
 The claim depends on the 5 min rinse, and the draft states elsewhere that shorter rinses leave salt on the glass.
 
-> Bad: We rinse each slide for 5 min.
+> **Bad.** We rinse each slide for 5 min.
 >
-> Good: We rinse each slide for 5 min because shorter rinses leave salt on the glass.
+> **Good.** We rinse each slide for 5 min because shorter rinses leave salt on the glass.
 
 The draft states that the cloth prevents scratches.
 
-> Bad: We label the jars 1, 2, 3, etc., and wrap them in cloth for various reasons.
+> **Bad.** We label the jars 1, 2, 3, etc., and wrap them in cloth for various reasons.
 >
-> Good: We label the jars 1, 2, 3, etc., and wrap them in cloth to prevent scratches.
+> **Good.** We label the jars 1, 2, 3, etc., and wrap them in cloth to prevent scratches.

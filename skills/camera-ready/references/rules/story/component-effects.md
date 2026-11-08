@@ -12,60 +12,60 @@ An answer to an objection may supply contrary evidence, point out assumptions th
 
 The draft compares bare soil with soil covered by both compost and straw, without testing either material alone; Good is the proposed revision for the author.
 
-> Bad: Compost reduces water loss by 15%.
+> **Bad.** Compost reduces water loss by 15%.
 >
-> Good: Compost and straw together reduce water loss by 15%.
+> **Good.** Compost and straw together reduce water loss by 15%.
 
 The draft reports that removing the mesh while keeping the frame unchanged doubles sediment passage; Good is the proposed revision for the author.
 
-> Bad: The framed mesh reduces sediment passage.
+> **Bad.** The framed mesh reduces sediment passage.
 >
-> Good: The mesh reduces sediment passage: removing it while keeping the frame unchanged doubles sediment passage.
+> **Good.** The mesh reduces sediment passage: removing it while keeping the frame unchanged doubles sediment passage.
 
 The draft reports that the combined coating reduces leaks, but it does not test whether the resin fills pores; Good is the proposed revision for the author.
 
-> Bad: The combined coating reduces leaks because the resin fills pores.
+> **Bad.** The combined coating reduces leaks because the resin fills pores.
 >
-> Good: We conjecture that the combined coating reduces leaks because the resin fills pores.
+> **Good.** We conjecture that the combined coating reduces leaks because the resin fills pores.
 
 The draft reports that the fertilized field also received more rain, but it never discusses rain as an explanation; Good is the proposed revision for the author.
 
-> Bad: The fertilized field yields 20% more grain, so the fertilizer raises yield.
+> **Bad.** The fertilized field yields 20% more grain, so the fertilizer raises yield.
 >
-> Good: The fertilized field yields 20% more grain but also received more rain, so the fertilizer, the rain, or both may raise yield.
+> **Good.** The fertilized field yields 20% more grain but also received more rain, so the fertilizer, the rain, or both may raise yield.
 
 The draft reports that both groups start with equal moisture, which addresses the stated rival explanation; Good is the proposed revision for the author.
 
-> Bad: The pots with covers lose less water. Unequal starting moisture cannot explain this because the pots with covers lose less water.
+> **Bad.** The pots with covers lose less water. Unequal starting moisture cannot explain this because the pots with covers lose less water.
 >
-> Good: The pots with covers lose less water. Unequal starting moisture cannot explain this because both groups start with equal moisture.
+> **Good.** The pots with covers lose less water. Unequal starting moisture cannot explain this because both groups start with equal moisture.
 
 The draft notes that the counterexample concerns saltwater, whereas the claim covers freshwater only; Good is the proposed revision for the author.
 
-> Bad: The coating works in freshwater. Its failure in saltwater does not challenge this claim because the coating works in freshwater.
+> **Bad.** The coating works in freshwater. Its failure in saltwater does not challenge this claim because the coating works in freshwater.
 >
-> Good: The coating works in freshwater. Its failure in saltwater does not challenge this claim because the claim concerns freshwater only.
+> **Good.** The coating works in freshwater. Its failure in saltwater does not challenge this claim because the claim concerns freshwater only.
 
 The draft reports a failed repeat trial and states that the reason for the failure is unresolved; Good is the proposed revision for the author.
 
-> Bad: The first trial supports the effect. The failed repeat trial does not matter because the first trial supports the effect.
+> **Bad.** The first trial supports the effect. The failed repeat trial does not matter because the first trial supports the effect.
 >
-> Good: The first trial supports the effect. The failed repeat trial leaves the effect uncertain because the reason for the failure is unresolved.
+> **Good.** The first trial supports the effect. The failed repeat trial leaves the effect uncertain because the reason for the failure is unresolved.
 
 The draft reports that removing the mesh increases sediment passage even though the remaining gravel still removes some sediment; Good is the proposed revision for the author.
 
-> Bad: The mesh improves sediment removal because no sediment can be removed without it.
+> **Bad.** The mesh improves sediment removal because no sediment can be removed without it.
 >
-> Good: The mesh improves sediment removal because removing it increases sediment passage.
+> **Good.** The mesh improves sediment removal because removing it increases sediment passage.
 
 The draft varies mesh spacing while holding the frame and flow fixed, and it reports less sediment passage at smaller spacings; Good is the proposed revision for the author.
 
-> Bad: The frame explains the lower sediment passage at smaller mesh spacings.
+> **Bad.** The frame explains the lower sediment passage at smaller mesh spacings.
 >
-> Good: The smaller mesh spacing explains the lower sediment passage while the frame and flow stay fixed.
+> **Good.** The smaller mesh spacing explains the lower sediment passage while the frame and flow stay fixed.
 
 The draft tests all four combinations of lid and fan and reports that the fan reduces drying time only without the lid; Good is the proposed revision for the author.
 
-> Bad: The fan reduces drying time regardless of the lid.
+> **Bad.** The fan reduces drying time regardless of the lid.
 >
-> Good: The fan reduces drying time only without the lid.
+> **Good.** The fan reduces drying time only without the lid.

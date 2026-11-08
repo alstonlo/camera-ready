@@ -14,48 +14,48 @@ For proprietary products, retain the distinction between documented capabilities
 
 The draft states that Lee et al. deliberately limited their study to summer rainfall; Good is the proposed revision for the author.
 
-> Bad: Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
+> **Bad.** Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
 >
-> Good: Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
+> **Good.** Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
 
 The draft states that Lee's screen blocks adult flies and that the new screen also blocks small flies; Good is the proposed ending for the author.
 
-> Bad: Lee's screen blocks adult flies. Our screen differs from Lee's.
+> **Bad.** Lee's screen blocks adult flies. Our screen differs from Lee's.
 >
-> Good: Lee's screen blocks adult flies. Our screen also blocks small flies.
+> **Good.** Lee's screen blocks adult flies. Our screen also blocks small flies.
 
 The draft credits Lee with measuring heat loss in dry wool and limits the present comparison to wet wool; Good is the proposed revision for the author.
 
-> Bad: Lee's measurements do not cover wet wool; ours do. Lee measures heat loss in dry wool.
+> **Bad.** Lee's measurements do not cover wet wool; ours do. Lee measures heat loss in dry wool.
 >
-> Good: Lee measures heat loss in dry wool. Lee's measurements do not cover wet wool; ours do.
+> **Good.** Lee measures heat loss in dry wool. Lee's measurements do not cover wet wool; ours do.
 
 The draft attributes a tentative interpretation to Lee and reports the authors' direct measurements separately; Good is the proposed revision for the author.
 
-> Bad: Lee shows that cracks may explain the leakage; we measure leakage directly.
+> **Bad.** Lee shows that cracks may explain the leakage; we measure leakage directly.
 >
-> Good: Lee suggests that cracks may explain the leakage; we measure leakage directly.
+> **Good.** Lee suggests that cracks may explain the leakage; we measure leakage directly.
 
 The draft reports Lee's concession about coating cost rather than endorsing that judgment; Good is the proposed revision for the author.
 
-> Bad: Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
+> **Bad.** Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
 >
-> Good: Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
+> **Good.** Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
 
 The draft reports that Lee raises and answers an objection about heavy batteries, whereas the present study tests light batteries; Good is the proposed revision for the author.
 
-> Bad: Heavy batteries rule out flight. Lee rejects this objection; we test light batteries.
+> **Bad.** Heavy batteries rule out flight. Lee rejects this objection; we test light batteries.
 >
-> Good: Lee considers the objection that heavy batteries rule out flight. Lee rejects this objection; we test light batteries.
+> **Good.** Lee considers the objection that heavy batteries rule out flight. Lee rejects this objection; we test light batteries.
 
 The survey draft reports that Lee and Rao both measure only summer rainfall; Good is the proposed synthesis for the author.
 
-> Bad: Lee measures summer rainfall. Rao also measures summer rainfall.
+> **Bad.** Lee measures summer rainfall. Rao also measures summer rainfall.
 >
-> Good: Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
+> **Good.** Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
 
 The draft documents that a commercial filter removes salt and notes that its internal design is undisclosed; Good is the proposed comparison for the author.
 
-> Bad: The commercial filter removes salt with the same membrane as ours; our membrane design is public.
+> **Bad.** The commercial filter removes salt with the same membrane as ours; our membrane design is public.
 >
-> Good: The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.
+> **Good.** The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.

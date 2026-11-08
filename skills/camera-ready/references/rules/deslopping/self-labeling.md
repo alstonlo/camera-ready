@@ -4,22 +4,22 @@ Delete a sentence that merely labels an earlier result important or surprising (
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The covered pond loses half as much water as the uncovered pond. This is the key result.
+> **Bad.** The covered pond loses half as much water as the uncovered pond. This is the key result.
 >
-> Good: The covered pond loses half as much water as the uncovered pond.
+> **Good.** The covered pond loses half as much water as the uncovered pond.
 
 The draft states that fitting through the door allows transport without disassembly.
 
-> Bad: The tray fits through the door. This is an important result.
+> **Bad.** The tray fits through the door. This is an important result.
 >
-> Good: The tray fits through the door, allowing transport without disassembly.
+> **Good.** The tray fits through the door, allowing transport without disassembly.
 
 The draft expresses surprise in its opening word.
 
-> Bad: Surprisingly, the dry seeds sprout first. This is a surprising result.
+> **Bad.** Surprisingly, the dry seeds sprout first. This is a surprising result.
 >
-> Good: Surprisingly, the dry seeds sprout first.
+> **Good.** Surprisingly, the dry seeds sprout first.

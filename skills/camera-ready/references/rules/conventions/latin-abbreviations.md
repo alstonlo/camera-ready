@@ -4,28 +4,28 @@ Use "i.e." to mean "that is" and "e.g." to mean "for example"; never interchange
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: Some fruits are rich in vitamin C, i.e., oranges and kiwis.
+> **Bad.** Some fruits are rich in vitamin C, i.e., oranges and kiwis.
 >
-> Good: Some fruits are rich in vitamin C, e.g., oranges and kiwis.
+> **Good.** Some fruits are rich in vitamin C, e.g., oranges and kiwis.
 
-> Bad: We test both states, e.g., open and closed.
+> **Bad.** We test both states, e.g., open and closed.
 >
-> Good: We test both states, i.e., open and closed.
+> **Good.** We test both states, i.e., open and closed.
 
 The draft uses US style.
 
-> Bad: We test porous materials, e.g. cork.
+> **Bad.** We test porous materials, e.g. cork.
 >
-> Good: We test porous materials, e.g., cork.
+> **Good.** We test porous materials, e.g., cork.
 
-> Bad: We test porous materials, *e.g.*, cork.
+> **Bad.** We test porous materials, *e.g.*, cork.
 >
-> Good: We test porous materials, e.g., cork.
+> **Good.** We test porous materials, e.g., cork.
 
-> Bad: For the full protocol, cf. Section 2.
+> **Bad.** For the full protocol, cf. Section 2.
 >
-> Good: For the full protocol, see Section 2.
+> **Good.** For the full protocol, see Section 2.

@@ -8,10 +8,10 @@ A comparison that alternates between methods follows this structure only when it
 
 ## Examples
 
-> Bad: The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
+> **Bad.** The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
 >
-> Good: The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
+> **Good.** The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
 
-> Bad: For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
+> **Bad.** For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
 >
-> Good: For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.
+> **Good.** For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.

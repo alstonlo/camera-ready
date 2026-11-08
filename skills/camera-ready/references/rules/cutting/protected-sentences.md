@@ -15,90 +15,90 @@ Before treating two results as redundant, check whether they cover different con
 
 The draft reports that the fertilizer increases growth in wet soil and reduces it in dry soil.
 
-> Bad: The fertilizer increases growth in wet soil.
+> **Bad.** The fertilizer increases growth in wet soil.
 >
-> Good: The fertilizer increases growth in wet soil. It reduces growth in dry soil.
+> **Good.** The fertilizer increases growth in wet soil. It reduces growth in dry soil.
 
 The draft's caption ends by crediting the adapted diagram to Rao et al. (2022) and noting permission to reuse it.
 
-> Bad: The roots (brown) spread wider than the leaves (green).
+> **Bad.** The roots (brown) spread wider than the leaves (green).
 >
-> Good: The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
+> **Good.** The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
 
 A proposed cut removes "In fresh water" and "may" from the draft.
 
-> Bad: The coating slows corrosion.
+> **Bad.** The coating slows corrosion.
 >
-> Good: In fresh water, the coating may slow corrosion.
+> **Good.** In fresh water, the coating may slow corrosion.
 
 A proposed cut removes a limitation stated in the draft.
 
-> Bad: The trial includes twelve adults.
+> **Bad.** The trial includes twelve adults.
 >
-> Good: The trial includes twelve adults and cannot establish effects in children.
+> **Good.** The trial includes twelve adults and cannot establish effects in children.
 
 The draft explains that each sample is weighed twice because the scale drifts.
 
-> Bad: We weigh each sample twice.
+> **Bad.** We weigh each sample twice.
 >
-> Good: We weigh each sample twice because the scale drifts.
+> **Good.** We weigh each sample twice because the scale drifts.
 
 A proposed cut removes the name of the permutation test from the draft.
 
-> Bad: We compare the two groups.
+> **Bad.** We compare the two groups.
 >
-> Good: We compare the two groups with a permutation test.
+> **Good.** We compare the two groups with a permutation test.
 
 A proposed cut removes the draft's only definition of recovery.
 
-> Bad: We measure recovery after each pulse.
+> **Bad.** We measure recovery after each pulse.
 >
-> Good: Recovery is the return to the initial temperature. We measure recovery after each pulse.
+> **Good.** Recovery is the return to the initial temperature. We measure recovery after each pulse.
 
 The paragraph opens with the topic sentence "Thicker walls keep the jar cooler.", which a proposed cut removes because the numbers that follow show the same result.
 
-> Bad: At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
+> **Bad.** At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 >
-> Good: Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
+> **Good.** Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 
 The draft reads, "Clogging can restrict flow. We therefore measure flow.", and a proposed cut removes the first sentence and "therefore".
 
-> Bad: We measure flow.
+> **Bad.** We measure flow.
 >
-> Good: Clogging can restrict flow. We therefore measure flow.
+> **Good.** Clogging can restrict flow. We therefore measure flow.
 
 The lid result appears in Section 2, and a proposed cut removes the draft's back-reference to that section.
 
-> Bad: The lid halves evaporation, so we keep the lid on in the field trial.
+> **Bad.** The lid halves evaporation, so we keep the lid on in the field trial.
 >
-> Good: The lid halves evaporation (Section 2), so we keep the lid on in the field trial.
+> **Good.** The lid halves evaporation (Section 2), so we keep the lid on in the field trial.
 
 The draft credits Chen (2021) with the drying protocol, and a proposed cut removes that credit.
 
-> Bad: We use the published drying protocol.
+> **Bad.** We use the published drying protocol.
 >
-> Good: We use Chen's (2021) drying protocol.
+> **Good.** We use Chen's (2021) drying protocol.
 
 A proposed cut removes the draft's disclosure that the pump manufacturer funded the study.
 
-> Bad: We thank the field crew.
+> **Bad.** We thank the field crew.
 >
-> Good: We thank the field crew. The pump manufacturer funded this study.
+> **Good.** We thank the field crew. The pump manufacturer funded this study.
 
 The draft supports the claim with its only comparison, showing that treated nails lose 2 mg and untreated nails lose 8 mg, which a proposed cut removes.
 
-> Bad: The coating slows corrosion.
+> **Bad.** The coating slows corrosion.
 >
-> Good: The coating slows corrosion: treated nails lose 2 mg, compared with 8 mg for untreated nails.
+> **Good.** The coating slows corrosion: treated nails lose 2 mg, compared with 8 mg for untreated nails.
 
 The author requests a length cut, and the triage order has reached repeated restatements.
 
-> Bad: Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
+> **Bad.** Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
 >
-> Good: Only adults participate, so the results cannot establish effects in children.
+> **Good.** Only adults participate, so the results cannot establish effects in children.
 
 A proposed cut removes the draft's disclosure that the authors used an AI tool to edit grammar.
 
-> Bad: We thank the field crew.
+> **Bad.** We thank the field crew.
 >
-> Good: We thank the field crew. We used an AI tool to edit grammar.
+> **Good.** We thank the field crew. We used an AI tool to edit grammar.

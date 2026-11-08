@@ -8,24 +8,24 @@ Keep a model's reasoning trace when the paper quotes or analyzes it as experimen
 
 ## Examples
 
-> Bad: Let us think step by step. The load exceeds the shelf limit by 4 kg.
+> **Bad.** Let us think step by step. The load exceeds the shelf limit by 4 kg.
 >
-> Good: The load exceeds the shelf limit by 4 kg.
+> **Good.** The load exceeds the shelf limit by 4 kg.
 
-> Bad: First, I should compare the load and the limit. Next, I can conclude that the load exceeds the limit by 4 kg.
+> **Bad.** First, I should compare the load and the limit. Next, I can conclude that the load exceeds the limit by 4 kg.
 >
-> Good: The load exceeds the limit by 4 kg.
+> **Good.** The load exceeds the limit by 4 kg.
 
-> Bad: Let us think step by step. Let n be an even integer. Then n = 2k for some integer k.
+> **Bad.** Let us think step by step. Let n be an even integer. Then n = 2k for some integer k.
 >
-> Good: Let n be an even integer. Then n = 2k for some integer k.
+> **Good.** Let n be an even integer. Then n = 2k for some integer k.
 
-> Bad: Breaking this down, the box holds six vials, so two boxes hold twelve.
+> **Bad.** Breaking this down, the box holds six vials, so two boxes hold twelve.
 >
-> Good: The box holds six vials, so two boxes hold twelve.
+> **Good.** The box holds six vials, so two boxes hold twelve.
 
 The paper analyzes the quoted model output.
 
-> Bad: Let us think step by step. The model output begins "First, I should compare the load and the limit."
+> **Bad.** Let us think step by step. The model output begins "First, I should compare the load and the limit."
 >
-> Good: The model output begins "First, I should compare the load and the limit."
+> **Good.** The model output begins "First, I should compare the load and the limit."

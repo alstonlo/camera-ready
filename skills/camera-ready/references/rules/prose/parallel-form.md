@@ -8,42 +8,42 @@ If the draft does not settle which coordinated items a qualifier governs, flag t
 
 ## Examples
 
-> Bad: We measured each stone's length, width, and how much it weighed.
+> **Bad.** We measured each stone's length, width, and how much it weighed.
 >
-> Good: We measured each stone's length, width, and weight.
+> **Good.** We measured each stone's length, width, and weight.
 
-> Bad: We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
+> **Bad.** We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
 >
-> Good: We measured the length of the box, the width of the box with the lid open, and the weight of the box.
+> **Good.** We measured the length of the box, the width of the box with the lid open, and the weight of the box.
 
 The draft says only washing uses hot water.
 
-> Bad: We wash and dry the jars with hot water.
+> **Bad.** We wash and dry the jars with hot water.
 >
-> Good: We wash the jars with hot water and dry them.
+> **Good.** We wash the jars with hot water and dry them.
 
-> Bad: The mass of the steel ball exceeds the wooden ball.
+> **Bad.** The mass of the steel ball exceeds the wooden ball.
 >
-> Good: The mass of the steel ball exceeds the mass of the wooden ball.
+> **Good.** The mass of the steel ball exceeds the mass of the wooden ball.
 
-> Bad: We compare how quickly the fan cools the room and the window.
+> **Bad.** We compare how quickly the fan cools the room and the window.
 >
-> Good: We compare how quickly the fan cools the room and how quickly the window cools the room.
+> **Good.** We compare how quickly the fan cools the room and how quickly the window cools the room.
 
 The draft states that the frost caused the pipe to split.
 
-> Bad: The pipe froze and split.
+> **Bad.** The pipe froze and split.
 >
-> Good: The pipe split because it froze.
+> **Good.** The pipe split because it froze.
 
 The draft says stirring is a condition for the powder to dissolve.
 
-> Bad: The powder dissolves and we stir it.
+> **Bad.** The powder dissolves and we stir it.
 >
-> Good: The powder dissolves if we stir it.
+> **Good.** The powder dissolves if we stir it.
 
 The draft states that yeast ferments in warm dough and that the fermentation enlarges the loaf.
 
-> Bad: Rising has three stages: warm dough, fermentation, and a larger loaf.
+> **Bad.** Rising has three stages: warm dough, fermentation, and a larger loaf.
 >
-> Good: In warm dough, yeast ferments, and the fermentation enlarges the loaf.
+> **Good.** In warm dough, yeast ferments, and the fermentation enlarges the loaf.

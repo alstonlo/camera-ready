@@ -4,20 +4,20 @@ Hyphenate compound modifiers before nouns ("real-time monitoring", "three-layer 
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: We use a battery powered pump.
+> **Bad.** We use a battery powered pump.
 >
-> Good: We use a battery-powered pump.
+> **Good.** We use a battery-powered pump.
 
-> Bad: The pump is battery-powered.
+> **Bad.** The pump is battery-powered.
 >
-> Good: The pump is battery powered.
+> **Good.** The pump is battery powered.
 
 The draft consistently writes the established field term "fluid mechanics" without a hyphen.
 
-> Bad: We use a battery powered pump in the fluid mechanics laboratory.
+> **Bad.** We use a battery powered pump in the fluid mechanics laboratory.
 >
-> Good: We use a battery-powered pump in the fluid mechanics laboratory.
+> **Good.** We use a battery-powered pump in the fluid mechanics laboratory.

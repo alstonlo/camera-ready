@@ -8,18 +8,18 @@ A motivating case in the opening must illustrate the paper's actual problem, not
 
 ## Examples
 
-> Bad: Transportation plays an important role in modern society. Buses cannot pass each other on the village's narrow bridge.
+> **Bad.** Transportation plays an important role in modern society. Buses cannot pass each other on the village's narrow bridge.
 >
-> Good: Buses cannot pass each other on the village's narrow bridge.
+> **Good.** Buses cannot pass each other on the village's narrow bridge.
 
 Readers need the definition of "ice lens" before they can understand the problem.
 
-> Bad: An ice lens is a layer of ice within soil. Soil science is a growing field. Ice lenses lift the tested road surface during freezing.
+> **Bad.** An ice lens is a layer of ice within soil. Soil science is a growing field. Ice lenses lift the tested road surface during freezing.
 >
-> Good: An ice lens is a layer of ice within soil. Ice lenses lift the tested road surface during freezing.
+> **Good.** An ice lens is a layer of ice within soil. Ice lenses lift the tested road surface during freezing.
 
 The draft studies leaks in household water pipes rather than all urban water loss, and it makes that focus clear; Good is the proposed opening for the author.
 
-> Bad: Urban water loss is difficult to prevent.
+> **Bad.** Urban water loss is difficult to prevent.
 >
-> Good: Leaks in household water pipes are difficult to prevent.
+> **Good.** Leaks in household water pipes are difficult to prevent.

@@ -10,22 +10,22 @@ To test the opening under a heading, cover the heading and check whether the fir
 
 The draft identifies the steel shelf as the one that held 30 kg.
 
-> Bad: We tested a wooden shelf and a steel shelf. It held 30 kg.
+> **Bad.** We tested a wooden shelf and a steel shelf. It held 30 kg.
 >
-> Good: We tested a wooden shelf and a steel shelf. The steel shelf held 30 kg.
+> **Good.** We tested a wooden shelf and a steel shelf. The steel shelf held 30 kg.
 
 The draft identifies run A, rather than run B, as the comparison run.
 
-> Bad: Runs A and B use dry sand. Run C drains faster than the earlier run. The earlier run leaves a puddle.
+> **Bad.** Runs A and B use dry sand. Run C drains faster than the earlier run. The earlier run leaves a puddle.
 >
-> Good: Runs A and B use dry sand. Run C drains faster than run A. Run A leaves a puddle.
+> **Good.** Runs A and B use dry sand. Run C drains faster than run A. Run A leaves a puddle.
 
-> Bad: **Copper mesh.** This catches the larger particles.
+> **Bad.** **Copper mesh.** This catches the larger particles.
 >
-> Good: **Copper mesh.** Copper mesh catches the larger particles.
+> **Good.** **Copper mesh.** Copper mesh catches the larger particles.
 
 The panel has a red switch and a blue switch; an edit removed the draft’s identification of the red switch as the power switch.
 
-> Bad: Press the switch. This control then turns the pump off.
+> **Bad.** Press the switch. This control then turns the pump off.
 >
-> Good: Press the red power switch. This control then turns the pump off.
+> **Good.** Press the red power switch. This control then turns the pump off.

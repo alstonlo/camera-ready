@@ -17,42 +17,42 @@ Keep an essential step or the only definition of a term used later out of footno
 
 A length cut removes the preceding sentence, which reported that the blue dye was easiest to see.
 
-> Bad: We use it for all remaining experiments.
+> **Bad.** We use it for all remaining experiments.
 >
-> Good: Because the blue dye was easiest to see, we use it for all remaining experiments.
+> **Good.** Because the blue dye was easiest to see, we use it for all remaining experiments.
 
 A cut removes "Recovery time R is the time to return to 20 °C.", the draft's only definition of R, even though later sections use R.
 
-> Bad: We record R after each trial.
+> **Bad.** We record R after each trial.
 >
-> Good: Recovery time R is the time to return to 20 °C. We record R after each trial.
+> **Good.** Recovery time R is the time to return to 20 °C. We record R after each trial.
 
 The author authorizes relocation, and the full protocol appears in Section S2 of an existing supplement.
 
-> Bad: We dry each sample at 30 °C using the protocol in the supplement.
+> **Bad.** We dry each sample at 30 °C using the protocol in the supplement.
 >
-> Good: We dry each sample at 30 °C using the protocol in Supplement Section S2.
+> **Good.** We dry each sample at 30 °C using the protocol in Supplement Section S2.
 
 The author authorizes relocation. This sentence opens the relocated protocol, and the step that preceded it in the draft was rinsing the tray.
 
-> Bad: We repeat this step twice.
+> **Bad.** We repeat this step twice.
 >
-> Good: We rinse the tray twice.
+> **Good.** We rinse the tray twice.
 
 The draft states, "We calibrate at 0 °C and 20 °C." A proposed length cut replaces that sentence with a pointer to Appendix A, even though the draft has no appendix.
 
-> Bad: The calibration settings appear in Appendix A.
+> **Bad.** The calibration settings appear in Appendix A.
 >
-> Good: We calibrate at 0 °C and 20 °C.
+> **Good.** We calibrate at 0 °C and 20 °C.
 
 The author authorizes relocation, and the draft identifies removing the cap as an essential step.
 
-> Bad: We heat the sample (first removing the cap).
+> **Bad.** We heat the sample (first removing the cap).
 >
-> Good: We remove the cap, then heat the sample.
+> **Good.** We remove the cap, then heat the sample.
 
 The author authorizes relocation, the venue permits footnotes, and the comment about the supplier is subsidiary. The example is in LaTeX source.
 
-> Bad: We use glass jars. The supplier also sells lids separately.
+> **Bad.** We use glass jars. The supplier also sells lids separately.
 >
-> Good: We use glass jars.\footnote{The supplier also sells lids separately.}
+> **Good.** We use glass jars.\footnote{The supplier also sells lids separately.}

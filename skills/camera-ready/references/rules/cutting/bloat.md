@@ -4,32 +4,32 @@ Delete [chatbot artifacts](../deslopping/chatbot-phrases.md), [generic openings]
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: Certainly! Each vial holds 5 mL.
+> **Bad.** Certainly! Each vial holds 5 mL.
 >
-> Good: Each vial holds 5 mL.
+> **Good.** Each vial holds 5 mL.
 
-> Bad: In today's changing world, clean water matters. We test three filters.
+> **Bad.** In today's changing world, clean water matters. We test three filters.
 >
-> Good: We test three filters.
+> **Good.** We test three filters.
 
 The draft gives the depth without a source; Good is the proposed revision, with the missing source flagged.
 
-> Bad: The well is 12 m deep. [Insert source]
+> **Bad.** The well is 12 m deep. [Insert source]
 >
-> Good: The well is 12 m deep.
+> **Good.** The well is 12 m deep.
 
-> Bad: The lid closes—before the pump starts.
+> **Bad.** The lid closes—before the pump starts.
 >
-> Good: The lid closes before the pump starts.
+> **Good.** The lid closes before the pump starts.
 
-> Bad: We use the tray in order to catch drips.
+> **Bad.** We use the tray in order to catch drips.
 >
-> Good: We use the tray to catch drips.
+> **Good.** We use the tray to catch drips.
 
-> Bad: The proof appears in Appendix A. We next describe the watering schedule. We water each pot every morning.
+> **Bad.** The proof appears in Appendix A. We next describe the watering schedule. We water each pot every morning.
 >
-> Good: The proof appears in Appendix A. We water each pot every morning.
+> **Good.** The proof appears in Appendix A. We water each pot every morning.

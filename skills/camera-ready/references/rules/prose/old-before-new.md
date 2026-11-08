@@ -8,28 +8,28 @@ An introductory condition can link back to the preceding sentence while the main
 
 ## Examples
 
-> Bad: We fitted the telescope with a new lens. A thin layer of dust covered the lens.
+> **Bad.** We fitted the telescope with a new lens. A thin layer of dust covered the lens.
 >
-> Good: We fitted the telescope with a new lens. The lens was covered by a thin layer of dust.
+> **Good.** We fitted the telescope with a new lens. The lens was covered by a thin layer of dust.
 
-> Bad: We examined a bicycle. A loose bolt held its front wheel.
+> **Bad.** We examined a bicycle. A loose bolt held its front wheel.
 >
-> Good: We examined a bicycle. Its front wheel was held by a loose bolt.
+> **Good.** We examined a bicycle. Its front wheel was held by a loose bolt.
 
 The paragraph is about the fan; it mentions dust only as a test condition.
 
-> Bad: We tested the fan in dust. Dust coated the fan’s three blades.
+> **Bad.** We tested the fan in dust. Dust coated the fan’s three blades.
 >
-> Good: We tested the fan in dust. The fan’s three blades were coated with dust.
+> **Good.** We tested the fan in dust. The fan’s three blades were coated with dust.
 
 The paragraph treats the cup and the bowl as equally relevant.
 
-> Bad: We put the cup beside the bowl. The cup was smaller than the bowl.
+> **Bad.** We put the cup beside the bowl. The cup was smaller than the bowl.
 >
-> Good: We put the cup beside the bowl. The bowl was larger than the cup.
+> **Good.** We put the cup beside the bowl. The bowl was larger than the cup.
 
 The paragraph concerns a sensor; the preceding sentence introduces cold conditions.
 
-> Bad: A voltage of 5 V is required by the sensor in cold conditions.
+> **Bad.** A voltage of 5 V is required by the sensor in cold conditions.
 >
-> Good: In cold conditions, the sensor requires 5 V.
+> **Good.** In cold conditions, the sensor requires 5 V.

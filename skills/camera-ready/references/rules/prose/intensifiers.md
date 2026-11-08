@@ -8,48 +8,48 @@ The same rule applies to "highly", "remarkably", and "exceptionally" when they a
 
 ## Examples
 
-> Bad: Note that the parser processes 24,000 records per second on the audit workload.
+> **Bad.** Note that the parser processes 24,000 records per second on the audit workload.
 >
-> Good: The parser processes 24,000 records per second on the audit workload.
+> **Good.** The parser processes 24,000 records per second on the audit workload.
 
-> Bad: The seal is very reliable.
+> **Bad.** The seal is very reliable.
 >
-> Good: The seal is reliable.
+> **Good.** The seal is reliable.
 
 The draft reports a cable length of 40 m.
 
-> Bad: The cable is extremely long.
+> **Bad.** The cable is extremely long.
 >
-> Good: The cable is 40 m long.
+> **Good.** The cable is 40 m long.
 
-> Bad: Note that the coating largely prevents rust.
+> **Bad.** Note that the coating largely prevents rust.
 >
-> Good: The coating largely prevents rust.
+> **Good.** The coating largely prevents rust.
 
 The draft reports that the coating keeps 98% of the surface free of rust.
 
-> Bad: The coating essentially prevents rust.
+> **Bad.** The coating essentially prevents rust.
 >
-> Good: The coating keeps 98% of the surface free of rust.
+> **Good.** The coating keeps 98% of the surface free of rust.
 
 The preceding sentence defines a score of zero as no detected damage, not no damage.
 
-> Bad: Note that a zero score does not rule out damage. The test is very useful.
+> **Bad.** Note that a zero score does not rule out damage. The test is very useful.
 >
-> Good: Note that a zero score does not rule out damage. The test is useful.
+> **Good.** Note that a zero score does not rule out damage. The test is useful.
 
-> Bad: The treated seeds clearly sprout sooner.
+> **Bad.** The treated seeds clearly sprout sooner.
 >
-> Good: The treated seeds sprout sooner.
+> **Good.** The treated seeds sprout sooner.
 
 In a proof, the zero term is the last term of the sum.
 
-> Bad: Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
+> **Bad.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
 >
-> Good: Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
+> **Good.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
 
 The draft supplies a bound on the tail in Lemma 2; Good is the proposed revision.
 
-> Bad: Clearly, the infinite sum converges.
+> **Bad.** Clearly, the infinite sum converges.
 >
-> Good: The infinite sum converges by the tail bound in Lemma 2.
+> **Good.** The infinite sum converges by the tail bound in Lemma 2.

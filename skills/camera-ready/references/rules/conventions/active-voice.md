@@ -4,56 +4,56 @@ Default to active "we" for the authors' actions and decisions. Do not use "we" f
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The interview prompts are selected by us.
+> **Bad.** The interview prompts are selected by us.
 >
-> Good: We select the interview prompts.
+> **Good.** We select the interview prompts.
 
 The draft identifies filtering and heating as steps the authors perform and consistently uses "we" elsewhere.
 
-> Bad: We filter the water. The method heats it.
+> **Bad.** We filter the water. The method heats it.
 >
-> Good: We filter the water. We heat it.
+> **Good.** We filter the water. We heat it.
 
 The draft identifies the vessel material as the authors' design choice.
 
-> Bad: The method chooses a glass vessel to avoid corrosion.
+> **Bad.** The method chooses a glass vessel to avoid corrosion.
 >
-> Good: We choose a glass vessel to avoid corrosion.
+> **Good.** We choose a glass vessel to avoid corrosion.
 
 The draft describes a general convention among researchers.
 
-> Bad: We conventionally measure angles in degrees.
+> **Bad.** We conventionally measure angles in degrees.
 >
-> Good: Researchers conventionally measure angles in degrees.
+> **Good.** Researchers conventionally measure angles in degrees.
 
 The single author consistently uses "I".
 
-> Bad: The sites are chosen by me.
+> **Bad.** The sites are chosen by me.
 >
-> Good: I choose the sites.
+> **Good.** I choose the sites.
 
 The draft does not identify who removed the label.
 
-> Bad: The label was removed before delivery. The jar is weighed by us.
+> **Bad.** The label was removed before delivery. The jar is weighed by us.
 >
-> Good: The label was removed before delivery. We weigh the jar.
+> **Good.** The label was removed before delivery. We weigh the jar.
 
 The passage describes the jar's assembly; who attached the lid is irrelevant.
 
-> Bad: The lid is attached to the jar. The seal is checked by us.
+> **Bad.** The lid is attached to the jar. The seal is checked by us.
 >
-> Good: The lid is attached to the jar. We check the seal.
+> **Good.** The lid is attached to the jar. We check the seal.
 
 The preceding sentence introduces the samples; the technicians are new information.
 
-> Bad: The samples are washed by technicians wearing sterile gloves and protective sleeves. The mass is recorded by us.
+> **Bad.** The samples are washed by technicians wearing sterile gloves and protective sleeves. The mass is recorded by us.
 >
-> Good: The samples are washed by technicians wearing sterile gloves and protective sleeves. We record the mass.
+> **Good.** The samples are washed by technicians wearing sterile gloves and protective sleeves. We record the mass.
 
-> Bad: The samples selected by technicians are weighed by us.
+> **Bad.** The samples selected by technicians are weighed by us.
 >
-> Good: We weigh the samples selected by technicians.
+> **Good.** We weigh the samples selected by technicians.

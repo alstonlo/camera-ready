@@ -8,10 +8,10 @@ Preserve [technical names](term-consistency.md) when replacing a verb, and leave
 
 ## Examples
 
-> Bad: We test the test's accuracy.
+> **Bad.** We test the test's accuracy.
 >
-> Good: We assess the test's accuracy.
+> **Good.** We assess the test's accuracy.
 
-> Bad: We model growth. The model fits the observations. We test the test's accuracy.
+> **Bad.** We model growth. The model fits the observations. We test the test's accuracy.
 >
-> Good: We model growth. The model fits the observations. We assess the test's accuracy.
+> **Good.** We model growth. The model fits the observations. We assess the test's accuracy.

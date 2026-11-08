@@ -4,16 +4,16 @@ Read the sentence aloud, or simulate doing so, to locate hesitation, unclear str
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The observers recorded errors on the checklist that occurred during navigation.
+> **Bad.** The observers recorded errors on the checklist that occurred during navigation.
 >
-> Good: The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
+> **Good.** The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
 
 The draft says the operator should rinse the jar instead of the lid.
 
-> Bad: The operator should rinse the jar.
+> **Bad.** The operator should rinse the jar.
 >
-> Good: The operator should rinse the jar rather than the lid.
+> **Good.** The operator should rinse the jar rather than the lid.

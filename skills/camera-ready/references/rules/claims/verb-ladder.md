@@ -23,66 +23,66 @@ When describing cited work, do not use "notes in passing" for a central result o
 
 The draft reports water temperatures measured in a test of an insulated bottle and a plain bottle; it contains no mathematical proof.
 
-> Bad: We prove that the insulated bottle kept water warmer than the plain bottle in the test.
+> **Bad.** We prove that the insulated bottle kept water warmer than the plain bottle in the test.
 >
-> Good: We find that the insulated bottle kept water warmer than the plain bottle in the test.
+> **Good.** We find that the insulated bottle kept water warmer than the plain bottle in the test.
 
 The draft gives a complete proof under the stated convexity assumption.
 
-> Bad: We conjecture that the minimum is unique when the function is strictly convex.
+> **Bad.** We conjecture that the minimum is unique when the function is strictly convex.
 >
-> Good: We prove that the minimum is unique when the function is strictly convex.
+> **Good.** We prove that the minimum is unique when the function is strictly convex.
 
 The draft's controlled tests isolate the coating's effect on water loss and rule out the stated alternatives.
 
-> Bad: The controlled tests merely suggest that the coating reduces water loss.
+> **Bad.** The controlled tests merely suggest that the coating reduces water loss.
 >
-> Good: The controlled tests establish that the coating reduces water loss.
+> **Good.** The controlled tests establish that the coating reduces water loss.
 
 The draft's figure displays slower drying, and the draft proposes trapped moisture as one possible explanation without ruling out alternatives.
 
-> Bad: Figure 2 reveals that trapped moisture causes slower drying.
+> **Bad.** Figure 2 reveals that trapped moisture causes slower drying.
 >
-> Good: Figure 2 suggests that trapped moisture causes slower drying.
+> **Good.** Figure 2 suggests that trapped moisture causes slower drying.
 
 The draft reports that the test neither detects nor rules out an effect; the revision is proposed to the author.
 
-> Bad: The test disproves the proposed effect.
+> **Bad.** The test disproves the proposed effect.
 >
-> Good: The test does not detect the proposed effect.
+> **Good.** The test does not detect the proposed effect.
 
 The draft's only support for the contested claim that the foam resists fire is Lee's agreement; the revision is proposed to the author.
 
-> Bad: Lee's agreement establishes that the foam resists fire.
+> **Bad.** Lee's agreement establishes that the foam resists fire.
 >
-> Good: Lee agrees that the foam resists fire.
+> **Good.** Lee agrees that the foam resists fire.
 
 The draft identifies the density result as Lee's central finding.
 
-> Bad: Lee notes in passing that the foam's density falls with temperature.
+> **Bad.** Lee notes in passing that the foam's density falls with temperature.
 >
-> Good: Lee finds that the foam's density falls with temperature.
+> **Good.** Lee finds that the foam's density falls with temperature.
 
 The draft states that Lee establishes the independence of the errors.
 
-> Bad: Lee assumes that the errors are independent.
+> **Bad.** Lee assumes that the errors are independent.
 >
-> Good: Lee establishes that the errors are independent.
+> **Good.** Lee establishes that the errors are independent.
 
 The draft's Results section says that the measurements suggest slower diffusion.
 
-> Bad: Conclusion: The measurements establish slower diffusion.
+> **Bad.** Conclusion: The measurements establish slower diffusion.
 >
-> Good: Conclusion: The measurements suggest slower diffusion.
+> **Good.** Conclusion: The measurements suggest slower diffusion.
 
 The draft's Section 4 reports the measured drop in temperature.
 
-> Bad: Conclusion: We find that the coating lowers temperature in the tests.
+> **Bad.** Conclusion: We find that the coating lowers temperature in the tests.
 >
-> Good: Conclusion: We find that the coating lowers temperature in the tests (Section 4).
+> **Good.** Conclusion: We find that the coating lowers temperature in the tests (Section 4).
 
 The draft's Section 4 reports that the coating lowers temperature in the tests.
 
-> Bad: Abstract: We find the result reported in Section 4.
+> **Bad.** Abstract: We find the result reported in Section 4.
 >
-> Good: Abstract: We find that the coating lowers temperature in the tests.
+> **Good.** Abstract: We find that the coating lowers temperature in the tests.

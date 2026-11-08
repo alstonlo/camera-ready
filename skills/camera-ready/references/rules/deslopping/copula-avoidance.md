@@ -4,26 +4,26 @@ Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The graph boasts 128 vertices.
+> **Bad.** The graph boasts 128 vertices.
 >
-> Good: The graph has 128 vertices.
+> **Good.** The graph has 128 vertices.
 
-> Bad: The red line serves as the boundary.
+> **Bad.** The red line serves as the boundary.
 >
-> Good: The red line is the boundary.
+> **Good.** The red line is the boundary.
 
-> Bad: The probe serves as a temperature monitor.
+> **Bad.** The probe serves as a temperature monitor.
 >
-> Good: The probe monitors temperature.
+> **Good.** The probe monitors temperature.
 
-> Bad: The tray boasts two compartments and acts as a lid during transport.
+> **Bad.** The tray boasts two compartments and acts as a lid during transport.
 >
-> Good: The tray has two compartments and acts as a lid during transport.
+> **Good.** The tray has two compartments and acts as a lid during transport.
 
-> Bad: The symbol represents pressure, and the plot boasts two axes.
+> **Bad.** The symbol represents pressure, and the plot boasts two axes.
 >
-> Good: The symbol represents pressure, and the plot has two axes.
+> **Good.** The symbol represents pressure, and the plot has two axes.

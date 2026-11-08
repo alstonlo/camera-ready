@@ -10,24 +10,24 @@ The same rule applies to "influences", "impacts", "contributes", and "facilitate
 
 The draft reports that stirring reduces the sugar's dissolving time from 12 min to 7 min.
 
-> Bad: Stirring affects the sugar's dissolving time.
+> **Bad.** Stirring affects the sugar's dissolving time.
 >
-> Good: Stirring reduces the sugar's dissolving time from 12 min to 7 min.
+> **Good.** Stirring reduces the sugar's dissolving time from 12 min to 7 min.
 
 The draft says the latch allows the lid to open by retracting a pin.
 
-> Bad: The latch allows the lid to open.
+> **Bad.** The latch allows the lid to open.
 >
-> Good: The latch allows the lid to open by retracting a pin.
+> **Good.** The latch allows the lid to open by retracting a pin.
 
 The draft hypothesizes a decrease in heat loss but has not tested it.
 
-> Bad: We hypothesize that the coating affects heat loss.
+> **Bad.** We hypothesize that the coating affects heat loss.
 >
-> Good: We hypothesize that the coating reduces heat loss.
+> **Good.** We hypothesize that the coating reduces heat loss.
 
 The draft reports that the vent lowers pressure by 5 kPa.
 
-> Bad: The latch allows the lid to open by retracting a pin. The vent affects pressure.
+> **Bad.** The latch allows the lid to open by retracting a pin. The vent affects pressure.
 >
-> Good: The latch allows the lid to open by retracting a pin. The vent lowers pressure by 5 kPa.
+> **Good.** The latch allows the lid to open by retracting a pin. The vent lowers pressure by 5 kPa.

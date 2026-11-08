@@ -14,30 +14,30 @@ When a table would help compare several objects across the same dimensions, sugg
 
 The draft explains that the scale cannot weigh the sack because the sack exceeds the scale's 5 kg limit.
 
-> Bad: • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
+> **Bad.** • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
 >
-> Good: The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
+> **Good.** The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
 
 The symbols ↵ mark line breaks in these passages.
 
-> Bad: First, close the valve; second, disconnect the hose; third, remove the filter.
+> **Bad.** First, close the valve; second, disconnect the hose; third, remove the filter.
 >
-> Good: 1. Close the valve. ↵ 2. Disconnect the hose. ↵ 3. Remove the filter.
+> **Good.** 1. Close the valve. ↵ 2. Disconnect the hose. ↵ 3. Remove the filter.
 
 The draft gives equal priority to these requirements and never refers to their numbers; ↵ marks line breaks.
 
-> Bad: 1. The lid must seal. ↵ 2. The handle must fold.
+> **Bad.** 1. The lid must seal. ↵ 2. The handle must fold.
 >
-> Good: • The lid must seal. ↵ • The handle must fold.
+> **Good.** • The lid must seal. ↵ • The handle must fold.
 
 The draft explicitly groups the objectives into measurement and prediction; Good is the proposed regrouping, and ↵ marks line breaks.
 
-> Bad: Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
+> **Bad.** Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
 >
-> Good: Our objectives are: ↵ • Measurement: record pressure and temperature. ↵ • Prediction: forecast rainfall.
+> **Good.** Our objectives are: ↵ • Measurement: record pressure and temperature. ↵ • Prediction: forecast rainfall.
 
 The symbols ↵ mark line breaks in these passages.
 
-> Bad: We store tools such as: ↵ • hammers; ↵ • pliers.
+> **Bad.** We store tools such as: ↵ • hammers; ↵ • pliers.
 >
-> Good: We store tools such as hammers and pliers.
+> **Good.** We store tools such as hammers and pliers.

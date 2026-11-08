@@ -4,26 +4,26 @@ Do not begin a sentence with "And", "But", "So", or "Plus". Join the sentence to
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
-> Bad: The shelter blocks wind. Plus, it keeps rain out.
+> **Bad.** The shelter blocks wind. Plus, it keeps rain out.
 >
-> Good: The shelter blocks wind, and it keeps rain out.
+> **Good.** The shelter blocks wind, and it keeps rain out.
 
-> Bad: The box is light. But it holds 20 kg.
+> **Bad.** The box is light. But it holds 20 kg.
 >
-> Good: The box is light. However, it holds 20 kg.
+> **Good.** The box is light. However, it holds 20 kg.
 
-> Bad: The rain made the path unsafe. So we closed it.
+> **Bad.** The rain made the path unsafe. So we closed it.
 >
-> Good: The rain made the path unsafe, so we closed it.
+> **Good.** The rain made the path unsafe, so we closed it.
 
-> Bad: First, close the valve. Next, drain the tank. Moreover, dry the tank.
+> **Bad.** First, close the valve. Next, drain the tank. Moreover, dry the tank.
 >
-> Good: First, close the valve. Next, drain the tank. Finally, dry the tank.
+> **Good.** First, close the valve. Next, drain the tank. Finally, dry the tank.
 
-> Bad: Lee favors glass jars. But Patel argues that glass jars break too easily.
+> **Bad.** Lee favors glass jars. But Patel argues that glass jars break too easily.
 >
-> Good: Lee favors glass jars, but Patel argues that glass jars break too easily.
+> **Good.** Lee favors glass jars, but Patel argues that glass jars break too easily.

@@ -10,60 +10,60 @@ Under a length constraint, cut material in the following triage order while resp
 
 ## Details
 
-This rule needs no details beyond its summary.
+This rule has no further details.
 
 ## Examples
 
 The author requests a length cut, and this paragraph's opening sentence is clear on its own.
 
-> Bad: The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
+> **Bad.** The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
 >
-> Good: The lid reduces evaporation in both jars.
+> **Good.** The lid reduces evaporation in both jars.
 
 The draft reports that the lid halves evaporation, and a length cut removes the conclusion's only statement of this contribution.
 
-> Bad: The next step is a field trial.
+> **Bad.** The next step is a field trial.
 >
-> Good: The lid halves evaporation. The next step is a field trial.
+> **Good.** The lid halves evaporation. The next step is a field trial.
 
 A proposed cut removes the final sentence, even though the intended readers need the intervening explanation to understand the opening claim.
 
-> Bad: An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
+> **Bad.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
 >
-> Good: An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
+> **Good.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
 
 The author requests a length cut after redundant restatements have already been removed.
 
-> Bad: Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
+> **Bad.** Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
 >
-> Good: Appendix A proves the stability bound.
+> **Good.** Appendix A proves the stability bound.
 
 The author requests a length cut after earlier triage tiers are exhausted, and the history of ceramic pots does not motivate the question about drainage.
 
-> Bad: Ceramic pots have a long history. Unlike the pots tested by Lin (2020), ours have drainage holes.
+> **Bad.** Ceramic pots have a long history. Unlike the pots tested by Lin (2020), ours have drainage holes.
 >
-> Good: Unlike the pots tested by Lin (2020), ours have drainage holes.
+> **Good.** Unlike the pots tested by Lin (2020), ours have drainage holes.
 
 The author requests a length cut after earlier triage tiers are exhausted, and an existing Appendix B already contains the full pressure checks.
 
-> Bad: The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
+> **Bad.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
 >
-> Good: The seal holds at 10 °C and 20 °C but leaks at 30 °C. Appendix B gives the pressure checks.
+> **Good.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. Appendix B gives the pressure checks.
 
 The author requests a length cut, and the failure of paper lids bears on a central claim.
 
-> Bad: We first tried paper lids, then tried paper lids again. Paper lids leak.
+> **Bad.** We first tried paper lids, then tried paper lids again. Paper lids leak.
 >
-> Good: Paper lids leak.
+> **Good.** Paper lids leak.
 
 The author requests a length cut after earlier triage tiers are exhausted, and an existing Appendix C already lists the complete fan settings.
 
-> Bad: We dry the seeds at 30 °C. The fan settings are 1, 2, 3, 4, and 5.
+> **Bad.** We dry the seeds at 30 °C. The fan settings are 1, 2, 3, 4, and 5.
 >
-> Good: We dry the seeds at 30 °C; Appendix C lists the fan settings.
+> **Good.** We dry the seeds at 30 °C; Appendix C lists the fan settings.
 
 The conclusion copies the abstract's sentence "The lid reduces evaporation." word for word, whereas the Results section reports that the lid reduces water loss from 8 mL to 4 mL per day.
 
-> Bad: The lid reduces evaporation.
+> **Bad.** The lid reduces evaporation.
 >
-> Good: The lid reduces water loss from 8 mL to 4 mL per day.
+> **Good.** The lid reduces water loss from 8 mL to 4 mL per day.
