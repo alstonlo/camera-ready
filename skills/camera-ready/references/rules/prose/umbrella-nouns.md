@@ -1,14 +1,21 @@
 # Name the measured quantity instead of an umbrella noun
 
-When a measurement is hidden behind "performance" or "quality", name the quantity, such as accuracy, latency, or memory use. Keep a defined collective label when it accurately covers several named quantities.
+When a measurement is hidden behind an umbrella noun such as "performance" or "quality", replace the noun with the measured quantity, such as accuracy, yield, sensitivity, or energy use. Keep a defined collective label when it accurately covers several named quantities.
 
 ## Details
 
-An umbrella noun can conceal conflicting outcomes: a method may become more accurate but slower. Name the measured quantity so readers can tell which one changed. A collective label can remain when its quantities are already named and the label accurately covers them.
+This rule needs no details beyond its summary.
 
 ## Examples
 
 The draft identifies the reported percentage as the program's spelling accuracy.
 
-- Bad: The program's performance is 94%.
-- Good: The program's spelling accuracy is 94%.
+> Bad: The program's performance is 94%.
+>
+> Good: The program's spelling accuracy is 94%.
+
+The draft defines quality as purity and yield and identifies the 98% measurement as purity.
+
+> Bad: We assess quality using purity and yield. Performance reaches 98%.
+>
+> Good: We assess quality using purity and yield. Purity reaches 98%.

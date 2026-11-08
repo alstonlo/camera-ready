@@ -4,11 +4,28 @@ Replace "Let us think step by step", "Breaking this down", and numbered internal
 
 ## Details
 
-Commentary about deciding what to write differs from reasoning that establishes a result. A numbered derivation is not leakage merely because its steps occur in order.
-
-State the conclusion and its support without narrating the writer's private deliberation. A model's reasoning trace that the paper quotes or analyzes is protected experimental material, not prose to clean up.
+Keep a model's reasoning trace when the paper quotes or analyzes it as experimental material.
 
 ## Examples
 
-- Bad: Let us think step by step. The load exceeds the shelf limit by 4 kg.
-- Good: The load exceeds the shelf limit by 4 kg.
+> Bad: Let us think step by step. The load exceeds the shelf limit by 4 kg.
+>
+> Good: The load exceeds the shelf limit by 4 kg.
+
+> Bad: First, I should compare the load and the limit. Next, I can conclude that the load exceeds the limit by 4 kg.
+>
+> Good: The load exceeds the limit by 4 kg.
+
+> Bad: Let us think step by step. Let n be an even integer. Then n = 2k for some integer k.
+>
+> Good: Let n be an even integer. Then n = 2k for some integer k.
+
+> Bad: Breaking this down, the box holds six vials, so two boxes hold twelve.
+>
+> Good: The box holds six vials, so two boxes hold twelve.
+
+The paper analyzes the quoted model output.
+
+> Bad: Let us think step by step. The model output begins "First, I should compare the load and the limit."
+>
+> Good: The model output begins "First, I should compare the load and the limit."

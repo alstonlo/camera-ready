@@ -4,13 +4,24 @@ Replace conversational idioms such as "Call it a wash" and clipped editorial ins
 
 ## Details
 
-A short technical conclusion can be complete and useful. An aside that tells readers what to think may instead replace a claim or an explanation they need. State that claim and its reason directly.
-
-Do not add a reason merely to lengthen a short sentence. Include one when the original aside substitutes for necessary reasoning and the draft provides it.
+This rule needs no details beyond its summary.
 
 ## Examples
 
-The draft reports that both routes take 25 min.
+The draft reports that both routes take 25 min.
 
-- Bad: Call it a wash between the two routes.
-- Good: Both routes take 25 min.
+> Bad: Call it a wash between the two routes.
+>
+> Good: Both routes take 25 min.
+
+The draft says the second trial matters because it tests the seal under pressure.
+
+> Bad: Do not overlook the second trial.
+>
+> Good: The second trial matters because it tests the seal under pressure.
+
+The draft reports that neither of the two pumps moves water.
+
+> Bad: Neither pump moves water. Regrettably, that is the long and short of it.
+>
+> Good: Regrettably, neither pump moves water.

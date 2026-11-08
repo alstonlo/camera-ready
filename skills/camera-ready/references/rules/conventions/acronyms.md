@@ -1,16 +1,63 @@
 # Spell out acronyms and coin them sparingly
 
-Spell out an acronym where repeated use begins; use full wording for isolated earlier mentions. Define it separately in the abstract and body, and in each major section where it returns. Prefer full wording unless the acronym is standard or replaces a long, recurring name. Spell out an acronym used only once or twice, one with another common expansion in the field ("LR"), or one that saves no syllables aloud ("BS" for batch size). Flag an unfamiliar title acronym with a spelled-out alternative; leave the title unchanged and define the acronym in the body. Flag opaque coined labels rather than renaming them. If the acronym also appears in tables, figures, or code, flag the change rather than making the prose inconsistent with them.
+Spell out an acronym where repeated use begins, and use the full term for isolated earlier mentions. Define the acronym separately in the abstract, in the body, and in each major section where it returns. Prefer the full term unless the acronym is standard or replaces a long, recurring name. Spell out any acronym that appears only once or twice, shares its letters with another common term in the field ("LR"), or saves no syllables when read aloud ("TS" for time step). Flag an unfamiliar acronym in the title and suggest a spelled-out alternative, but leave the title unchanged and define the acronym in the body. Flag opaque coined labels rather than renaming them. If an acronym you would expand also appears in tables, figures, or code, flag the change rather than making the prose inconsistent with them.
 
 ## Details
 
-An acronym definition in the abstract does not define it for the body. Conversely, do not introduce an abbreviation in the abstract or an early section solely because a later section uses it. Expand it where repeated use begins in that section, keeping isolated mentions in full.
-
-Judge a title acronym for a reader in the field who works outside the subfield and has not read the abstract. An author's familiar internal label can still be opaque to that reader. A suggested replacement may express a distinction the draft already states, but the suggestion does not authorize renaming an official identifier or a method throughout the paper.
+Treat an acronym in the title as unfamiliar if readers in the field outside the subfield would not know it before reading the abstract.
 
 ## Examples
 
-This is the draft's only occurrence of the term "annual rainfall".
+The draft uses "annual rainfall" only once.
 
-- Bad: We record annual rainfall (AR) at each site.
-- Good: We record annual rainfall at each site.
+> Bad: We record annual rainfall (AR) at each site.
+>
+> Good: We record annual rainfall at each site.
+
+Repeated use of ETR begins here in the body, and the draft defines it as "electron transport rate".
+
+> Bad: We measure ETR at noon. ETR rises with light intensity.
+>
+> Good: We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
+
+This mention in the abstract is isolated; repeated use and the definition appear in Methods.
+
+> Bad: We measure electron transport rate (ETR).
+>
+> Good: We measure electron transport rate.
+
+This sentence opens a major section that uses ETR repeatedly; an earlier section defines ETR as "electron transport rate".
+
+> Bad: ETR decreases in shade.
+>
+> Good: Electron transport rate (ETR) decreases in shade.
+
+The draft defines LR as linear regression, but LR also commonly means likelihood ratio in this field; the abbreviation appears only in prose.
+
+> Bad: We compare LR with a spline fit.
+>
+> Good: We compare linear regression with a spline fit.
+
+The draft defines ETR as "electron transport rate", and the acronym ETR is unfamiliar outside the subfield; the Good line is the alternative title proposed to the author.
+
+> Bad: ETR in shaded leaves
+>
+> Good: Electron transport rate in shaded leaves
+
+The draft uses Z as the name of its seed-sorting procedure; the Good line proposes a descriptive label to the author.
+
+> Bad: We use the Z procedure.
+>
+> Good: We use the seed-sorting procedure.
+
+The draft defines AR as annual rainfall and uses it once in prose and once in a figure; the Good line proposes a prose revision for the author to coordinate with the figure.
+
+> Bad: AR varies by site.
+>
+> Good: Annual rainfall varies by site.
+
+The draft defines TS as time step, whereas DNA is standard for the intended readership.
+
+> Bad: DNA is measured at each TS.
+>
+> Good: DNA is measured at each time step.

@@ -4,11 +4,12 @@ State why the obvious approach fails. Without that explanation, the idea seems a
 
 ## Details
 
-The explanation lets readers judge how the proposed idea addresses the obstacle. Do not invent a baseline experiment to supply the explanation, and do not assume that every unsolved problem is technically difficult.
+Do not assume that every unsolved problem is technically difficult.
 
 ## Examples
 
 The draft states that the fallen tree is too heavy for the crane to lift in one piece; Good is the proposed revision for the author.
 
-- Bad: Lifting the fallen tree in one piece is infeasible.
-- Good: Lifting the fallen tree in one piece is infeasible because the tree is too heavy for the crane.
+> Bad: Lifting the fallen tree in one piece is infeasible.
+>
+> Good: Lifting the fallen tree in one piece is infeasible because the tree is too heavy for the crane.

@@ -4,17 +4,40 @@ Use a list for items readers must distinguish or follow separately. Turn bullets
 
 ## Details
 
-Independent requirements and ordered procedure steps suit lists. A developing argument needs sentences that state how its premises and conclusions connect. When converting bullets to prose, preserve relations already expressed or established in the draft; do not choose a connective just to make the paragraph flow.
+When converting bullets to prose, use only relations that the draft states or establishes; do not add a connective just to make the paragraph flow. Keep short, incidental examples inline when readers do not need to refer to them separately, and do not format minor details as a displayed list that makes them look like contributions.
 
-Keep incidental short examples inline when readers need no separate access to each. Displaying a list gives its items prominence, so do not use a list to make minor details look like contributions. Item length alone does not determine layout.
+Group a long list only by categories that the draft establishes, without imposing groups of three or a fixed item limit, and preserve every item, qualification, and distinction between primary and secondary items. Give equivalent entries [parallel form](parallel-form.md).
 
-Group a long list only by categories or dimensions the draft establishes. Preserve every member, qualification, and distinction between primary and secondary items. Do not impose groups of three or a fixed item limit. Make equivalent entries grammatically parallel after choosing their layout.
-
-If a table would help compare the same dimensions across objects, suggest it rather than building it. Supply no missing entries and leave protected data tables unchanged.
+When a table would help compare several objects across the same dimensions, suggest one instead of building it yourself or supplying missing entries.
 
 ## Examples
 
-The draft explains that the scale cannot weigh the sack because the sack exceeds the scale's 5 kg limit.
+The draft explains that the scale cannot weigh the sack because the sack exceeds the scale's 5 kg limit.
 
-- Bad: • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
-- Good: The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
+> Bad: • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
+>
+> Good: The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
+
+The symbols ↵ mark line breaks in these passages.
+
+> Bad: First, close the valve; second, disconnect the hose; third, remove the filter.
+>
+> Good: 1. Close the valve. ↵ 2. Disconnect the hose. ↵ 3. Remove the filter.
+
+The draft gives equal priority to these requirements and never refers to their numbers; ↵ marks line breaks.
+
+> Bad: 1. The lid must seal. ↵ 2. The handle must fold.
+>
+> Good: • The lid must seal. ↵ • The handle must fold.
+
+The draft explicitly groups the objectives into measurement and prediction; Good is the proposed regrouping, and ↵ marks line breaks.
+
+> Bad: Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
+>
+> Good: Our objectives are: ↵ • Measurement: record pressure and temperature. ↵ • Prediction: forecast rainfall.
+
+The symbols ↵ mark line breaks in these passages.
+
+> Bad: We store tools such as: ↵ • hammers; ↵ • pliers.
+>
+> Good: We store tools such as hammers and pliers.

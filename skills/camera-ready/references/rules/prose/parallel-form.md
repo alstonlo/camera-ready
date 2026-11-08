@@ -4,13 +4,46 @@ Give ideas with the same logical role the same grammatical form, but preserve me
 
 ## Details
 
-A precondition, a mechanism, and an outcome are different kinds of things. Do not rename them as three stages just to make a list uniform. A cause or a qualification can require unequal sentence structures to express its relation to the main claim.
-
-Identify exactly which coordinated items each qualifier governs. A tool, location, duration, or condition may apply to one operation or to all of them. Repeat wording when needed to make that scope clear; if the draft does not settle it, flag the ambiguity.
-
-Before shortening a comparison, identify both compared properties. Compare methods with methods and measured properties with measured properties. Do not delete a predicate whose absence makes one side refer to an object and the other to its measurement.
+If the draft does not settle which coordinated items a qualifier governs, flag the ambiguity instead of choosing one.
 
 ## Examples
 
-- Bad: We measured each stone's length, width, and how much it weighed.
-- Good: We measured each stone's length, width, and weight.
+> Bad: We measured each stone's length, width, and how much it weighed.
+>
+> Good: We measured each stone's length, width, and weight.
+
+> Bad: We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
+>
+> Good: We measured the length of the box, the width of the box with the lid open, and the weight of the box.
+
+The draft says only washing uses hot water.
+
+> Bad: We wash and dry the jars with hot water.
+>
+> Good: We wash the jars with hot water and dry them.
+
+> Bad: The mass of the steel ball exceeds the wooden ball.
+>
+> Good: The mass of the steel ball exceeds the mass of the wooden ball.
+
+> Bad: We compare how quickly the fan cools the room and the window.
+>
+> Good: We compare how quickly the fan cools the room and how quickly the window cools the room.
+
+The draft states that the frost caused the pipe to split.
+
+> Bad: The pipe froze and split.
+>
+> Good: The pipe split because it froze.
+
+The draft says stirring is a condition for the powder to dissolve.
+
+> Bad: The powder dissolves and we stir it.
+>
+> Good: The powder dissolves if we stir it.
+
+The draft states that yeast ferments in warm dough and that the fermentation enlarges the loaf.
+
+> Bad: Rising has three stages: warm dough, fermentation, and a larger loaf.
+>
+> Good: In warm dough, yeast ferments, and the fermentation enlarges the loaf.

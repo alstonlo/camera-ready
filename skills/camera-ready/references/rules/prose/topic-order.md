@@ -4,9 +4,14 @@ Finish one logical topic before switching to another, and repair any unexplained
 
 ## Details
 
-In a paired comparison, a return to the first method under a new, named dimension is intentional. It differs from interrupting an unfinished explanation with unrelated material about another method. Check that each comparison dimension is stated and applied consistently; alternating method names alone does not establish this structure.
+A comparison that alternates between methods follows this structure only when it names each dimension and applies it consistently before moving to the next.
 
 ## Examples
 
-- Bad: The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
-- Good: The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
+> Bad: The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
+>
+> Good: The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
+
+> Bad: For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
+>
+> Good: For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.

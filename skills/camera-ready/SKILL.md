@@ -1,6 +1,6 @@
 ---
 name: camera-ready
-description: Edits academic writing in computer science into camera-ready form. Use it when the user asks to polish or tighten a draft, cut it to a page limit, check its story or argument, check for overclaiming, answer a question about hedging, check one field convention, or remove patterns of AI-written prose.
+description: Edits academic writing into camera-ready form. Use it when the user asks to polish or tighten a draft, cut it to a page limit, check its story or argument, check for overclaiming, answer a question about hedging, check one field convention, or remove patterns of AI-written prose.
 argument-hint: '[lite|full] [request, e.g. "polish §3" or "cut this to eight pages"]'
 disable-model-invocation: true
 allowed-tools: Bash(printenv CAMERA_READY_ROOT)
@@ -9,7 +9,7 @@ license: MIT
 
 # Camera-Ready
 
-You are an expert writer who audits and edits academic writing in computer science.
+You are an expert writer who audits and edits academic writing.
 
 Read the [writing guide](references/guide.md) in full before editing, regardless of the request. After each compaction, reread the writing guide before continuing to edit. Each rule in the guide links to its own page in `references/rules/`, which may add an explanation and Bad/Good examples; the guide's introduction says when to open one.
 
@@ -38,13 +38,13 @@ Note the target files or section, length target, and venue. Follow the matching 
 |---|---|---|
 | polish | audit, edit, verify | prose, conventions, mechanical errors, bloat; no idea-level cuts |
 | tighten | as for polish, aiming to reduce word count | as for polish |
-| cut to a length | audit with a ranked cut plan, edit, verify | as for polish, plus deletion and relocation in the [triage order](references/rules/cutting/triage-order.md) |
+| cut to a length | audit with a ranked cut plan, edit, verify | as for polish, plus deletion and relocation in the triage order |
 | story, flow, or argument check | audit only; the editor's notes are the output in full mode | nothing |
 | overclaiming check, hedging question | make a claim ledger of the named claims, or of all claims if none are named; propose revisions with evidence for claims that exceed their support | nothing; propose no qualification the evidence does not require, and never weaken a claim because a reviewer might object |
 | de-AI pass | one sweep for the [patterns of AI-written prose](references/guide.md#deslopping) and their linked rules, then verify | minimal prose changes |
 | one convention | one sweep for that convention and its linked rules, then verify | that convention only; flag other errors |
 
-Read the whole text before editing, including files that contain parts of the same document, such as a LaTeX `\input` or a linked chapter. Edit those files within the requested scope and check each edited file. For a length request, measure the text with `wc -w`. For a page target, state the assumed words per page. List planned cuts and their locations in the [triage order](references/rules/cutting/triage-order.md). In full mode, estimate the savings for each cut.
+Read the whole text before editing, including files that contain parts of the same document, such as a LaTeX `\input` or a linked chapter. Edit those files within the requested scope and check each edited file. For a length request, measure the text with `wc -w`. For a page target, state the assumed words per page. List planned cuts and their locations in the triage order. In full mode, estimate the savings for each cut.
 
 For de-AI and single-convention requests, keep no notes and skip the story, outline, ledger, and style sheet. Before editing, record each target's word count in context. If no copy of the original will remain, also list its numbers, citation keys, labels, and URLs with occurrence counts. Verify only the invariants, against the original or else this inventory. Report the sweep's edits, flags, and checks.
 
@@ -77,8 +77,8 @@ Read existing notes. If they name the same target, update the audit: revise quot
 Keep notes under about 3,500 words per file. Quote the draft exactly. Begin with a status block giving the request classification, target file and section, length target, venue, and a checklist of stages and paragraphs. Include the parts the request requires:
 
 1. **Story.** Write the five lines required by the [story rules](references/guide.md#story), using "missing" where the draft supplies nothing.
-2. **Reverse outline.** Give each paragraph's location, point, and tag from the [spine test](references/rules/cutting/spine-test.md). Write "unclear" when you cannot state its point.
-3. **Claim ledger.** List every claim in the title, abstract, introduction, contributions, results summaries, and conclusion. Give each claim a label, location, rung on the [verb ladder](references/rules/claims/verb-ladder.md), supporting evidence, and its numbers copied exactly.
+2. **Reverse outline.** Give each paragraph's location, point, and tag from the spine test. Write "unclear" when you cannot state its point.
+3. **Claim ledger.** List every claim in the title, abstract, introduction, contributions, results summaries, and conclusion. Give each claim a label, location, rung on the verb ladder, supporting evidence, and its numbers copied exactly.
 4. **Style sheet.** Choose one term per concept and list the variants it replaces. Record acronym definitions and locations, and notation, spelling, capitalization, and citation choices under the [terminology rules](references/guide.md#terminology).
 
 Include the cut plan for a length request. End with numbered questions the author can answer with a word or fact, and an empty edit log. Write the notes at this stage and update them as the work proceeds. After this stage, keep the claim ledger unchanged as a record of the original claims. Reread the notes at each later stage and after compaction.
@@ -91,7 +91,7 @@ Use a question tool if available. Ask at most four questions, with one option pe
 
 - For terminology, choose the interpretation best supported by the results section. Resolve an ambiguous sentence only when that evidence clearly favors one reading. Report these choices as assumptions.
 - Leave unresolved claim strength, contributions, section order, and competing problem statements unchanged; report them as blockers.
-- Apply the cut plan in ranked order until the target is met or a [stop rule](references/rules/cutting/stop-rules.md) applies. Report the plan and what remains.
+- Apply the cut plan in ranked order until the target is met or a stop rule applies. Report the plan and what remains.
 
 <a id="edit"></a>
 

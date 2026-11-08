@@ -4,9 +4,16 @@ Read the sentence aloud, or simulate doing so, to locate hesitation, unclear str
 
 ## Details
 
-A reader who knows the intended argument can supply emphasis or connections that the words never express. Read only what is on the page, adding no pauses or emphasis the words lack. Use a hesitation to locate a hard-to-follow connection between sentence parts or an unclear referent, then repair that wording. This diagnostic requires neither an audio tool nor a separate workflow stage.
+This rule needs no details beyond its summary.
 
 ## Examples
 
-- Bad: The observers recorded errors on the checklist that occurred during navigation.
-- Good: The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
+> Bad: The observers recorded errors on the checklist that occurred during navigation.
+>
+> Good: The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
+
+The draft says the operator should rinse the jar instead of the lid.
+
+> Bad: The operator should rinse the jar.
+>
+> Good: The operator should rinse the jar rather than the lid.

@@ -1,16 +1,27 @@
 # Delete transition chains that announce more text
 
-Delete repeated openings such as "Moreover", "Furthermore", and "Additionally" when they merely announce more text. Keep words that express a [valid logical relation](../prose/transitions.md). Do not replace an additive sequence with an unsupported causal, temporal, or contrastive connection.
+Delete repeated openings such as "Moreover", "Furthermore", and "Additionally" when they merely announce more text. Keep transitions that express a [valid logical relation](../prose/transitions.md), and do not replace an additive sequence with an unsupported causal, temporal, or contrastive connection.
 
 ## Details
 
-Read the paragraph before deleting a connective. A word that marks another premise in an argument may express a logical relation even when the same word appears nearby.
-
-Paragraph order can convey a simple sequence. Swapping additive openings for other connectives just for variety can introduce a contrast or consequence the text never established.
+This rule needs no details beyond its summary.
 
 ## Examples
 
 These sentences open consecutive paragraphs describing independent setup choices.
 
-- Bad: Moreover, all participants use the same tablet. Additionally, each session lasts 20 minutes.
-- Good: All participants use the same tablet. Each session lasts 20 minutes.
+> Bad: Moreover, all participants use the same tablet. Additionally, each session lasts 20 minutes.
+>
+> Good: All participants use the same tablet. Each session lasts 20 minutes.
+
+The first opening merely announces another result; the second marks a supported contrast.
+
+> Bad: Moreover, the lids hold in fresh water. However, they leak in salt water.
+>
+> Good: The lids hold in fresh water. However, they leak in salt water.
+
+The first opening only continues a setup list; the second adds a distinct premise needed for the protocol.
+
+> Bad: Moreover, the tray is steel. Furthermore, its coating is inert. Both properties are required by the protocol.
+>
+> Good: The tray is steel. Furthermore, its coating is inert. Both properties are required by the protocol.

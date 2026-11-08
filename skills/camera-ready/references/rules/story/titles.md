@@ -4,19 +4,36 @@ Flag a title that hides the subject, has two plausible readings, or overstates t
 
 ## Details
 
-Read the title without the abstract, as readers see it in search results. It should identify the subject and the feature that distinguishes the work, using recognizable field terms rather than generic promotional wording.
-
-A proposed revision can remove an empty lead phrase or redundant subtitle, but should retain relationships and conditions that distinguish the paper. A longer accurate title is preferable to an ambiguous string of nouns.
-
-A short established symbol can be useful; long formulas can hinder interpretation and retrieval. Do not ban symbols from titles outright.
-
-A title that states a claim needs the same evidence as a claim in the body. Suggest no strengthening or weakening merely to make the title more striking or more cautious.
-
-A claim, question, colon, or playful phrase is optional. Judge whether the title identifies the work accurately, rather than enforcing one grammatical form.
+Read the title on its own, as readers see it in search results. A short established symbol may be clear, whereas a long formula can make the title hard to parse. No single grammatical form is required: a declarative claim, a question, a two-part title with a colon, or a playful phrase works if it identifies the contribution accurately.
 
 ## Examples
 
 The draft presents a method for detecting cracks in ceramic cups with sound; Good is the title proposed to the author.
 
-- Bad: A new approach to testing ceramics
-- Good: Detecting cracks in ceramic cups with sound
+> Bad: A new approach to testing ceramics
+>
+> Good: Detecting cracks in ceramic cups with sound
+
+The draft tracks birds that carry cameras, using radio tags to locate them; Good is the proposed title for the author.
+
+> Bad: Tracking birds with cameras
+>
+> Good: Tracking birds that carry cameras
+
+The draft finds less leakage only in the tested pipes; Good is the proposed title for the author.
+
+> Bad: Preventing all pipe leaks
+>
+> Good: Reducing leaks in the tested pipes
+
+The draft defines the acronym WLD as water-loss detection, which readers outside the subfield would not know; Good is the proposed title for the author.
+
+> Bad: WLD in clay pots
+>
+> Good: Water-loss detection in clay pots
+
+The venue requires a title and subtitle; the draft supplies the finding that a lid halves evaporation in the tested tank. Good is the proposed title for the author.
+
+> Bad: A lid for a tank: A study
+>
+> Good: A lid for a tank: Halving evaporation in the tested tank

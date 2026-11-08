@@ -1,16 +1,25 @@
 # Replace false ranges with the settings tested
 
-Replace "from X to Y" when its endpoints do not lie on an ordered scale. In that case, the phrase suggests breadth without defining a range. Name the tested settings the draft supplies. Keep a range along an ordered scale. Do not reduce a longer stated list to its endpoints.
+When the endpoints of "from X to Y" do not lie on an ordered scale, the phrase suggests breadth without defining a range; replace it with the tested settings that the draft names. Keep true ranges along an ordered scale, and do not shorten a longer stated list to its endpoints.
 
 ## Details
 
-Unrelated task names do not define intermediate positions on a scale. A range between them can imply broader evaluation than the draft reports.
-
-An ordered parameter scale does support range wording. Preserve its endpoints and any stated restrictions on the evaluated values.
+This rule needs no details beyond its summary.
 
 ## Examples
 
 The draft tests the paint only on brick and metal.
 
-- Bad: We test the paint on surfaces ranging from brick to metal.
-- Good: We test the paint on brick and metal.
+> Bad: We test the paint on surfaces ranging from brick to metal.
+>
+> Good: We test the paint on brick and metal.
+
+> Bad: We test materials ranging from brick through wood to metal.
+>
+> Good: We test brick, wood, and metal.
+
+The draft tests only brick and metal.
+
+> Bad: We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
+>
+> Good: We test brick and metal at 10–30 °C in 10 °C increments.

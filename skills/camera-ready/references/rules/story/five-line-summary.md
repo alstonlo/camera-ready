@@ -4,13 +4,36 @@ Before editing, use the text itself to write one line each for the problem, the 
 
 ## Details
 
-The five lines are audit notes, not five sentences to insert into the paper. Each line records a different part of the argument.
-
-Keep a missing cost or implication marked as missing; a polished audit must not hide a gap in the paper.
+The five lines are audit notes, not sentences to insert into the paper.
 
 ## Examples
 
 The draft says that the tide gauge stops recording during storms, leaving peak water levels unknown; this pair shows the gap-and-cost line of the audit.
 
-- Bad: Gap and cost: The tide gauge stops recording during storms.
-- Good: Gap and cost: The tide gauge stops recording during storms, leaving peak water levels unknown.
+> Bad: Gap and cost: The tide gauge stops recording during storms.
+>
+> Good: Gap and cost: The tide gauge stops recording during storms, leaving peak water levels unknown.
+
+The draft says that the tide gauge stops recording during storms but never states what the missing records cost; this pair shows the gap-and-cost line of the audit.
+
+> Bad: Gap and cost: The tide gauge stops recording during storms, so flood warnings fail.
+>
+> Good: Gap and cost: The tide gauge stops recording during storms. Cost: not stated in the draft; flag for the author.
+
+The draft states that the finer screen blocks small flies in the trial, keeping them out of the tested food store; the problem, gap, and idea lines of the audit are already complete.
+
+> Bad: Evidence: The finer screen blocks small flies in the trial. Implication: Not recorded.
+>
+> Good: Evidence: The finer screen blocks small flies in the trial. Implication: The finer screen keeps small flies out of the tested food store.
+
+In the audit notes for the spine test, the idea line proposes a lid and the evidence line states that the lid halves evaporation in the tested tank.
+
+> Bad: Core claim: We propose and test a lid.
+>
+> Good: Core claim: The lid halves evaporation in the tested tank.
+
+The draft states that sediment clogs the village's drinking-water pipes; this is the problem line of the audit.
+
+> Bad: Problem: Drinking water.
+>
+> Good: Problem: Sediment clogs the village's drinking-water pipes.

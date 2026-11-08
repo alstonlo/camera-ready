@@ -1,42 +1,43 @@
 # Writing guide
 
-This guide is generated from a collection of writing rules. Each rule has its own page in the folder `rules/` next to this guide, and every page has the following format:
+This guide is generated from a collection of writing rules. Each rule has its own page in the `rules/` folder next to this guide and follows this format:
 
 ```markdown
 # {{ Name of the rule }}
 
-{{ A summary of the rule: what to look for, the edit or flag it calls for, and the exceptions that change the edit. }}
+{{ A summary of the rule: what to look for, the edit or flag that it calls for, and the exceptions that change the edit. }}
 
 ## Details
 
-{{ Optional explanation, further cases, and procedures, omitted from the summary for concision. }}
+{{ Explanation, further cases, and procedures omitted from the summary for concision, or, if there are none, the sentence "This rule needs no details beyond its summary." }}
 
 ## Examples
 
 {{ Optional context that the example needs. }}
 
-- Bad: {{ A passage that breaks the rule. }}
-- Good: {{ The same passage, corrected under this rule alone. }}
+> Bad: {{ A passage that breaks the rule. }}
+>
+> Good: {{ The same passage, corrected under this rule alone. }}
 ```
 
-The guide below reproduces each rule's heading and summary. Every rule page has at least one example, and some pages also have Details. Read a rule page fully when the rule applies to the text being edited and its summary does not settle the edit, or when the summary names a case that its page covers. An example shows one edit under its rule; it does not widen what the request lets you change.
+The guide below reproduces each rule's heading and summary; each rule page adds `Details` and at least one example. Read a rule page in full when the rule applies to the text you are editing and the summary does not settle the edit, or when the summary names a case that its page covers. Each example illustrates one edit under its rule and does not widen what the request permits you to change.
 
 ## Table of contents
 
 The guide has six sections of rules:
 
-- [Story](#story): the argument from problem to implication, the title and headings, section order and openings, contributions, related work, results organized by questions, and numbers that support claims.
-- [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, over- and underclaiming, consistency across the text, causal language, what an efficiency claim counts, significance, hedges, speculation, and limitations.
-- [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
-- [Prose](#prose): ordering, paragraphs, information flow, sentence structure, content in place of promises, concrete quantities, and plain wording.
+- [Story](#story): the argument from problem to implication, titles and headings, section order and openings, contributions, related work, results organized by question, and numbers that support claims.
+- [Claims](#claims): reporting verbs that match claims to their evidence, scope, overclaiming and underclaiming, consistency across the text, causal language, what an efficiency claim counts, statistical significance, hedges, speculation, and limitations.
+- [Cutting](#cutting): what to delete or relocate without a separate request from the author, the triage order under a length limit, what to protect, and how to repair the text around a cut.
+- [Prose](#prose): explanation order, paragraphs, information flow, sentence structure, direct content in place of promises, concrete quantities, and plain wording.
 - [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, typography, and LaTeX source.
-- [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
+- [Deslopping](#deslopping): two tiers of patterns common in AI-written prose.
 
-For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in each applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
+When a request is narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk against every rule in each applicable section. When two rules prescribe different edits for the same sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
 
 ## Story
 
-Organize the text around one argument: a problem the reader cares about, a gap with a cost, an idea that closes the gap, evidence that the idea works, and the implication. Check this argument across the whole text and its sections before editing sentences, because sentence edits cannot repair a broken argument. Use the [rules on claims](#claims) to set each statement's strength, the [rules on cutting](#cutting) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
+Organize the text around one argument: a problem the reader cares about, a gap with a cost, an idea that closes the gap, evidence that the idea works, and the implication. Check this argument across the whole text and its sections before editing individual sentences, because sentence-level edits cannot repair a broken argument. Use the [rules on claims](#claims) to set each statement's strength, the [rules on cutting](#cutting) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
 
 Without a separate request from the author, you may:
 
@@ -45,7 +46,7 @@ Without a separate request from the author, you may:
 - Remove numbers from running text when a table already contains them.
 - Rewrite a caption to state a conclusion already drawn in the body text.
 
-Flag changes to the text's claims, section order, or list of contributions instead of making them. Never supply a cost, explanation, or number that the text lacks.
+Flag any changes to the text's claims, section order, or list of contributions instead of making them yourself. Never supply a cost, explanation, or number that the draft does not contain.
 
 ### The whole argument
 
@@ -53,7 +54,7 @@ Flag changes to the text's claims, section order, or list of contributions inste
 
 {{story/one-sentence-summary}}
 
-{{story/section-stages}}
+{{story/section-functions}}
 
 {{story/linear-argument}}
 
@@ -81,11 +82,11 @@ Flag changes to the text's claims, section order, or list of contributions inste
 
 ### Related work
 
-{{story/prior-work}}
+{{story/prior-work-comparisons}}
 
 {{story/novelty}}
 
-{{story/related-work-placement}}
+{{story/prior-work-placement}}
 
 ### Results
 
@@ -95,17 +96,17 @@ Flag changes to the text's claims, section order, or list of contributions inste
 
 {{story/explain-evidence}}
 
-{{story/source-of-gain}}
+{{story/component-effects}}
 
 ### Numbers
 
-The most common failure in the argument of AI-generated text is to obscure the point with results. Correct the order so that every number supports a claim stated first in words.
+The most common flaw in the argument of AI-generated text is burying the point in the results. Reorder the text so that every number supports a claim already stated in words.
 
 {{story/claim-before-number}}
 
 {{story/headline-number}}
 
-{{story/precision}}
+{{story/number-precision}}
 
 ### Discussion and conclusion
 
@@ -115,7 +116,7 @@ The most common failure in the argument of AI-generated text is to obscure the p
 
 ## Claims
 
-Every claim must match its evidence. Both overclaiming and underclaiming are errors. An aspirational goal may motivate the text if the text states that the goal remains unattained.
+Every claim must match its evidence: both overclaiming and underclaiming are errors. An aspirational goal may motivate the work as long as the text states that the goal remains unattained.
 
 ### Strength and scope
 
@@ -123,25 +124,25 @@ Every claim must match its evidence. Both overclaiming and underclaiming are err
 
 {{claims/scope}}
 
-{{claims/overclaiming}}
+{{claims/unsupported-labels}}
 
 {{claims/underclaiming}}
 
-{{claims/consistency}}
+{{claims/internal-consistency}}
 
 ### Causation and formal support
 
 {{claims/causal-language}}
 
-{{claims/formal-informal}}
+{{claims/evidence-kind}}
 
-{{claims/cost-model}}
+{{claims/efficiency-claims}}
 
 ### Numerical comparisons
 
-{{claims/uncertainty}}
+{{claims/variability}}
 
-{{claims/significance}}
+{{claims/statistical-significance}}
 
 ### Qualification and limits
 
@@ -153,37 +154,37 @@ Every claim must match its evidence. Both overclaiming and underclaiming are err
 
 ## Cutting
 
-Use the [spine test](rules/cutting/spine-test.md) to determine what the text needs, and use the request to determine what you may delete or relocate.
+Use the [spine test](rules/cutting/spine-test.md) to determine what the argument needs, and check the request to see what you may delete or relocate.
 
 ### Deciding what to cut
 
 {{cutting/bloat}}
 
-{{cutting/idea-level}}
+{{cutting/idea-cuts}}
 
 {{cutting/spine-test}}
 
 {{cutting/triage-order}}
 
-{{cutting/protect}}
+{{cutting/protected-sentences}}
 
 ### Making the cut
 
-{{cutting/sentence-by-sentence}}
+{{cutting/sentence-dependencies}}
 
 {{cutting/stop-rules}}
 
-{{cutting/after-the-pass}}
+{{cutting/post-cut-check}}
 
 ## Prose
 
-{{prose/build-understanding-early}}
+{{prose/explanation-order}}
 
 {{prose/deletion-test}}
 
 ### Paragraphs
 
-{{prose/paragraphs}}
+{{prose/paragraph-development}}
 
 {{prose/list-structure}}
 
@@ -199,7 +200,7 @@ Use the [spine test](rules/cutting/spine-test.md) to determine what the text nee
 
 {{prose/stress-position}}
 
-{{prose/other-sentence-orders}}
+{{prose/passives-fronting-inversions}}
 
 ### Sentence structure
 
@@ -217,11 +218,11 @@ Use the [spine test](rules/cutting/spine-test.md) to determine what the text nee
 
 {{prose/direct-content}}
 
-{{prose/policy-for-finding}}
+{{prose/reporting-policies}}
 
 {{prose/signposts}}
 
-{{prose/reasons}}
+{{prose/choice-reasons}}
 
 ### Concrete quantities and operations
 
@@ -253,15 +254,15 @@ These conventions override generic writing advice.
 
 ### Voice and tense
 
-{{conventions/voice}}
+{{conventions/active-voice}}
 
-{{conventions/actions}}
+{{conventions/performed-actions}}
 
 {{conventions/tense}}
 
 ### Terminology
 
-{{conventions/terminology}}
+{{conventions/term-consistency}}
 
 {{conventions/parts-of-speech}}
 
@@ -269,35 +270,35 @@ These conventions override generic writing advice.
 
 {{conventions/spelling}}
 
-{{conventions/refresh-shorthand}}
+{{conventions/shorthand-reminders}}
 
 {{conventions/suggestive-terms}}
 
 ### Mathematics
 
-{{conventions/notation}}
+{{conventions/symbol-definitions}}
 
 {{conventions/math-prose}}
 
-{{conventions/equation-meaning}}
+{{conventions/formal-material-purpose}}
 
-{{conventions/math-type}}
+{{conventions/math-typography}}
 
-{{conventions/displays}}
+{{conventions/display-numbering}}
 
-{{conventions/theorems}}
+{{conventions/theorem-statements}}
 
-{{conventions/proofs}}
+{{conventions/proof-strategy}}
 
 ### Citations, figures, and tables
 
 {{conventions/citation-markers}}
 
-{{conventions/source-attribution}}
+{{conventions/missing-citations}}
 
-{{conventions/figures-tables}}
+{{conventions/captions}}
 
-{{conventions/float-refs}}
+{{conventions/figure-table-references}}
 
 ### Typography
 
@@ -307,9 +308,9 @@ These conventions override generic writing advice.
 
 {{conventions/latin-abbreviations}}
 
-{{conventions/clause-commas}}
+{{conventions/nonrestrictive-commas}}
 
-{{conventions/formal-marks}}
+{{conventions/punctuation-typography}}
 
 {{conventions/units}}
 
@@ -317,10 +318,10 @@ These conventions override generic writing advice.
 
 ## Deslopping
 
-Classify recognizable patterns of AI-written prose in two tiers.
+Divide recognizable patterns of AI-written prose into two tiers:
 
-1. **Blacklisted patterns.** Delete every instance, regardless of the threshold for tolerable patterns below.
-2. **Tolerable patterns.** All other patterns are tolerable. Edit an instance when doing so improves the sentence itself. Rewrite a whole passage only when it contains three or more instances of tolerable patterns.
+1. **Blacklisted patterns.** Delete every instance; the threshold for tolerable patterns below does not apply.
+2. **Tolerable patterns.** Treat all other patterns in this section as tolerable. Edit a single instance when doing so improves the sentence itself, and rewrite a whole passage only when it contains three or more instances of tolerable patterns.
 
 {{deslopping/author-voice}}
 
@@ -328,11 +329,11 @@ Classify recognizable patterns of AI-written prose in two tiers.
 
 {{deslopping/em-dashes}}
 
-{{deslopping/chatbot-artifacts}}
+{{deslopping/chatbot-phrases}}
 
-{{deslopping/generic-openings}}
+{{deslopping/generic-openings-closings}}
 
-{{deslopping/leaked-artifacts}}
+{{deslopping/generation-artifacts}}
 
 ### Tolerable patterns
 
@@ -344,7 +345,7 @@ Classify recognizable patterns of AI-written prose in two tiers.
 
 {{deslopping/reasoning-leakage}}
 
-{{deslopping/diff-anchored-prose}}
+{{deslopping/revision-narration}}
 
 {{deslopping/vague-attribution}}
 
@@ -366,7 +367,7 @@ Classify recognizable patterns of AI-written prose in two tiers.
 
 {{deslopping/rhetorical-questions}}
 
-{{deslopping/uniform-rhythm}}
+{{deslopping/repetitive-syntax}}
 
 {{deslopping/significance-inflation}}
 

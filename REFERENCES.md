@@ -46,18 +46,18 @@ The following are sources cited by the deep research reports used to create this
 
 I found the following sources myself, and Claude added their advice to the skill:
 
-- Michael Alley (2018). *The Craft of Scientific Writing*.
-- Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald (2024). *The Craft of Research*.
+- Michael Alley (2018). The Craft of Scientific Writing.
+- Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald (2024). The Craft of Research.
 - Thomas Hikaru Clark, Matias B. Martin, and Kyle Mahowald (2026). [Why is AI-generated language so hard to understand?](https://arxiv.org/abs/2610.29162).
-- Hilary Glasman-Deal (2020). *Science Research Writing for Native and Non-Native Speakers of English*.
-- George D. Gopen (2004). *The Sense of Structure: Writing from the Reader's Perspective*.
-- Anne E. Greene (2013). *Writing Science in Plain English*.
-- Stephen B. Heard (2026). *The Scientist's Guide to Writing: How to Write More Easily and Effectively throughout Your Scientific Career*.
-- Nicholas J. Higham (1998). *Handbook of Writing for the Mathematical Sciences*.
-- Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1989). *Mathematical Writing*.
-- Steven Pinker (2014). *The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century*.
-- Joshua Schimel (2012). *Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded*.
-- John M. Swales and Christine B. Feak (2012). *Academic Writing for Graduate Students: Essential Tasks and Skills*.
-- Helen Sword (2012). *Stylish Academic Writing*.
-- Joseph M. Williams and Joseph Bizup (2021). *Style: Lessons in Clarity and Grace*.
-- Justin Zobel (2014). *Writing for Computer Science*.
+- Hilary Glasman-Deal (2020). Science Research Writing for Native and Non-Native Speakers of English.
+- George D. Gopen (2004). The Sense of Structure: Writing from the Reader's Perspective.
+- Anne E. Greene (2013). Writing Science in Plain English.
+- Stephen B. Heard (2026). The Scientist's Guide to Writing: How to Write More Easily and Effectively throughout Your Scientific Career.
+- Nicholas J. Higham (1998). Handbook of Writing for the Mathematical Sciences.
+- Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1989). Mathematical Writing.
+- Steven Pinker (2014). The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century.
+- Joshua Schimel (2012). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded.
+- John M. Swales and Christine B. Feak (2012). Academic Writing for Graduate Students: Essential Tasks and Skills.
+- Helen Sword (2012). Stylish Academic Writing.
+- Joseph M. Williams and Joseph Bizup (2021). Style: Lessons in Clarity and Grace.
+- Justin Zobel (2014). Writing for Computer Science.

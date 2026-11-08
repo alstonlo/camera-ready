@@ -1,25 +1,83 @@
 # Say what literally happens
 
-Name the actual object and operation. Replace inflated "utilize" or "leverage" with "use" when equivalent. Check whether "approach", "framework", "strategy", or "issue" hides a more specific meaning; keep a defined term the paper reuses as shorthand. Name an object before labeling its role. Expand figurative verbs, nouns used as verbs for one occasion ("we changelog the fix"), and unusual word pairs when readers must decode them, following [parts of speech](../conventions/parts-of-speech.md). Preserve established technical terms, verbs, and word combinations; when explaining an unfamiliar term, keep the population, metric, and denominator it covers. Replace an opaque phrasal verb only with an exact equivalent. Keep an existing analogy whose correspondence the draft makes clear; replace decorative or misleading imagery with literal wording, without adding an analogy. The [aphorism rule](../deslopping/aphorisms.md) governs slogan formulas. For an ambiguous preposition, or a "replace" or "substitute" phrase that leaves unclear which item takes the other's place, use the page's diagnostics.
+Name the actual object and operation. Replace inflated "utilize" or "leverage" with "use" when equivalent. Check whether an abstract word such as "approach", "framework", "strategy", or "issue" hides a more specific meaning, but keep any defined term that the paper reuses as shorthand. Name an object before labeling its role. Expand figurative verbs, nouns used as verbs for one occasion ("we spreadsheet the readings"), and unusual word pairs when readers must decode them, following [parts of speech](../conventions/parts-of-speech.md). Preserve established technical terms, verbs, and word combinations; when explaining an unfamiliar term, keep the population, metric, and denominator it covers. Replace an opaque phrasal verb only with an exact equivalent. Keep an existing analogy whose correspondence the draft makes clear, and replace decorative or misleading imagery with literal wording without adding a new analogy. The [aphorism rule](../deslopping/aphorisms.md) governs slogan formulas. Use the diagnostics in Details for an ambiguous preposition or for a "replace" or "substitute" phrase that leaves unclear which item takes the other's place.
 
 ## Details
 
-- A figurative verb may obscure whether an operation deletes, rejects, delays, or transforms an object. Name the operation the draft describes. Do not choose an event merely because it is a plausible interpretation of the image.
-- An improvised verb formed from a noun can make readers guess the intended action. Expand it into a familiar verb phrase. Keep established technical verbs rather than replacing them with cumbersome paraphrases.
-- An unusual word pair may compress a relation that needs a clause. State that relation directly, while retaining established combinations of technical terms.
-- A phrasal verb may have several readings. Replace it only when another expression names exactly the same operation; a shorter verb is not necessarily more precise.
-- Inflated vocabulary can delay an ordinary action. Prefer the ordinary equivalent without changing the claim or the technical meaning.
-- A broad abstraction may name a role rather than the object serving it. Identify the object first, then its role when relevant. Once defined, an abstraction can be useful shorthand.
+When replacing a figurative verb, name the literal operation that the draft describes rather than guessing an event from the image.
 
-For an ambiguous preposition, identify whether its phrase expresses an instrument, accompaniment, cause, method, or time. Expand it only when the draft settles the relation. For a replacement, make clear which item is removed and which takes its place.
+When a preposition is ambiguous, check whether the draft means instrument, accompaniment, cause, method, or time, and expand it only when the draft settles the relation. With "replace" or "substitute", identify which item is removed and which takes its place; flag either relation if the draft leaves it unsettled.
 
-An explanation of terminology must retain the original population, metric, and denominator. A familiar subset cannot substitute for the full technical class.
-
-For an existing analogy, identify the technical objects, their familiar counterparts, and the relation being explained. Similarity in that relation does not transfer every property of the comparison. Keep the literal operation explicit. Flag an unsupported scientific inference instead of changing the claim through figurative wording.
-
-A clear analogy needs no added account of an obvious correspondence. Replace an obscure or incompatible image with literal language; do not manufacture a new image or authorial voice. State a limit of the analogy only to correct a specific misleading implication, not to attach a generic caveat to every analogy.
+To check an analogy, match the technical objects to their familiar counterparts and identify the shared relation. Correct only a specific misleading implication, without adding a generic caveat or spelling out an obvious correspondence. Flag unsupported inferences under [scope](../claims/scope.md).
 
 ## Examples
 
-- Bad: We utilize a ruler to measure each leaf.
-- Good: We use a ruler to measure each leaf.
+> Bad: We utilize a ruler to measure each leaf.
+>
+> Good: We use a ruler to measure each leaf.
+
+The draft identifies a foam pad as the support.
+
+> Bad: Our support strategy holds the vial upright.
+>
+> Good: A foam pad holds the vial upright.
+
+The preceding sentence defines “the framework” as the steel frame around the tank.
+
+> Bad: We utilize the framework to support the tank.
+>
+> Good: We use the framework to support the tank.
+
+The draft says the filter discards duplicate readings.
+
+> Bad: The filter swallows duplicate readings.
+>
+> Good: The filter discards duplicate readings.
+
+> Bad: We spreadsheet the readings.
+>
+> Good: We enter the readings in a spreadsheet.
+
+The draft calls the measurement uncertain because the scale drifts.
+
+> Bad: Scale drift makes the measurement epistemically slippery.
+>
+> Good: Scale drift makes the measurement uncertain.
+
+> Bad: We utilize centrifugation to pellet the cells.
+>
+> Good: We use centrifugation to pellet the cells.
+
+The draft defines emergence as the fraction of all planted seeds producing a shoot above the soil.
+
+> Bad: Emergence captures the seeds’ breakthrough.
+>
+> Good: Emergence is the fraction of all planted seeds producing a shoot above the soil.
+
+The draft says the controller gradually reduces heater power.
+
+> Bad: The controller dials back heater power.
+>
+> Good: The controller gradually reduces heater power.
+
+> Bad: Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
+>
+> Good: Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
+
+The draft states that the spring closes the lid.
+
+> Bad: The spring is the lid’s tireless guardian.
+>
+> Good: The spring closes the lid.
+
+The draft states that the stones remain submerged throughout weighing.
+
+> Bad: We weigh the stones in water.
+>
+> Good: We weigh the stones while they are submerged in water.
+
+The draft says the steel pin is removed and a brass pin takes its place.
+
+> Bad: We substitute the steel and brass pins.
+>
+> Good: We replace the steel pin with a brass pin.

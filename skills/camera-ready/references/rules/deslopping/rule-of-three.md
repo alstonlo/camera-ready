@@ -4,11 +4,24 @@ Revise a three-part list such as "faster, cheaper, and more robust" when it is a
 
 ## Details
 
-Check what each item contributes. Three experimental conditions or three necessary properties are not a rhetorical defect. An ornamental adjective added to finish a list may be empty even when the first two properties are concrete.
-
-Keep supported substantive items regardless of the resulting count. The rule does not authorize removing a contribution or measured property just to avoid three items.
+This rule needs no details beyond its summary.
 
 ## Examples
 
-- Bad: The case is waterproof, lockable, and remarkable.
-- Good: The case is waterproof and lockable.
+> Bad: The case is waterproof, lockable, and remarkable.
+>
+> Good: The case is waterproof and lockable.
+
+> Bad: The case is lockable, waterproof, and impervious to water.
+>
+> Good: The case is lockable and waterproof.
+
+> Bad: The kit contains a ruler, a brush, and a tray; the kit is remarkable, outstanding, and extraordinary.
+>
+> Good: The kit contains a ruler, a brush, and a tray.
+
+The draft supports "waterproof" but includes no fire test; Good is the proposed revision, which keeps "fireproof" and flags its missing support.
+
+> Bad: The case is waterproof, fireproof, and remarkable.
+>
+> Good: The case is waterproof and fireproof.
