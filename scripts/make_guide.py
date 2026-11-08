@@ -9,10 +9,6 @@ RULES = SKILL / "references" / "rules"
 GUIDE = SKILL / "references" / "guide.md"
 TEMPLATE = ROOT / "scripts" / "guide.template.md"
 
-NOTICE = (
-    "<!-- Built by scripts/build_guide.py from scripts/guide.template.md and the rule pages in "
-    "rules/. Edit those files, not this one. -->\n\n"
-)
 SLOT = re.compile(r"^\{\{([a-z0-9-]+/[a-z0-9-]+)\}\}$", flags=re.M)
 LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
@@ -20,7 +16,7 @@ PARTS = ["## Details", "## Examples"]
 
 
 def fail(msg: str):
-    sys.exit(f"build_guide: {msg}")
+    sys.exit(f"make_guide: {msg}")
 
 
 def read_rule(path: Path) -> tuple[str, str]:
@@ -76,7 +72,7 @@ def build() -> str:
     if unknown or unused or repeated:
         fail(f"template slots: unknown {unknown}, missing {unused}, repeated {repeated}")
 
-    guide = NOTICE + SLOT.sub(lambda m: render(m[1], *rules[m[1]], names), template)
+    guide = SLOT.sub(lambda m: render(m[1], *rules[m[1]], names), template)
 
     anchors = {slug(h) for h in re.findall(r"^#+ (.*)$", guide, flags=re.M)}
     anchors |= set(re.findall(r'<a id="([\w-]+)"></a>', guide))

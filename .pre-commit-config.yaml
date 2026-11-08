@@ -1,9 +1,9 @@
 repos:
   - repo: local
     hooks:
-      - id: build-guide
+      - id: make-guide
         name: build references/guide.md
-        entry: python3 scripts/build_guide.py
+        entry: python3 scripts/make_guide.py
         language: system
         pass_filenames: false
         always_run: true

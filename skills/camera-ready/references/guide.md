@@ -1,5 +1,3 @@
-<!-- Built by scripts/build_guide.py from scripts/guide.template.md and the rule pages in rules/. Edit those files, not this one. -->
-
 # Writing guide
 
 The guide has six sections:
