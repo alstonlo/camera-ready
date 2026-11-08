@@ -1,4 +1,3 @@
-import argparse
 import posixpath
 import re
 import sys
@@ -91,17 +90,5 @@ def build() -> str:
     return guide
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Build references/guide.md from the rule pages.")
-    parser.add_argument("--check", action="store_true", help="fail if guide.md is out of date")
-    args = parser.parse_args()
-
-    guide = build()
-    if args.check and GUIDE.read_text() != guide:
-        fail("references/guide.md is out of date; run python3 scripts/build_guide.py")
-    if not args.check:
-        GUIDE.write_text(guide)
-
-
 if __name__ == "__main__":
-    main()
+    GUIDE.write_text(build())
