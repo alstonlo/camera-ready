@@ -1,19 +1,6 @@
 # Writing guide
 
-After the description of [rule pages](#rule-pages), the guide has six sections of rules:
-
-- [Story](#story): the argument from problem to implication, section order and openings, contributions, results organized by questions, and numbers that support claims.
-- [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
-- [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
-- [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
-- [Conventions](#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
-- [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
-
-For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
-
-## Rule pages
-
-This guide is generated from a collection of rule pages, one page per rule. The pages are in the folder `rules/` next to this guide, and that folder has one subfolder per section of this guide. Every page has the following format, where the Details and Examples sections are optional:
+This guide is generated from rule pages, one page per rule. The pages are in the folder `rules/` next to this guide, with one subfolder for each section of the guide. Each page has the following format, in which the Details and Examples sections are optional:
 
 ```markdown
 # <Name of the rule>
@@ -29,7 +16,20 @@ This guide is generated from a collection of rule pages, one page per rule. The 
 <Bad and Good versions of a passage.>
 ```
 
-The guide copies the first two parts of each page. Each rule below opens with its name in bold, the name links to the rule's page, and the text after the name is the rule. That text is the complete rule, so follow it as written here. The Details and Examples sections explain the rule but never add a requirement to it. Open a rule's page only when the rule bears on the passage you are editing and the text here leaves you unsure how to apply it. A link inside a rule's text points to the page of another rule, which also appears in this guide under its name in bold.
+The guide copies each page's heading and rule text. In the guide, each rule begins with its name in bold as a link to the rule's page. The text after the name is the complete rule; follow it as written here. The Details and Examples sections explain the rule but never add a requirement. Open a rule's page only when the rule applies to the passage you are editing and its text in this guide leaves you unsure how to apply it. A link within the rule text points to another rule's page. That rule also appears in this guide under its name in bold.
+
+## Table of contents
+
+Below, the guide has six sections of rules:
+
+- [Story](#story): the argument from problem to implication, section order and openings, contributions, results organized by questions, and numbers that support claims.
+- [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
+- [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
+- [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
+- [Conventions](#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
+- [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
+
+For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
 
 ## Story
 
