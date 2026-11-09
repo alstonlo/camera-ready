@@ -20,19 +20,19 @@ The following phrases after a comma need no added verb:
 >
 > **Good.** The new tap reduces water use by 18%.
 
-**Example 2.** The draft treats the observation that no water escapes as evidence that the seal works.
+**Example 2.** The draft presents the absence of escaping water as evidence that the seal works.
 
 > **Bad.** The seal works; no water escapes during the pressure test.
 >
 > **Good.** The seal works, as shown by the fact that no water escapes during the pressure test.
 
-**Example 3.** The draft reports simultaneous events but gives no causal explanation.
+**Example 3.** The draft reports that the events occur together without explaining why. Good uses a semicolon because the colon suggests an explanation the draft does not support.
 
 > **Bad.** The valve opens: the lamp turns green.
 >
 > **Good.** The valve opens; the lamp turns green.
 
-**Example 4.**
+**Example 4.** Good leaves out the repeated verb "holds" in the tank and bottle comparison; the capacity comparison needs its own verb.
 
 > **Bad.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
 >

@@ -19,13 +19,13 @@ Check for these problems, and propose a clearer form only when the draft establi
 
 ## Examples
 
-**Example 1.** The draft defines $x$ as a positive concentration ratio and $\log$ as the logarithm.
+**Example 1.** The draft defines the operation as a logarithm.
 
 > **Bad.** We evaluate $log(x)$.
 >
 > **Good.** We evaluate $\log(x)$.
 
-**Example 2.** The draft defines $i$ as a sample index and "cool" as the label for cooling time.
+**Example 2.** The draft defines $i$ as a sample index and "cool" as a label for cooling time. Good leaves the index italic because it is a variable, not a word label.
 
 > **Bad.** We compare $t_i$ with $t_{cool}$.
 >
@@ -37,7 +37,7 @@ Check for these problems, and propose a clearer form only when the draft establi
 >
 > **Good.** The code `a*b` computes $a \times b$.
 
-**Example 4.** The draft states that the denominator is $b+c$. The Good line suggests a clearer fraction to the author.
+**Example 4.** The draft defines the denominator as $b+c$. Good proposes the correction to the author because grouping these terms changes the mathematical meaning, not just the type.
 
 > **Bad.** The ratio is $a/b+c$.
 >

@@ -20,7 +20,7 @@ When you replace a slash, check whether it separates alternatives, joint require
 >
 > **Good.** The score is at least 60.
 
-**Example 2.** The draft states that a rate is not increasing monotonically and requires at least one valid reading.
+**Example 2.** The draft requires only one valid reading to retain a run. Good keeps the negated claim about the rate because a rate that is not always increasing need not be always decreasing.
 
 > **Bad.** The rate is not increasing monotonically. Retain the run if any reading is valid.
 >
@@ -32,19 +32,19 @@ When you replace a slash, check whether it separates alternatives, joint require
 >
 > **Good.** You need not wear gloves.
 
-**Example 4.** The draft requires both mass and volume and uses S/N for signal-to-noise ratio.
+**Example 4.** The draft requires both measurements. Good expands the slash between them but keeps the standard abbreviation S/N for signal-to-noise ratio.
 
 > **Bad.** Record S/N, then mass/volume.
 >
 > **Good.** Record S/N, then mass and volume.
 
-**Example 5.** The draft states that the kit includes steel and glass but does not say whether it includes anything else.
+**Example 5.** The draft does not say whether other materials are present. Good removes the inference that another material must exist, since "includes" does not establish whether the list is complete.
 
 > **Bad.** The kit includes steel and glass, so it must contain another material.
 >
 > **Good.** The kit includes steel and glass.
 
-**Example 6.** The draft proves the bound without conditions and uses it to compare two designs.
+**Example 6.** The draft proves the bound without conditions. Good separates its use in a comparison from the claim itself, which holds whether or not the designs are compared.
 
 > **Bad.** If we compare the two designs, the theorem gives a 5 W bound.
 >

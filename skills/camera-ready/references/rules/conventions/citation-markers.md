@@ -12,13 +12,13 @@ When a passage moves from reporting a cited source's claims to presenting the pa
 
 ## Examples
 
-**Example 1.** The draft uses natbib and cites ortiz2025, a paper by one author.
+**Example 1.** The draft uses natbib and cites ortiz2025, a paper by one author. Good makes the author's name the subject because a parenthetical citation cannot serve as the subject.
 
 > **Bad.** \citep{ortiz2025} compares two methods for measuring rainfall.
 >
 > **Good.** \citet{ortiz2025} compares two methods for measuring rainfall.
 
-**Example 2.** The draft uses natbib and treats the salt's solubility as an established result.
+**Example 2.** The draft uses natbib and treats the salt's solubility as established. Good states the result directly because the paper accepts it rather than merely reporting another author's claim.
 
 > **Bad.** In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
 >
@@ -30,13 +30,13 @@ When a passage moves from reporting a cited source's claims to presenting the pa
 >
 > **Good.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
 
-**Example 4.** Elsewhere, the draft attributes the cooling hypothesis to its own authors, not to Ortiz. The Good line proposes clarifying the attribution for the author.
+**Example 4.** Elsewhere, the draft attributes the cooling hypothesis to its own authors. Good proposes a correction for the author after flagging the unclear attribution, so readers do not attribute the hypothesis to Ortiz.
 
 > **Bad.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
 >
 > **Good.** Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
 
-**Example 5.** The draft uses natbib and states that the authors extend Ortiz's method.
+**Example 5.** The draft uses natbib, and the authors extend Ortiz's method. Good names the method as the object, because a parenthetical citation cannot be an object and \citet alone would say that the authors extend a person.
 
 > **Bad.** We extend \citep{ortiz2025}.
 >

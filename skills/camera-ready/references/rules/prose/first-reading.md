@@ -16,31 +16,31 @@ A readability score does not measure whether readers in the field can follow a s
 
 ## Examples
 
-**Example 1.** The preceding text has already discussed whether the lid leaks and has introduced trial 2.
+**Example 1.** The preceding text discusses the leak and introduces trial 2. Good keeps that familiar subject and short aside while moving the longer interruption out of the second sentence.
 
 > **Bad.** That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
 >
 > **Good.** That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
 
-**Example 2.** The draft uses the established instrument name “scanning electron microscope”.
+**Example 2.** Good separates the stacked nouns while keeping "scanning electron microscope" together as the instrument's established name.
 
 > **Bad.** We inspect the scanning electron microscope sample holder cover.
 >
 > **Good.** We inspect the cover of the sample holder for the scanning electron microscope.
 
-**Example 3.** The draft says the technician, not the vial, was wearing gloves.
+**Example 3.**
 
 > **Bad.** Wearing gloves, the vial was opened by the technician.
 >
 > **Good.** Wearing gloves, the technician opened the vial.
 
-**Example 4.**
+**Example 4.** Good adds "that" so readers do not initially take "the samples" as the object of "assume".
 
 > **Bad.** We assume the samples in the red tray contain salt.
 >
 > **Good.** We assume that the samples in the red tray contain salt.
 
-**Example 5.** In this example, ↵ marks a line break.
+**Example 5.** The symbol ↵ marks a line break.
 
 > **Bad.** Open the valve only if the lid is shut, the pump is off, and the tank is cool.
 >

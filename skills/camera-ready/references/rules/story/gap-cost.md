@@ -8,19 +8,19 @@ State the specific gap in what is known or can be done, and state its cost: what
 
 ## Examples
 
-**Example 1.** The draft says that the bridge's load limit is needed to determine whether it can carry the new buses. The editor proposes the revision to the author.
+**Example 1.** The draft explains elsewhere why the load limit is needed.
 
 > **Bad.** The bridge's maximum safe load is unknown.
 >
 > **Good.** The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
 
-**Example 2.** The draft says autumn sowing depends on whether the seeds can sprout after a winter freeze. The editor proposes the revision to the author.
+**Example 2.** The draft identifies the specific unknown elsewhere.
 
 > **Bad.** Little is known about these seeds, so the viability of autumn sowing is unclear.
 >
 > **Good.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
 
-**Example 3.** In this draft, the authors measure whether a membrane passes salt to help design a water filter. They do not build a filter. The editor proposes the revision to the author.
+**Example 3.** The draft says the measurements are intended to help design a water filter; the study does not build one. Good proposes correcting the stated objective to reflect that distinction.
 
 > **Bad.** We measure whether the membrane passes salt to build a water filter in this study.
 >

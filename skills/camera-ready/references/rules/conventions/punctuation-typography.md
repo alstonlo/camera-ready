@@ -16,19 +16,19 @@ When the draft states what an unendorsed term in quotation marks refers to, keep
 >
 > **Good.** We call the gap between lid and jar the *clearance*. The clearance remains constant.
 
-**Example 2.** The draft leaves unclear what the italicized "lid" contrasts with. The editor keeps the italics and flags the ambiguity for the author.
+**Example 2.** The draft does not say what contrasts with the lid. Good keeps the italics because removing them could change what the sentence denies; the editor flags the unclear contrast.
 
 > **Bad.** We don't heat the *lid*.
 >
 > **Good.** We do not heat the *lid*.
 
-**Example 3.** The draft defines the cell's "decision" as a change in swimming direction, without attributing conscious choice.
+**Example 3.** Elsewhere, the draft defines the cell's "decision" without attributing conscious choice. Good puts that definition beside the term and keeps the quotation marks to avoid implying that the cell chooses consciously.
 
 > **Bad.** We record the cell's "decision".
 >
 > **Good.** We record the cell's "decision", its change in swimming direction.
 
-**Example 4.** The script in the draft uses straight quotes in `echo "ready"`. The editor flags the curly quotes for the author rather than changing characters inside the command directly.
+**Example 4.** The draft's script uses the command shown in Good. Good is a proposed correction for the author to review because changing quote characters can change a command's behavior.
 
 > **Bad.** The command is `echo “ready”`.
 >

@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft reports that the glue holds on wood but fails on glass.
+**Example 1.** The draft reports both findings about the glue.
 
 > **Bad.** Although progress is substantial, problems persist.
 >
 > **Good.** Although the glue holds on wood, it fails on glass.
 
-**Example 2.** The draft supports both findings in the first sentence. The second sentence repeats them vaguely and adds no finding.
+**Example 2.** The draft supports both findings in the first sentence. Good keeps that concrete concession and cuts the second sentence because it adds no finding.
 
 > **Bad.** Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
 >

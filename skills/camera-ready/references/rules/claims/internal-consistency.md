@@ -10,25 +10,25 @@ Comparing two approaches does not imply that they are the only options, as an ex
 
 ## Examples
 
-**Example 1.** The draft states that the lamp works in dry conditions but not in rain. The editor proposes the abstract and results revisions to the author.
+**Example 1.** Elsewhere, the draft states that the lamp works in dry conditions but not in rain. Good proposes stating those conditions in both passages to explain the apparent conflict.
 
 > **Bad.** Abstract: The lamp works. Results: The lamp does not work.
 >
 > **Good.** Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
 
-**Example 2.** The draft lists an online form as a third way for participants to respond. The editor proposes the revision to the author.
+**Example 2.** The draft also allows responses through an online form. Good proposes including that option because the requirement otherwise excludes a permitted response.
 
 > **Bad.** Participants must respond by phone or by mail.
 >
 > **Good.** Participants must respond by phone, by mail, or through an online form.
 
-**Example 3.** The draft reports that eight of twelve students ride the bus, six ride the train, and two use both. The editor proposes the revision to the author.
+**Example 3.** The draft reports that two students use both forms of transport. Good proposes stating that overlap, which explains why the category counts exceed the total.
 
 > **Bad.** Twelve students commute: eight by bus and six by train, with no overlap.
 >
 > **Good.** Twelve students commute: eight by bus and six by train, with two using both.
 
-**Example 4.** The abstract reports 12 trials and Results reports 14, and the draft gives no explanation. Bad shows an editor choosing one value.
+**Example 4.** The draft gives no explanation for the conflicting trial counts shown in Good. Bad silently chooses one count; Good preserves both because the draft does not establish which is correct.
 
 > **Bad.** Abstract: We ran 14 trials. Results: We ran 14 trials.
 >

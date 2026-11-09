@@ -10,19 +10,19 @@ A roadmap previews the sections or items that follow. For each roadmap you keep,
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good keeps the location as a reference in parentheses and deletes the sentence that only announces the topic.
 
 > **Bad.** Section 4 describes the filter. The filter traps particles larger than 5 micrometers.
 >
 > **Good.** The filter (Section 4) traps particles larger than 5 micrometers.
 
-**Example 2.** In this draft, a roadmap closes the introduction, and the draft’s headings place drying in Section 2 and weighing in Section 3.
+**Example 2.** This roadmap closes the introduction; the headings place drying in Section 2 and weighing in Section 3. Good corrects the roadmap to match the existing section order.
 
 > **Bad.** Section 2 describes weighing; Section 3 describes drying.
 >
 > **Good.** Section 2 describes drying; Section 3 describes weighing.
 
-**Example 3.**
+**Example 3.** Good keeps the reference that locates the proof and removes the announcement that the next sentence already fulfills.
 
 > **Bad.** Heat loss is at most 5 W, as proved in Appendix A. The next section presents the measurements. Measured heat loss is 4 W.
 >

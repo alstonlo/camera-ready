@@ -10,31 +10,31 @@ Statistical power is the probability that a test detects an effect of a given si
 
 ## Examples
 
-**Example 1.** The draft sets the significance level at 0.05 and tests whether mean drying times differ, not whether they are equivalent. The edit is a proposal for the author.
+**Example 1.** The draft sets the significance level at 0.05 and tests for a difference in mean drying times. Good avoids claiming equality, which a nonsignificant result does not establish.
 
 > **Bad.** Mean drying times are equal for paints A and B (Welch's t-test, p = 0.18).
 >
 > **Good.** Mean drying times do not differ significantly between paints A and B (Welch's t-test, p = 0.18).
 
-**Example 2.** The draft reports a 2 min reduction in drying time and uses "significant" to mean large, without a statistical test.
+**Example 2.** The draft reports the reduction but no statistical test.
 
 > **Bad.** Paint A reduces drying time significantly.
 >
 > **Good.** Paint A reduces drying time by 2 min.
 
-**Example 3.** The draft estimates the difference at 2 min, with a 95% confidence interval from −1 to 5 min. The edit is a proposal for the author.
+**Example 3.** The draft reports the estimate and confidence interval elsewhere. Good retains the size and uncertainty of the estimated difference even though the test is not significant.
 
 > **Bad.** The difference is not significant (Welch's t-test, p = 0.18).
 >
 > **Good.** The estimated difference is 2 min, with a 95% confidence interval from −1 to 5 min. The difference is not significant (Welch's t-test, p = 0.18).
 
-**Example 4.** The draft tests the null hypothesis that mean masses are equal and reports p = 0.03. The edit is a proposal for the author.
+**Example 4.** The draft reports p = 0.03 for a test of equal mean masses. Good describes the probability of test results under that assumption, not the probability that the assumption is true.
 
 > **Bad.** The probability that the equal-means null is true is 0.03.
 >
 > **Good.** If mean masses are equal and the test's assumptions hold, the probability of results at least as extreme as those observed is 0.03.
 
-**Example 5.** The draft reports a statistically significant difference of 0.1 s but does not establish that it matters in practice. The edit is a proposal for the author.
+**Example 5.** The draft establishes statistical significance but gives no evidence of practical importance.
 
 > **Bad.** The 0.1 s difference is practically important (Welch's t-test, p = 0.01).
 >

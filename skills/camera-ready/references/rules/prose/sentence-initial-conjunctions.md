@@ -20,7 +20,7 @@ This rule has no further details.
 >
 > **Good.** The box is light. However, it holds 20 kg.
 
-**Example 3.**
+**Example 3.** Good marks the last step in the sequence; "Moreover" would introduce additional support for a claim.
 
 > **Bad.** First, close the valve. Next, drain the tank. Moreover, dry the tank.
 >

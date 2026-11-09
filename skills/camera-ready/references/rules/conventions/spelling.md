@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** In this draft, the authors use "dataset" everywhere else, and the venue specifies neither form.
+**Example 1.** The draft otherwise uses "dataset", and the venue specifies neither form.
 
 > **Bad.** The data set contains labeled traffic flows.
 >
 > **Good.** The dataset contains labeled traffic flows.
 
-**Example 2.** In this draft, the authors usually write "dataset", but the venue requires "data set".
+**Example 2.** The draft usually uses "dataset", but the venue requires "data set".
 
 > **Bad.** The dataset contains hourly readings.
 >

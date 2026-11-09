@@ -20,31 +20,31 @@ When you cannot follow an explanation, use an example already in the draft to fi
 
 ## Examples
 
-**Example 1.** The draft defines germination rate as the fraction of planted seeds that sprout within seven days.
+**Example 1.** The draft supplies the precise definition elsewhere.
 
 > **Bad.** Germination rate measures how well seeds germinate.
 >
 > **Good.** Germination rate is the fraction of planted seeds that sprout within seven days.
 
-**Example 2.** The draft follows Lee’s protocol but dries for 2 h, where Lee dries for 1 h. The Good line is a proposed revision for the author.
+**Example 2.** The draft documents a longer drying time than Lee’s protocol.
 
 > **Bad.** We follow Lee’s protocol [4].
 >
 > **Good.** We follow Lee’s protocol [4], but dry for 2 h instead of 1 h.
 
-**Example 3.** The draft says decanting separates the water from settled sand.
+**Example 3.** The draft states the purpose of pouring off the water elsewhere.
 
 > **Bad.** We let the sand settle, then pour off the water.
 >
 > **Good.** To separate the water from the sand, we let the sand settle, then pour off the water.
 
-**Example 4.** The draft defines mean mass as total mass divided by count and gives the correct mean of 3 g elsewhere. The editor flags the mismatch, and the Good line is the correction proposed to the author.
+**Example 4.** The draft gives the correct mean elsewhere. Good is a correction proposed to the author after flagging the mismatch, because changing a worked result requires author review.
 
 > **Bad.** For masses of 2 g and 4 g, the mean mass is 6 g.
 >
 > **Good.** For masses of 2 g and 4 g, the mean mass is 3 g.
 
-**Example 5.** In the draft, this sentence is meant as the complete definition of a valid reading.
+**Example 5.** The author intends a complete definition. Good marks it explicitly so that readers do not take the condition as just one way a reading can be valid.
 
 > **Bad.** A reading is valid if it lies between the two limits.
 >

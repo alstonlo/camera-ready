@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft defines quality as purity and yield, and its 98% figure measures purity.
+**Example 1.** The percentage measures purity. Good keeps "quality" for the assessment of both quantities but names the single quantity the percentage describes.
 
 > **Bad.** We assess quality using purity and yield. Performance reaches 98%.
 >

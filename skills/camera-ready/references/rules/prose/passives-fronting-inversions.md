@@ -14,19 +14,13 @@ This rule has no further details.
 >
 > **Good.** The crane lifts a steel beam.
 
-**Example 2.** The draft has introduced the gate but has not mentioned the padlock or bush.
+**Example 2.** The draft has introduced the gate but not the padlock or bush. Good keeps the passive in the second sentence because it places the familiar gate before the new padlock.
 
 > **Bad.** Beside a thorny bush stands the gate. The gate is secured by a padlock.
 >
 > **Good.** The gate stands beside a thorny bush. The gate is secured by a padlock.
 
-**Example 3.** The draft introduces a courtyard in this passage and then describes it.
-
-> **Bad.** There is a courtyard behind the house. In a ring of stones sits the courtyard.
->
-> **Good.** There is a courtyard behind the house. The courtyard sits in a ring of stones.
-
-**Example 4.** In a standalone description, the draft introduces the room and then its lighting.
+**Example 3.** This is a standalone description. Good can introduce the room as the subject in ordinary word order; there is no familiar location to justify the inversion.
 
 > **Bad.** Behind a heavy curtain lies a small room. Lamps light the room.
 >

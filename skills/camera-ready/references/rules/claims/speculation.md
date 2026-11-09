@@ -10,25 +10,25 @@ To disprove a claim that one property implies another, a counterexample must hav
 
 ## Examples
 
-**Example 1.** The draft reports that the treated boards cracked less often but supplies no evidence about moisture absorption.
+**Example 1.** The draft supports the reduction in cracking but supplies no evidence about moisture absorption.
 
 > **Bad.** The treated boards cracked less often because they absorbed less moisture.
 >
 > **Good.** The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
 
-**Example 2.** The draft never defines "bottleneck effect", but elsewhere it gives evidence that reduced flow through the narrowed outlet explains the delay. The Good line is a proposed revision for the author.
+**Example 2.** The draft supports the explanation involving reduced flow but never defines "bottleneck effect". Good replaces the undefined term without treating a supported explanation as speculation.
 
 > **Bad.** The bottleneck effect explains the delay.
 >
 > **Good.** Reduced flow through the narrowed outlet explains the delay.
 
-**Example 3.** The draft gives a rectangle with sides 2 cm and 3 cm as a counterexample. The Good line is a proposed revision for the author.
+**Example 3.** The draft supplies this rectangle as a counterexample.
 
 > **Bad.** Four right angles do not imply four equal sides.
 >
 > **Good.** Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
 
-**Example 4.** The draft reports only that three tested solvents failed to dissolve the coating. The Good line is a proposed revision for the author.
+**Example 4.** The draft reports only the three failed solvent tests. Good is a proposed revision for the author after flagging the unsupported impossibility claim.
 
 > **Bad.** The coating cannot be dissolved.
 >

@@ -12,25 +12,25 @@ For durations, use the draft's convention to distinguish a decimal number from a
 
 ## Examples
 
-**Example 1.**
+**Example 1.** In LaTeX, the tilde keeps the number and unit together on one line.
 
 > **Bad.** We stir the solution for 30s.
 >
 > **Good.** We stir the solution for 30~s.
 
-**Example 2.** The draft defines the concentration as parts per million by mass.
+**Example 2.** The draft specifies a mass ratio.
 
 > **Bad.** The concentration is 6 ppm.
 >
 > **Good.** The concentration is 6 ppm by mass.
 
-**Example 3.** The draft defines its capacity unit as 1,048,576 bytes, which is one mebibyte (MiB), so the value stays 2 and only the unit symbol changes.
+**Example 3.** The draft defines one capacity unit as 1,048,576 bytes. Good corrects the prefix to match that binary unit without converting the value.
 
 > **Bad.** The capacity is 2 MB.
 >
 > **Good.** The capacity is 2 MiB.
 
-**Example 4.** The draft states that the period separates minutes from seconds rather than marking a decimal point.
+**Example 4.** The draft uses a period to separate minutes from seconds.
 
 > **Bad.** The duration is 1.30.
 >

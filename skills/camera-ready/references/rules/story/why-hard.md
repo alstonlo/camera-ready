@@ -8,7 +8,7 @@ Without an explanation of why the obvious approach fails, readers cannot tell wh
 
 ## Examples
 
-**Example 1.** The draft says the fallen tree is too heavy for the crane to lift in one piece. The editor proposes the revision to the author.
+**Example 1.** The draft explains elsewhere why the crane cannot lift the tree in one piece.
 
 > **Bad.** Lifting the fallen tree in one piece is infeasible.
 >

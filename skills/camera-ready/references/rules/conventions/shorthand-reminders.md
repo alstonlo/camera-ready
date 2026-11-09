@@ -8,19 +8,19 @@ A reference to a nearby equation needs no added description if readers can tell 
 
 ## Examples
 
-**Example 1.** The draft defines the rainfall rate $r$ in Section 2, and this passage appears in Section 5.
+**Example 1.** The symbol was defined in Section 2; this passage appears in Section 5.
 
 > **Bad.** Let $r$ denote the rainfall rate. We compare $r$ across sites.
 >
 > **Good.** Recall that $r$ denotes the rainfall rate. We compare $r$ across sites.
 
-**Example 2.** In this draft, the authors discuss both evaporation and infiltration rates, attributing the summer increase to evaporation.
+**Example 2.** The draft discusses evaporation and infiltration and attributes the summer increase to evaporation.
 
 > **Bad.** The rate increases in summer.
 >
 > **Good.** The evaporation rate increases in summer.
 
-**Example 3.** In this draft, the energy balance appears several pages earlier as equation (9).
+**Example 3.** The draft calls equation (9) the energy balance several pages earlier. Good leaves the nearby reference to (3) brief because the preceding sentence identifies it.
 
 > **Bad.** Equation (3) gives the heat loss. We evaluate (3), then apply (9).
 >

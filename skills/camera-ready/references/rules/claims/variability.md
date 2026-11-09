@@ -22,43 +22,43 @@ For a claim that an iterative method converges, meaning that its successive esti
 
 ## Examples
 
-**Example 1.** The draft compares two modes on the same photographs and reports that mode A produces smaller files but loses more image detail.
+**Example 1.** The draft compares both modes on the same photographs and reports both outcomes.
 
 > **Bad.** Mode A produces smaller files than mode B.
 >
 > **Good.** Mode A produces smaller files than mode B but loses more image detail.
 
-**Example 2.** The draft reports a mean across six independently prepared batches and defines ± as the standard deviation. The edit is a proposal for the author.
+**Example 2.** The draft describes independently prepared batches and supplies the batch count, averaging procedure, and meaning of ±.
 
 > **Bad.** The yield is 72 ± 3%.
 >
 > **Good.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
 
-**Example 3.** The draft states that Lee's tiles were tested dry and the authors' tiles were tested wet, so the tests do not establish which tiles are stronger. The edit is a proposal for the author.
+**Example 3.** The draft gives the test conditions for both sets of tiles. Good withdraws the ranking because the wet and dry tests do not establish a fair comparison.
 
 > **Bad.** Our tiles are stronger than Lee's tiles.
 >
 > **Good.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
 
-**Example 4.** The draft describes using the same photographs to select and evaluate the filter. The edit is a proposal for the author.
+**Example 4.** The draft identifies the photographs used at each stage. Good removes the claim of independent confirmation because the evaluation uses data that influenced the selection.
 
 > **Bad.** The photographs independently confirm the selected filter's accuracy.
 >
 > **Good.** The selected filter's accuracy is measured on the same photographs used to select it.
 
-**Example 5.** The draft describes reserving separate, independently sampled plots from one farm for selection and testing. The edit is a proposal for the author.
+**Example 5.** The draft describes separate, independently sampled plots for selection and testing. Good corrects the claim of reuse because coming from one farm does not make the plots the same data.
 
 > **Bad.** The test reuses the selection plots from the farm.
 >
 > **Good.** The test uses separate held-out plots from the farm.
 
-**Example 6.** The draft reports little variation across repeats but leaves a known error in instrument calibration uncorrected. The edit is a proposal for the author.
+**Example 6.** The draft leaves a known calibration error uncorrected. Good limits the conclusion to repeatability because closely agreeing measurements can share the same error.
 
 > **Bad.** The small spread rules out measurement error.
 >
 > **Good.** The small spread shows little variation across repeats.
 
-**Example 7.** The draft defines the increase as four percentage points.
+**Example 7.** The draft defines the increase as four percentage points. Good names the unit because "4%" would mean an increase relative to the starting rate.
 
 > **Bad.** The attendance rate increases by 4%.
 >

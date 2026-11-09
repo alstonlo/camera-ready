@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft defines $v$ as speed, $d$ as distance, and $t$ as elapsed time.
+**Example 1.**
 
 > **Bad.** We use $v=d/t$. This equation converts each runner's distance and elapsed time into average speed.
 >
 > **Good.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
 
-**Example 2.** The draft defines the symbols here but explains the equation's purpose only in another section. The Good line suggests that the author move the explanation here.
+**Example 2.** The draft explains the equation's purpose in another section. Good is a proposed move for the author, because moving material between sections must be flagged.
 
 > **Bad.** We use $v=d/t$.
 >

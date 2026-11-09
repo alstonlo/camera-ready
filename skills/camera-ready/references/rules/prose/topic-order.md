@@ -14,7 +14,7 @@ When a comparison treats each property, such as weight or cost, as a topic, disc
 >
 > **Good.** The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
 
-**Example 2.**
+**Example 2.** Good keeps each property as the topic because the passage compares the carts by weight and cost; grouping all facts about each cart would disrupt that comparison.
 
 > **Bad.** For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
 >

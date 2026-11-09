@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft states that the authors weigh each seed separately and never weigh a whole plant.
+**Example 1.** The authors weigh individual seeds but never whole plants. Good keeps "can" for the unused capability so that the edit does not imply the authors weighed whole plants.
 
 > **Bad.** The scale can weigh whole plants. We can weigh each seed separately.
 >
 > **Good.** The scale can weigh whole plants. We weigh each seed separately.
 
-**Example 2.** The draft states that the authors sort these seeds by hand, whereas automated sorting remains an unreached goal.
+**Example 2.** The authors sort these seeds by hand, but automated sorting remains an unreached goal. Good removes "can" from the performed action and keeps "aim to" for the goal.
 
 > **Bad.** We aim to automate sorting. We can sort these seeds by hand.
 >

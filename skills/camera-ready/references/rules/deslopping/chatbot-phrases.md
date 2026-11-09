@@ -8,7 +8,7 @@ Also delete an assistant's offers to continue, disclaimers about its status, and
 
 ## Examples
 
-**Example 1.** In this draft, the authors analyze responses to the quoted prompt.
+**Example 1.** The authors analyze responses to the quoted prompt. Good keeps the prompt's conversational wording because changing it would alter the study material.
 
 > **Bad.** Certainly! The test prompt is "Great question!".
 >

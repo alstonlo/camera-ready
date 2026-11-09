@@ -8,31 +8,31 @@ A hedge marks a claim as uncertain, so deleting the only hedge on a claim makes 
 
 ## Examples
 
-**Example 1.** The draft reports the measured mean mass and its standard error.
+**Example 1.** The draft reports this value as a measurement.
 
 > **Bad.** The mean mass may be 5.0 ± 0.2 g (standard error).
 >
 > **Good.** The mean mass is 5.0 ± 0.2 g (standard error).
 
-**Example 2.** The draft states that the researchers cooled the samples but did not test whether cooling prevented decay.
+**Example 2.** The draft confirms that cooling was performed but leaves its effect on decay untested.
 
 > **Bad.** We may have cooled the samples because cooling may prevent decay.
 >
 > **Good.** We cooled the samples because cooling may prevent decay.
 
-**Example 3.** The draft treats both steps of this proposed explanation as uncertain.
+**Example 3.** Good keeps the second hedge because the draft treats water entry as a separate uncertain claim.
 
 > **Bad.** Heat may possibly loosen the seal, which may allow water to enter.
 >
 > **Good.** Heat may loosen the seal, which may allow water to enter.
 
-**Example 4.** The draft reports that the treated cloth absorbs 8% less water than untreated cloth.
+**Example 4.** The draft supplies the measured difference elsewhere.
 
 > **Bad.** The treated cloth absorbs somewhat less water than untreated cloth.
 >
 > **Good.** The treated cloth absorbs 8% less water than untreated cloth.
 
-**Example 5.** The Results section says that frost may explain the cracks, and the abstract summarizes this explanation.
+**Example 5.** The Results section presents the frost explanation as tentative.
 
 > **Bad.** Abstract: Frost explains the cracks.
 >

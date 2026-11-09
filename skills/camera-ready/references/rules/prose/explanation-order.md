@@ -8,7 +8,7 @@ To test the order, cover everything after a sentence and check whether readers h
 
 ## Examples
 
-**Example 1.**
+**Example 1.** The draft has not defined settling time before this passage.
 
 > **Bad.** We measured the settling time for each mixture. Settling time is the time needed for solid particles in a liquid to sink to the bottom.
 >

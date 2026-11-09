@@ -12,25 +12,25 @@ When a table would help readers compare several objects on the same properties, 
 
 ## Examples
 
-**Example 1.** In this example, the draft explains that the scale cannot weigh the sack because the sack is heavier than the scale's 5 kg limit.
+**Example 1.** The draft explicitly links the weighing failure to the scale's limit.
 
 > **Bad.** • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
 >
 > **Good.** The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
 
-**Example 2.** In this example, the symbol ↵ marks a line break.
+**Example 2.** The symbol ↵ marks a line break.
 
 > **Bad.** First, close the valve; second, disconnect the hose; third, remove the filter.
 >
 > **Good.** 1. Close the valve. ↵ 2. Disconnect the hose. ↵ 3. Remove the filter.
 
-**Example 3.** In this example, the draft gives the requirements equal priority and never refers to their numbers. The symbol ↵ marks a line break.
+**Example 3.** The requirements have equal priority, and the draft never refers to their numbers. The symbol ↵ marks a line break.
 
 > **Bad.** 1. The lid must seal. ↵ 2. The handle must fold.
 >
 > **Good.** • The lid must seal. ↵ • The handle must fold.
 
-**Example 4.** In this example, the draft groups its objectives into measurement and prediction. Because the list states objectives, Good shows a regrouping to propose to the author rather than an edit to make directly. The symbol ↵ marks a line break.
+**Example 4.** The draft establishes measurement and prediction as the two groups; ↵ marks a line break. Good is a proposal for the author because regrouping an objectives list requires a flag even when the categories are established.
 
 > **Bad.** Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
 >

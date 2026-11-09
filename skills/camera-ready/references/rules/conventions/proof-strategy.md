@@ -10,25 +10,25 @@ Separate the construction of an object from its use. At the transition, state th
 
 ## Examples
 
-**Example 1.** The draft's proof assumes a largest integer and derives a contradiction by adding one.
+**Example 1.** The proof later derives a contradiction by adding one to $n$.
 
 > **Bad.** Let $n$ be the largest integer.
 >
 > **Good.** We argue by contradiction. Let $n$ be the largest integer.
 
-**Example 2.** For this case, the draft introduces evenness as an assumption rather than a proved fact.
+**Example 2.** The draft treats evenness as an assumption for this case.
 
 > **Bad.** The integer $n$ is even. Write $n=2k$.
 >
 > **Good.** Assume that the integer $n$ is even. Write $n=2k$.
 
-**Example 3.** The draft lists the dry case first, but the proof of the dry case uses the bound established for the wet case.
+**Example 3.** The draft establishes that the dry case needs the bound proved in the wet case.
 
 > **Bad.** We treat the dry case, then the wet case. We begin with the wet case.
 >
 > **Good.** We treat the dry case, then the wet case. We begin with the wet case because the proof of the dry case uses the bound from the wet case.
 
-**Example 4.** The draft has just constructed $S$ and proved that it is finite, and Lemma 2 applies to finite sets.
+**Example 4.** The draft has just constructed $S$ and proved it finite, and Lemma 2 applies to finite sets.
 
 > **Bad.** We now apply Lemma 2 to $S$.
 >

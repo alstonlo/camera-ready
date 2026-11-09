@@ -20,13 +20,13 @@ To check an analogy, list which familiar object stands for each technical object
 >
 > **Good.** A foam pad holds the vial upright.
 
-**Example 2.** In the draft, the preceding sentence defines “the framework” as the steel frame around the tank.
+**Example 2.** The preceding sentence defines "the framework" as the steel frame around the tank. Good keeps this shorthand because it already names a specific object.
 
 > **Bad.** We utilize the framework to support the tank.
 >
 > **Good.** We use the framework to support the tank.
 
-**Example 3.**
+**Example 3.** Good keeps the analogy because the sieve and mesh retain objects in the same way, and the passage makes that correspondence clear.
 
 > **Bad.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
 >

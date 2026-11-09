@@ -8,7 +8,7 @@ When replacing a verb, keep [technical names](term-consistency.md) unchanged. If
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good changes the verb beside the noun "test" to avoid making readers parse the same word twice in different roles. The two uses of "model" remain because their roles are clear in separate sentences.
 
 > **Bad.** We model growth. The model fits the observations. We test the test's accuracy.
 >

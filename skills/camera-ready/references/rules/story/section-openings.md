@@ -8,13 +8,13 @@ You may write the question as a statement rather than a direct question. Do not 
 
 ## Examples
 
-**Example 1.** Later in the section, the draft reports that a lid halves water loss during boiling.
+**Example 1.** The finding appears later in this section.
 
 > **Bad.** We test whether a lid reduces water loss during boiling.
 >
 > **Good.** We test whether a lid reduces water loss during boiling. The lid halves water loss.
 
-**Example 2.** The draft's Methods section explains that the lid prevents evaporation by returning condensed water to the tank.
+**Example 2.** The Methods section already explains this mechanism.
 
 > **Bad.** We describe how the lid prevents evaporation.
 >

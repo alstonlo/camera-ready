@@ -8,31 +8,31 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** To shorten a draft, an editor moves the recovery experiment from Section 5 to Appendix D.
+**Example 1.** An editor moves the recovery experiment to Appendix D to shorten the main text.
 
 > **Bad.** The recovery experiment is described in Section 5.
 >
 > **Good.** The recovery experiment is described in Appendix D.
 
-**Example 2.** The draft establishes that the coating prevents rust in fresh water. An editor moves the full supporting test to Appendix B.
+**Example 2.** The draft establishes the claim, and an editor moves the full supporting test to Appendix B. Good restores the original confidence because moving the evidence does not weaken it.
 
 > **Bad.** The coating may prevent rust in fresh water (Appendix B).
 >
 > **Good.** The coating prevents rust in fresh water (Appendix B).
 
-**Example 3.** With the author's permission, an editor cuts the draft's only test of the metal lid. The remaining test shows that the glass lid reduces evaporation.
+**Example 3.** With the author's permission, an editor cuts the only test of the metal lid. The remaining evidence supports the claim about the glass lid.
 
 > **Bad.** Both lids reduce evaporation.
 >
 > **Good.** The glass lid reduces evaporation.
 
-**Example 4.** An editor cuts the draft's statement that the soil is too acidic for beans.
+**Example 4.** An editor cuts the statement about soil acidity. Good restores it because measuring acidity alone does not explain the decision to add lime.
 
 > **Bad.** We measure acidity. We therefore add lime.
 >
 > **Good.** We measure acidity. The soil is too acidic for beans. We therefore add lime.
 
-**Example 5.** The draft gives slow drainage as a tentative explanation. An editor cuts "may".
+**Example 5.** The draft gives slow drainage as a tentative explanation, but an editor cuts the hedge.
 
 > **Bad.** The delay reflects slow drainage.
 >

@@ -8,7 +8,7 @@ Replace intentions or mental states attributed to a system ("the particle wants 
 
 ## Examples
 
-**Example 1.** In this draft, the coating darkens when heated. The editor flags the undefined label "intelligent" and proposes the literal wording below.
+**Example 1.** The draft describes the coating's response to heat but does not define "intelligent". Good proposes a literal description to resolve the flagged term.
 
 > **Bad.** We test an intelligent coating.
 >
@@ -20,13 +20,13 @@ Replace intentions or mental states attributed to a system ("the particle wants 
 >
 > **Good.** The tank level grows linearly, rising by 2 cm each minute.
 
-**Example 3.** At this first use of "recognizes", the draft explains that the enzyme binds to the substrate's phosphate group.
+**Example 3.** This is the first use of "recognizes", and the draft supplies the binding mechanism elsewhere. Good keeps the established technical term and explains the physical action it names.
 
 > **Bad.** The enzyme recognizes its substrate.
 >
 > **Good.** The enzyme recognizes its substrate by binding to the substrate's phosphate group.
 
-**Example 4.** In this draft, the first "normal" means routine, while the second names the probability distribution.
+**Example 4.** The draft uses the first "normal" to mean routine. Good changes the ordinary word so readers do not mistake it for another reference to the distribution.
 
 > **Bad.** We draw a normal sample from the normal distribution.
 >

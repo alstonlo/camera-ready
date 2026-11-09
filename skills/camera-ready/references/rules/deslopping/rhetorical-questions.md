@@ -8,19 +8,19 @@ When a question assumes that readers agree with a claim ("Does this not prove...
 
 ## Examples
 
-**Example 1.** The draft describes an experiment testing whether salt delays germination. The first question only connects paragraphs.
+**Example 1.** The experiment tests whether salt delays germination. Good keeps that research question because it defines what the study tests.
 
 > **Bad.** What should we ask next? Does salt delay germination? In our tests, it delays germination by 2 days.
 >
 > **Good.** Does salt delay germination? In our tests, it delays germination by 2 days.
 
-**Example 2.** The draft explains why blocked roots cause wilting. In the example, the first question only opens the paragraph, whereas the second question restates the two preceding observations as a puzzle.
+**Example 2.** Good keeps the question about wilting because it turns the conflicting observations into a puzzle that the next sentence resolves.
 
 > **Bad.** What do we learn? The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 >
 > **Good.** The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 
-**Example 3.** The draft reports measurements showing that mulch reduces water loss in these tests, but asks a question that presumes agreement. The Good line shows the revision proposed to the author.
+**Example 3.** The draft's measurements support reduced water loss in these tests. Good states that finding directly without asking readers to accept the stronger claim that water loss is prevented.
 
 > **Bad.** Do these tests not prove that the mulch prevents water loss?
 >

@@ -8,13 +8,13 @@ Also check for unfilled author fields, such as "[Author name here]", and for cit
 
 ## Examples
 
-**Example 1.** In this draft, the sentence gives an opening date without a citation. The editor removes the stray citation code and flags the missing source.
+**Example 1.** The opening date has no source in the draft. Alongside this edit, the editor flags the need for a source; deleting the citation code does not supply one.
 
 > **Bad.** The bridge opened in 1986. citeturn0search0
 >
 > **Good.** The bridge opened in 1986.
 
-**Example 2.** In this draft, a URL includes an AI referrer parameter. The editor leaves the URL in place and flags the parameter for removal. The Good line shows the clean URL proposed in the flag.
+**Example 2.** Good shows the clean URL proposed in the editor's flag. The draft's URL remains unchanged because the rule requires flagging this parameter for removal.
 
 > **Bad.** Data are at https://example.org/data?utm_source=chatgpt.com.
 >

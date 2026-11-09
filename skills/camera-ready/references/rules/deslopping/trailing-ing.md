@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft states that the fan's power limit is 15 W.
+**Example 1.** The draft gives the fan's power limit as 15 W.
 
 > **Bad.** The fan uses 12 W, highlighting its importance.
 >
 > **Good.** The fan uses 12 W, staying below the 15 W limit.
 
-**Example 2.**
+**Example 2.** Good keeps the description of airflow because it states what the fan does.
 
 > **Bad.** The fan turns, drawing air through the filter and highlighting its importance.
 >
 > **Good.** The fan turns, drawing air through the filter.
 
-**Example 3.** The draft states that the fan spins at 600 rpm.
+**Example 3.** The draft identifies the fan as the object spinning at 600 rpm.
 
 > **Bad.** We photograph the fan beside the filter, spinning at 600 rpm.
 >

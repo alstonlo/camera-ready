@@ -16,19 +16,13 @@ A sentence such as "No work had studied X before Lee" describes only the gap tha
 >
 > **Good.** We rinsed the seeds and dried them.
 
-**Example 2.** The draft states that the authors have not yet repeated the pilot study at the second site.
+**Example 2.** The second pilot is still planned. Good separates a section that already exists from work that has yet to be done.
 
 > **Bad.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
 >
 > **Good.** Section 3 describes the pilot. We will repeat the pilot at a second site.
 
-**Example 3.**
-
-> **Bad.** Ortiz found that the lid was loose. Section 2 will discuss that finding.
->
-> **Good.** Ortiz found that the lid was loose. Section 2 discusses that finding.
-
-**Example 4.** The draft presents Ortiz's model and the freezing-point relation as established knowledge that still applies.
+**Example 3.** The draft treats the model and the freezing-point relation as established knowledge. Good uses present tense because both still apply, even though the model comes from prior work.
 
 > **Bad.** Ortiz's model described how salt lowered the freezing point.
 >

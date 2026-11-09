@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Oranges and kiwis are examples, not a definition of all fruits rich in vitamin C.
 
 > **Bad.** Some fruits are rich in vitamin C, i.e., oranges and kiwis.
 >
 > **Good.** Some fruits are rich in vitamin C, e.g., oranges and kiwis.
 
-**Example 2.**
+**Example 2.** The reference directs readers to the protocol without asking them to compare it with anything.
 
 > **Bad.** For the full protocol, cf. Section 2.
 >

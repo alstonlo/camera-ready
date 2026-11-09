@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft says the second trial matters because it tests the seal under pressure.
+**Example 1.** The draft explains the second trial's purpose elsewhere.
 
 > **Bad.** Do not overlook the second trial.
 >
 > **Good.** The second trial matters because it tests the seal under pressure.
 
-**Example 2.** The draft reports that neither of the two pumps moves water.
+**Example 2.** Good keeps "Regrettably" to preserve the author's stance; the conversational closing adds no claim or reason.
 
 > **Bad.** Neither pump moves water. Regrettably, that is the long and short of it.
 >

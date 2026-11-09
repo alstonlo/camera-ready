@@ -14,7 +14,7 @@ This rule has no further details.
 >
 > **Good.** The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
 
-**Example 2.** The draft says the operator should rinse the jar instead of the lid.
+**Example 2.** The draft intends a choice between the jar and the lid. Good states the choice explicitly because readers cannot hear the stress on "jar" that would suggest it aloud.
 
 > **Bad.** The operator should rinse the jar.
 >

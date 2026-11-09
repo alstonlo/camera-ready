@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The author asks only for a polish on a draft that explains, "We weigh each sample twice because the scale sometimes drifts." An editor proposes cutting the reason for weighing twice.
+**Example 1.** The author asks only for polish; Bad is a proposed cut to the draft. Good retains the reason because it explains a method choice.
 
 > **Bad.** We weigh each sample twice.
 >
 > **Good.** We weigh each sample twice because the scale sometimes drifts.
 
-**Example 2.** The author asks to condense the text. The sentence about the sundial does not support any claim in the paper.
+**Example 2.** The author asks for a shorter paper. The sundial has no bearing on the paper's claims.
 
 > **Bad.** The test measures soil acidity. The garden also has a sundial.
 >
 > **Good.** The test measures soil acidity.
 
-**Example 3.** The author asks only for a polish on a draft that specifies the drying temperature. An editor proposes moving that temperature to Appendix A.
+**Example 3.** The author asks only for polish; Bad is a proposed move of the drying temperature to Appendix A. Good keeps the temperature in the main text because polishing does not authorize relocating method details.
 
 > **Bad.** We dry the seeds overnight; see Appendix A for the procedure.
 >

@@ -8,25 +8,25 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** In this draft, the text identifies leaks and evaporation as the two sources of water loss.
+**Example 1.** The draft identifies both sources elsewhere.
 
 > **Bad.** Two sources of water loss are discussed later.
 >
 > **Good.** Water is lost through leaks and evaporation.
 
-**Example 2.**
+**Example 2.** Good keeps the count because both observations follow immediately.
 
 > **Bad.** We make two observations, which we discuss below. First, the lid bends. Second, the seal leaks.
 >
 > **Good.** We make two observations. First, the lid bends. Second, the seal leaks.
 
-**Example 3.**
+**Example 3.** Good keeps the unresolved definition because it explains what the tests cannot establish.
 
 > **Bad.** This issue is complex. We have not defined partial failure, so these tests cannot distinguish it from complete failure.
 >
 > **Good.** We have not defined partial failure, so these tests cannot distinguish it from complete failure.
 
-**Example 4.** The draft promises to explain why the lid stays shut but never does. Bad shows an editor inventing the explanation.
+**Example 4.** The draft promises an explanation but never provides one; Bad is an editor's proposed addition. Good flags the gap because the latch explanation has no support in the draft.
 
 > **Bad.** The lid stays shut because its latch resists pressure.
 >

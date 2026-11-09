@@ -8,19 +8,19 @@ Apply the same rule to "influences", "impacts", "contributes", and "facilitates"
 
 ## Examples
 
-**Example 1.** The draft states that the latch retracts a pin so that the lid can open.
+**Example 1.** The draft explains what the latch does to let the lid open.
 
 > **Bad.** The latch allows the lid to open.
 >
 > **Good.** The latch allows the lid to open by retracting a pin.
 
-**Example 2.** In the draft, the authors propose that the coating reduces heat loss, but they explicitly mark the hypothesis as untested.
+**Example 2.** The draft proposes a reduction in heat loss and explicitly marks the hypothesis as untested. Good specifies a direction without adding a measured size to an untested prediction.
 
 > **Bad.** We hypothesize that the coating affects heat loss.
 >
 > **Good.** We hypothesize that the coating reduces heat loss.
 
-**Example 3.** The draft reports that the vent lowers pressure by 5 kPa.
+**Example 3.** The draft supplies the pressure change. Good keeps the latch sentence because it already explains how the latch lets the lid open.
 
 > **Bad.** The latch allows the lid to open by retracting a pin. The vent affects pressure.
 >

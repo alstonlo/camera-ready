@@ -13,7 +13,7 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 ## Examples
 
-**Example 1.** {{ Optional setup for the example. }}
+**Example 1.** {{ Optional context for the example. If not obvious, what the Good passage changes and why, in one or two sentences. }}
 
 > **Bad.** {{ A passage that breaks the rule. }}
 >

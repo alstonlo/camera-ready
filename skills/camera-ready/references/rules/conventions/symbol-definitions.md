@@ -22,19 +22,19 @@ Suggest notation changes to the author rather than rewriting equations yourself:
 >
 > **Good.** The symbol $h$ denotes plant height. We compare $h$ across plants.
 
-**Example 2.** The draft defines both quantities, using $m$ twice here but using $w$ for moisture content in its tables. The Good line shows the correction suggested to the author.
+**Example 2.** The tables use $w$ for moisture content. Good is a proposed correction because resolving the conflict changes a symbol.
 
 > **Bad.** Let $m$ denote mass and $m$ denote moisture content.
 >
 > **Good.** Let $m$ denote mass and $w$ denote moisture content.
 
-**Example 3.** The draft uses both symbols throughout the paper and has an existing Notation section, but the request does not authorize moving content between sections. The Good line suggests moving the scattered definition for the author.
+**Example 3.** Both symbols are used throughout the paper. Good proposes collecting their definitions in the existing Notation section because the request does not authorize the move.
 
 > **Bad.** Notation: Let $h$ denote height. Methods: Let $w$ denote width.
 >
 > **Good.** Notation: Let $h$ denote height. Let $w$ denote width. Methods:
 
-**Example 4.** The draft defines $a$, $b$, $c$, and $d$, and then repeats their ratio. The Good line suggests that the author name the ratio $R$.
+**Example 4.** The draft defines all four symbols. Good proposes naming the repeated expression; introducing notation is for the author to decide.
 
 > **Bad.** We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
 >

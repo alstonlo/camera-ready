@@ -10,25 +10,25 @@ Writing a short title for a section tests whether the section develops one coher
 
 ## Examples
 
-**Example 1.** The author asks to shorten a draft on whether gravel reduces soil erosion. The sentence on aquarium decoration does not support any claim in the paper.
+**Example 1.** The author asks to shorten a paper about erosion. Good cuts the aquarium detail because it supports none of the paper's claims.
 
 > **Bad.** Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
 >
 > **Good.** Gravel reduces soil erosion in our tests.
 
-**Example 2.** The author asks to shorten a draft whose core claim is that the mesh keeps leaves out. Blocking grit is an ancillary point that readers do not need to evaluate that claim.
+**Example 2.** The author asks to shorten a paper whose core claim concerns leaf entry. Good shortens the secondary point about grit because particle size is not needed to evaluate that claim.
 
 > **Bad.** The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
 >
 > **Good.** The mesh prevents leaf entry. A finer mesh might also block grit.
 
-**Example 3.** The author asks to shorten a draft that tests whether a mesh excludes debris. An editor proposes cutting the finding that sand passes through the mesh, treating it as off-spine even though it is counterevidence.
+**Example 3.** The author asks to shorten a study of whether a mesh excludes debris. Good restores the sand finding because it limits the claim about what the mesh blocks.
 
 > **Bad.** The mesh blocks leaves.
 >
 > **Good.** The mesh blocks leaves but lets sand through.
 
-**Example 4.** The author asks to shorten a section that covers two unrelated points: leaf blockage and pump power. Because no short, specific title summarizes both points, the editor flags the competing points instead of cutting the pump measurement.
+**Example 4.** The author asks to shorten a section about leaf blockage and pump power. Good retains both findings while the editor flags the competing topics: the lack of a common point does not establish which finding can be cut.
 
 > **Bad.** The mesh blocks leaves.
 >

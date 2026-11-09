@@ -8,19 +8,19 @@ An opening condition can refer back to the preceding sentence while the main sub
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Readers can infer a front wheel from the bicycle, so Good starts there before introducing the loose bolt.
 
 > **Bad.** We examined a bicycle. A loose bolt held its front wheel.
 >
 > **Good.** We examined a bicycle. Its front wheel was held by a loose bolt.
 
-**Example 2.** The draft's paragraph is about the fan and mentions dust only as a test condition.
+**Example 2.** The paragraph is about the fan. Good opens with its blades because the dust is only a test condition, even though it was mentioned more recently.
 
 > **Bad.** We tested the fan in dust. Dust coated the fan’s three blades.
 >
 > **Good.** We tested the fan in dust. The fan’s three blades were coated with dust.
 
-**Example 3.** The draft's paragraph is about a sensor. The preceding sentence introduces cold conditions.
+**Example 3.** The paragraph is about a sensor, and the preceding sentence introduces cold conditions. Good uses the condition to connect the sentences while keeping the sensor as the main subject.
 
 > **Bad.** A voltage of 5 V is required by the sensor in cold conditions.
 >

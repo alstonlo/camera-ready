@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft states that all the seedlings are in the greenhouse.
+**Example 1.** All the seedlings are in the greenhouse. Good adds commas because the clause describes the whole group rather than selecting some seedlings from it.
 
 > **Bad.** The seedlings which are in the greenhouse need water.
 >
 > **Good.** The seedlings, which are in the greenhouse, need water.
 
-**Example 2.** The draft states that only seedlings with red tags need water. The venue permits restrictive "which".
+**Example 2.** Only seedlings with red tags need water, and the venue permits restrictive "which". Good removes the commas so the clause selects the seedlings that need water.
 
 > **Bad.** The seedlings, which have red tags, need water.
 >

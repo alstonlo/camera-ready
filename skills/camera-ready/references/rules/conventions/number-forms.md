@@ -8,13 +8,13 @@ For percentages and differences in percentage points, follow the rule on [variab
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good spells out the small count but keeps the numeral for the measurement with a unit.
 
 > **Bad.** The tray holds 4 jars, each containing 200 mL of water.
 >
 > **Good.** The tray holds four jars, each containing 200 mL of water.
 
-**Example 2.** The draft spells out counts below ten. Its protocol specifies "3 cycles" as a parameter setting.
+**Example 2.** The draft spells out counts below ten. Good keeps the numeral for cycles because it specifies a protocol setting.
 
 > **Bad.** We use 2 trays and run 3 cycles.
 >
@@ -26,7 +26,7 @@ For percentages and differences in percentage points, follow the rule on [variab
 >
 > **Good.** The counts are 2.4M and 0.8M.
 
-**Example 4.** The draft reports both counts and rounds 812,345 to 0.8M elsewhere. The editor flags the rounding for the author rather than rounding the count directly.
+**Example 4.** The draft uses this rounded count elsewhere. Good is a proposal to flag for the author because matching the forms here also discards precision.
 
 > **Bad.** The counts are 2.4M and 812,345.
 >

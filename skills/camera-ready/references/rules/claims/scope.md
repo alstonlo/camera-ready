@@ -32,19 +32,19 @@ When the draft recommends practical use, check the requirements it documents, su
 >
 > **Good.** The tested bulbs usually lit within a second.
 
-**Example 2.** The draft reports one photographed crack and no survey of other tiles.
+**Example 2.** The draft reports one photographed crack and no survey of other tiles. Good proposes a narrower claim to the author because the photograph cannot establish how common cracks are.
 
 > **Bad.** Cracks are common in these tiles.
 >
 > **Good.** The photographed tile has a crack.
 
-**Example 3.** The draft reports comfort scores of 8 for chair A and 4 for chair B but does not establish that twice the score means twice the comfort. The editor proposes the revision to the author.
+**Example 3.** The draft gives comfort scores of 8 for chair A and 4 for chair B. Good proposes a correction to the author because the draft does not establish that doubling the score means doubling comfort.
 
 > **Bad.** Chair A is twice as comfortable as chair B.
 >
 > **Good.** Chair A scores twice as high as chair B on the comfort scale.
 
-**Example 4.** The draft reports tests of the coating only on aluminum. It explicitly proposes use on bridges as an untested application.
+**Example 4.** The coating was tested only on aluminum. Good keeps the possible bridge application because the draft explicitly presents it as untested.
 
 > **Bad.** The coating resists corrosion on all metals and may be useful on bridges.
 >

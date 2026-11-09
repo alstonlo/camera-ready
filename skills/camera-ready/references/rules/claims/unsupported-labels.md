@@ -12,13 +12,13 @@ Do not treat a claim that the work is the first of its kind as verified merely b
 
 ## Examples
 
-**Example 1.** The draft compares the hole diameters of the tested sieves and finds that only sieve A has 1 mm holes. The editor proposes the revision to the author.
+**Example 1.** The draft compares hole diameters among the tested sieves and finds that only sieve A has 1 mm holes.
 
 > **Bad.** Sieve A is unique.
 >
 > **Good.** Among the tested sieves, only sieve A has 1 mm holes.
 
-**Example 2.** The draft establishes that the open catalog is the first of its kind but gives no evidence that it is optimal.
+**Example 2.** The draft supports the claim that the catalog is the first of its kind but provides no evidence of optimality.
 
 > **Bad.** We provide the first open catalog of these specimens, an optimal resource.
 >

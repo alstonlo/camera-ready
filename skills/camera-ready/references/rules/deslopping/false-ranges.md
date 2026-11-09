@@ -14,7 +14,7 @@ This rule has no further details.
 >
 > **Good.** We test brick, wood, and metal.
 
-**Example 2.** The draft reports tests on brick and metal only.
+**Example 2.** The draft reports tests on brick and metal only. Good keeps the temperature range because temperatures, unlike these material types, lie on an ordered scale.
 
 > **Bad.** We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
 >

@@ -8,13 +8,13 @@ The stress position is where a sentence or independent clause becomes grammatica
 
 ## Examples
 
-**Example 1.** The draft's paragraph gives equal weight to heat loss and noise.
+**Example 1.** The paragraph gives equal weight to both findings. Good repeats the test restriction because it limits both claims.
 
 > **Bad.** In these tests, the shield reduces heat loss and noise.
 >
 > **Good.** In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
 
-**Example 2.** The draft treats the leak as a limitation that matters as much as the faster flow.
+**Example 2.** The draft gives the leak and the faster flow equal weight. Good makes both clauses independent so the leak is not presented as a lesser concern.
 
 > **Bad.** Although the joint leaks, it allows faster flow.
 >
@@ -26,7 +26,7 @@ The stress position is where a sentence or independent clause becomes grammatica
 >
 > **Good.** The sensor works only below 40 °C.
 
-**Example 4.** The draft's paragraph is about boiling time. The model number is incidental.
+**Example 4.** The paragraph develops the finding about boiling time.
 
 > **Bad.** The kettle (model K2) boils water in 90 s in this test.
 >

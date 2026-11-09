@@ -14,13 +14,13 @@ This rule has no further details.
 >
 > **Good.** The filter removes 90% of the dust.
 
-**Example 2.** The draft states that the smaller filter fits inside the tested bottles.
+**Example 2.** The draft supports a claim about fit in the tested bottles.
 
 > **Bad.** The smaller filter ushers in a new era of water treatment.
 >
 > **Good.** The smaller filter fits inside the tested bottles.
 
-**Example 3.** The draft claims that the filter makes water safe to drink but reports no safety tests. The Good line includes a flag for the closing report.
+**Example 3.** The draft reports no safety tests. Good flags the drinking-water claim because it makes a substantive assertion that cannot be discarded as empty praise.
 
 > **Bad.** The filter makes river water safe to drink, marking a historic turning point.
 >

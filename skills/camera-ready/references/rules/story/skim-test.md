@@ -8,13 +8,13 @@ The five parts of the argument are the problem, the gap in existing work, the id
 
 ## Examples
 
-**Example 1.** The draft reports that the tested batteries last twice as long at 20 °C as at 0 °C. The passages read during the skim test, including this caption, omit that finding.
+**Example 1.** The body reports this finding, but all passages used in the skim test omit it.
 
 > **Bad.** Figure 3: Battery life at 0 °C and 20 °C.
 >
 > **Good.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
 
-**Example 2.** The draft reports the result for indoor tests only. The skim test shows that the caption claims more than the body reports, so the editor flags the caption and proposes a correction to the author.
+**Example 2.** The body reports indoor tests only. Good proposes a correction for the author because narrowing the caption changes the claim.
 
 > **Bad.** Figure 2: The cover halves water loss indoors and outdoors.
 >

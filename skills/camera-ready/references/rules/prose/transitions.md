@@ -8,7 +8,7 @@ When choosing a word to express contrast, distinguish a comparison, an exception
 
 ## Examples
 
-**Example 1.** In this example, the draft reports when the lamp flashes, without claiming a cause.
+**Example 1.** Good uses "when" because the draft establishes timing but no cause.
 
 > **Bad.** As the pump stops, the lamp flashes.
 >
@@ -26,7 +26,7 @@ When choosing a word to express contrast, distinguish a comparison, an exception
 >
 > **Good.** Because the gasket is cracked, the lid leaks.
 
-**Example 4.** In this example, the draft states elsewhere that every cracked jar leaks. Good shows the revision to propose when flagging the missing step in the reasoning.
+**Example 4.** The draft states the general rule elsewhere. Good proposes restoring that premise when flagging the missing step that supports "therefore".
 
 > **Bad.** This jar is cracked. Therefore, it leaks.
 >

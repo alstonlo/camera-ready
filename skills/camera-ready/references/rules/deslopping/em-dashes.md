@@ -8,7 +8,7 @@ In LaTeX, `--` produces an en dash. Keep an en dash in numeric ranges and in nam
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good removes the pause while keeping the hyphen in the compound word and the en dashes in the name and range.
 
 > **Bad.** The two-stage test uses the Kullback–Leibler divergence—over steps 3–5.
 >
@@ -20,13 +20,13 @@ In LaTeX, `--` produces an en dash. Keep an en dash in numeric ranges and in nam
 >
 > **Good.** The tray holds two tools: a ruler and a brush.
 
-**Example 3.**
+**Example 3.** Good keeps the temperature limit in the main clause because it determines when the claim holds.
 
 > **Bad.** The seal holds—only below 30 °C.
 >
 > **Good.** The seal holds, but only below 30 °C.
 
-**Example 4.** In this draft, the purchase date is an optional detail.
+**Example 4.** The purchase date is optional background, so Good puts it in parentheses.
 
 > **Bad.** The tray—purchased in May—holds six vials.
 >

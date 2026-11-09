@@ -8,19 +8,19 @@ Read the title on its own, as readers see it in search results. A short, establi
 
 ## Examples
 
-**Example 1.** The draft describes how to detect cracks in ceramic cups with sound. The editor proposes a title for the author to review.
+**Example 1.** The draft studies detecting cracks in ceramic cups with sound. Good is a suggested title for the author's review, as are the revisions in Examples 2 and 3.
 
 > **Bad.** A new approach to testing ceramics
 >
 > **Good.** Detecting cracks in ceramic cups with sound
 
-**Example 2.** The draft reports using radio tags to locate birds that carry cameras. The editor proposes a title for the author to review.
+**Example 2.** The draft uses radio tags to locate birds carrying cameras. The suggested title removes the reading that cameras do the tracking.
 
 > **Bad.** Tracking birds with cameras
 >
 > **Good.** Tracking birds that carry cameras
 
-**Example 3.** The draft reports less leakage only in the tested pipes. The editor proposes a title for the author to review.
+**Example 3.** The draft reports reduced leakage only in the tested pipes.
 
 > **Bad.** Preventing all pipe leaks
 >

@@ -8,25 +8,25 @@ When "highly", "remarkably", or "exceptionally" adds only emphasis, cut it or re
 
 ## Examples
 
-**Example 1.** The draft reports a cable length of 40 m.
+**Example 1.** The draft supplies the cable's measured length.
 
 > **Bad.** The cable is extremely long.
 >
 > **Good.** The cable is 40 m long.
 
-**Example 2.**
+**Example 2.** Good keeps "largely" because removing it would claim that the coating prevents all rust.
 
 > **Bad.** Note that the coating largely prevents rust.
 >
 > **Good.** The coating largely prevents rust.
 
-**Example 3.** In the draft, the preceding sentence explains that a zero score means no detected damage, not that no damage exists.
+**Example 3.** The preceding sentence defines a zero score as no detected damage. Good keeps "Note that" to guard against reading that score as proof of no damage; "very" adds only emphasis.
 
 > **Bad.** Note that a zero score does not rule out damage. The test is very useful.
 >
 > **Good.** Note that a zero score does not rule out damage. The test is useful.
 
-**Example 4.** In the draft's proof, the last term of the sum is zero.
+**Example 4.** The draft's proof establishes that the last term is zero. Good keeps "Clearly" because adding zero is a routine step even for readers outside the subfield.
 
 > **Bad.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
 >

@@ -14,7 +14,7 @@ Different sentence lengths can hide repeated grammatical patterns. Check sentenc
 >
 > **Good.** The pump fills a tank that supplies a fountain. The fountain drains into a pond.
 
-**Example 2.**
+**Example 2.** Good joins the material and thickness descriptions but keeps the repeated temperature openings because they make the two conditions easy to compare.
 
 > **Bad.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber. The seal is 2 mm thick.
 >

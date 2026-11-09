@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** In this draft, readers can compare fly sizes in the introduction but need the definition in Methods to compare mesh ratios. The editor flags the mesh-ratio comparison and proposes the move below.
+**Example 1.** Readers can compare fly sizes without Methods, but the mesh ratio is unfamiliar until defined there. Good is a proposed move for the author: only the ratio comparison needs to follow that definition.
 
 > **Bad.** Introduction: Lee's screen blocks adult flies; ours also blocks small flies. Our mesh ratio is lower. Methods: We define the mesh ratio.
 >

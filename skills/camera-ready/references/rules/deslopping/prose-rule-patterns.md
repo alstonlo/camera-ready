@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft uses "pivotal quantity" as a technical term in statistics.
+**Example 1.** Good keeps "pivotal quantity" because the draft uses it as a technical term in statistics.
 
 > **Bad.** We delve into a pivotal quantity for the mean.
 >
@@ -20,13 +20,13 @@ This rule has no further details.
 >
 > **Good.** We collect and measure the seeds.
 
-**Example 3.** The draft reports that the leaves curl and the stems bend.
+**Example 3.** The draft supplies both observations.
 
 > **Bad.** We make two observations, which we discuss later.
 >
 > **Good.** The leaves curl, and the stems bend.
 
-**Example 4.** The draft lists two bullets, separated here by a slash.
+**Example 4.** A slash separates the two bullets in Bad. Good combines them into a sentence because they form one causal argument rather than independent list items.
 
 > **Bad.** - The seal leaks. / - Water reaches the contacts because the seal leaks.
 >

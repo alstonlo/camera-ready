@@ -12,25 +12,25 @@ The five parts of the argument in the abstract are the problem, the gap, the ide
 
 ## Examples
 
-**Example 1.** In a draft for a venue that places Methods last, Methods explains how to obtain depths from calibrated echo times. The editor proposes an opening for Results.
+**Example 1.** The venue places Methods last, and that section supplies the procedure added here. Good gives enough of the procedure in Results to explain how depth was measured and points to the full account.
 
 > **Bad.** The lake is 12 m deep at the sampling point.
 >
 > **Good.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
 
-**Example 2.** In this draft, the central result that the lid halves water loss first appears in Results, after the paper's first quarter. The editor flags the late result and proposes adding it to the introduction.
+**Example 2.** The central result first appears in Results, after the paper's first quarter. Good is a proposed addition to the introduction; the editor flags the delay because readers need the contribution earlier.
 
 > **Bad.** We test a lid to reduce water loss.
 >
 > **Good.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
 
-**Example 3.** The draft reports that the filter removes all visible sand from the tested samples. The editor flags that the abstract only refers to a section and proposes stating the result.
+**Example 3.** This abstract omits a result established in the body. Good proposes stating it so readers can understand the finding without following a section reference; the editor flags the missing result.
 
 > **Bad.** The filter's result appears in Section 5.
 >
 > **Good.** The filter removes all visible sand from the tested samples.
 
-**Example 4.** The draft describes temperature calibration and a small result validating it in Methods. A substantial drying procedure first appears in Results. The editor proposes moving that procedure to Methods.
+**Example 4.** The drying procedure is substantial, while the calibration result only validates the procedure beside it. Good proposes moving the misplaced procedure while keeping the small validation result in Methods; the editor flags the move for the author.
 
 > **Bad.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
 >

@@ -12,25 +12,25 @@ For proprietary products, distinguish what documentation says the product can do
 
 ## Examples
 
-**Example 1.** The draft states that Lee et al. deliberately limited their study to summer rainfall.
+**Example 1.** Lee et al. deliberately limited their study to summer rainfall. Good describes that scope without implying that excluding winter was a failure.
 
 > **Bad.** Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
 >
 > **Good.** Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
 
-**Example 2.** The draft reports that Lee concedes that the coating costs too much. The authors do not endorse that judgment.
+**Example 2.** The draft reports that Lee concedes that the coating costs too much. The authors do not endorse that judgment, so Good attributes the concession to Lee.
 
 > **Bad.** Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
 >
 > **Good.** Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
 
-**Example 3.** In a survey paper, the draft reports that Lee and Rao both measure only summer rainfall and that neither measures winter rainfall.
+**Example 3.** This is a survey, and the draft confirms both studies' scope. Good closes with the gap they share without claiming a discovery by the survey's authors.
 
 > **Bad.** Lee measures summer rainfall. Rao also measures summer rainfall.
 >
 > **Good.** Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
 
-**Example 4.** The draft states that a commercial filter removes salt and that its internal design is undisclosed.
+**Example 4.** The draft states that the commercial filter removes salt and that its internal design is undisclosed.
 
 > **Bad.** The commercial filter removes salt with the same membrane as ours; our membrane design is public.
 >

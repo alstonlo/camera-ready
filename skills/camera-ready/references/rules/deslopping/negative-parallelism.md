@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Nobody claims that the lid is only a cover, so Good drops that invented alternative and states the measured result.
 
 > **Bad.** The lid is not just a cover; it reduces evaporation by 20%.
 >
 > **Good.** The lid reduces evaporation by 20%.
 
-**Example 2.**
+**Example 2.** Good keeps the contrast that identifies which quantity is measured and removes the emphasis from listing two recorded quantities.
 
 > **Bad.** We measure mass, not volume, and record not only the mass but also the temperature.
 >

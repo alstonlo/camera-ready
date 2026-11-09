@@ -8,19 +8,19 @@ Discuss related minor objections together so that repeating them does not make t
 
 ## Examples
 
-**Example 1.** The draft describes independent rainfall and wind measurements. The editor proposes a section order for the author to review.
+**Example 1.** The rainfall and wind measurements are independent. Good proposes grouping the rainfall sections so that the argument finishes that topic before moving to wind.
 
 > **Bad.** 2 Measuring rainfall; 3 Measuring wind; 4 Correcting rainfall measurements
 >
 > **Good.** 2 Measuring rainfall; 3 Correcting rainfall measurements; 4 Measuring wind
 
-**Example 2.** Both sentences are in one paragraph about the rigid seal, a rejected approach that the draft keeps as a negative result.
+**Example 2.** The rigid seal is a rejected approach retained as a negative result. Good puts its failure first so that readers know why the test details matter.
 
 > **Bad.** We test the rigid seal on pipes bent to five angles. The rigid seal cracks at every angle.
 >
 > **Good.** The rigid seal cracks at every tested bend angle. We test the rigid seal on pipes bent to five angles.
 
-**Example 3.** In the draft, the result of the leak test is the reason the authors develop and test a flexible seal. Both tests use the definition of temperature given in the draft. The editor proposes a section order for the author to review.
+**Example 3.** Both tests use the temperature definition. Good proposes moving it before either test while keeping the second round of methods and results, since the leak result motivates the flexible seal.
 
 > **Bad.** 2 Leak test; 3 Temperature definition; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 >

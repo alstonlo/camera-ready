@@ -8,31 +8,31 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft reads as in Good. An editor splits the second sentence into short sentences of similar length.
+**Example 1.** Good is the original draft. Keeping its longer second sentence preserves the authors' varied rhythm.
 
 > **Bad.** The pump stops. Water then drains. The water leaves the upper tank. The water enters the lower tank.
 >
 > **Good.** The pump stops. Water then drains from the upper tank into the lower tank.
 
-**Example 2.** The draft reports when the seeds sprout without judging the importance of the finding. An editor adds emphasis.
+**Example 2.** The draft makes no judgment about the finding's importance. Good removes emphasis introduced by the editor.
 
 > **Bad.** Crucially, the seeds sprout after 3 days.
 >
 > **Good.** The seeds sprout after 3 days.
 
-**Example 3.** The draft calls the finding surprising. An editor deletes the authors' reaction.
+**Example 3.** The surprise is the authors' stated reaction. Good preserves it even though the sentence would be grammatical without it.
 
 > **Bad.** The dry seeds sprout first.
 >
 > **Good.** Surprisingly, the dry seeds sprout first.
 
-**Example 4.** The draft consistently uses "we". An editor substitutes "the authors" to avoid an alleged AI pattern.
+**Example 4.** The draft consistently uses "we". Good preserves that voice because first person is not a defect merely because generated prose also uses it.
 
 > **Bad.** The authors find that the seeds sprout first.
 >
 > **Good.** We find that the seeds sprout first.
 
-**Example 5.** The draft calls the object "the tray" throughout. An editor introduces "receptacle" for variety.
+**Example 5.** Both sentences refer to the same object, called "the tray" throughout the draft. Good keeps the repeated name so readers need not infer whether the second sentence introduces another object.
 
 > **Bad.** The tray holds six seeds. The receptacle stays dry.
 >

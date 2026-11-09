@@ -14,13 +14,13 @@ This rule has no further details.
 >
 > **Good.** The new bus route stops at the hospital every 10 minutes.
 
-**Example 2.** In this draft, the text explains that dark roofs absorb sunlight and heat the rooms below.
+**Example 2.** The draft gives the roof-heating explanation elsewhere.
 
 > **Bad.** Roof paint has attracted much attention. We test white paint.
 >
 > **Good.** Dark roofs absorb sunlight and heat the rooms below. We test white paint.
 
-**Example 3.** In this draft, readers need a definition of dormancy to understand the study question.
+**Example 3.** Readers need the definition of dormancy to understand this draft's study question.
 
 > **Bad.** Gardening is an exciting field. Dormancy is a period without growth. We test whether cold ends dormancy.
 >

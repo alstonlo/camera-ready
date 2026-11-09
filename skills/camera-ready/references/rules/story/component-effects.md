@@ -10,31 +10,31 @@ To answer an objection, authors may give evidence against it, identify assumptio
 
 ## Examples
 
-**Example 1.** The draft compares bare soil with soil covered by compost and straw together. It tests neither material alone. The Good version proposes a revision for the author.
+**Example 1.** The draft compares bare soil with soil covered by both materials and tests neither alone. Good credits the combination because the comparison does not separate their effects.
 
 > **Bad.** Compost reduces water loss by 15%.
 >
 > **Good.** Compost and straw together reduce water loss by 15%.
 
-**Example 2.** The draft reports that the combined coating reduces leaks but does not test whether the resin fills pores. The Good version proposes a revision for the author.
+**Example 2.** The draft does not test whether the resin fills pores.
 
 > **Bad.** The combined coating reduces leaks because the resin fills pores.
 >
 > **Good.** The combined coating reduces leaks. We conjecture that it does so because the resin fills pores.
 
-**Example 3.** The draft raises unequal starting moisture as an alternative explanation and reports that both groups start with equal moisture. The Good version proposes a revision for the author.
+**Example 3.** The draft reports equal starting moisture in both groups.
 
 > **Bad.** The pots with covers lose less water. Unequal starting moisture cannot explain this because the pots with covers lose less water.
 >
 > **Good.** The pots with covers lose less water. Unequal starting moisture cannot explain this because both groups start with equal moisture.
 
-**Example 4.** The draft reports that more sediment passes through when the mesh is removed, although the remaining gravel still removes some sediment. The Good version proposes a revision for the author.
+**Example 4.** The draft reports that removing the mesh increases sediment passage, although the remaining gravel still removes some sediment. Good proposes wording that credits the mesh's contribution without claiming that removal is impossible without it.
 
 > **Bad.** The mesh improves sediment removal because no sediment can be removed without it.
 >
 > **Good.** The mesh improves sediment removal because removing it increases sediment passage.
 
-**Example 5.** The draft reports that the fertilized field also received more rain but never considers whether rain explains the higher yield. The Good version proposes a revision for the author.
+**Example 5.** The draft reports the difference in rainfall but does not consider its effect on yield.
 
 > **Bad.** The fertilized field yields 20% more grain, so the fertilizer raises yield.
 >

@@ -8,13 +8,13 @@ If readers dispute a principle used to connect evidence to a claim, that princip
 
 ## Examples
 
-**Example 1.** The draft states that the green indicator lights only when the lid is sealed, while the time comparison needs no explanation. The Good version proposes an explanation for the author.
+**Example 1.** The draft explains when the indicator lights. Good adds that connection; the time comparison needs no explanation because readers can compare the two durations directly.
 
 > **Bad.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator is green, so the lid is sealed.
 >
 > **Good.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator lights only when the lid is sealed. The indicator is green, so the lid is sealed.
 
-**Example 2.** The draft notes that readers dispute whether this dye turns red only in acid, and it cites Lee's calibration to support that link. The Good version proposes an explanation for the author.
+**Example 2.** Readers dispute whether this dye turns red only in acid; the draft cites Lee's calibration as support. Good includes that evidence because restating the disputed connection would not justify the conclusion.
 
 > **Bad.** The dye turns red, so the liquid is acidic.
 >

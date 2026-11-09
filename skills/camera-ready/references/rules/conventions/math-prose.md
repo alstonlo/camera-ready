@@ -12,13 +12,13 @@ In LaTeX source, a blank line starts a new paragraph. Do not put blank lines aro
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good removes the colon because the words before the display do not form a complete clause.
 
 > **Bad.** The area of a circle of radius $r$ is: \[\pi r^2.\]
 >
 > **Good.** The area of a circle of radius $r$ is \[\pi r^2.\]
 
-**Example 2.** In a paper on logic, the passage explains the universal quantifier.
+**Example 2.** This passage explains the universal quantifier in a logic paper. Good keeps the symbolic quantifier because the notation itself is under discussion.
 
 > **Bad.** $P$ is the predicate in $\forall x\,P(x)$.
 >
@@ -30,7 +30,7 @@ In LaTeX source, a blank line starts a new paragraph. Do not put blank lines aro
 >
 > **Good.** Let $q$ denote net inflow. The value of $q$ is positive.
 
-**Example 4.** The draft defines $a$ and $b$ earlier, and the displayed formula belongs to the surrounding paragraph. Here, `\n` denotes a newline.
+**Example 4.** The draft defines $a$ and $b$ earlier. Here, `\n` denotes a newline. Good removes the blank line so LaTeX keeps the formula in the paragraph it completes.
 
 > **Bad.** `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
 >

@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** In this draft, the Results section reports a mean drying time of 3 h for cotton.
+**Example 1.** The draft supplies the drying-time result. Good keeps the first sentence because it explains how the trials are combined, which readers need to interpret the mean.
 
 > **Bad.** We report means over five trials. For cotton, we report the drying time.
 >

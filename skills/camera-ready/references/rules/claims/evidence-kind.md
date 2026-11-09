@@ -10,31 +10,31 @@ Propose a simpler mathematical condition only when the draft shows that the two 
 
 ## Examples
 
-**Example 1.** The draft reports only a simulation of the bridge, with no measurements of the actual bridge. Propose the revision to the author.
+**Example 1.** The draft reports only a simulation, with no measurements of the actual bridge.
 
 > **Bad.** Under the tested load, the bridge bends by 2 cm.
 >
 > **Good.** Under the tested load, the simulated bridge bends by 2 cm.
 
-**Example 2.** The draft's Theorem 2 proves that the equilibrium is unique when stiffness is positive.
+**Example 2.** The draft proves the stated result in Theorem 2.
 
 > **Bad.** The equilibrium is unique.
 >
 > **Good.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
 
-**Example 3.** The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors. Propose the revision to the author.
+**Example 3.** Theorem 1 assumes independent errors. The sensors violate that assumption, so their errors limit where the theorem applies without disproving it.
 
 > **Bad.** The correlated errors in these sensors make Theorem 1 false.
 >
 > **Good.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
-**Example 4.** The draft establishes that requiring x to be positive makes the nonzero condition unnecessary for this bound. Propose the revision to the author.
+**Example 4.** The draft establishes that positivity implies the nonzero condition and that the latter adds no useful information.
 
 > **Bad.** For positive, nonzero x, the bound holds.
 >
 > **Good.** For positive x, the bound holds.
 
-**Example 5.** The draft reports only that five tested mixtures settled within an hour.
+**Example 5.** The draft reports observations from only five tested mixtures.
 
 > **Bad.** Every mixture settles within an hour.
 >

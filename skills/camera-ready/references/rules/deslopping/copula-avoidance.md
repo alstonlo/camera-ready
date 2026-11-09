@@ -14,13 +14,13 @@ This rule has no further details.
 >
 > **Good.** The probe monitors temperature.
 
-**Example 2.**
+**Example 2.** Good keeps "acts as" because the tray takes on an additional role during transport; calling it a lid would lose that distinction.
 
 > **Bad.** The tray boasts two compartments and acts as a lid during transport.
 >
 > **Good.** The tray has two compartments and acts as a lid during transport.
 
-**Example 3.**
+**Example 3.** Good keeps "represents" because the symbol denotes pressure; it is not itself pressure.
 
 > **Bad.** The symbol represents pressure, and the plot boasts two axes.
 >

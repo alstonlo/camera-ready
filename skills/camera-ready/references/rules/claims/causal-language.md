@@ -14,25 +14,25 @@ A suitable controlled comparison can isolate the effect of a factor such as a de
 
 ## Examples
 
-**Example 1.** The draft reports a correlation between the number of houseplants and the number of colds in surveyed households, without evidence that isolates a causal effect. Propose the revision to the author.
+**Example 1.** The draft reports only a correlation from a household survey. Flag the unsupported causal claim and propose Good to the author.
 
 > **Bad.** In the surveyed households, owning more houseplants caused fewer colds.
 >
 > **Good.** In the surveyed households, owning more houseplants was associated with fewer colds.
 
-**Example 2.** The draft isolates the effect of adding mulch and shade together but never tests either alone. Propose the revision to the author.
+**Example 2.** The draft's controlled comparison adds mulch and shade together without testing either alone. Flag the attribution to mulch alone and propose Good, which names the tested combination.
 
 > **Bad.** Mulch reduces water loss.
 >
 > **Good.** Mulch and shade together reduce water loss.
 
-**Example 3.** The draft identifies lubrication as a contributing factor but reports failures despite lubrication. Propose the revision to the author.
+**Example 3.** The draft identifies lubrication as a contributing factor but reports failures despite it. Flag the unsupported guarantee and propose Good to the author: lubrication contributes to prevention but does not guarantee it.
 
 > **Bad.** Lubrication is sufficient to prevent wear.
 >
 > **Good.** Lubrication contributes to preventing wear.
 
-**Example 4.** The draft isolates the coating's effect on corrosion. It proposes that the coating blocks oxygen but does not test that explanation.
+**Example 4.** The draft establishes the coating's effect but does not test its explanation.
 
 > **Bad.** The coating reduces corrosion because it blocks oxygen.
 >

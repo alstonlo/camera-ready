@@ -14,25 +14,25 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The author asks to shorten a draft. The paragraph's opening sentence is clear on its own, making the second sentence redundant.
+**Example 1.** The author asks to shorten the draft.
 
 > **Bad.** The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
 >
 > **Good.** The lid reduces evaporation in both jars.
 
-**Example 2.** Readers need the explanation of gas expansion to understand why the opening claim holds. An editor proposes cutting the paragraph's closing restatement.
+**Example 2.** An editor proposes cutting the closing restatement. Good retains it because readers need the intervening explanation of gas expansion to understand the opening claim.
 
 > **Bad.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
 >
 > **Good.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
 
-**Example 3.** The draft still exceeds the length limit after the editor cuts redundant restatements, so the editor moves to Tier 2.
+**Example 3.** The draft still exceeds the length limit after redundant restatements are cut. Good removes the roadmap but keeps the reference that tells readers where to find the proof.
 
 > **Bad.** Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
 >
 > **Good.** Appendix A proves the stability bound.
 
-**Example 4.** The draft still exceeds the length limit after Tiers 1–3. Appendix B already contains the robustness checks across pressure levels.
+**Example 4.** The draft still exceeds the length limit after Tiers 1–3, and Appendix B already contains the pressure checks. Good replaces the secondary test details with a reference but keeps the leak because it limits the claim that the seal works.
 
 > **Bad.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
 >

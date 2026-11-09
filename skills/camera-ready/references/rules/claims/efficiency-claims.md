@@ -19,31 +19,31 @@ Distinguish an upper bound on one algorithm's cost from a lower bound that every
 
 ## Examples
 
-**Example 1.** The draft states that the assay costs $4 per sample for reagents and excludes sample preparation.
+**Example 1.** The draft gives the reagent cost and exclusions elsewhere.
 
 > **Bad.** The assay costs $4 per sample.
 >
 > **Good.** The assay costs $4 per sample for reagents, excluding sample preparation.
 
-**Example 2.** The draft calculates the heater's 80% efficiency by dividing the heat delivered to the water by the electrical energy supplied.
+**Example 2.** The draft defines the efficiency calculation elsewhere.
 
 > **Bad.** The heater's efficiency is 80%.
 >
 > **Good.** The heater delivers 80% of the supplied electrical energy as heat to the water.
 
-**Example 3.** The draft establishes that method A's time grows asymptotically more slowly than method B's, but reports no timing comparison. Propose the revision to the author.
+**Example 3.** The draft contains a mathematical comparison but no measured times. Good limits the claim to how time grows with input size, because slower growth does not establish shorter elapsed time.
 
 > **Bad.** Method A has lower elapsed time than method B.
 >
 > **Good.** Method A's time grows asymptotically more slowly than method B's.
 
-**Example 4.** The draft proves an upper bound for one algorithm and defines n as the number of entries. Propose the revision to the author.
+**Example 4.** The draft proves an upper bound for one algorithm. Good states a limit on that algorithm's cost, because its upper bound does not establish a minimum cost for every algorithm.
 
 > **Bad.** Every algorithm for the problem requires quadratic time.
 >
 > **Good.** This algorithm requires at most quadratic time.
 
-**Example 5.** The draft reports lower energy use per item but higher total energy use when more items are produced. Propose the revision to the author.
+**Example 5.** The draft reports higher total energy use when production increases, despite a saving per item.
 
 > **Bad.** The new process uses less energy.
 >

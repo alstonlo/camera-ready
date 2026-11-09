@@ -8,19 +8,19 @@ State additions and credit using only what the draft says. Do not describe the a
 
 ## Examples
 
-**Example 1.** The draft states that the authors have already published the rain gauge and are adding an overflow alarm.
+**Example 1.** The draft states that the authors previously published the rain gauge and are now adding an overflow alarm.
 
 > **Bad.** We introduce the rain gauge and its overflow alarm.
 >
 > **Good.** We introduce the overflow alarm for our published rain gauge.
 
-**Example 2.** The draft identifies the earlier trial as the authors' own and states that both reports use the same measurements.
+**Example 2.** The draft identifies the earlier report as the authors’ own and says it uses the same measurements.
 
 > **Bad.** An independent study confirms the effect.
 >
 > **Good.** Our earlier report describes the effect using the same measurements.
 
-**Example 3.** The draft identifies Lee et al. (2024) as the authors' earlier design. The venue requires anonymity, so the editor flags the wording and proposes the revision below.
+**Example 3.** The venue requires anonymity. The editor flags the self-identification and proposes wording that keeps credit for the earlier design without identifying the current authors.
 
 > **Bad.** We add an alarm to our earlier design (Lee et al., 2024).
 >

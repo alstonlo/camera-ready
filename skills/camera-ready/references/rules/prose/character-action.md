@@ -16,25 +16,25 @@ Keep established technical verbs with inanimate subjects, such as an enzyme reco
 >
 > **Good.** The technician inspects the seal before replacing it.
 
-**Example 2.**
+**Example 2.** Good keeps "quantization" because it names the technique being evaluated; turning that noun into a verb would change the action described.
 
 > **Bad.** We perform an evaluation of quantization.
 >
 > **Good.** We evaluate quantization.
 
-**Example 3.** In this example, the draft identifies the authors as the people who detect faint signals.
+**Example 3.** The draft identifies the authors as the people who detect the signals. Good keeps "This reduction in noise" because it connects the two sentences, while giving the detection an actor and a verb.
 
 > **Bad.** Noise fell after filtering. This reduction in noise permits the detection of faint signals.
 >
 > **Good.** Noise fell after filtering. This reduction in noise permits us to detect faint signals.
 
-**Example 4.** The draft states that the recorder deletes readings after an hour.
+**Example 4.** The draft states elsewhere that the recorder deletes the readings.
 
 > **Bad.** The recorder forgets readings after an hour.
 >
 > **Good.** The recorder deletes readings after an hour.
 
-**Example 5.**
+**Example 5.** Good keeps "The results suggest" because results can support an inference without being treated as thinking agents.
 
 > **Bad.** The results suggest that the coating causes a reduction in heat loss.
 >

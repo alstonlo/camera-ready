@@ -13,25 +13,25 @@ Readers may need a sentence even when it adds no new facts. Details needed to re
 
 ## Examples
 
-**Example 1.** An editor proposes cutting the counterevidence from a draft that reports fertilizer increases growth in wet soil but reduces growth in dry soil.
+**Example 1.** Bad shows a proposed cut from the draft. Good keeps the dry-soil result because it shows a condition in which the treatment has the opposite effect.
 
 > **Bad.** The fertilizer increases growth in wet soil.
 >
 > **Good.** The fertilizer increases growth in wet soil. It reduces growth in dry soil.
 
-**Example 2.** An editor proposes cutting the source attribution and permission statement from a figure caption.
+**Example 2.** Bad shows a proposed cut from a figure caption. Good keeps the credit and permission statement because the caption must acknowledge the adapted material on its own.
 
 > **Bad.** The roots (brown) spread wider than the leaves (green).
 >
 > **Good.** The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
 
-**Example 3.** An editor proposes cutting a paragraph's opening topic sentence because the measurements that follow report the same finding.
+**Example 3.** Bad shows a proposed cut of the paragraph's opening sentence. Good keeps the sentence because it tells readers what the measurements show, even though it adds no new data.
 
 > **Bad.** At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 >
 > **Good.** Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 
-**Example 4.** The author asks to shorten the draft, and the editor cuts repeated statements under the triage order.
+**Example 4.** The author has requested cuts, and the triage order has reached repeated limitations.
 
 > **Bad.** Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
 >

@@ -15,19 +15,19 @@ To decide whether a choice needs a reason, consider what a researcher in the fie
 
 ## Examples
 
-**Example 1.** In this draft, a stated claim depends on rinsing for 5 min, and text elsewhere explains that shorter rinses leave salt on the glass.
+**Example 1.** A claim depends on the rinse duration, and the draft explains the reason elsewhere. Good brings the reason beside the choice so that readers can judge why five minutes matters.
 
 > **Bad.** We rinse each slide for 5 min.
 >
 > **Good.** We rinse each slide for 5 min because shorter rinses leave salt on the glass.
 
-**Example 2.** In this draft, the text states that wrapping the jars in cloth prevents scratches.
+**Example 2.** The draft gives the reason for wrapping the jars. Good keeps "etc." in the numbering sequence because the omitted labels are obvious.
 
 > **Bad.** We label the jars 1, 2, 3, etc., and wrap them in cloth for various reasons.
 >
 > **Good.** We label the jars 1, 2, 3, etc., and wrap them in cloth to prevent scratches.
 
-**Example 3.** In this draft, the text identifies three factors that damage the film: heat, light, and moisture.
+**Example 3.** The draft supplies the full list of factors that damage the film.
 
 > **Bad.** We protect the film from heat, light, etc.
 >

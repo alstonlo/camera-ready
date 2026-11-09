@@ -12,25 +12,25 @@ In the examples for Tables 3 through 5 and Figures 8 through 12, each Good line 
 
 ## Examples
 
-**Example 1.** The paragraph citing Figure 2 reports mean plant height after four weeks, in centimeters, and notes that fertilized plants were taller than untreated plants.
+**Example 1.** The paragraph citing Figure 2 supplies the measurements, units, and finding added here.
 
 > **Bad.** Figure 2: Plant growth.
 >
 > **Good.** Figure 2: Mean plant height after four weeks, in centimeters. Plants given fertilizer were taller than untreated plants.
 
-**Example 2.** The draft states that dashes in Table 3 mark missing temperature measurements.
+**Example 2.** The draft defines the dashes in Table 3 as missing measurements.
 
 > **Bad.** Table 3: Daily air temperature at each site, in degrees Celsius.
 >
 > **Good.** Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
 
-**Example 3.** The draft reports heights of 11 cm and 10 cm. The vertical axis starts at 9 cm, making the bar for treated plants look twice as tall.
+**Example 3.** The vertical axis starts at 9 cm. Good uses the reported heights because the displayed bar lengths do not show the ratio of plant heights.
 
 > **Bad.** Figure 8: The treated plants are twice as tall as the controls.
 >
 > **Good.** Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
 
-**Example 4.** The draft reports measurements only through day 20 and identifies 18 cm at day 30 as a prediction from a fitted curve.
+**Example 4.** Measurements end at day 20; a fitted curve supplies the value at day 30.
 
 > **Bad.** Figure 10: The measured height at day 30 is 18 cm.
 >

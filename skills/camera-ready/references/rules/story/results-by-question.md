@@ -8,25 +8,25 @@ When you propose a heading, keep the claim strength and conditions from the body
 
 ## Examples
 
-**Example 1.** The draft reports that shade reduces water loss in the tested ferns. The Good version proposes a heading for the author.
+**Example 1.** The body text supports the stated effect of shade. Good proposes a finding as the heading because the experiment's name alone does not tell readers what it establishes.
 
 > **Bad.** Fern experiment
 >
 > **Good.** Shade reduces water loss in the tested ferns
 
-**Example 2.** The draft names reduced refill frequency as its contribution. It states that the tank trial tests whether a lid reduces water loss enough to reduce refill frequency. The Good version proposes a Results opening for the author.
+**Example 2.** The draft identifies fewer refills as its contribution and states that the trial tests that aim. Good connects the question to the contribution, since reduced water loss alone may not reduce refill frequency.
 
 > **Bad.** We test whether the lid reduces water loss.
 >
 > **Good.** We test whether the lid reduces water loss enough to reduce refill frequency.
 
-**Example 3.** In the draft, cracks in the first coat motivate adding a second coat. The draft describes all methods before it reports any results, which hides that sequence. The Good version proposes an order for the author.
+**Example 3.** Good proposes placing the first result before the second method so readers see why the second experiment was needed. The editor must flag this reordering for the author.
 
 > **Bad.** Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
 >
 > **Good.** Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
 
-**Example 4.** Section 4 of the draft reports leakage measured by the pressure test. The passage that describes the test does not say what the test measures. The Good version proposes a revision for the author.
+**Example 4.** The draft identifies the pressure test as the source of Section 4's leakage measurements.
 
 > **Bad.** We also perform a pressure test.
 >

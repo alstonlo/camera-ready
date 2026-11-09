@@ -8,25 +8,19 @@ List the names that the draft uses for each recurring concept to detect unintent
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Although "this device" is unambiguous, Good repeats the equipment's specific name to keep the terminology consistent.
 
 > **Bad.** The drying cabinet holds the samples. This device stays warm.
 >
 > **Good.** The drying cabinet holds the samples. The drying cabinet stays warm.
 
-**Example 2.** In this draft, the authors use "drying cabinet" and "chamber" for the same piece of equipment.
+**Example 2.** The draft uses "drying cabinet" and "chamber" for the same equipment. Good keeps "it" because a clear pronoun does not introduce a competing name.
 
 > **Bad.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
 >
 > **Good.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
 
-**Example 3.** In this draft, the authors use "seed weight" to mean seed mass, while reporting shell mass separately.
-
-> **Bad.** We report seed mass and shell mass. Seed weight excludes the shell.
->
-> **Good.** We report seed mass and shell mass. Seed mass excludes the shell.
-
-**Example 4.** In this draft, the body text calls the equipment a "drying cabinet", but a figure label calls it the "chamber". The editor flags the mismatched label and proposes the wording below.
+**Example 3.** This figure label names equipment called a "drying cabinet" in the body text. Good is a proposed label for the author, because changing the prose alone would leave the figure inconsistent.
 
 > **Bad.** Chamber temperature (°C)
 >

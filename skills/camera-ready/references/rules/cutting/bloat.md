@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** An editor finds a citation placeholder after a measurement, deletes the placeholder, and flags the missing source.
+**Example 1.** The editor also flags the missing source: deleting the placeholder does not resolve the need for a citation.
 
 > **Bad.** The well is 12 m deep. [Insert source]
 >

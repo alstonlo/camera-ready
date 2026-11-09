@@ -8,13 +8,13 @@ Preserve real differences and qualifications between parallel items. If the draf
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good keeps the condition on the width measurement because matching grammatical forms does not require identical measurement conditions.
 
 > **Bad.** We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
 >
 > **Good.** We measured the length of the box, the width of the box with the lid open, and the weight of the box.
 
-**Example 2.** The draft says the authors use hot water only to wash the jars.
+**Example 2.** The draft says hot water is used only for washing.
 
 > **Bad.** We wash and dry the jars with hot water.
 >
@@ -26,7 +26,7 @@ Preserve real differences and qualifications between parallel items. If the draf
 >
 > **Good.** The mass of the steel ball exceeds the mass of the wooden ball.
 
-**Example 4.** The draft states that frost caused the pipe to split.
+**Example 4.** The draft establishes that freezing caused the split.
 
 > **Bad.** The pipe froze and split.
 >

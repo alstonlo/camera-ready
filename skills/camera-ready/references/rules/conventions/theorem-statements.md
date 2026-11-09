@@ -8,25 +8,25 @@ State the type of each object, as in "the linear operator $A$". Keep every assum
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good completes the clause before the colon; "We prove that" still needs the statement of what is proved.
 
 > **Bad.** We prove that: Theorem 1. Every square is a rectangle.
 >
 > **Good.** We prove the following result: Theorem 1. Every square is a rectangle.
 
-**Example 2.** Before the theorem, the draft defines $a$, $b$, and $c$ as the interior angles of a Euclidean triangle.
+**Example 2.** The draft defines the angles before the theorem. Good repeats the definition inside the theorem so that readers can understand the statement on its own.
 
 > **Bad.** Theorem 2. The sum of $a$, $b$, and $c$ is 180°.
 >
 > **Good.** Theorem 2. Let $a$, $b$, and $c$ be the interior angles of a Euclidean triangle. Their sum is 180°.
 
-**Example 3.** The draft defines $n$ as the number of items and $s$ as storage, and $n>0$ is an assumption of the theorem.
+**Example 3.** The draft defines $n$ as the number of items and $s$ as storage. Good moves the explanation of the bound's purpose outside the theorem but keeps $n>0$, which restricts when the bound holds.
 
 > **Bad.** Theorem 3. The following bound gives an upper limit on storage. If $n>0$, then $s(n)\leq 2n$.
 >
 > **Good.** The following bound gives an upper limit on storage. Theorem 3. If $n>0$, then $s(n)\leq 2n$.
 
-**Example 4.** In the draft, the theorem's assumptions take several lines. The Good line suggests defining a named assumption for the author.
+**Example 4.** The theorem's assumptions take several lines in the draft. Good proposes a named assumption to shorten the statement while retaining every restriction.
 
 > **Bad.** Theorem 4. If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, where $a<b$, then $f$ satisfies the mean value theorem.
 >

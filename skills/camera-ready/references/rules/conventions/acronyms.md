@@ -8,25 +8,25 @@ Treat an acronym in the title as unfamiliar if readers in the field outside the 
 
 ## Examples
 
-**Example 1.** In this draft, ETR stands for "electron transport rate", and this passage in the body begins its repeated use.
+**Example 1.** In this draft, ETR means "electron transport rate", and this passage begins its repeated use in the body.
 
 > **Bad.** We measure ETR at noon. ETR rises with light intensity.
 >
 > **Good.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
 
-**Example 2.** The draft defines ETR as "electron transport rate", an acronym that readers outside the subfield would not recognize in a title. The editor flags the title and proposes spelling it out.
+**Example 2.** The draft defines ETR as "electron transport rate", but readers outside the subfield would not recognize it in the title. Good proposes spelling it out; the editor flags the unfamiliar acronym and leaves the title unchanged.
 
 > **Bad.** ETR in shaded leaves
 >
 > **Good.** Electron transport rate in shaded leaves
 
-**Example 3.** The draft defines AR as annual rainfall, using it once in prose and once in a figure. The editor flags the change for the author to coordinate with the figure, proposing the prose revision below.
+**Example 3.** The draft defines AR as "annual rainfall" and uses it only here and in a figure. Good proposes expanding the isolated prose use; the editor flags the change so the author can coordinate it with the figure.
 
 > **Bad.** AR varies by site.
 >
 > **Good.** Annual rainfall varies by site.
 
-**Example 4.** In this draft, the authors define TS as time step, whereas DNA is standard terminology for the intended readership.
+**Example 4.** The draft defines TS as "time step"; DNA is standard terminology for the intended readers. Good expands TS because saying the letters saves no syllables, while keeping the familiar acronym.
 
 > **Bad.** DNA is measured at each TS.
 >

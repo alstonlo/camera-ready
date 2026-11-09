@@ -20,7 +20,7 @@ This rule has no further details.
 >
 > **Good.** The kit contains a ruler, a brush, and a tray.
 
-**Example 3.** The draft supports "waterproof" but reports no fire test. The proposed revision keeps "fireproof" with a flag for missing support.
+**Example 3.** The draft supports "waterproof" but reports no fire test. Good keeps "fireproof" as a substantive claim; the editor separately flags its missing support.
 
 > **Bad.** The case is waterproof, fireproof, and remarkable.
 >

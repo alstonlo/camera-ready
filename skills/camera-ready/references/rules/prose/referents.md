@@ -8,19 +8,19 @@ The first sentence under a heading, including a bold title that opens a paragrap
 
 ## Examples
 
-**Example 1.** The draft compares run C with run A, not run B.
+**Example 1.** The draft identifies run A as the comparison for run C.
 
 > **Bad.** Runs A and B use dry sand. Run C drains faster than the earlier run. The earlier run leaves a puddle.
 >
 > **Good.** Runs A and B use dry sand. Run C drains faster than run A. Run A leaves a puddle.
 
-**Example 2.**
+**Example 2.** Good names the subject in the sentence because the opening must make sense without its heading.
 
 > **Bad.** **Copper mesh.** This catches the larger particles.
 >
 > **Good.** **Copper mesh.** Copper mesh catches the larger particles.
 
-**Example 3.** In the draft, the panel has a red switch and a blue switch. An earlier edit removed the sentence that identified the red switch as the power switch.
+**Example 3.** An earlier cut removed the draft's identification of the red switch as the power switch; the panel also has a blue switch.
 
 > **Bad.** Press the switch. This control then turns the pump off.
 >

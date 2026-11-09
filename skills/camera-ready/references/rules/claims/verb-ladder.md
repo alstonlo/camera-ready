@@ -21,37 +21,37 @@ When describing cited work, do not write "notes in passing" if the source presen
 
 ## Examples
 
-**Example 1.** The draft reports water temperatures measured in a test of an insulated bottle and a plain bottle. It gives no mathematical proof.
+**Example 1.** The draft reports measured temperatures.
 
 > **Bad.** We prove that the insulated bottle kept water warmer than the plain bottle in the test.
 >
 > **Good.** We find that the insulated bottle kept water warmer than the plain bottle in the test.
 
-**Example 2.** The draft gives a complete proof under the stated convexity assumption.
+**Example 2.** The draft supplies a complete proof under the stated assumption.
 
 > **Bad.** We conjecture that the minimum is unique when the function is strictly convex.
 >
 > **Good.** We prove that the minimum is unique when the function is strictly convex.
 
-**Example 3.** The draft reports a test that neither detects nor rules out an effect. The editor proposes the revision to the author.
+**Example 3.** The test neither detects nor rules out the effect. The editor flags the claimed disproof and proposes Good to the author, distinguishing failure to detect an effect from evidence against it.
 
 > **Bad.** The test disproves the proposed effect.
 >
 > **Good.** The test does not detect the proposed effect.
 
-**Example 4.** The draft states that Lee establishes the independence of the errors.
+**Example 4.** Lee's cited work establishes this premise.
 
 > **Bad.** Lee assumes that the errors are independent.
 >
 > **Good.** Lee establishes that the errors are independent.
 
-**Example 5.** The draft's Results section says that the measurements suggest slower diffusion.
+**Example 5.** The Results section treats slower diffusion as a tentative interpretation.
 
 > **Bad.** Conclusion: The measurements establish slower diffusion.
 >
 > **Good.** Conclusion: The measurements suggest slower diffusion.
 
-**Example 6.** The draft's Section 4 reports that the coating lowers temperature in the tests.
+**Example 6.** Section 4 reports this temperature result.
 
 > **Bad.** Abstract: We find the result reported in Section 4.
 >

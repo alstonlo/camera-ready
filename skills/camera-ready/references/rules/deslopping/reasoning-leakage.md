@@ -10,13 +10,13 @@ Keep mathematical setup such as "Let X be", the steps of a proof, and any substa
 
 ## Examples
 
-**Example 1.**
+**Example 1.** Good keeps the mathematical setup and its consequence because they establish a fact about n, while the opening invitation contributes no reasoning.
 
 > **Bad.** Let us think step by step. Let n be an even integer. Then n = 2k for some integer k.
 >
 > **Good.** Let n be an even integer. Then n = 2k for some integer k.
 
-**Example 2.** The draft analyzes the model output it quotes.
+**Example 2.** The draft analyzes the quoted model output. Good keeps the narration inside the quotation because it is evidence being studied.
 
 > **Bad.** Let us think step by step. The model output begins "First, I should compare the load and the limit."
 >

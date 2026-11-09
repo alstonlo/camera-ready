@@ -14,13 +14,13 @@ This rule has no further details.
 >
 > **Good.** We enter the readings in a spreadsheet.
 
-**Example 2.**
+**Example 2.** Good adds "that" so readers do not initially read "show the samples" as displaying the samples.
 
 > **Bad.** We show the samples we heat expand.
 >
 > **Good.** We show that the samples we heat expand.
 
-**Example 3.** The draft uses "heat flux sensor" as an established technical term.
+**Example 3.** The draft uses "heat flux sensor" as an established technical term. Good preserves that name while separating it from the words describing the procedure.
 
 > **Bad.** The heat flux sensor calibration procedure is documented.
 >

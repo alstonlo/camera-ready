@@ -10,19 +10,19 @@ Keep existing `\label` commands unchanged. Flag any numbering change that requir
 
 ## Examples
 
-**Example 1.** The draft identifies this equation as its central model of water height $h$ at time $t$, with constant rate of rise $r$. The Good line suggests numbering the display for the author.
+**Example 1.** The draft identifies this equation as its central model. Good proposes numbering it; changing the protected display environment must be flagged.
 
 > **Bad.** \begin{equation*} h(t)=h(0)+rt. \end{equation*}
 >
 > **Good.** \begin{equation} h(t)=h(0)+rt. \end{equation}
 
-**Example 2.** The draft defines the symbols and later refers to this display by its label. The Good line suggests numbering the display for the author.
+**Example 2.** The draft later refers to this display by its label. Good proposes numbering it; changing the protected display environment must be flagged.
 
 > **Bad.** \begin{equation*}\label{eq:sum} s=a+b. \end{equation*}
 >
 > **Good.** \begin{equation}\label{eq:sum} s=a+b. \end{equation}
 
-**Example 3.** The draft uses this equation only as an intermediate step and never refers to it. The Good line suggests removing the number for the author.
+**Example 3.** The draft uses this equation only as an intermediate step and never refers to it. Good proposes removing its number; changing the protected display environment must be flagged.
 
 > **Bad.** \begin{equation} 2+3=5. \end{equation}
 >

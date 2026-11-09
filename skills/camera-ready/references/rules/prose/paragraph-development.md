@@ -10,25 +10,25 @@ Judge a paragraph by whether its sentences develop one point and connect to each
 
 ## Examples
 
-**Example 1.** In this example, a results paragraph reports a freezing test of six clay pots and six steel pots.
+**Example 1.** This is the opening of a results paragraph about a freezing test.
 
 > **Bad.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
 >
 > **Good.** Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
 
-**Example 2.**
+**Example 2.** Good keeps the opening question because it states what the experiment tests.
 
 > **Bad.** Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
 >
 > **Good.** Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
 
-**Example 3.** In this example, the symbol ¶ marks a paragraph break.
+**Example 3.** The symbol ¶ marks a paragraph break.
 
 > **Bad.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
 >
 > **Good.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
 
-**Example 4.** In this example, the symbol ¶ marks a paragraph break.
+**Example 4.** The symbol ¶ marks a paragraph break. Good keeps the contrasting outcomes together because they make one comparison under the same conditions.
 
 > **Bad.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
 >

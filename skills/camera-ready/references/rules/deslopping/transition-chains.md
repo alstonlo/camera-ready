@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** In the draft, these sentences open consecutive paragraphs about independent choices for the setup.
+**Example 1.** These sentences open consecutive paragraphs about independent setup choices.
 
 > **Bad.** Moreover, all participants use the same tablet. Additionally, each session lasts 20 minutes.
 >
 > **Good.** All participants use the same tablet. Each session lasts 20 minutes.
 
-**Example 2.** The draft lists the setup. "Moreover" only introduces another item. "Furthermore" adds a separate property that the protocol requires.
+**Example 2.** Good keeps "Furthermore" because it joins two requirements that must both be met; "Moreover" merely announces the next item in the setup.
 
 > **Bad.** Moreover, the tray is steel. Furthermore, its coating is inert. Both properties are required by the protocol.
 >

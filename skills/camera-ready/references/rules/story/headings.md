@@ -8,25 +8,25 @@ When headings under the same parent mix objects, operations, and findings, check
 
 ## Examples
 
-**Example 1.** The draft's user study covers only screen-reader navigation and has one subsection. Good is the heading to propose to the author.
+**Example 1.** The user study covers only screen-reader navigation. Good proposes removing the lone subsection heading because it adds no distinction.
 
 > **Bad.** 3 User study; 3.1 Screen-reader navigation
 >
 > **Good.** 3 User study of screen-reader navigation
 
-**Example 2.** The draft groups drying and weighing under a parent heading that names only drying. Good is the revision to propose to the author.
+**Example 2.**
 
 > **Bad.** 2 Drying; 2.1 Drying samples; 2.2 Weighing samples
 >
 > **Good.** 2 Sample preparation; 2.1 Drying samples; 2.2 Weighing samples
 
-**Example 3.** In the draft, two subsections under the same parent heading describe the operations of mixing and cooling.
+**Example 3.**
 
 > **Bad.** 2.1 Mixing the solution; 2.2 The solution is cooled
 >
 > **Good.** 2.1 Mixing the solution; 2.2 Cooling the solution
 
-**Example 4.** The draft reports that shade reduces water loss only in the tested ferns. Good is the heading to propose to the author.
+**Example 4.** The section supports the stated finding only for the tested ferns. Good proposes a finding as the heading while keeping that limit on the claim.
 
 > **Bad.** Water loss
 >

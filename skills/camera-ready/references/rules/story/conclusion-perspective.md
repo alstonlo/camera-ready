@@ -8,25 +8,25 @@ Distinguish a new question that the findings raise from a question that the stud
 
 ## Examples
 
-**Example 1.** A draft reports better speech recognition for one accent and asks whether the gain holds across accents. The Good version is a closing proposed to the author.
+**Example 1.** The draft already raises the question of whether the gain holds across accents. Good explains what further evaluation would establish without inventing a research plan.
 
 > **Bad.** Recognition improves for the tested accent. Future work will extend the evaluation.
 >
 > **Good.** Recognition improves for the tested accent. Evaluating other accents would establish whether this gain holds across accents.
 
-**Example 2.** A draft's abstract states only that the tested filter removes sand. Its discussion explains that dissolved salt remains, so the filter alone cannot make the water drinkable. The Good version is a conclusion proposed to the author.
+**Example 2.** Bad repeats the abstract's finding; the discussion already explains its consequence for drinking water. Good brings that implication into the conclusion.
 
 > **Bad.** The tested filter removes sand.
 >
 > **Good.** The tested filter removes sand. Dissolved salt remains, so the filter alone cannot make the water drinkable.
 
-**Example 3.** A draft promised to test a smoke sensor in rain, but it reports tests only in dry weather. The Good version is a conclusion proposed to the author.
+**Example 3.** The draft promised a test in rain but reports only dry-weather tests. Good identifies an unmet promise, which belongs among the study's limitations even if later work could address it.
 
 > **Bad.** The sensor detects smoke in dry weather. Whether it detects smoke in rain is a new question for future work.
 >
 > **Good.** The sensor detects smoke in dry weather. The promised test in rain remains incomplete.
 
-**Example 4.** A draft establishes that two insulation layers lower heat loss and that the outer layer sheds rain. The Good version is a connected restatement proposed to the author.
+**Example 4.** The draft attributes rain shedding to the outer layer. Good names that layer because "the latter" cannot identify one of two layers that have not been named separately.
 
 > **Bad.** Two insulation layers lower heat loss. The latter also sheds rain.
 >

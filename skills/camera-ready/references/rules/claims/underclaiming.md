@@ -10,19 +10,19 @@ A dataset, instrument, protocol, software tool, or other resource or artifact ca
 
 ## Examples
 
-**Example 1.** The draft lists the passage below as a contribution. Section 4 reports that thicker wool samples retained more heat in the tests.
+**Example 1.** The draft lists this as a contribution. Section 4 reports that thicker wool samples retained more heat in the tests.
 
 > **Bad.** We investigate whether thicker wool samples retain more heat in the tests (Section 4).
 >
 > **Good.** We find that thicker wool samples retain more heat in the tests (Section 4).
 
-**Example 2.** The draft reports direct measurements of a 2 cm gap in every tested panel.
+**Example 2.** The gap was directly measured in every tested panel.
 
 > **Bad.** We may have found a 2 cm gap in every tested panel.
 >
 > **Good.** We found a 2 cm gap in every tested panel.
 
-**Example 3.** In Section 3, the draft presents a catalog of 200 labeled leaf images as a contribution.
+**Example 3.** Section 3 documents the catalog as a contribution. Good names the resource the authors produced, which is a contribution even without a performance gain.
 
 > **Bad.** We explore leaf images (Section 3).
 >

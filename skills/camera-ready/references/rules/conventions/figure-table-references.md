@@ -8,7 +8,7 @@ Write `Figure~\ref{...}` with a non-breaking space between "Figure" and the refe
 
 ## Examples
 
-**Example 1.** The draft identifies the lower plot as Figure 4(b).
+**Example 1.** The draft identifies the plot as Figure 4(b). The numbered reference remains usable if the figure moves during typesetting.
 
 > **Bad.** The water level falls during summer, as shown in the plot below.
 >
@@ -20,7 +20,7 @@ Write `Figure~\ref{...}` with a non-breaking space between "Figure" and the refe
 >
 > **Good.** Water loss increases with temperature (Figure 2).
 
-**Example 3.** The draft reports a water level of 5.2 cm, which readers cannot determine from the plot alone.
+**Example 3.** The draft gives the exact level, but the plot is too coarse to show how far it exceeds the limit.
 
 > **Bad.** The water level exceeds the 5 cm limit (Figure 4).
 >

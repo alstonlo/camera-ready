@@ -8,13 +8,13 @@ Check that the opening describes the same problem, at the same scope, as the res
 
 ## Examples
 
-**Example 1.** In this draft, readers need a definition of "ice lens" to understand the problem.
+**Example 1.** Good keeps the definition before the problem because readers need it to understand how ice lenses damage the road.
 
 > **Bad.** An ice lens is a layer of ice within soil. Soil science is a growing field. Ice lenses lift the tested road surface during freezing.
 >
 > **Good.** An ice lens is a layer of ice within soil. Ice lenses lift the tested road surface during freezing.
 
-**Example 2.** The draft clearly limits its study to leaks in household water pipes, not all water lost in cities. The editor proposes the narrower opening to the author.
+**Example 2.** The draft studies only leaks in household water pipes.
 
 > **Bad.** Urban water loss is difficult to prevent.
 >
