@@ -1,6 +1,6 @@
 # Develop one point per paragraph
 
-Develop one point per paragraph, and state it as a specific claim in the first sentence instead of [announcing](signposts.md) the topic. Allow brief setup only when readers cannot understand the claim without context: give at most one sentence of context from the draft, then state the claim. A results paragraph may open with the specific question it tests if the next sentence answers it, followed by the evidence. A descriptive or procedural paragraph may open with its first fact or step. Keep both sides of a comparison in one paragraph when they support one point. Split a paragraph where its point changes, and merge short paragraphs only when they develop the same point.
+State the point as a specific claim in the first sentence instead of [announcing](signposts.md) the topic. Allow brief setup only when readers cannot understand the claim without context: give at most one sentence of context from the draft, then state the claim. A results paragraph may open with the specific question it tests if the next sentence answers it, followed by the evidence. A descriptive or procedural paragraph may open with its first fact or step. Keep both sides of a comparison in one paragraph when they support one point. Split a paragraph where its point changes, and merge short paragraphs only when they develop the same point.
 
 ## Details
 

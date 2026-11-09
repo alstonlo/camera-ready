@@ -1,6 +1,6 @@
 # Delete conversational replies left by a chatbot
 
-Delete conversational phrases left by an AI assistant, such as "Certainly!", except in analyzed text (see Details).
+For example, delete "Certainly!" except in analyzed text (see Details).
 
 ## Details
 

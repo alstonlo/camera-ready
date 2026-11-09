@@ -1,6 +1,6 @@
 # Revise rule-of-three lists written for rhythm
 
-Revise a three-part list such as "faster, cheaper, and more robust" when written for rhythm rather than to state three distinct, supported items. Remove empty or redundant words, and flag unsupported attributes. Never drop a substantive item just to change the count. Keep three items when the subject requires them.
+A list such as "faster, cheaper, and more robust" must state three distinct, supported items. Remove empty or redundant words, and flag unsupported attributes. Never drop a substantive item just to change the count. Keep three items when the subject requires them.
 
 ## Details
 

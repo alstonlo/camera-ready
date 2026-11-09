@@ -1,6 +1,6 @@
 # Set off non-restrictive clauses with commas
 
-Put commas around a non-restrictive clause, which adds information without restricting the noun. Do not add commas to a restrictive clause just because it starts with "which". Change restrictive "which" to "that" only when the venue requires it. Do not place commas around a symbol naming the preceding noun ("a directed graph G with source s").
+A non-restrictive clause adds information without restricting the noun. Do not add commas to a restrictive clause just because it starts with "which". Change restrictive "which" to "that" only when the venue requires it. Do not place commas around a symbol naming the preceding noun ("a directed graph G with source s").
 
 ## Details
 

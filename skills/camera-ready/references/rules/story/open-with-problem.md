@@ -1,6 +1,6 @@
 # Open with the problem
 
-Open by naming the problem the paper addresses. If readers need context first, apply the [brief-setup rule](../prose/paragraph-development.md). Delete any [generic opening](../deslopping/generic-openings-closings.md). If the draft never says why the problem matters, flag the missing motivation instead of inventing an example. For a mismatched opening, see Details.
+If readers need context first, apply the [brief-setup rule](../prose/paragraph-development.md). Delete any [generic opening](../deslopping/generic-openings-closings.md). If the draft never says why the problem matters, flag the missing motivation instead of inventing an example. For a mismatched opening, see Details.
 
 ## Details
 

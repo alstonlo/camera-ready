@@ -1,6 +1,6 @@
 # Use connecting words only for relations the draft supports
 
-Use a connecting word such as "therefore" or "however" only for a relation the draft supports. Replace "as", "since", or "while" when it leaves time, cause, or contrast ambiguous. Use "conversely" only when the second statement reverses the first. Remove a redundant connecting word, but keep one that readers need. Flag "therefore" if the preceding statements do not support the conclusion. Follow the [causal-evidence rule](../claims/causal-language.md) for causal words.
+Examples of connecting words include "therefore" and "however". Replace "as", "since", or "while" when it leaves time, cause, or contrast ambiguous. Use "conversely" only when the second statement reverses the first. Remove a redundant connecting word, but keep one that readers need. Flag "therefore" if the preceding statements do not support the conclusion. Follow the [causal-evidence rule](../claims/causal-language.md) for causal words.
 
 ## Details
 

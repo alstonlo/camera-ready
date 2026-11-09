@@ -1,6 +1,6 @@
 # Choose a headline number for each claim
 
-Choose a headline number for each claim, not an unrepresentative best case. Keep its baseline and any interval or range needed to interpret it. Describe the pattern the results support, including where it fails. Refer to an existing table for the remaining values. Remove numbers that repeat the table only if the text keeps the comparison, [uncertainty](../claims/variability.md), and [statistical conclusion](../claims/statistical-significance.md).
+Avoid an unrepresentative best case. Keep the headline number's baseline and any interval or range needed to interpret it. Describe the pattern the results support, including where it fails. Refer to an existing table for the remaining values. Remove numbers that repeat the table only if the text keeps the comparison, [uncertainty](../claims/variability.md), and [statistical conclusion](../claims/statistical-significance.md).
 
 ## Details
 

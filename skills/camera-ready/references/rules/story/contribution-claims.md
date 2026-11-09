@@ -1,6 +1,6 @@
 # State each contribution as a claim and name its supporting section
 
-For each contribution, state a checkable claim and name its supporting section. If a contribution states only an activity, replace it with a claim under the [underclaiming rule](../claims/underclaiming.md) and match its strength to the evidence with the [verb ladder](../claims/verb-ladder.md). Flag contributions without evidence. Keep a major result that supports no contribution, and apply the [spine test](../cutting/spine-test.md) to it (see Details). When contributions name their sections, delete any roadmap that states no content under the [signpost rule](../prose/signposts.md).
+Each claim must be checkable. If a contribution states only an activity, replace it with a claim under the [underclaiming rule](../claims/underclaiming.md) and match its strength to the evidence with the [verb ladder](../claims/verb-ladder.md). Flag contributions without evidence. Keep a major result that supports no contribution, and apply the [spine test](../cutting/spine-test.md) to it (see Details). When contributions name their sections, delete any roadmap that states no content under the [signpost rule](../prose/signposts.md).
 
 ## Details
 

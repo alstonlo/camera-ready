@@ -1,6 +1,6 @@
 # Replace narration of the thinking process with conclusions and evidence
 
-Replace narration of the thinking process, such as "Let us think step by step", with the conclusion and evidence. Keep mathematical setup, proof steps, and substantive reasoning (see Details).
+An example of thinking-process narration is "Let us think step by step". Keep mathematical setup, proof steps, and substantive reasoning (see Details).
 
 ## Details
 

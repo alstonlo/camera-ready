@@ -1,6 +1,6 @@
 # State supported contributions without underclaiming
 
-State supported contributions directly, without unneeded hedges (see Details). Each item in a list of contributions should state a claim that readers can check and cite its supporting section or result when the draft provides one. If an item says only what the authors *study*, *explore*, or *investigate*, replace it with the finding from the corresponding section, or flag the missing finding.
+Remove unneeded hedges (see Details). Each item in a list of contributions should state a claim that readers can check and cite its supporting section or result when the draft provides one. If an item says only what the authors *study*, *explore*, or *investigate*, replace it with the finding from the corresponding section, or flag the missing finding.
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Put important new information in the stress position
 
-Put important new information in the stress position, the end of a sentence or independent clause. If a qualifier such as "in these tests" follows the main point, move the qualifier to the front instead of deleting it. If several important items share one ending, split the sentence so that each gets its own ending. Check whether a paragraph's first sentence ends with the topic that the paragraph develops. When joining or subordinating clauses, keep the relative emphasis of findings and qualifications. Move an essential qualification out of parentheses if they make it look optional. Keep each scope condition with the claim it limits. Follow [pause punctuation](../deslopping/pause-punctuation.md) when using colons or semicolons.
+The stress position is the end of a sentence or independent clause. If a qualifier such as "in these tests" follows the main point, move the qualifier to the front instead of deleting it. If several important items share one ending, split the sentence so that each gets its own ending. Check whether a paragraph's first sentence ends with the topic that the paragraph develops. When joining or subordinating clauses, keep the relative emphasis of findings and qualifications. Move an essential qualification out of parentheses if they make it look optional. Keep each scope condition with the claim it limits. Follow [pause punctuation](../deslopping/pause-punctuation.md) when using colons or semicolons.
 
 ## Details
 

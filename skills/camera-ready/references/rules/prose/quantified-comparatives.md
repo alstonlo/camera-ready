@@ -1,6 +1,6 @@
 # Replace vague comparisons with measurements
 
-Replace a vague comparative such as "more" or "faster" with the reported measurement, and name what it is compared with. Lead with the [headline number](../story/headline-number.md), describe the overall pattern, and refer to the table for remaining values. A label such as "large" needs a stated comparison or threshold and cannot replace the measurement. Do not calculate unreported ratios (see Details).
+For comparatives such as "more" or "faster", use the reported measurement and name what it is compared with. Lead with the [headline number](../story/headline-number.md), describe the overall pattern, and refer to the table for remaining values. A label such as "large" needs a stated comparison or threshold and cannot replace the measurement. Do not calculate unreported ratios (see Details).
 
 ## Details
 

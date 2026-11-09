@@ -1,6 +1,6 @@
 # Number referenced and central displays
 
-Number every display that the text refers to and every central display; leave intermediate steps unnumbered. See Details.
+Leave intermediate steps unnumbered. See Details.
 
 ## Details
 

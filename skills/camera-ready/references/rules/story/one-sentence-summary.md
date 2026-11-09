@@ -1,6 +1,6 @@
 # Summarize the argument in one sentence
 
-Combine the five-line summary into one sentence: "Because the problem matters and existing work leaves a gap, we propose an idea that our result supports." If it names no gap, flag the missing problem. If it requires unrelated problems, flag competing focuses without choosing one or inventing a link.
+Use the five-line summary as the basis: "Because the problem matters and existing work leaves a gap, we propose an idea that our result supports." If it names no gap, flag the missing problem. If it requires unrelated problems, flag competing focuses without choosing one or inventing a link.
 
 ## Details
 

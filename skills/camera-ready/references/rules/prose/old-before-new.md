@@ -1,6 +1,6 @@
 # Put old information before new
 
-Open each sentence with old information: a term from the preceding text, or a part, property, or alternative that readers can infer from it. A concept known in the field is not old information until the text introduces it. Among several old items, open with the one that the sentence discusses, or the most recent one if they are equally relevant. When changing voice or clause order, keep the paragraph's topic as the main subject. Keep useful passives under [alternative sentence orders](passives-fronting-inversions.md).
+At the start of each sentence, use a term from the preceding text, or a part, property, or alternative that readers can infer from it. A concept known in the field is not old information until the text introduces it. Among several old items, open with the one that the sentence discusses, or the most recent one if they are equally relevant. When changing voice or clause order, keep the paragraph's topic as the main subject. Keep useful passives under [alternative sentence orders](passives-fronting-inversions.md).
 
 ## Details
 

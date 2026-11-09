@@ -1,6 +1,6 @@
 # Remove or flag unsupported labels on empirical claims
 
-On empirical claims, remove or flag labels such as *solves*, *optimal*, *guarantees*, and *first to* unless the draft's evidence supports the full claim. Reserve *proves* for theorems, as the [verb ladder](verb-ladder.md) requires. Flag unsupported superlatives, and flag any *state-of-the-art*, *record*, or *human-level* claim that omits the task or quantity, the compared methods or results, or the metric. Remove *novel* when it adds only praise. Beyond removing a label, rewrite the claim only when the draft's evidence determines its [scope](scope.md); otherwise, flag it. For uniqueness claims, see Details.
+Labels such as *solves*, *optimal*, *guarantees*, and *first to* require evidence supporting the full empirical claim. Reserve *proves* for theorems, as the [verb ladder](verb-ladder.md) requires. Flag unsupported superlatives, and flag any *state-of-the-art*, *record*, or *human-level* claim that omits the task or quantity, the compared methods or results, or the metric. Remove *novel* when it adds only praise. Beyond removing a label, rewrite the claim only when the draft's evidence determines its [scope](scope.md); otherwise, flag it. For uniqueness claims, see Details.
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Apply the spine test before cutting sentences
 
-To apply the spine test, state the core claims in one to three sentences and summarize each paragraph's role in one line. Classify each paragraph as **central**, **supporting**, **ancillary**, or **off-spine** (see Details). Treat a paragraph that contains counterevidence or other [protected content](protected-sentences.md) as supporting if it is not central. If no short, specific title summarizes a section, flag its competing points before cutting. When [the request](idea-cuts.md) permits cutting, cut or relocate off-spine paragraphs, shorten ancillary ones, and then edit [sentence by sentence](sentence-dependencies.md). Keep a cut only if the argument remains at least as clear.
+State the core claims in one to three sentences and summarize each paragraph's role in one line. Classify each paragraph as **central**, **supporting**, **ancillary**, or **off-spine** (see Details). Treat a paragraph that contains counterevidence or other [protected content](protected-sentences.md) as supporting if it is not central. If no short, specific title summarizes a section, flag its competing points before cutting. When [the request](idea-cuts.md) permits cutting, cut or relocate off-spine paragraphs, shorten ancillary ones, and then edit [sentence by sentence](sentence-dependencies.md). Keep a cut only if the argument remains at least as clear.
 
 ## Details
 

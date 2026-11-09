@@ -1,6 +1,6 @@
 # Give parallel ideas the same grammatical form without changing their meaning
 
-Give ideas with the same logical role the same grammatical form, without renaming unlike objects or dropping conditions merely to force symmetry. When "and" or "or" joins items and it is unclear which modifiers and verbs apply to each item, repeat words or split the sentence (see Details). Compare things of the same kind, restoring an omitted quantity or verb when needed. When joining items as equals hides a causal or qualifying relation, state the relation the draft supports. Keep clear natural variation, and follow [list structure](list-structure.md).
+Ideas are parallel when they have the same logical role; do not rename unlike objects or drop conditions merely to force symmetry. When "and" or "or" joins items and it is unclear which modifiers and verbs apply to each item, repeat words or split the sentence (see Details). Compare things of the same kind, restoring an omitted quantity or verb when needed. When joining items as equals hides a causal or qualifying relation, state the relation the draft supports. Keep clear natural variation, and follow [list structure](list-structure.md).
 
 ## Details
 

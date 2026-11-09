@@ -1,6 +1,6 @@
 # Protect sentences the argument depends on
 
-Preserve the material below, moving it only when the [sentence-by-sentence steps](sentence-dependencies.md) allow:
+Move the material listed below only when the [sentence-by-sentence steps](sentence-dependencies.md) allow:
 
 - Keep hedges, qualifiers, scope conditions, limitations, supporting evidence, and counterevidence. Cut a repeated limitation only when the triage order reaches it and a full statement remains elsewhere. Because removing a caveat changes a [claim's scope](../claims/scope.md), [recalibrate the claim](post-cut-check.md) after an authorized cut only as remaining evidence requires.
 - Keep the reasons for choices in the method and the details needed to reproduce the work (see Details).

@@ -1,6 +1,6 @@
 # State the claim before the number
 
-State the finding in words before its supporting number, and refer to the table for the remaining values. Check which claim each number supports. Flag any number without an identifiable claim. Move it only if the request allows relocation and a suitable place exists. When a table gives a number, remove it from the text only under the [headline-number rule](headline-number.md), keeping needed comparisons and uncertainty.
+Express the finding in words, and refer to the table for the remaining values. Check which claim each number supports. Flag any number without an identifiable claim. Move it only if the request allows relocation and a suitable place exists. When a table gives a number, remove it from the text only under the [headline-number rule](headline-number.md), keeping needed comparisons and uncertainty.
 
 ## Details
 

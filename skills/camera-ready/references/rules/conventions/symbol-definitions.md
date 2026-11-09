@@ -1,6 +1,6 @@
 # Define each symbol by its first use and give it one meaning
 
-Define every symbol, at least informally, at or before its first use, and [refresh the definition after a gap](shorthand-reminders.md). Give each symbol one meaning and each object one symbol. Flag conflicting meanings, unused definitions, easily confused symbols, dense notation, and functions equated with values; do not rename symbols yourself. Keep local definitions near the passages that use them. When definitions of symbols used throughout the paper are scattered, move them into an existing notation section only if the request [allows relocation](../cutting/idea-cuts.md); otherwise, flag them. Never create a new notation section. See Details for notation improvements and distinguishing functions from values.
+An informal definition suffices at first use; [refresh the definition after a gap](shorthand-reminders.md). Give each object one symbol. Flag conflicting meanings, unused definitions, easily confused symbols, dense notation, and functions equated with values; do not rename symbols yourself. Keep local definitions near the passages that use them. When definitions of symbols used throughout the paper are scattered, move them into an existing notation section only if the request [allows relocation](../cutting/idea-cuts.md); otherwise, flag them. Never create a new notation section. See Details for notation improvements and distinguishing functions from values.
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Name the measured quantity instead of an umbrella noun
 
-Replace an umbrella noun such as "performance" or "quality" with the specific measured quantity, such as accuracy, yield, sensitivity, or energy use. Keep a defined collective label when the statement applies to all quantities it covers.
+For example, replace "performance" or "quality" with accuracy, yield, sensitivity, or energy use. Keep a defined collective label when the statement applies to all quantities it covers.
 
 ## Details
 

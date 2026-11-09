@@ -1,6 +1,6 @@
 # Use lists when readers need separate items
 
-Use a list for items readers must distinguish or follow one by one. If bullets make an argument but hide reasons or connections between claims, rewrite them as connected prose. Remove item numbers that imply an unsupported order or ranking, unless the text refers to them. Flag any change to a list of contributions or objectives instead of making it.
+Readers need separate items when they must distinguish the items or follow them one by one. If bullets make an argument but hide reasons or connections between claims, rewrite them as connected prose. Remove item numbers that imply an unsupported order or ranking, unless the text refers to them. Flag any change to a list of contributions or objectives instead of making it.
 
 ## Details
 

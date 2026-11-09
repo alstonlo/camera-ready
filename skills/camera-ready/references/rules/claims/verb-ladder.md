@@ -1,6 +1,6 @@
 # Choose a reporting verb from the verb ladder
 
-Choose each reporting verb from the verb ladder to match the evidence, regardless of enthusiasm for the result.
+Match the verb to the evidence, regardless of enthusiasm for the result.
 
 | Verb | Required support |
 |---|---|

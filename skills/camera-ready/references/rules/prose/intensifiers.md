@@ -1,6 +1,6 @@
 # Cut words that add only emphasis
 
-Cut words that add only emphasis, such as "very" and "extremely", or replace them with a [measurement](quantified-comparatives.md) from the draft. Treat "essentially" and "largely" as [softeners](../claims/hedges.md); preserve their scope or uncertainty unless the draft supplies a precise replacement. Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a proof step routine for readers outside the subfield. Remove them from empirical claims, and flag any unexplained nonroutine step.
+Examples include "very" and "extremely"; a [measurement](quantified-comparatives.md) from the draft may replace them. Treat "essentially" and "largely" as [softeners](../claims/hedges.md); preserve their scope or uncertainty unless the draft supplies a precise replacement. Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a proof step routine for readers outside the subfield. Remove them from empirical claims, and flag any unexplained nonroutine step.
 
 ## Details
 

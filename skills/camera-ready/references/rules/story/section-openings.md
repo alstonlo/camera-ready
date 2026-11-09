@@ -1,6 +1,6 @@
 # Open every section with its question and answer
 
-State each section's question and finding in its first paragraph, using only content from that section. Openings that only name the topic are [signposts](../prose/signposts.md).
+State both in the section's first paragraph, using only content from that section. Openings that only name the topic are [signposts](../prose/signposts.md).
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Apply prose rules to ornate words, actions written as nouns, counts, and lists
 
-Apply the prose rules to [ornate words](../prose/literal-wording.md) such as "delve", "underscore", "showcase", and "pivotal", clauses that [express several actions as nouns](../prose/character-action.md), [deferred counts](../prose/direct-content.md), and bulleted arguments under [list structure](../prose/list-structure.md). Follow each linked page's exceptions. Keep precise technical terms, useful actions written as nouns, and counts whose items follow immediately.
+Use [literal wording](../prose/literal-wording.md) for ornate words such as "delve", "underscore", "showcase", and "pivotal", [character and action](../prose/character-action.md) for clauses that express several actions as nouns, [direct content](../prose/direct-content.md) for deferred counts, and [list structure](../prose/list-structure.md) for bulleted arguments. Follow each linked page's exceptions. Keep precise technical terms, useful actions written as nouns, and counts whose items follow immediately.
 
 ## Details
 

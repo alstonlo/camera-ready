@@ -1,6 +1,6 @@
 # Cite each figure and table in the sentence that states its finding
 
-Cite each figure or table where its claim is stated, replacing announcements like "In Figure 6 we show the results". Point to the specific panel or comparison that the draft identifies, using numbered references instead of relative pointers such as "below". When a claim requires an exact value readers can only estimate from a plot, state the draft's value or flag the missing number. Flag unresolved citation or reference markers like "??". For LaTeX commands, capitalization, and float placement, see Details.
+Replace announcements like "In Figure 6 we show the results" with the finding and its figure or table reference. Point to the specific panel or comparison that the draft identifies, using numbered references instead of relative pointers such as "below". When a claim requires an exact value readers can only estimate from a plot, state the draft's value or flag the missing number. Flag unresolved citation or reference markers like "??". For LaTeX commands, capitalization, and float placement, see Details.
 
 ## Details
 

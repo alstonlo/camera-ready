@@ -1,6 +1,6 @@
 # Replace negative parallelism with the positive claim
 
-Replace negative parallelism, such as "not only … but also", "It is not just X, it is Y", or paired sentences ("The headline is not X. The real story is Y"), with the positive claim when the rejected alternative was invented for emphasis. State supported results and measurements directly. Keep contrasts that exclude real alternatives ("we measure X, not Y").
+Replace the contrast only when the rejected alternative was invented for emphasis, as in "not only … but also", "It is not just X, it is Y", or paired sentences ("The headline is not X. The real story is Y"). State supported results and measurements directly. Keep contrasts that exclude real alternatives ("we measure X, not Y").
 
 ## Details
 

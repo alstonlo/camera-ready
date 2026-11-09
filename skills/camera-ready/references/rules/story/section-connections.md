@@ -1,6 +1,6 @@
 # Connect each section to the preceding text
 
-Connect each section's question to the preceding text, following [old before new](../prose/old-before-new.md). Make the introduction understandable without the abstract. Keep short reminders for readers who start at Results, Discussion, or Conclusion. Open a methods section with the key idea before the steps. Put an existing [explanatory example](../prose/definitions-procedures.md) before the general case.
+Follow [old before new](../prose/old-before-new.md) when introducing each section's question. Make the introduction understandable without the abstract. Keep short reminders for readers who start at Results, Discussion, or Conclusion. Open a methods section with the key idea before the steps. Put an existing [explanatory example](../prose/definitions-procedures.md) before the general case.
 
 ## Details
 

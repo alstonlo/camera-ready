@@ -1,6 +1,6 @@
 # Recheck claims, the argument, and references after cutting
 
-After cutting, check that each remaining claim keeps its evidence, scope, and hedges under the [verb ladder](../claims/verb-ladder.md). If you moved supporting evidence, refer precisely to its new location. Weaken a claim only when the remaining evidence supports less, not merely because the evidence moved. Reread the problem, gap, approach, findings, and implications, and restore any reasoning steps the cut removed. Finally, repair references to cut text or nonexistent appendix sections, cite every remaining figure and table, and define each term before its first use.
+Each remaining claim must keep its evidence, scope, and hedges under the [verb ladder](../claims/verb-ladder.md). If you moved supporting evidence, refer precisely to its new location. Weaken a claim only when the remaining evidence supports less, not merely because the evidence moved. Reread the problem, gap, approach, findings, and implications, and restore any reasoning steps the cut removed. Finally, repair references to cut text or nonexistent appendix sections, cite every remaining figure and table, and define each term before its first use.
 
 ## Details
 

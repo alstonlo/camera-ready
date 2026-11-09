@@ -1,6 +1,6 @@
 # Finish one topic before starting another
 
-Finish discussing one topic before starting another, and repair any unexplained return to an earlier topic. In a comparison organized by named properties, each property can be the topic; keep that structure instead of regrouping the text by method (see Details). Reorder sentences and paragraphs within a section when needed, but flag changes to section order.
+Repair any unexplained return to an earlier topic. In a comparison organized by named properties, each property can be the topic; keep that structure instead of regrouping the text by method (see Details). Reorder sentences and paragraphs within a section when needed, but flag changes to section order.
 
 ## Details
 

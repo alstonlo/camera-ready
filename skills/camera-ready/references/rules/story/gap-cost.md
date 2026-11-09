@@ -1,6 +1,6 @@
 # State the gap's cost
 
-State the specific gap in what is known or can be done, and state its cost: what readers lose, pay, cannot do, or cannot understand because of it. Replace "little is known" with the specific unknown when the draft supplies it. Flag a missing gap or cost. If stating the gap requires rewriting the objectives or contributions, flag the proposed rewrite instead of making it. Do not invent a flaw in prior work or a hypothesis to serve as the cost (see Details). Distinguish established consequences from [speculative applications](../claims/speculation.md).
+State the specific gap in what is known or can be done. The cost is what readers lose, pay, cannot do, or cannot understand because of that gap. Replace "little is known" with the specific unknown when the draft supplies it. Flag a missing gap or cost. If stating the gap requires rewriting the objectives or contributions, flag the proposed rewrite instead of making it. Do not invent a flaw in prior work or a hypothesis to serve as the cost (see Details). Distinguish established consequences from [speculative applications](../claims/speculation.md).
 
 ## Details
 

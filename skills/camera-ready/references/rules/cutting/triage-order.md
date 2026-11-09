@@ -1,6 +1,6 @@
 # Follow the triage order to meet a length limit
 
-To meet a length limit, cut material in this triage order, preserving [protected content](protected-sentences.md) and following [relocation safeguards](sentence-dependencies.md):
+Preserve [protected content](protected-sentences.md) and follow [relocation safeguards](sentence-dependencies.md) when cutting material in the following order:
 
 1. **Repeated points.** Cut points repeated across the introduction, section openings, and conclusion, keeping the most informative statement (usually the one that explains the point). Preserve one statement of each contribution in each of the abstract, introduction, and conclusion, along with [shorthand reminders](../conventions/shorthand-reminders.md). Keep a closing restatement when readers need the intervening explanation to understand the opening claim. If a restatement copies another passage word for word, as when a conclusion repeats the abstract, revise it to state established results or flag it. Apply the [deletion test](../prose/deletion-test.md).
 2. **Remaining signposts.** Cut signposts left after removing empty wording, including the introduction's closing [roadmap](../prose/signposts.md). Keep references to evidence and proofs.

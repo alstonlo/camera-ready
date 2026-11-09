@@ -1,6 +1,6 @@
 # Use one term per concept
 
-Use one term for each concept throughout the text, including captions and figure labels. Do not alternate terms such as "device", "sensor", and "system" for variety. When the draft uses multiple names for one concept, replace them with one term. Keep different names only when they mark distinct concepts, such as different types, scopes, or measured quantities. In the same or the next sentence, a clear pronoun ("it") or bare demonstrative ("this") may refer back to the term. Flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. For parallel cases and category nouns, see Details.
+Keep the term the same throughout the text, including captions and figure labels. Do not alternate terms such as "device", "sensor", and "system" for variety. Keep different names only when they mark distinct concepts, such as different types, scopes, or measured quantities. In the same or the next sentence, a clear pronoun ("it") or bare demonstrative ("this") may refer back to the term. Flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. For parallel cases and category nouns, see Details.
 
 ## Details
 

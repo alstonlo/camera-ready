@@ -1,6 +1,6 @@
 # Spell out small counts and use numerals for measurements
 
-In prose, spell out a small count before a noun ("two passes"). Use numerals for measurements, quantities with units, mathematical values, numbered names ("Experiment 4"), and parameter settings ("3 cycles"). Follow the venue cutoff if one exists, otherwise the draft's consistent cutoff. Match forms when comparing quantities ("1.5M and 0.2M"); flag any edit that requires rounding or unit conversion.
+For example, write "two passes" in prose. Use numerals for measurements, quantities with units, mathematical values, numbered names ("Experiment 4"), and parameter settings ("3 cycles"). Follow the venue cutoff if one exists, otherwise the draft's consistent cutoff. Match forms when comparing quantities ("1.5M and 0.2M"); flag any edit that requires rounding or unit conversion.
 
 ## Details
 

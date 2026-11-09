@@ -1,6 +1,6 @@
 # Summarize the argument in five lines
 
-Before editing, summarize the draft in five lines: the problem, the gap and its cost, the idea, the evidence, and the implication. Combine the idea and evidence lines into the core claims for the [spine test](../cutting/spine-test.md). Flag any part that the draft omits.
+Before editing, write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication. Combine the idea and evidence lines into the core claims for the [spine test](../cutting/spine-test.md). Flag any part that the draft omits.
 
 ## Details
 

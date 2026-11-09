@@ -1,6 +1,6 @@
 # Name the cited source when an attribution is vague
 
-Replace vague attributions such as "studies show", "experts believe", or "X has been shown to" with the named source only when the draft cites a source for that claim; otherwise, flag the missing attribution. An explicitly hypothetical objection that the paper poses and answers needs no citation to identify an objector (see Details). Follow the [prior-work rules](../story/prior-work-comparisons.md) to make clear who holds each position.
+For attributions such as "studies show", "experts believe", or "X has been shown to", name a source only when the draft cites one for that claim; otherwise, flag the missing attribution. An explicitly hypothetical objection that the paper poses and answers needs no citation to identify an objector (see Details). Follow the [prior-work rules](../story/prior-work-comparisons.md) to make clear who holds each position.
 
 ## Details
 

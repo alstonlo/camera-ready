@@ -1,6 +1,6 @@
 # Remove stray citation codes and placeholders, and flag missing information
 
-Remove chat citation codes, such as `citeturn0search0` and `contentReference[oaicite:...]`, and unfilled placeholders, such as "[Insert citation]". Keep the surrounding claim and flag the missing information. For URLs with `utm_source=chatgpt.com`, leave the URL unchanged and flag the parameter for removal.
+Chat citation codes include `citeturn0search0` and `contentReference[oaicite:...]`; an unfilled placeholder may read "[Insert citation]". Keep the surrounding claim and flag the missing information. For URLs with `utm_source=chatgpt.com`, leave the URL unchanged and flag the parameter for removal.
 
 ## Details
 

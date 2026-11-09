@@ -1,6 +1,6 @@
 # Cut or relocate ideas only on request
 
-Delete or relocate substantive content only when the author asks to condense the text or sets a length limit. Otherwise, keep it and flag it for cutting or relocation. Substantive content is anything the author would miss: ideas, results, caveats, evidence, examples, reasons, and necessary transitions. A request to polish or tighten authorizes removing empty wording, not idea-level cuts. Reordering material within a section to [build understanding](../prose/explanation-order.md) is a prose edit; moving material between sections or out of the main text is relocation.
+The author must ask to condense the text or set a length limit. Otherwise, keep substantive content and flag it for cutting or relocation. Substantive content is anything the author would miss: ideas, results, caveats, evidence, examples, reasons, and necessary transitions. A request to polish or tighten authorizes removing empty wording, not idea-level cuts. Reordering material within a section to [build understanding](../prose/explanation-order.md) is a prose edit; moving material between sections or out of the main text is relocation.
 
 ## Details
 
