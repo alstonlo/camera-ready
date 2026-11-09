@@ -1,6 +1,6 @@
-# Replace writerly asides with literal claims and reasons
+# State claims and reasons in complete, literal sentences
 
-Replace conversational idioms such as "Call it a wash" and clipped editorial instructions with complete literal statements of the claim and its reason. Use only reasons the draft supplies; flag a missing explanation rather than adding one. Keep a deliberately short sentence when it is complete and literal. Preserve the author's supported stance under [author voice](../deslopping/author-voice.md).
+Replace conversational idioms such as "Call it a wash" and editorial commands with complete, literal statements of the claim and its reason. Use only reasons the draft supplies; flag a missing reason. Keep a deliberately short sentence when it is complete and literal. Preserve the author's supported stance under [author voice](../deslopping/author-voice.md).
 
 ## Details
 

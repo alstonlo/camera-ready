@@ -1,6 +1,6 @@
-# Name both sides of a false concession
+# Make both sides of a false concession specific
 
-When a concession such as "While X has advanced, Y remains a challenge" makes no concrete comparison, replace each vague side with the specific finding reported in the draft, and flag any side that the draft leaves unspecified. Keep concessions in which both sides are specific and supported.
+When a concession such as "While X has advanced, Y remains a challenge" makes no concrete comparison, replace each vague side with the draft's specific finding. Flag any side the draft leaves unspecified. Keep concessions in which both sides are specific and supported.
 
 ## Details
 
@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-> **Context.** The draft reports elsewhere that the glue holds on wood but does not hold on glass.
+> **Context.** Elsewhere, the draft reports that the glue holds on wood but fails on glass.
 >
 > **Bad.** Although the glue has improved, it does not hold on glass.
 >
@@ -20,13 +20,13 @@ This rule has no further details.
 >
 > **Good.** Although the glue holds on wood, it fails on glass.
 
-> **Context.** The draft reports both that the glue holds on wood and that it fails on glass.
+> **Context.** The draft reports that the glue holds on wood but fails on glass.
 >
 > **Bad.** Although progress is substantial, problems persist.
 >
 > **Good.** Although the glue holds on wood, it fails on glass.
 
-> **Context.** The second sentence repeats the first in generic terms and adds no new finding; the draft supports both findings that the first sentence states.
+> **Context.** The draft supports both findings in the first sentence. The second sentence repeats them vaguely and adds no finding.
 >
 > **Bad.** Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
 >

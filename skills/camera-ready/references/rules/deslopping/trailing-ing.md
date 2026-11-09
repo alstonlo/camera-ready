@@ -1,6 +1,6 @@
-# Delete or replace trailing "-ing" pseudo-analysis
+# Delete or replace empty commentary in trailing "-ing" phrases
 
-Delete trailing participial commentary such as "highlighting its importance" or "reflecting broader trends" when it adds no checkable claim, or replace it with a specific claim the draft supports. Keep substantive participial clauses, and clarify them under the [first-reading rule](../prose/first-reading.md) when their attachment or meaning is ambiguous.
+Delete trailing "-ing" phrases, such as "highlighting its importance" or "reflecting broader trends", that add no checkable claim, or replace them with specific claims the draft supports. Keep substantive phrases, but clarify their attachment or meaning under the [first-reading rule](../prose/first-reading.md) when ambiguous.
 
 ## Details
 

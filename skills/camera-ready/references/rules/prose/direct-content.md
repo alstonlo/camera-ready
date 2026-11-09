@@ -1,6 +1,6 @@
 # State the content directly
 
-Replace promises of deferred content and generic apologies about complexity with the content the draft supplies; flag missing content. Delete a trailing promise such as "and we discuss each below" when the content is already present. Keep a summary sentence that states the high-level idea, and keep a count whose items follow immediately ("We make four observations. First, ..."). Keep sentences that state a real dispute, an unresolved definition, or a [limitation](../claims/limitations.md); delete only a generic warning about complexity, never a statement of real uncertainty. To test a sentence, cover the rest of the paragraph and ask whether the sentence alone says anything readers can understand or check.
+When a sentence only promises later content or calls a topic complex, replace it with the draft's content, or flag the gap. Delete trailing promises such as "and we discuss each below" when the content is already present. Keep a summary of the main idea and any count whose items follow immediately ("We make four observations. First, ..."). Keep statements of real uncertainty, a real dispute, an unresolved definition, or a [limitation](../claims/limitations.md). To test a sentence, cover the rest of the paragraph and ask whether the sentence alone says anything readers can understand or check.
 
 ## Details
 
@@ -12,13 +12,13 @@ This rule has no further details.
 >
 > **Good.** We weigh each empty jar before filling it.
 
-> **Context.** The draft names leaks and evaporation as the two sources of water loss.
+> **Context.** In this draft, the text identifies leaks and evaporation as the two sources of water loss.
 >
 > **Bad.** Two sources of water loss are discussed later.
 >
 > **Good.** Water is lost through leaks and evaporation.
 
-> **Context.** The paragraph goes on to explain how insulation slows heat loss.
+> **Context.** Later sentences in the draft explain how insulation slows heat loss.
 >
 > **Bad.** Insulation slows heat loss, and we explain how below.
 >

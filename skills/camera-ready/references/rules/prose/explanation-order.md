@@ -1,10 +1,10 @@
-# Build understanding early
+# Explain ideas in the order readers need
 
-Give the main idea before its mechanism, and give a finding and its interpretation before the supporting evidence. State a section's claim in its first paragraph, open each paragraph as the [paragraph rule](paragraph-development.md) directs, and define each unfamiliar term before its first use. To test the order, cover everything after a sentence: if a covered sentence explains something that the visible text needs, move that explanation earlier. You may reorder sentences within a paragraph and paragraphs within a section, but flag moves between sections. Within a sentence, follow [old before new](old-before-new.md) and [stress position](stress-position.md).
+State the main idea before explaining how it works. State a finding and its interpretation before supporting evidence. Put a section's claim in its first paragraph, and open each paragraph as the [paragraph rule](paragraph-development.md) directs. Define unfamiliar terms before using them. If readers need a later explanation to understand an earlier sentence, move that explanation earlier. You may reorder sentences within a paragraph and paragraphs within a section, but flag moves between sections. Within a sentence, follow [old before new](old-before-new.md) and [stress position](stress-position.md).
 
 ## Details
 
-The covering test checks whether the reader has the prerequisites to understand a sentence, not whether later sentences add precision. After moving an explanation earlier, check that it does not rely on a term that is undefined at its new position.
+To test the order, cover everything after a sentence and check whether readers have what they need to understand the visible text. A later sentence that only adds precision does not need to move. After moving an explanation earlier, check that every term it uses is already defined at its new position.
 
 ## Examples
 

@@ -1,14 +1,16 @@
 # Say what literally happens
 
-Name the actual object and operation. Replace inflated "utilize" or "leverage" with "use" when equivalent. Check whether an abstract word such as "approach", "framework", "strategy", or "issue" hides a more specific meaning, but keep any defined term that the paper reuses as shorthand. Name an object before labeling its role. Expand figurative verbs, nouns used as verbs for one occasion ("we spreadsheet the readings"), and unusual word pairs when readers must decode them, following [parts of speech](../conventions/parts-of-speech.md). Preserve established technical terms, verbs, and word combinations; when explaining an unfamiliar term, keep the population, metric, and denominator it covers. Replace an opaque phrasal verb only with an exact equivalent. Keep an existing analogy whose correspondence the draft makes clear, and replace decorative or misleading imagery with literal wording without adding a new analogy. The [aphorism rule](../deslopping/aphorisms.md) governs slogan formulas. Use the diagnostics in Details for an ambiguous preposition or for a "replace" or "substitute" phrase that leaves unclear which item takes the other's place.
+Name the actual object and the actual operation performed on it or by it. Replace "utilize" or "leverage" with "use" when the meaning is the same. When an abstract word such as "approach", "framework", "strategy", or "issue" stands for something more specific, name that specific thing; keep it when defined and reused as shorthand. Name an object before describing its role. Rewrite figurative verbs, nouns used as temporary verbs ("we spreadsheet the readings"), and unusual word pairs that readers must decode, following the [parts-of-speech rule](../conventions/parts-of-speech.md). Keep established technical terms, verbs, and word combinations. Replace an opaque phrasal verb, such as "dial back", only with an exact equivalent. Keep an analogy whose correspondence the draft makes clear, replace decorative or misleading imagery with literal wording, and never add a new analogy. For slogan-like sentences, follow the [aphorism rule](../deslopping/aphorisms.md). For unfamiliar terms, ambiguous prepositions, and "replace" or "substitute", see Details.
 
 ## Details
 
-When replacing a figurative verb, name the literal operation that the draft describes rather than guessing an event from the image.
+When you replace a figurative verb, name the literal operation that the draft describes rather than guessing an event from the image.
 
-When a preposition is ambiguous, check whether the draft means instrument, accompaniment, cause, method, or time, and expand it only when the draft settles the relation. With "replace" or "substitute", identify which item is removed and which takes its place; flag either relation if the draft leaves it unsettled.
+When explaining an unfamiliar term, keep the population, metric, and denominator that the term covers.
 
-To check an analogy, match the technical objects to their familiar counterparts and identify the shared relation. Correct only a specific misleading implication, without adding a generic caveat or spelling out an obvious correspondence. Flag unsupported inferences under [scope](../claims/scope.md).
+A preposition such as "with", "by", or "in" can name an instrument ("cut with a knife"), something that accompanies the action ("stored with the samples"), a cause, a method, or a time. Rewrite the preposition with explicit wording only when the draft makes clear which meaning applies. With "replace" or "substitute", identify which item is removed and which item takes its place. If the draft leaves either meaning unclear, flag the ambiguity.
+
+To check an analogy, list which familiar object stands for each technical object, and state the relation that holds in both cases. Correct only a specific misleading implication of the analogy. Do not add a general warning that the analogy is imperfect, and do not spell out a comparison that is already obvious. Flag conclusions that the analogy suggests but the evidence does not support, following the [scope rule](../claims/scope.md).
 
 ## Examples
 
@@ -22,7 +24,7 @@ To check an analogy, match the technical objects to their familiar counterparts 
 >
 > **Good.** A foam pad holds the vial upright.
 
-> **Context.** The preceding sentence defines “the framework” as the steel frame around the tank.
+> **Context.** In the draft, the preceding sentence defines “the framework” as the steel frame around the tank.
 >
 > **Bad.** We utilize the framework to support the tank.
 >
@@ -48,11 +50,11 @@ To check an analogy, match the technical objects to their familiar counterparts 
 >
 > **Good.** We use centrifugation to pellet the cells.
 
-> **Context.** The draft defines emergence as the fraction of all planted seeds producing a shoot above the soil.
+> **Context.** The draft defines emergence as the fraction of all planted seeds that produce a shoot above the soil.
 >
 > **Bad.** Emergence captures the seeds’ breakthrough.
 >
-> **Good.** Emergence is the fraction of all planted seeds producing a shoot above the soil.
+> **Good.** Emergence is the fraction of all planted seeds that produce a shoot above the soil.
 
 > **Context.** The draft says the controller gradually reduces heater power.
 >

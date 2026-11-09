@@ -1,26 +1,26 @@
 # Identify the kind of evidence supporting each claim
 
-When a sentence reads like a theorem but cites no formal result and states no conditions, clarify its status: link it to the proved result and its assumptions, restate it as the empirical or intuitive claim the draft supports, or flag it. When the text uses a theorem to support an empirical claim, check that the theorem's assumptions hold in that setting and flag any invalid application; an unmet assumption makes the theorem inapplicable, not false. Never drop a condition from a theorem or other formal statement to simplify it; instead, flag any condition that seems unnecessary. Distinguish proofs, model calculations, simulations, and measurements of the real system. Flag any claim that extends a model result to the real system without supporting evidence, though a valid claim limited to the model needs no experiment or field study of the real system.
+If a sentence reads like a theorem but gives no formal result or conditions, link it to the proved result and its assumptions, restate it as the observed or intuitive claim the draft supports, or flag it. If the draft applies a theorem to observations or experiments, flag the claim when the theorem's assumptions do not hold. An unmet assumption makes a theorem inapplicable, not false. Never drop a condition to simplify a formal statement. Instead, flag any condition that seems unnecessary (see Details). Distinguish proofs, calculations from a model, simulations, and measurements of the real system. Flag any claim that a model result holds in the real system without evidence. A valid claim limited to the model needs no experiment or field study.
 
 ## Details
 
-Universal claims about all cases, inputs, executions, or admissible parameters can signal a formal claim even without the word "theorem". Locate the supporting result and its conditions before judging whether it applies.
+A statement about all cases, inputs, runs, or allowed parameter values may claim a mathematical guarantee even without the word "theorem". Find the supporting result and its conditions before judging whether the result applies.
 
-Propose a simpler mathematical condition only when the draft establishes that it is equivalent and the removed restriction adds no useful information. Flag a suspected error in a proof separately from an invalid application of a valid theorem.
+Propose a simpler mathematical condition only when the draft shows that the two conditions are equivalent and that the condition you would remove adds no useful information. Flag a suspected error in a proof separately from a claim that applies a valid theorem where its assumptions do not hold.
 
 ## Examples
 
-> **Context.** The draft reports the bridge's response only in a simulation, with no measurements of the actual bridge; the revision is proposed to the author.
+> **Context.** The draft reports only a simulation of the bridge, with no measurements of the actual bridge. Propose the revision to the author.
 >
 > **Bad.** Under the tested load, the bridge bends by 2 cm.
 >
-> **Good.** In the simulation, under the tested load, the bridge bends by 2 cm.
+> **Good.** Under the tested load, the simulated bridge bends by 2 cm.
 
-> **Context.** The draft's Theorem 2 proves uniqueness for positive stiffness.
+> **Context.** The draft's Theorem 2 proves that the equilibrium is unique when stiffness is positive.
 >
 > **Bad.** The equilibrium is unique.
 >
-> **Good.** By Theorem 2, the equilibrium is unique when stiffness is positive.
+> **Good.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
 
 > **Context.** The draft reports only that five tested mixtures settled within an hour.
 >
@@ -28,11 +28,11 @@ Propose a simpler mathematical condition only when the draft establishes that it
 >
 > **Good.** Each of the five tested mixtures settles within an hour.
 
-> **Context.** The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors; the revision is proposed to the author.
+> **Context.** The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors. Propose the revision to the author.
 >
 > **Bad.** The correlated errors in these sensors make Theorem 1 false.
 >
-> **Good.** The correlated errors in these sensors make Theorem 1 inapplicable here.
+> **Good.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
 > **Context.** The draft proves the convergence result only for positive step sizes.
 >
@@ -40,13 +40,13 @@ Propose a simpler mathematical condition only when the draft establishes that it
 >
 > **Good.** Theorem 3 guarantees convergence for any positive step size.
 
-> **Context.** The draft calculates the load from a static model and reports no simulation; the revision is proposed to the author.
+> **Context.** The draft calculates the load from a static model and reports no simulation. Propose the revision to the author.
 >
 > **Bad.** The simulation gives a load of 6 N.
 >
-> **Good.** The model calculation gives a load of 6 N.
+> **Good.** The load calculated from the model is 6 N.
 
-> **Context.** The draft establishes that positivity makes the nonzero condition redundant for this bound; the revision is proposed to the author.
+> **Context.** The draft establishes that requiring x to be positive makes the nonzero condition unnecessary for this bound. Propose the revision to the author.
 >
 > **Bad.** For positive, nonzero x, the bound holds.
 >

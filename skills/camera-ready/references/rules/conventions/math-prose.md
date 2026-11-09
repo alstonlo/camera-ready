@@ -1,12 +1,14 @@
 # Write mathematics as grammatical prose
 
-Read each formula as part of the sentence so that the prose and mathematics together are grammatical. Begin sentences and clauses with words, not bare symbols, and spell out sentence-initial numbers. Separate adjacent formulas with words, including across sentence boundaries. In prose, write quantifiers and relations as words ("for all", not ∀; "is at most 0.1", not "is ≤ 0.1"), except in work on logic. Punctuate a displayed formula with a period when it ends a sentence and a comma when the sentence continues; use a colon before a display only after a complete clause. A trailing "where" clause may define symbols, but any definition needed to understand a claim must precede the claim. For LaTeX paragraph breaks, see the page.
+Read each formula as part of its sentence so that words and mathematics form a grammatical sentence. Begin sentences and clauses with words rather than bare symbols, and spell out sentence-initial numbers. Separate adjacent formulas with words, including across sentence boundaries. Except in work on logic, write quantifiers and relations in prose as words. End a displayed formula with a period when the sentence ends, or a comma when it continues. Put a colon before a display only after a complete clause. A trailing "where" clause may define symbols, but put any definition needed to understand a claim before that claim. See Details for examples and LaTeX paragraph breaks.
 
 ## Details
 
-Test grammar by mentally replacing each formula with a phrase of the same grammatical role: an equality may supply a verb, whereas a bare expression usually supplies a noun phrase.
+To check the grammar, mentally replace each formula with words that play the same role in the sentence. An equality can supply the verb, because "$a=b$" reads as "$a$ equals $b$". An expression without a relation, such as $a+b$, usually acts as a noun phrase.
 
-In LaTeX, omit blank lines around a display that continues its paragraph, even when the display ends a sentence.
+In prose, write "for all" rather than $\forall$, and write "is at most 0.1" rather than "is $\le 0.1$". Work on logic may use symbolic notation.
+
+In LaTeX source, a blank line starts a new paragraph. Do not put blank lines around a displayed formula that continues its paragraph, even when the formula ends a sentence.
 
 ## Examples
 
@@ -14,7 +16,7 @@ In LaTeX, omit blank lines around a display that continues its paragraph, even w
 >
 > **Good.** The area of a circle of radius $r$ is \[\pi r^2.\]
 
-> **Context.** The draft defines $r$ as the circle's radius.
+> **Context.** The draft defines $r$ as the radius of a circle.
 >
 > **Bad.** The circumference $2\pi r$.
 >
@@ -40,7 +42,7 @@ In LaTeX, omit blank lines around a display that continues its paragraph, even w
 >
 > **Good.** We measure $a$. The symbol $b$ denotes the predicted length.
 
-> **Context.** The passage states a bound on sample size and is not part of work on logic.
+> **Context.** The passage states a bound on sample size in a paper outside mathematical logic.
 >
 > **Bad.** The bound holds $\forall n$.
 >
@@ -50,19 +52,19 @@ In LaTeX, omit blank lines around a display that continues its paragraph, even w
 >
 > **Good.** The error is at most 0.2.
 
-> **Context.** The passage explains universal quantification in a logic paper.
+> **Context.** In a paper on logic, the passage explains the universal quantifier.
 >
 > **Bad.** $P$ is the predicate in $\forall x\,P(x)$.
 >
 > **Good.** The symbol $P$ is the predicate in $\forall x\,P(x)$.
 
-> **Context.** The draft defines $a$ and $b$ as the two component masses.
+> **Context.** The draft defines $a$ and $b$ as two component masses.
 >
 > **Bad.** The total is \[s=a+b\]
 >
 > **Good.** The total is \[s=a+b.\]
 
-> **Context.** The draft has already defined $a$ and $b$ as component masses and introduces $s$ here.
+> **Context.** The draft defines $a$ and $b$ earlier as component masses and introduces $s$ here.
 >
 > **Bad.** The total is \[s=a+b\] where $s$ denotes total mass.
 >
@@ -72,7 +74,7 @@ In LaTeX, omit blank lines around a display that continues its paragraph, even w
 >
 > **Good.** Let $q$ denote net inflow. The value of $q$ is positive.
 
-> **Context.** The display stays in the same paragraph, $a$ and $b$ are already defined, and `\n` denotes a newline.
+> **Context.** The draft defines $a$ and $b$ earlier, and the displayed formula belongs to the surrounding paragraph. Here, `\n` denotes a newline.
 >
 > **Bad.** `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
 >

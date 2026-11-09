@@ -1,12 +1,12 @@
-# Open each proof with its strategy and mark its progress
+# Open each proof with its strategy and state when each goal is met
 
-Open each proof with its strategy and mark subgoals as they are completed. Make clear whether each statement is assumed, defined, established, or deferred to a later proof. Add a strategy or progress statement only when the draft makes it identifiable. For "clearly" and "it is easy to see", follow [intensifiers](../prose/intensifiers.md). For matching case order and separating a construction from its use, see the page.
+Open each proof with its strategy and mark subgoals as they are completed. Make clear whether each statement is assumed, defined, established, or deferred to a later proof. Add strategy or progress statements only when identifiable in the draft; otherwise, flag the omission. Follow [intensifiers](../prose/intensifiers.md) for "clearly" and "it is easy to see". See Details for cases and constructions.
 
 ## Details
 
-Treat cases in the announced order and under the announced names unless a stated dependency requires another order.
+Treat cases in the order announced and under the names given in the proof. Change the order only when the draft states that one case's argument depends on the result of another.
 
-Separate the construction of an object from its use; at the transition, state the property of the constructed object that supports the next step. Flag a missing strategy or progress statement rather than inventing one.
+Separate the construction of an object from its use. At the transition, state the property of the constructed object that justifies the next step. If the draft neither explains the proof's strategy nor marks which goals are met, flag the omission rather than inventing an explanation.
 
 ## Examples
 
@@ -16,13 +16,13 @@ Separate the construction of an object from its use; at the transition, state th
 >
 > **Good.** We argue by contradiction. Let $n$ be the largest integer.
 
-> **Context.** The proof announces existence and uniqueness as its two subgoals, and the preceding paragraph proves existence.
+> **Context.** The draft announces existence and uniqueness as two goals, and the preceding paragraph proves existence.
 >
 > **Bad.** We next prove uniqueness.
 >
-> **Good.** Existence is established. We next prove uniqueness.
+> **Good.** We have proved existence. We next prove uniqueness.
 
-> **Context.** The draft introduces evenness as this case's assumption, not as a proved property.
+> **Context.** For this case, the draft introduces evenness as an assumption rather than a proved fact.
 >
 > **Bad.** The integer $n$ is even. Write $n=2k$.
 >
@@ -52,14 +52,14 @@ Separate the construction of an object from its use; at the transition, state th
 >
 > **Good.** We treat the dry and wet cases. In the dry case, the mass stays fixed.
 
-> **Context.** The draft announces the dry case first, but the dry-case argument uses the bound from the wet case.
+> **Context.** The draft lists the dry case first, but the proof of the dry case uses the bound established for the wet case.
 >
 > **Bad.** We treat the dry case, then the wet case. We begin with the wet case.
 >
-> **Good.** We treat the dry case, then the wet case. We begin with the wet case, because the dry-case argument uses the bound from the wet case.
+> **Good.** We treat the dry case, then the wet case. We begin with the wet case because the proof of the dry case uses the bound from the wet case.
 
-> **Context.** The preceding construction shows that $S$ is finite, and Lemma 2 applies to finite sets.
+> **Context.** The draft has just constructed $S$ and proved that it is finite, and Lemma 2 applies to finite sets.
 >
 > **Bad.** We now apply Lemma 2 to $S$.
 >
-> **Good.** The construction makes $S$ finite. We now apply Lemma 2 to $S$.
+> **Good.** We have constructed a finite set $S$. We now apply Lemma 2 to $S$.

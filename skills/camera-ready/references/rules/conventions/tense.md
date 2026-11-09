@@ -1,10 +1,12 @@
 # Match tense to the time frame
 
-Use present tense for the paper's contents ("Section 4 shows", not "will show"), results, method, setup, established facts, and continuing prior work. Preserve a draft's consistent past tense for its experiments, and use past tense for events outside the described procedure. Use future tense for uncompleted plans, not for later sections. Keep tense consistent within a time frame, and prefer simple tense unless perfect tense marks current relevance or an event before another past event. Keep past tense in reported findings ("Lee found that the alloy was weaker") and hypotheticals ("if the sample were larger"). Note that "No work had studied X before Lee" says only what held before Lee, not whether the gap remains open. Do not turn a general research recommendation into the authors' own promise. For relative dates, see the page.
+Use present tense for the paper's contents ("Section 4 shows"), results, method, setup, established facts, and prior work that still applies. Preserve a draft's consistent past tense for experiments, and use past tense for events outside the described procedure. Use future tense only for uncompleted plans, never for later sections. Keep tense consistent within each time frame. Prefer simple forms unless perfect tense marks current relevance ("has tested") or an event before another past event ("had tested"). Keep past tense for reported findings ("Lee found that the alloy was weaker") and hypothetical situations ("if the sample were larger"). Do not turn a general research recommendation into the authors' own promise. For relative dates and past gaps, see Details.
 
 ## Details
 
-Replace a relative date such as "last year" with the calendar date given in the draft, or flag the missing date. Do not assume that an event occurred in the publication year of the paper that reports it.
+Replace a relative date, such as "last year", with the calendar date that the draft gives. If the draft gives no calendar date, flag the omission. Do not assume that an event occurred in the publication year of the paper reporting it.
+
+A sentence such as "No work had studied X before Lee" describes only the gap that existed before Lee's work. It does not state whether that gap remains open.
 
 ## Examples
 
@@ -12,25 +14,25 @@ Replace a relative date such as "last year" with the calendar date given in the 
 >
 > **Good.** Section 6 reports the simulator's memory use.
 
-> **Context.** The draft consistently describes the method in present tense.
+> **Context.** The draft consistently describes the method in the present tense.
 >
 > **Bad.** We rinse the seeds and dried them.
 >
 > **Good.** We rinse the seeds and dry them.
 
-> **Context.** The draft consistently describes these experiments in past tense.
+> **Context.** The draft consistently describes the experiment in the past tense.
 >
 > **Bad.** We rinsed the seeds and dry them.
 >
 > **Good.** We rinsed the seeds and dried them.
 
-> **Context.** The draft describes a completed storm outside the experimental procedure.
+> **Context.** The draft describes a past storm that occurred outside the experimental procedure.
 >
 > **Bad.** A storm damages the greenhouse in 2020.
 >
 > **Good.** A storm damaged the greenhouse in 2020.
 
-> **Context.** The authors have not yet conducted the repeat study at the second site.
+> **Context.** The draft states that the authors have not yet repeated the pilot study at the second site.
 >
 > **Bad.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
 >
@@ -64,13 +66,13 @@ Replace a relative date such as "last year" with the calendar date given in the 
 >
 > **Good.** Section 6 explains why future studies should test colder water.
 
-> **Context.** The draft dates the storm to 2023.
+> **Context.** The draft records that the storm occurred in 2023.
 >
 > **Bad.** The storm occurred last year.
 >
 > **Good.** The storm occurred in 2023.
 
-> **Context.** The draft presents both Ortiz's model and the freezing-point relation as continuing knowledge rather than historical events.
+> **Context.** The draft presents Ortiz's model and the freezing-point relation as established knowledge that still applies.
 >
 > **Bad.** Ortiz's model described how salt lowered the freezing point.
 >

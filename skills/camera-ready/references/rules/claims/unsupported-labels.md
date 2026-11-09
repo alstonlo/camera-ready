@@ -1,16 +1,18 @@
-# Remove or flag unsupported empirical labels
+# Remove or flag unsupported labels on empirical claims
 
-Remove or flag unsupported empirical labels such as *solves*, *optimal*, *guarantees*, and *first to*; keep them only when the draft's evidence supports the full claim. Reserve *proves* for theorems, as the [verb ladder](verb-ladder.md) requires. Flag unsupported superlatives as well as *state-of-the-art*, *record*, or *human-level* claims that omit the task or quantity, the compared methods or results, or the metric. Remove *novel* when it adds only praise. Beyond removing an unsupported label, change what the claim asserts only when the draft's evidence settles its [scope](scope.md); otherwise flag it. For claims that a method is empirically unique, see the page.
+On empirical claims, remove or flag labels such as *solves*, *optimal*, *guarantees*, and *first to* unless the draft's evidence supports the full claim. Reserve *proves* for theorems, as the [verb ladder](verb-ladder.md) requires. Flag unsupported superlatives, and flag any *state-of-the-art*, *record*, or *human-level* claim that omits the task or quantity, the compared methods or results, or the metric. Remove *novel* when it adds only praise. Beyond removing a label, rewrite the claim only when the draft's evidence determines its [scope](scope.md); otherwise, flag it. For uniqueness claims, see Details.
 
 ## Details
 
-A claim that a method or object is empirically unique must identify the compared alternatives, the property compared, and the level of detail that distinguishes the alternatives. An empirical comparison can show uniqueness at most among the compared alternatives, never across all possible methods, whereas a stated theorem can establish exact mathematical uniqueness.
+An edit that goes beyond removing an unsupported label, such as narrowing a claim to the tested cases, changes what the claim asserts. Make that edit only when the draft's evidence determines the exact cases or conditions that the claim covers.
 
-Do not treat a priority claim (a claim to be the first) as verified merely because you do not recall earlier work.
+A claim that experiments or observations show a method or object to be unique must name the alternatives compared, the property compared, and how finely the comparison distinguishes the alternatives. An empirical comparison can show that something is unique only among the alternatives compared, never among all possible methods. A stated theorem can establish exact mathematical uniqueness.
+
+Do not treat a claim that the work is the first of its kind as verified merely because you do not recall earlier work.
 
 ## Examples
 
-> **Context.** The draft compares fabrics only by the amount of water they absorb and reports that fabric A absorbs the most; the revision is proposed to the author.
+> **Context.** The draft compares only how much water the fabrics absorb and reports that fabric A absorbs the most. The editor proposes the revision to the author.
 >
 > **Bad.** Among the tested fabrics, fabric A is the best.
 >
@@ -26,7 +28,7 @@ Do not treat a priority claim (a claim to be the first) as verified merely becau
 >
 > **Good.** The latch kept the door shut in ten tests.
 
-> **Context.** The draft compares hole diameter and finds that only sieve A among the tested sieves has 1 mm holes; the revision is proposed to the author.
+> **Context.** The draft compares the hole diameters of the tested sieves and finds that only sieve A has 1 mm holes. The editor proposes the revision to the author.
 >
 > **Bad.** Sieve A is unique.
 >
@@ -38,13 +40,13 @@ Do not treat a priority claim (a claim to be the first) as verified merely becau
 >
 > **Good.** The five tests suggest that the coating resists scratches.
 
-> **Context.** The draft establishes priority for this open catalog but gives no evidence that it is optimal.
+> **Context.** The draft establishes that the open catalog is the first of its kind but gives no evidence that it is optimal.
 >
 > **Bad.** We provide the first open catalog of these specimens, an optimal resource.
 >
 > **Good.** We provide the first open catalog of these specimens.
 
-> **Context.** The draft's record claim concerns water absorbed per gram among the ten tested fabrics; the revision is proposed to the author.
+> **Context.** The draft's claim of a record refers to water absorbed per gram among the ten tested fabrics. The editor proposes the revision to the author.
 >
 > **Bad.** Fabric A sets a record.
 >

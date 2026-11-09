@@ -1,6 +1,6 @@
 # Hyphenate compound modifiers before nouns
 
-Hyphenate compound modifiers before nouns ("real-time monitoring", "three-layer coating"). Leave the same phrase unhyphenated when it follows the noun ("monitoring runs in real time"). Preserve an established field term without hyphens when the draft consistently writes it that way ("a high energy physics experiment").
+Hyphenate a compound modifier before its noun, as in "real-time monitoring". Leave the modifier unhyphenated after the noun ("monitoring runs in real time"). Keep an established field term unhyphenated if the draft consistently writes it without hyphens.
 
 ## Details
 

@@ -1,20 +1,20 @@
-# Read the topic string
+# Check sentence openings with the topic string
 
-When each sentence is clear but a paragraph does not cohere, list the opening words of each sentence; this list is the topic string. Check that these openings develop the paragraph's point rather than merely repeating words between sentences. Consecutive sentences may keep the same topic, and a new term at the end of a sentence need not recur unless the text promises to develop it, but if most sentences open with new material, rewrite them so that each opens with [old information](old-before-new.md). Next, identify the logical relation between each pair of adjacent sentences, such as contrast, consequence, or example. When a link between sentences is missing, restore it from elsewhere in the draft or flag the gap; a connective cannot replace missing reasoning. If two adjacent paragraphs could swap places without other edits, add a [summary naming their parallel items](direct-content.md) when they present parallel items; otherwise, state how the second paragraph depends on the first.
+When individual sentences are clear but readers cannot follow the paragraph, list each sentence's opening words. That list is the topic string. Check that these openings advance the paragraph's point rather than merely repeating words. Consecutive sentences may keep the same topic, and a new term at a sentence's end need not recur unless the text promises to explain it. If most sentences start with new material, rewrite them to start with [old information](old-before-new.md). Next, check the logical relation between adjacent sentences, such as contrast, consequence, or example. If a relation is missing, supply it from the draft or flag the gap. If two adjacent paragraphs could swap places without other edits, add a [summary naming their parallel items](direct-content.md) when they present parallel items, or state how the second depends on the first.
 
 ## Details
 
-To test the relation between adjacent sentences, mentally insert a candidate connective in brackets and check whether the draft supports that relation; the connective is a diagnostic and need not appear at every boundary.
+To check how two adjacent sentences connect, mentally insert a word such as "therefore" or "however" in brackets between them and check whether the draft supports that connection. The bracketed word is only a test. Adding a connecting word cannot replace missing reasoning, and the edited text does not need a connecting word between every pair of sentences.
 
-Check that the paragraph’s opening and ending fit its role in the section. When a connection between sentences breaks down, check the earlier sentence as well as the later one, because the earlier sentence may set up the wrong expectation. For moving or deleting ideas, follow [cutting permissions](../cutting/idea-cuts.md).
+Check that the paragraph's opening and ending fit what the paragraph contributes to the section. If two sentences do not connect clearly, check both of them. The earlier sentence may make readers expect something the later sentence does not discuss. Before moving or deleting ideas, follow [cutting permissions](../cutting/idea-cuts.md).
 
 ## Examples
 
 > **Bad.** The library lends musical instruments. A padded case protects each instrument. A shoulder strap makes each case easy to carry.
 >
-> **Good.** The library lends musical instruments. Each instrument is protected by a padded case. Each case is easy to carry because of a shoulder strap.
+> **Good.** The library lends musical instruments. Each instrument is protected by a padded case. Each case has a shoulder strap that makes it easy to carry.
 
-> **Context.** The draft states that the lid prevents rain from entering; Good is the proposed revision.
+> **Context.** In this example, the draft states elsewhere that the lid keeps rain out. Good shows the revision to propose.
 >
 > **Bad.** The box has a lid. The tools stay dry.
 >
@@ -24,19 +24,19 @@ Check that the paragraph’s opening and ending fit its role in the section. Whe
 >
 > **Good.** The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
 
-> **Context.** The paragraph describes the room’s light and sound; the trees are an incidental location.
+> **Context.** In this example, the draft describes the room's light and sound, mentioning the trees only to locate the room.
 >
 > **Bad.** The room faces the trees. Noise is blocked by the room’s thick walls.
 >
 > **Good.** The room faces the trees. The room’s thick walls block noise.
 
-> **Context.** The passage describes a box; ¶ marks a paragraph break.
+> **Context.** In this example, the draft describes a box. The symbol ¶ marks a paragraph break.
 >
 > **Bad.** The lid has a gasket. ¶ The base has a drain.
 >
 > **Good.** The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
 
-> **Context.** The draft states that draining must precede drying; ¶ marks a paragraph break.
+> **Context.** In this example, the draft states that the tank must drain before being dried. The symbol ¶ marks a paragraph break.
 >
 > **Bad.** We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
 >

@@ -1,32 +1,32 @@
 # Revise cuts when stop rules apply
 
-Revise a cut if it leaves a paragraph underdeveloped or breaks its [topic string](../prose/topic-string.md): either merge the paragraph with an adjacent one that makes the same point, or restore the missing development and connections. Before cutting a confusing passage, check whether a step is missing, because confusion usually signals an omission rather than excess. Supply a missing step or [referent](../prose/referents.md) only from elsewhere in the draft, and flag it if the draft does not contain it. If a reader outside the subfield cannot follow the shortened passage, restore the needed framing and steps instead of cutting further. These stop rules override the length target. Never meet a length target by adding negative `\vspace`, reducing font sizes, or narrowing figures; report the remaining excess instead.
+Revise a cut if it leaves a paragraph without needed explanation or support, or breaks the paragraph's [topic string](../prose/topic-string.md). Merge the paragraph with an adjacent one that makes the same point, or restore the missing material and connections. Before cutting a confusing passage, check for a missing step or [referent](../prose/referents.md). Restore it only from elsewhere in the draft, or flag it if the draft lacks it. If a reader outside the subfield cannot follow the shortened passage, restore the needed context and steps instead of cutting further. These stop rules override the length target. Never meet a target by adding negative `\vspace`, reducing font sizes, or narrowing figures. Report the remaining excess instead.
 
 ## Details
 
-When no further authorized cut can preserve clarity, report the remaining excess length and the content decision that keeps the text from meeting the target. Spacing commands already in the draft are not defects in themselves; this rule forbids only layout changes added to force the paper to fit.
+Confusion in a passage usually means that a step is missing, not that the passage is too long. When no further cut that the author has authorized would keep the text clear, report how far the text exceeds the limit and name the content that keeps it over the limit, so that the author can decide what to cut. Spacing commands already in the draft are not defects in themselves. This rule forbids only layout changes that an editor adds to force the paper to fit.
 
 ## Examples
 
-> **Context.** A proposed cut removes the draft's statement that there are eighteen seedlings.
+> **Context.** An editor proposes cutting the draft's statement that there are eighteen seedlings.
 >
 > **Bad.** Each tray holds six seedlings. We therefore need three trays.
 >
 > **Good.** Each tray holds six seedlings. We have eighteen seedlings and therefore need three trays.
 
-> **Context.** A cut leaves two adjacent paragraphs that make the same point (with "/" marking the paragraph break).
+> **Context.** An editor's cut leaves two adjacent paragraphs that make the same point. A slash marks the paragraph break.
 >
 > **Bad.** The lid reduces evaporation. / Less water is lost overnight.
 >
 > **Good.** The lid reduces evaporation. Less water is lost overnight.
 
-> **Context.** A cut removes the draft's definition of the meniscus as the curved liquid surface, which readers outside the subfield need.
+> **Context.** The draft defines the meniscus as the curved liquid surface. An editor cuts that definition, which readers outside the subfield need.
 >
 > **Bad.** We record the meniscus height.
 >
 > **Good.** The meniscus is the curved liquid surface. We record the meniscus height.
 
-> **Context.** The draft already contains \smallskip, and a proposed length edit adds negative \vspace to meet the length limit. No further authorized cut preserves clarity, so keep the original spacing and report the remaining excess.
+> **Context.** The draft contains \smallskip. An editor proposes adding negative \vspace to meet the length limit. No further cut that the author has authorized would keep the text clear, so the editor keeps the original spacing and reports how far the text exceeds the limit.
 >
 > **Bad.** \smallskip The sample remains dry. \vspace{-4mm}
 >

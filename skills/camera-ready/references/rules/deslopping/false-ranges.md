@@ -1,6 +1,6 @@
 # Replace false ranges with the settings tested
 
-When the endpoints of "from X to Y" do not lie on an ordered scale, the phrase suggests breadth without defining a range; replace it with the tested settings that the draft names. Keep true ranges along an ordered scale, and do not shorten a longer stated list to its endpoints.
+When the endpoints of "from X to Y" do not lie on an ordered scale, the phrase implies breadth without defining a range. Replace it with the draft's tested settings. Keep true ranges along an ordered scale. Never shorten a longer list to its endpoints.
 
 ## Details
 
@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-> **Context.** The draft tests the paint only on brick and metal.
+> **Context.** The draft reports paint tests on brick and metal only.
 >
 > **Bad.** We test the paint on surfaces ranging from brick to metal.
 >
@@ -18,7 +18,7 @@ This rule has no further details.
 >
 > **Good.** We test brick, wood, and metal.
 
-> **Context.** The draft tests only brick and metal.
+> **Context.** The draft reports tests on brick and metal only.
 >
 > **Bad.** We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
 >

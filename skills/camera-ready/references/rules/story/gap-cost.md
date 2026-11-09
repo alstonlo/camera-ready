@@ -1,38 +1,38 @@
 # State the gap's cost
 
-State the specific gap and its cost: what readers lose, pay, cannot do, or cannot understand because of it. "No prior work studies X" states only the gap, not its cost. Replace "little is known" with the specific unknown when the draft supplies it. Flag a missing gap or cost. If stating the gap would require rewriting the objectives or contributions, flag the proposed rewrite instead of making it. The cost may be a question readers cannot answer or the value of extending earlier work to a new case; it need not be a flaw in prior work or a hypothesis, so do not invent either. Distinguish established consequences from [speculative applications](../claims/speculation.md).
+State the specific gap in what is known or can be done, and state its cost: what readers lose, pay, cannot do, or cannot understand because of it. Replace "little is known" with the specific unknown when the draft supplies it. Flag a missing gap or cost. If stating the gap requires rewriting the objectives or contributions, flag the proposed rewrite instead of making it. Do not invent a flaw in prior work or a hypothesis to serve as the cost (see Details). Distinguish established consequences from [speculative applications](../claims/speculation.md).
 
 ## Details
 
-Compare the claimed gap with what the cited work establishes; a sweeping claim that nothing is known may contradict the cited work itself. In applied work, distinguish gathering knowledge needed for an intervention from performing the intervention.
+"No prior work studies X" states a gap, not its cost. The cost may be a question that readers cannot answer or the value of extending earlier work to a new case. It need not be a flaw in prior work or a hypothesis. Compare what the draft says is unknown with what the cited work establishes, because a sweeping claim that nothing is known may contradict the cited sources. In applied work, distinguish learning what is needed to make a practical change from making that change.
 
 ## Examples
 
-> **Context.** The draft states that without knowing the load limit, one cannot determine whether the bridge can carry the new buses; Good is the proposed revision for the author.
+> **Context.** The draft says that the bridge's load limit is needed to determine whether it can carry the new buses. The editor proposes the revision to the author.
 >
 > **Bad.** The bridge's maximum safe load is unknown.
 >
 > **Good.** The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
 
-> **Context.** The draft asks whether the seeds can sprout after a winter freeze and states that this question determines whether autumn sowing is viable; Good is the proposed revision for the author.
+> **Context.** The draft says autumn sowing depends on whether the seeds can sprout after a winter freeze. The editor proposes the revision to the author.
 >
 > **Bad.** Little is known about these seeds, so the viability of autumn sowing is unclear.
 >
-> **Good.** Whether these seeds can sprout after a winter freeze is unknown, so the viability of autumn sowing is unclear.
+> **Good.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
 
-> **Context.** The draft states that earlier work measures nesting dates on the coast but not inland, leaving inland nesting time unknown; Good is the proposed revision for the author.
+> **Context.** The draft says earlier work measures nesting dates on the coast but leaves inland dates unknown. The editor proposes the revision to the author.
 >
 > **Bad.** No nesting dates are known, so inland nesting time remains unknown.
 >
 > **Good.** Nesting dates are known on the coast but not inland, so inland nesting time remains unknown.
 
-> **Context.** The draft measures whether a membrane passes salt to inform the design of a water filter, but it does not build a filter; Good is the proposed revision for the author.
+> **Context.** In this draft, the authors measure whether a membrane passes salt to help design a water filter. They do not build a filter. The editor proposes the revision to the author.
 >
 > **Bad.** We measure whether the membrane passes salt to build a water filter in this study.
 >
-> **Good.** We measure whether the membrane passes salt to obtain knowledge needed to design a water filter.
+> **Good.** We measure whether the membrane passes salt because we need that information to design a water filter.
 
-> **Context.** The draft proposes irrigation planning as a possible use of the missing soil measurements, not a demonstrated benefit; Good is the proposed revision for the author.
+> **Context.** The draft proposes using the missing soil measurements to plan irrigation but does not demonstrate a benefit. The editor proposes the revision to the author.
 >
 > **Bad.** The missing soil measurements will improve irrigation planning.
 >

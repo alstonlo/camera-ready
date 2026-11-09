@@ -1,10 +1,10 @@
-# Make every referent clear
+# Make clear what each word refers to
 
-Make each pronoun, demonstrative, comparative, and shorthand noun identify one referent from the text alone. Name an ambiguous baseline or previous run using the draft's identifiers, then reuse that name. Restore context lost during editing or flag the missing connection. The first sentence under a heading, including a run-in paragraph title such as "**Sample preparation.**", must make sense without that heading. When adding a noun after an ambiguous "this", follow the [rule on ambiguous "this"](ambiguous-this.md).
+Each pronoun, demonstrative, comparative, and shorthand noun phrase must point to one referent from the text alone. If a baseline or previous run is ambiguous, name it with the draft's label and reuse that name. Restore context removed by an edit, or flag the missing connection. For openings under headings, see Details. When adding a noun after an ambiguous "this", follow the [rule on ambiguous "this"](ambiguous-this.md).
 
 ## Details
 
-To test the opening under a heading, cover the heading and check whether the first sentence still identifies its own subject.
+The first sentence under a heading, including a bold title that opens a paragraph such as "**Sample preparation.**", must make sense without the heading. To test it, cover the heading and read the sentence alone. Check that the sentence still names its own subject.
 
 ## Examples
 
@@ -14,7 +14,7 @@ To test the opening under a heading, cover the heading and check whether the fir
 >
 > **Good.** We tested a wooden shelf and a steel shelf. The steel shelf held 30 kg.
 
-> **Context.** The draft identifies run A, rather than run B, as the comparison run.
+> **Context.** The draft compares run C with run A, not run B.
 >
 > **Bad.** Runs A and B use dry sand. Run C drains faster than the earlier run. The earlier run leaves a puddle.
 >
@@ -24,7 +24,7 @@ To test the opening under a heading, cover the heading and check whether the fir
 >
 > **Good.** **Copper mesh.** Copper mesh catches the larger particles.
 
-> **Context.** The panel has a red switch and a blue switch; an edit removed the draft’s identification of the red switch as the power switch.
+> **Context.** In the draft, the panel has a red switch and a blue switch. An earlier edit removed the sentence that identified the red switch as the power switch.
 >
 > **Bad.** Press the switch. This control then turns the pump off.
 >

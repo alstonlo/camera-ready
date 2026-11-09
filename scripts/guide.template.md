@@ -1,52 +1,56 @@
 # Writing guide
 
-This guide is generated from a collection of writing rules. Each rule has its own page in the `rules/` folder next to this guide and follows this format:
+Each rule has a full page in the `rules/` folder next to this guide. This guide reproduces each rule's heading and summary, and the full page adds `Details` and at least one example.
+
+Read the full page when a rule applies to your text but the summary does not show which edit to make, or when the summary refers to a case on the page. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.
+
+Each rule page follows this format:
 
 ```markdown
 # {{ Name of the rule }}
 
-{{ A summary of the rule: what to look for, the edit or flag that it calls for, and the exceptions that change the edit. }}
+{{ A summary of the rule: what to look for, the edit to make or problem to flag, and the exceptions that change the edit. }}
 
 ## Details
 
-{{ Explanation, further cases, and procedures omitted from the summary for concision, or, if there are none, the sentence "This rule has no further details." }}
+{{ Explanations, further cases, and procedures left out of the summary, or the sentence "This rule has no further details." }}
 
 ## Examples
 
-> **Context.** {{ Optional context that the example needs. }}
+> **Context.** {{ Optional setup for the example. }}
 >
 > **Bad.** {{ A passage that breaks the rule. }}
 >
 > **Good.** {{ The same passage, corrected under this rule alone. }}
 ```
 
-The guide below reproduces each rule's heading and summary; each rule page adds `Details` and at least one example. Read a rule page in full when the rule applies to the text you are editing and the summary does not settle the edit, or when the summary names a case that its page covers. Each example illustrates one edit under its rule and does not widen what the request permits you to change.
-
 ## Table of contents
 
 The guide has six sections of rules:
 
-- [Story](#story): the argument from problem to implication, titles and headings, section order and openings, contributions, related work, results organized by question, and numbers that support claims.
-- [Claims](#claims): reporting verbs that match claims to their evidence, scope, overclaiming and underclaiming, consistency across the text, causal language, what an efficiency claim counts, statistical significance, hedges, speculation, and limitations.
-- [Cutting](#cutting): what to delete or relocate without a separate request from the author, the triage order under a length limit, what to protect, and how to repair the text around a cut.
-- [Prose](#prose): explanation order, paragraphs, information flow, sentence structure, direct content in place of promises, concrete quantities, and plain wording.
+- [Story](#story): the argument from problem to implications, titles and headings, section order and openings, contributions, related work, results by question, and numbers that support claims.
+- [Claims](#claims): reporting verbs matched to evidence, scope, overclaiming and underclaiming, consistency across the text, causal language, what an efficiency claim counts, statistical significance, hedges, speculation, and limitations.
+- [Cutting](#cutting): what you may delete or move without asking the author, the triage order under a length limit, sentences to protect, and how to repair text around a cut.
+- [Prose](#prose): explanation order, paragraphs, information flow from familiar to new, sentence structure, direct content instead of promises, concrete quantities, and plain wording.
 - [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, typography, and LaTeX source.
-- [Deslopping](#deslopping): two tiers of patterns common in AI-written prose.
+- [Deslopping](#deslopping): blacklisted and tolerable patterns common in AI-written prose.
 
-When a request is narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk against every rule in each applicable section. When two rules prescribe different edits for the same sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
+For a request narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk of text against every rule in each applicable section. When two rules call for different edits to a sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence, or use your judgment as an expert editor if both are equally clear.
 
 ## Story
 
-Organize the text around one argument: a problem the reader cares about, a gap with a cost, an idea that closes the gap, evidence that the idea works, and the implication. Check this argument across the whole text and its sections before editing individual sentences, because sentence-level edits cannot repair a broken argument. Use the [rules on claims](#claims) to set each statement's strength, the [rules on cutting](#cutting) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
+Organize the text around one five-part argument: a problem the reader cares about; a gap in what is known or possible, with the cost of leaving it open; an idea that fills the gap; evidence that the idea works; and what the findings imply.
+
+Check this argument across the whole text and within each section before editing individual sentences, because sentence edits cannot fix a missing or illogical step. Use the [rules on claims](#claims) to match each claim to its evidence, the [rules on cutting](#cutting) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
 
 Without a separate request from the author, you may:
 
-- Reorder sentences within a paragraph or paragraphs within a section to put the claim first.
+- Reorder sentences in a paragraph or paragraphs in a section to put the claim first.
 - Rewrite a section's opening using content already in that section.
-- Remove numbers from running text when a table already contains them.
-- Rewrite a caption to state a conclusion already drawn in the body text.
+- Remove numbers from running text when a table already gives them.
+- Rewrite a caption to state a conclusion already drawn in the body.
 
-Flag any changes to the text's claims, section order, or list of contributions instead of making them yourself. Never supply a cost, explanation, or number that the draft does not contain.
+Flag any change to the claims, section order, or list of contributions instead of making it yourself. Never add a cost, explanation, or number absent from the draft.
 
 ### The whole argument
 
@@ -100,7 +104,7 @@ Flag any changes to the text's claims, section order, or list of contributions i
 
 ### Numbers
 
-The most common flaw in the argument of AI-generated text is burying the point in the results. Reorder the text so that every number supports a claim already stated in words.
+The most common flaw in the argument of AI-generated text is listing results before stating what they show, or never stating the point. Reorder the text so that every number supports a claim already stated in words.
 
 {{story/claim-before-number}}
 
@@ -116,7 +120,7 @@ The most common flaw in the argument of AI-generated text is burying the point i
 
 ## Claims
 
-Every claim must match its evidence: both overclaiming and underclaiming are errors. An aspirational goal may motivate the work as long as the text states that the goal remains unattained.
+Every claim must match its evidence. Claiming either more or less than the evidence supports is an error. An unreached goal may motivate the work if the text states that the goal remains unreached.
 
 ### Strength and scope
 
@@ -154,7 +158,7 @@ Every claim must match its evidence: both overclaiming and underclaiming are err
 
 ## Cutting
 
-Use the [spine test](rules/cutting/spine-test.md) to determine what the argument needs, and check the request to see what you may delete or relocate.
+Use the [spine test](rules/cutting/spine-test.md) to find the core claims and the paragraphs readers need to understand or evaluate them. Then check the request to see what you may delete or move.
 
 ### Deciding what to cut
 
@@ -250,7 +254,7 @@ Use the [spine test](rules/cutting/spine-test.md) to determine what the argument
 
 ## Conventions
 
-These conventions override generic writing advice.
+When a convention in this section conflicts with general writing advice, follow the convention.
 
 ### Voice and tense
 
@@ -318,10 +322,10 @@ These conventions override generic writing advice.
 
 ## Deslopping
 
-Divide recognizable patterns of AI-written prose into two tiers:
+Patterns common in AI-written prose fall into two groups:
 
-1. **Blacklisted patterns.** Delete every instance; the threshold for tolerable patterns below does not apply.
-2. **Tolerable patterns.** Treat all other patterns in this section as tolerable. Edit a single instance when doing so improves the sentence itself, and rewrite a whole passage only when it contains three or more instances of tolerable patterns.
+1. **Blacklisted patterns.** Delete every instance, even a single one. The three-instance threshold below does not apply.
+2. **Tolerable patterns.** Edit a single instance when the edit makes the sentence clearer. Rewrite a whole passage only when it contains three or more instances of tolerable patterns.
 
 {{deslopping/author-voice}}
 

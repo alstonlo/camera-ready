@@ -1,10 +1,10 @@
-# Express parallel ideas in parallel form without changing meaning
+# Give parallel ideas the same grammatical form without changing their meaning
 
-Give ideas with the same logical role the same grammatical form, but preserve meaningful differences and qualifications. Do not rename unlike objects or delete a condition to create symmetry. Check which coordinated items share each modifier and predicate; when that scope is unclear, repeat words or split the sentence. Compare things of the same kind, and restore an omitted metric or predicate when needed to identify both sides of a comparison. When joining words, phrases, or clauses as equals hides a causal or qualifying relation, state the relation the draft supports. Keep clear idiomatic variation. Follow [list structure](list-structure.md) when choosing layout.
+Give ideas with the same logical role the same grammatical form, without renaming unlike objects or dropping conditions merely to force symmetry. When "and" or "or" joins items and it is unclear which modifiers and verbs apply to each item, repeat words or split the sentence (see Details). Compare things of the same kind, restoring an omitted quantity or verb when needed. When joining items as equals hides a causal or qualifying relation, state the relation the draft supports. Keep clear natural variation, and follow [list structure](list-structure.md).
 
 ## Details
 
-If the draft does not settle which coordinated items a qualifier governs, flag the ambiguity instead of choosing one.
+Preserve real differences and qualifications between parallel items. If the draft does not make clear which joined items a modifier or qualification applies to, flag the ambiguity instead of choosing one reading. In a comparison, restore an omitted quantity or verb when readers need it to tell what is compared with what, as in "the mass of the steel ball exceeds the mass of the wooden ball". When words, phrases, or clauses are joined with "and" or placed in a list as if they were equals, check whether one item actually causes or qualifies another. If so, rewrite the sentence to state the relation that the draft supports.
 
 ## Examples
 
@@ -16,7 +16,7 @@ If the draft does not settle which coordinated items a qualifier governs, flag t
 >
 > **Good.** We measured the length of the box, the width of the box with the lid open, and the weight of the box.
 
-> **Context.** The draft says only washing uses hot water.
+> **Context.** The draft says the authors use hot water only to wash the jars.
 >
 > **Bad.** We wash and dry the jars with hot water.
 >
@@ -30,13 +30,13 @@ If the draft does not settle which coordinated items a qualifier governs, flag t
 >
 > **Good.** We compare how quickly the fan cools the room and how quickly the window cools the room.
 
-> **Context.** The draft states that the frost caused the pipe to split.
+> **Context.** The draft states that frost caused the pipe to split.
 >
 > **Bad.** The pipe froze and split.
 >
 > **Good.** The pipe split because it froze.
 
-> **Context.** The draft says stirring is a condition for the powder to dissolve.
+> **Context.** The draft says the powder dissolves if the authors stir it.
 >
 > **Bad.** The powder dissolves and we stir it.
 >

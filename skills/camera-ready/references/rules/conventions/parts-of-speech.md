@@ -1,10 +1,10 @@
-# Use each technical term as one part of speech where possible
+# Avoid using one technical term as both a noun and a verb
 
-Use each technical term as one part of speech where possible. Words such as "sample", "estimate", and "model" can be either nouns or verbs, and using both roles in one sentence can force rereading. When that repetition hinders reading, replace the verb with an ordinary verb or separate the clauses.
+Where possible, use each technical term as only one part of speech. When a sentence uses a term such as "sample" or "test" as both a noun and a verb, forcing rereading, replace the verb with an ordinary verb or split the sentence (see Details).
 
 ## Details
 
-Preserve [technical names](term-consistency.md) when replacing a verb, and leave clear grammatical roles alone.
+When replacing a verb, keep [technical names](term-consistency.md) unchanged. If readers can distinguish the noun and the verb without rereading, leave the sentence alone.
 
 ## Examples
 

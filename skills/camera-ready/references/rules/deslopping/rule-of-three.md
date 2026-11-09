@@ -1,6 +1,6 @@
-# Revise reflexive rule-of-three triads
+# Revise rule-of-three lists written for rhythm
 
-Revise a three-part list such as "faster, cheaper, and more robust" when it is assembled for rhythm rather than to state three distinct, supported items. Keep a list whose subject calls for three items. Do not drop a substantive item merely to change the count; remove only empty or redundant wording, and flag unsupported attributes.
+Revise a three-part list such as "faster, cheaper, and more robust" when written for rhythm rather than to state three distinct, supported items. Remove empty or redundant words, and flag unsupported attributes. Never drop a substantive item just to change the count. Keep three items when the subject requires them.
 
 ## Details
 
@@ -20,7 +20,7 @@ This rule has no further details.
 >
 > **Good.** The kit contains a ruler, a brush, and a tray.
 
-> **Context.** The draft supports "waterproof" but includes no fire test; Good is the proposed revision, which keeps "fireproof" and flags its missing support.
+> **Context.** The draft supports "waterproof" but reports no fire test. The proposed revision keeps "fireproof" with a flag for missing support.
 >
 > **Bad.** The case is waterproof, fireproof, and remarkable.
 >

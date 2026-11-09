@@ -1,27 +1,27 @@
 # Summarize the argument in one sentence
 
-Combine the five lines into one sentence: "The problem matters; existing work leaves this gap, so we propose this idea, supported by this result." If the sentence identifies no gap, flag the missing problem. If it requires unrelated problems, flag the competing focuses; do not choose one or invent a claim that unifies them.
+Combine the five-line summary into one sentence: "Because the problem matters and existing work leaves a gap, we propose an idea that our result supports." If it names no gap, flag the missing problem. If it requires unrelated problems, flag competing focuses without choosing one or inventing a link.
 
 ## Details
 
-This sentence pattern is a diagnostic test, not required wording for the paper. Judge how the ideas connect rather than counting conjunctions: a gap need not be introduced by "but", and several "but" clauses may still describe obstacles to a single question.
+Build this sentence from the five-line summary of the problem, the gap and its cost, the idea, the evidence, and the implication. The sentence pattern is a test of the argument, not wording that the paper must use. When the sentence requires unrelated problems, do not choose one of the problems, and do not invent a claim that connects them. Decide whether the ideas connect by reading what they say, not by counting conjunctions such as "but". A gap need not begin with "but", and several clauses that begin with "but" may describe obstacles to answering one question rather than separate problems.
 
 ## Examples
 
-> **Context.** The draft states that existing window screens admit small flies; Good is the proposed summary using that missing gap.
+> **Context.** The draft states that existing window screens let small flies through, but the summary omits that gap.
 >
 > **Bad.** Keeping flies out protects stored food; we propose a finer window screen that blocks all flies in our trial.
 >
-> **Good.** Keeping flies out protects stored food, but existing window screens admit small flies; we propose a finer window screen that blocks all flies in our trial.
+> **Good.** Keeping flies out protects stored food, but existing window screens let small flies through; we propose a finer window screen that blocks all flies in our trial.
 
-> **Context.** The draft says that snow blocks the lenses of road cameras, that existing camera housings have no cover, and that its tested cover keeps the lens clear in a winter trial; Good is the proposed audit summary.
+> **Context.** The draft says that snow blocks the lenses of road cameras and that existing camera housings have no cover. It reports that the proposed cover keeps the lens clear in a winter trial, but the summary omits that result.
 >
 > **Bad.** Snow blocks the lenses of road cameras, and existing housings have no cover; we propose a cover.
 >
-> **Good.** Snow blocks the lenses of road cameras, and existing housings have no cover; we propose a cover, which keeps the lens clear in a winter trial.
+> **Good.** Snow blocks the lenses of road cameras, and existing housings have no cover; we propose a cover that keeps the lens clear in a winter trial.
 
-> **Context.** The draft develops a finer window screen against small flies and, separately, a reflective roof paint against overheating roofs, and it states no link between the two problems.
+> **Context.** The draft proposes a finer window screen to block small flies and a reflective roof paint to prevent roofs from overheating. It does not connect the two problems.
 >
 > **Bad.** Small flies and overheating make homes uncomfortable, so we propose a finer window screen and a reflective roof paint.
 >
-> **Good.** Flag for the author: the summary needs two unrelated problems, small flies and overheating roofs, so the draft has two competing focuses.
+> **Good.** Flag for the author: The summary can be written only by naming two unrelated problems, small flies and overheating roofs, so the draft has two competing focuses.

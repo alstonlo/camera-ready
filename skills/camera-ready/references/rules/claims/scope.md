@@ -1,30 +1,32 @@
 # Match scope and confidence to the evidence
 
-Use the broadest scope and most direct confidence the evidence supports, from a guarantee to one observed case, without [underclaiming](underclaiming.md). Limit each claim, especially a headline claim, to the conditions, datasets, and settings its evidence covers. If support is uncertain, leave the claim and flag it. A bare generic plural such as "Solar cells degrade in humid air" can state a tendency, but it still makes a claim about the whole class; when the evidence covers only the tested cases, name them ("the four cell designs we test"). Check whether absolutes such as "always" or "unique" extend a claim to untested cases. One in-scope counterexample defeats a universal claim but need not defeat a tendency.
+Make each claim as broad and as confident as the evidence supports, without [underclaiming](underclaiming.md). Keep every claim, especially a headline claim, within the conditions, datasets, and settings that its evidence covers. When support is uncertain, leave the claim unchanged and flag it. An unqualified plural noun, as in "Solar cells degrade in humid air", makes a claim about the whole class. If the evidence covers only the tested cases, name them, as in "the four cell designs we test". Check whether words such as "always" or "unique" extend a claim to untested cases.
 
-A micrograph, case report, generated sample, or other single example shows only that a case occurs, not how often. For a broader claim, the draft must explain how the example was selected, such as at random, as typical, or as the best case; flag missing information. Keep any explicit label marking an example as hypothetical or constructed, and never add such a label by inference. A broad claim drawn from sampled data needs a justified population and an account of how the sample was selected; check a claim of [independent confirmation](variability.md) under its own rule.
+A single example, such as a microscope image, case report, or generated sample, shows only that a case occurs, not how often. Flag a broader claim from a single example or from sampled data unless the draft explains how the example or sample was selected and, for sampled data, justifies the target population (see Details). Keep any explicit label marking an example as hypothetical or constructed, and never add one by inference. Check [independent confirmation](variability.md) under its own rule.
 
-Flag a research question or conclusion that, without support, treats a score as the broader property it measures indirectly or treats a ratio of scores as a proportional change in that property. Do not rewrite the question or add a caveat to fix the mismatch. A claim of superiority needs a relevant baseline; flag missing comparisons. A claim such as "ready for clinical use" or "ready for production" needs evidence about costs and operating conditions beyond gains under test conditions; flag missing support, but keep applications that the draft explicitly marks as tentative.
+Unless the draft supports the interpretation, flag a research question or conclusion that treats a score as the broader property it measures indirectly, or a ratio of scores as a proportional change in that property. Do not rewrite the question or add a caveat to fix either mismatch. Flag a superiority claim that lacks a relevant baseline. Flag a claim such as "ready for clinical use" or "ready for production" without evidence on costs and operating conditions beyond test gains. Keep applications that the draft explicitly marks as tentative.
 
-For temporal trends, small-sample probabilities, baseline selection, score differences, and wording that assumes an unstated fact ("the solution", "restores accuracy"), see the page.
+See Details for tendencies and counterexamples, trends over time, probabilities from small samples, baseline choices, score differences, and words that assume an unstated fact, such as "the solution" or "restores accuracy".
 
 ## Details
 
-Increasing the sample size does not by itself make an unrepresentative sample representative, and labeling a single example random, typical, or best-case does not by itself establish a broader claim. A valid constructed example can establish mathematical possibility, but do not present it as an empirical observation.
+A claim can range from a guarantee about every case to a report of one observed case. An unqualified plural noun may describe a tendency rather than a universal law. One counterexample within the claimed scope disproves a claim about every case, but it need not disprove a tendency.
 
-Claiming a trend in prevalence or rate requires observations over time with comparable denominators, whereas a trend in raw counts needs counts over time but no denominators; a few recent cases establish neither. In small samples, keep the observed numerator and denominator visible, and do not treat a sample percentage as an estimate of a population probability without support.
+To support a broader claim from a single example, the draft must explain how the example was selected, such as at random, as typical, or as the best case. Even with that explanation, calling a single example random, typical, or the best case does not by itself establish a broader claim, and increasing the sample size does not by itself make an unrepresentative sample representative. A valid constructed example can establish that something is mathematically possible, but do not present it as an empirical observation.
 
-Comparison against a baseline that the draft identifies as irrelevant or needlessly weak cannot establish general superiority, though age alone does not make a baseline obsolete.
+To claim that a proportion or rate changes over time, the draft needs observations over time with comparable denominators. To claim that a raw count changes over time, it needs counts over time but no denominators. A few recent cases establish neither trend. For a small sample, keep both the observed number of cases and the total number examined visible in the text. Do not treat the sample percentage as an estimate of a probability in the population without support.
 
-Read the research question, the measurement, and the conclusion together. A scale that orders systems need not support claims about the size of differences in the underlying property. Do not infer a scale type or change reported values to repair an unsupported interpretation.
+A baseline is a method or result used for comparison. If the draft identifies a baseline as irrelevant or needlessly weak, outperforming it cannot establish that a method is generally superior. A baseline is not obsolete merely because it is old.
 
-Check wording that presupposes an unstated fact: "the solution" may assume existence or uniqueness, and "restores accuracy" assumes higher prior accuracy. Keep a definite article when it refers to an introduced object or a chosen representative, and do not take an indefinite article ("a solution") to imply that several solutions exist.
+Read the research question, the measurement, and the conclusion together. A scale may rank systems without measuring how much they differ in the underlying property. Do not infer the type of scale or change reported values to repair an unsupported interpretation.
 
-When checking recommendations for practical adoption, check the requirements documented in the draft, such as startup costs or output guarantees, rather than imposing a generic deployment checklist. Keep conditional recommendations that the draft's evidence supports.
+Check for words that assume an unstated fact. "The solution" may assume that a solution exists or is unique. "Restores accuracy" assumes that accuracy was higher before. Keep "the" when it refers to an object already introduced or a chosen representative. Do not read "a solution" as implying that several solutions exist.
+
+When the draft recommends practical use, check the requirements it documents, such as startup costs or guarantees about outputs. Do not impose a generic checklist for deployment. Keep conditional recommendations that the draft's evidence supports.
 
 ## Examples
 
-> **Context.** The draft reports that the seal prevented leaks at the three pressures tested, with no evidence about other pressures.
+> **Context.** The draft reports no leaks at the three tested pressures. It gives no evidence about other pressures.
 >
 > **Bad.** The seal prevents leaks at all pressures.
 >
@@ -42,7 +44,7 @@ When checking recommendations for practical adoption, check the requirements doc
 >
 > **Good.** The four tested solar panel designs crack in dry heat.
 
-> **Context.** The draft reports that 99 of 100 tested bulbs lit within a second and describes prompt lighting as typical.
+> **Context.** The draft reports that 99 of 100 tested bulbs lit within a second and calls that timing typical.
 >
 > **Bad.** The tested bulbs always lit within a second.
 >
@@ -52,63 +54,63 @@ When checking recommendations for practical adoption, check the requirements doc
 >
 > **Bad.** Cracks are common in these tiles.
 >
-> **Good.** A crack occurs in the photographed tile.
+> **Good.** The photographed tile has a crack.
 
-> **Context.** The draft states that the pictured crystal was selected as the largest in the batch; the revision is proposed to the author.
+> **Context.** The draft says that the pictured crystal was selected because it was the largest in the batch. The editor proposes the revision to the author.
 >
 > **Bad.** The pictured crystal measures 8 mm.
 >
-> **Good.** The pictured crystal, selected as the largest in the batch, measures 8 mm.
+> **Good.** The pictured crystal measures 8 mm and was selected because it was the largest in the batch.
 
-> **Context.** The draft reports that surveyed volunteers at one library prefer evening hours and supports no citywide estimate.
+> **Context.** The draft reports a preference for evening hours among volunteers surveyed at one library. It supports no citywide estimate.
 >
 > **Bad.** City residents prefer evening hours.
 >
 > **Good.** The surveyed library volunteers prefer evening hours.
 
-> **Context.** The draft measures only a reduction in spelling errors and explicitly leaves overall writing quality untested; the revision of the conclusion is proposed to the author.
+> **Context.** The draft measures only a reduction in spelling errors and explicitly says that overall writing quality was not tested. The editor proposes the revised conclusion to the author.
 >
 > **Bad.** The course improves writing quality.
 >
 > **Good.** The course reduces spelling errors.
 
-> **Context.** The draft reports scores of 8 and 4 on a comfort scale and gives no proportional interpretation; the revision is proposed to the author.
+> **Context.** The draft reports comfort scores of 8 for chair A and 4 for chair B but does not establish that twice the score means twice the comfort. The editor proposes the revision to the author.
 >
 > **Bad.** Chair A is twice as comfortable as chair B.
 >
 > **Good.** Chair A scores twice as high as chair B on the comfort scale.
 
-> **Context.** The draft reports warmth ratings of 2, 3, and 4 for coats A, B, and C without establishing equal intervals of warmth; the revision is proposed to the author.
+> **Context.** The draft rates coats A, B, and C at 2, 3, and 4 for warmth but does not establish that equal score differences mean equal warmth differences. The editor proposes the revision to the author.
 >
 > **Bad.** The warmth gain from coat A to B equals that from coat B to C.
 >
-> **Good.** The warmth-rating gain from coat A to B equals that from coat B to C.
+> **Good.** The increase in warmth rating from coat A to B equals that from coat B to C.
 
-> **Context.** The draft compares absorption only with a 1990 pad design that it identifies as a relevant baseline.
+> **Context.** The draft compares water absorption only with a 1990 pad design, which it identifies as a relevant baseline.
 >
 > **Bad.** The pad absorbs more water than every alternative.
 >
 > **Good.** The pad absorbs more water than the 1990 pad design.
 
-> **Context.** The draft establishes only that the sensor meets the accuracy target in laboratory tests and supplies no field evaluation; the revision is proposed to the author.
+> **Context.** The draft shows that the sensor meets the accuracy target in laboratory tests but reports no field tests. The editor proposes the revision to the author.
 >
 > **Bad.** The sensor is ready for field use.
 >
 > **Good.** The sensor meets the accuracy target in laboratory tests.
 
-> **Context.** The draft tests the coating on aluminum only and explicitly proposes bridge use as an untested application.
+> **Context.** The draft reports tests of the coating only on aluminum. It explicitly proposes use on bridges as an untested application.
 >
 > **Bad.** The coating resists corrosion on all metals and may be useful on bridges.
 >
 > **Good.** The coating resists corrosion on aluminum in the tests and may be useful on bridges.
 
-> **Context.** The draft records more cracked tiles each month while inspecting more tiles and claims only an increase in the count; the revision is proposed to the author.
+> **Context.** The draft reports that inspectors examined more tiles and found more cracked tiles each month. It claims only a higher count. The editor proposes the revision to the author.
 >
 > **Bad.** The proportion of cracked tiles increased each month.
 >
 > **Good.** The number of cracked tiles increased each month.
 
-> **Context.** The draft reports three failures this week and no earlier observations; the revision is proposed to the author.
+> **Context.** The draft reports three failures this week and no earlier observations. The editor proposes the revision to the author.
 >
 > **Bad.** Pump failures are increasing.
 >
@@ -120,7 +122,7 @@ When checking recommendations for practical adoption, check the requirements doc
 >
 > **Good.** One of the five tested switches failed (20%).
 
-> **Context.** The draft establishes one feasible solution but identifies no unique or previously introduced solution.
+> **Context.** The draft gives one feasible solution to the routing problem. It does not show that this solution is unique, and it has not introduced the solution earlier.
 >
 > **Bad.** We give the solution to the routing problem.
 >

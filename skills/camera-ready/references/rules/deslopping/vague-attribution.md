@@ -1,32 +1,34 @@
-# Name the source of a vague attribution
+# Name the cited source when an attribution is vague
 
-Replace a vague attribution such as "studies show", "experts believe", or "X has been shown to" with its named source only when the draft cites one for that claim, usually in the same or an adjacent sentence; otherwise, flag the missing attribution. An explicitly hypothetical objection that the paper poses and answers needs no citation merely to identify an objector, though "Some may argue" alone does not mark an objection as explicitly hypothetical. Follow the [prior-work rules](../story/prior-work-comparisons.md) to keep clear who holds each position.
+Replace vague attributions such as "studies show", "experts believe", or "X has been shown to" with the named source only when the draft cites a source for that claim; otherwise, flag the missing attribution. An explicitly hypothetical objection that the paper poses and answers needs no citation to identify an objector (see Details). Follow the [prior-work rules](../story/prior-work-comparisons.md) to make clear who holds each position.
 
 ## Details
 
-If several nearby sources could support the claim and the draft does not identify which source applies, flag the ambiguity.
+The cited source is usually in the same sentence or an adjacent one. If the draft cites several nearby sources that could support the claim but does not identify which one applies, flag the ambiguity.
+
+The words "Some may argue" alone do not make an objection explicitly hypothetical; the paper must clearly frame the objection as hypothetical and answer it.
 
 ## Examples
 
-> **Context.** The draft cites Zhao et al. (2023) for this forecast and does not assert the forecast itself.
+> **Context.** The draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself.
 >
 > **Bad.** Experts believe that most new city roofs will be white by 2040 (Zhao et al., 2023).
 >
 > **Good.** Zhao et al. (2023) expect that most new city roofs will be white by 2040.
 
-> **Context.** The draft cites Patel (2022) for this reported result and does not assert it independently.
+> **Context.** The draft cites Patel (2022) for the result but does not assert the result itself.
 >
 > **Bad.** The coating has been shown to resist salt water (Patel, 2022).
 >
 > **Good.** Patel (2022) reports that the coating resists salt water.
 
-> **Context.** The draft cites Lin (2021) for the germination claim; Good is the proposed revision.
+> **Context.** The draft cites Lin (2021) for the claim about germination.
 >
 > **Bad.** Studies show that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 >
 > **Good.** Lin (2021) reports that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 
-> **Context.** The draft cites Vega (2024) for this objection; Good is the proposed revision.
+> **Context.** The draft cites Vega (2024) for the objection about the seal.
 >
 > **Bad.** Some may argue that the seal leaks in cold water.
 >

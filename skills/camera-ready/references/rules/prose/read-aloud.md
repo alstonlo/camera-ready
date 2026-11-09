@@ -1,6 +1,6 @@
 # Read the sentence aloud
 
-Read the sentence aloud, or simulate doing so, to locate hesitation, unclear stress, or missing links; then repair the structural cause. A smooth delivery does not prove clarity: the words and syntax must supply the intended reading without imagined pauses, emphasis, or prior knowledge. A punctuation change alone may not repair the structure. Repair the wording itself with literal statements; do not add a [writerly aside](writerly-asides.md) that tells readers how to read the sentence.
+Read the sentence aloud, or imagine doing so, to find where you hesitate, cannot tell what to stress, or miss a connection. Fix the structure and state the meaning literally, because punctuation alone may not be enough. A sentence read smoothly can still be unclear if it relies on pauses, stress, or background knowledge. Do not add a [writerly aside](writerly-asides.md) telling readers how to read it.
 
 ## Details
 

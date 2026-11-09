@@ -1,6 +1,6 @@
 # Do not open a sentence with "And", "But", "So", or "Plus"
 
-Do not begin a sentence with "And", "But", "So", or "Plus". Join the sentence to the preceding one or replace the opening word, preserving its logical relation: keep a contrast as a contrast, and mark a consequence only when the draft supports it. For the final item of a series, use "Finally", not "In addition", "Moreover", or "Furthermore", which mark further support. For a cited author's objection, follow [prior-work attribution](../story/prior-work-comparisons.md). Keep clear coordination within a sentence.
+Join a sentence beginning with "And", "But", "So", or "Plus" to the previous sentence, or replace the opening word. Keep a contrast as a contrast, and mark a consequence only when the draft supports it. Use "Finally" for the last item of a series, not "In addition", "Moreover", or "Furthermore", which add support. For a cited objection, follow [prior-work attribution](../story/prior-work-comparisons.md). Keep clear uses of these conjunctions within a sentence.
 
 ## Details
 

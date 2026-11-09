@@ -1,44 +1,44 @@
-# Make headings reveal the argument's structure
+# Use headings to show how the argument is organized
 
-Make each parent heading cover all of its subheadings, and give sibling headings (those under the same parent) [parallel form](../prose/parallel-form.md). Flag any of the following when it obscures the argument: a level with only one subheading, a fourth-level heading, or a very short section. When a heading could state its section's finding, flag it and propose a heading that keeps the body's claim strength and conditions; do not rewrite the heading yourself. Flag changes to the heading hierarchy, such as merging sections or removing a level, rather than making them yourself; preserve distinctions that help readers, and follow venue requirements.
+Make each parent heading describe all its subsections, and give headings under the same parent [parallel form](../prose/parallel-form.md). When it makes the argument hard to follow, flag a parent with only one subheading, a fourth-level heading, or a very short section. When a heading could state its section's finding, flag it and propose one that keeps the body's claim strength and conditions. Also flag and propose any change to how sections are grouped or nested. Do not make either change yourself. Keep distinctions that help readers, and follow venue requirements.
 
 ## Details
 
-When sibling headings mix objects, operations, and findings, check whether the mismatch comes from inconsistent wording or from sections with different functions before proposing new headings. Do not invent a second subheading to repair a level that has only one. When flagging a structural problem, name the affected headings. For headings that name only a dataset, sample, site, or setup, follow [results by question](results-by-question.md).
+When headings under the same parent mix objects, operations, and findings, check why before you propose new headings. The authors may have worded the headings inconsistently, or the sections may serve different purposes. When a parent has only one subheading, do not invent a second subheading to fix it. When you flag a change to how sections are grouped or nested, such as merging sections or removing a heading level, name the affected headings. For headings that name only a dataset, sample, site, or setup, follow [results by question](results-by-question.md).
 
 ## Examples
 
-> **Context.** The draft's user study covers only screen-reader navigation and has one subsection; Good is the hierarchy proposed to the author.
+> **Context.** The draft's user study covers only screen-reader navigation and has one subsection. Good is the heading to propose to the author.
 >
 > **Bad.** 3 User study; 3.1 Screen-reader navigation
 >
 > **Good.** 3 User study of screen-reader navigation
 
-> **Context.** The draft places both drying and weighing under a parent heading that names drying only; Good is the proposed hierarchy for the author.
+> **Context.** The draft groups drying and weighing under a parent heading that names only drying. Good is the revision to propose to the author.
 >
 > **Bad.** 2 Drying; 2.1 Drying samples; 2.2 Weighing samples
 >
 > **Good.** 2 Sample preparation; 2.1 Drying samples; 2.2 Weighing samples
 
-> **Context.** The draft's sibling sections describe the operations of mixing and cooling.
+> **Context.** In the draft, two subsections under the same parent heading describe the operations of mixing and cooling.
 >
 > **Bad.** 2.1 Mixing the solution; 2.2 The solution is cooled
 >
 > **Good.** 2.1 Mixing the solution; 2.2 Cooling the solution
 
-> **Context.** The draft reports that shade reduces water loss only in the tested ferns; Good is the proposed heading for the author.
+> **Context.** The draft reports that shade reduces water loss only in the tested ferns. Good is the heading to propose to the author.
 >
 > **Bad.** Water loss
 >
 > **Good.** Shade reduces water loss in the tested ferns
 
-> **Context.** The draft places a one-sentence timing instruction under a fourth-level heading, even though the sentence fits directly under the parent heading; Good is the proposed hierarchy for the author.
+> **Context.** The draft puts a one-sentence timing instruction under its own fourth-level heading, even though the sentence fits directly under the parent heading. Good is the revision to propose to the author.
 >
 > **Bad.** 2.1.1 Heating; 2.1.1.1 Duration; Heat for 5 minutes.
 >
 > **Good.** 2.1.1 Heating; Heat for 5 minutes.
 
-> **Context.** The draft's adjacent one-sentence sections give the temperature and duration of the same heating step; Good is the proposed hierarchy for the author.
+> **Context.** The draft gives the temperature and the duration of one heating step in two adjacent one-sentence sections. Good is the revision to propose to the author.
 >
 > **Bad.** 2 Heating temperature; Heat at 60 °C. 3 Heating duration; Heat for 5 minutes.
 >

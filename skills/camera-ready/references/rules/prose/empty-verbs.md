@@ -1,10 +1,10 @@
-# Replace empty verbs with the missing change or operation
+# Replace empty verbs with specific changes or operations
 
-When "affects", "varies", or "has implications for" leaves a reported change unspecified, state its direction and magnitude. When "provides", "enables", or "allows" names only an outcome, state the operation that achieves it. If the draft does not supply the needed measurement or operation, flag the gap. Keep wording that already explains the change or capability, and do not demand a measured magnitude for an explicitly untested hypothesis.
+When "affects", "varies", or "has implications for" reports an unspecified change, state its direction and size. When "provides", "enables", or "allows" states only an outcome, state the operation that produces it. Flag missing measurements or operations. Keep wording that already explains the change or capability. For an explicitly untested hypothesis, state the hypothesized direction without requiring a measured size.
 
 ## Details
 
-The same rule applies to "influences", "impacts", "contributes", and "facilitates". When replacing an empty verb, preserve unused capabilities under [performed actions](../conventions/performed-actions.md) and distinguish measurements from mechanisms under [causal language](../claims/causal-language.md).
+Apply the same rule to "influences", "impacts", "contributes", and "facilitates". When replacing an empty verb, do not describe an unused capability as an action the authors performed, following [performed actions](../conventions/performed-actions.md). Distinguish a measured change from an explanation of its cause, following [causal language](../claims/causal-language.md).
 
 ## Examples
 
@@ -14,13 +14,13 @@ The same rule applies to "influences", "impacts", "contributes", and "facilitate
 >
 > **Good.** Stirring reduces the sugar's dissolving time from 12 min to 7 min.
 
-> **Context.** The draft says the latch allows the lid to open by retracting a pin.
+> **Context.** The draft states that the latch retracts a pin so that the lid can open.
 >
 > **Bad.** The latch allows the lid to open.
 >
 > **Good.** The latch allows the lid to open by retracting a pin.
 
-> **Context.** The draft hypothesizes a decrease in heat loss but has not tested it.
+> **Context.** In the draft, the authors propose that the coating reduces heat loss, but they explicitly mark the hypothesis as untested.
 >
 > **Bad.** We hypothesize that the coating affects heat loss.
 >

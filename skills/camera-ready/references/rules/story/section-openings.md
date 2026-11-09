@@ -1,10 +1,10 @@
 # Open every section with its question and answer
 
-In each section's first paragraph, state the section's question and finding using content already in the section. An opening that merely announces the topic is a [signpost](../prose/signposts.md).
+State each section's question and finding in its first paragraph, using only content from that section. Openings that only name the topic are [signposts](../prose/signposts.md).
 
 ## Details
 
-The section's question may be stated declaratively; do not add a rhetorical question merely to satisfy this rule, and follow [paragraph opening order](../prose/paragraph-development.md). In a methods section, the key idea can serve as the answer; in a proof, the proof strategy can.
+You may write the question as a statement rather than a direct question. Do not add a rhetorical question just to satisfy this rule. Follow [paragraph opening order](../prose/paragraph-development.md). In a methods section, the answer can be the key idea. In a proof, the answer can be the proof strategy.
 
 ## Examples
 
@@ -12,15 +12,15 @@ The section's question may be stated declaratively; do not add a rhetorical ques
 >
 > **Bad.** We test whether a lid reduces water loss during boiling.
 >
-> **Good.** We test whether a lid reduces water loss during boiling; the lid halves water loss.
+> **Good.** We test whether a lid reduces water loss during boiling. The lid halves water loss.
 
-> **Context.** The Methods section explains that the lid prevents evaporation by returning condensed water to the tank.
+> **Context.** The draft's Methods section explains that the lid prevents evaporation by returning condensed water to the tank.
 >
 > **Bad.** We describe how the lid prevents evaporation.
 >
 > **Good.** The lid prevents evaporation by returning condensed water to the tank.
 
-> **Context.** The proof establishes the bound by splitting the path into two equal segments.
+> **Context.** The draft proves the bound by splitting the path into two equal segments.
 >
 > **Bad.** We prove the path-length bound.
 >

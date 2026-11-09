@@ -1,38 +1,38 @@
-# Distinguish new contributions from borrowed components
+# State what is new and what comes from earlier work
 
-Distinguish the present contribution from standard components, borrowed ideas, and the authors' earlier results. When the text extends a preliminary publication, identify the stated additions. Preserve wording that identifies the authors' earlier work unless the venue requires anonymity; in that case, flag the wording. Do not make the authors' earlier work sound like independent confirmation. If the draft leaves the contribution or attribution unclear, flag it rather than assigning credit.
+Distinguish what the authors contribute from standard components, borrowed ideas, and their earlier results. If the work extends a preliminary publication, state what the authors added. Keep wording that identifies their earlier work, or flag it if the venue requires anonymity. Do not present their earlier work as independent confirmation. Flag any unclear contribution or credit instead of assigning it.
 
 ## Details
 
-Do not infer unmarked borrowing from writing style or search for matching text. Shared authorship alone does not show that two studies share data or rule out independent confirmation; flag only what the supplied account establishes.
+State additions and credit using only what the draft says. Do not describe the authors' earlier work as if other researchers had independently confirmed the result. However, if two studies have authors in common, do not conclude from shared authorship alone that they reuse the same data or that neither study can independently confirm the other. Do not infer from writing style that the authors borrowed material without acknowledging it, and do not search for matching text.
 
 ## Examples
 
-> **Context.** The draft identifies the rain gauge as the authors' published work and the overflow alarm as the addition; Good is the proposed revision for the author.
+> **Context.** The draft states that the authors have already published the rain gauge and are adding an overflow alarm.
 >
 > **Bad.** We introduce the rain gauge and its overflow alarm.
 >
 > **Good.** We introduce the overflow alarm for our published rain gauge.
 
-> **Context.** The draft identifies Lee's published sieve as a borrowed component and the handle as the authors' addition; Good is the proposed revision for the author.
+> **Context.** The draft states that the authors use Lee's published sieve and add a handle.
 >
 > **Bad.** We introduce the sieve and handle.
 >
 > **Good.** We introduce a handle for Lee's published sieve.
 
-> **Context.** The draft identifies the earlier trial as the authors' own and states that both reports use the same measurements; Good is the proposed revision for the author.
+> **Context.** The draft identifies the earlier trial as the authors' own and states that both reports use the same measurements.
 >
 > **Bad.** An independent study confirms the effect.
 >
 > **Good.** Our earlier report describes the effect using the same measurements.
 
-> **Context.** The venue requires anonymous wording, and the draft identifies Lee et al. (2024) as the authors' earlier design; Good is the wording proposed to the author.
+> **Context.** The draft identifies Lee et al. (2024) as the authors' earlier design. The venue requires anonymity, so the editor flags the wording and proposes the revision below.
 >
 > **Bad.** We add an alarm to our earlier design (Lee et al., 2024).
 >
 > **Good.** We add an alarm to the design of Lee et al. (2024).
 
-> **Context.** The draft identifies the ordinary glass jar that holds the samples as standard equipment; Good is the proposed revision for the author.
+> **Context.** The draft identifies the glass jar used to hold samples as standard equipment.
 >
 > **Bad.** We introduce a glass jar to hold the samples.
 >

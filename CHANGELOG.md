@@ -8,6 +8,7 @@ This project follows [Semantic Versioning](https://semver.org/). The version is 
 - Incorporated guidance from writing textbooks.
 - Added examples to every rule page.
 - Generalized the rules from computer science to STEM.
+- Rewrote the rules in plainer language.
 
 ## 0.2.0 (2026-11-04)
 

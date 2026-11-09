@@ -1,6 +1,6 @@
-# Apply prose rules to ornate words, nominalizations, counts, and lists
+# Apply prose rules to ornate words, actions written as nouns, counts, and lists
 
-Apply the prose rules to [ornate wording](../prose/literal-wording.md) (such as "delve", "underscore", "showcase", and "pivotal"), clauses with [several nominalizations](../prose/character-action.md), and [counts that defer their items](../prose/direct-content.md). For arguments formatted as bullet lists, apply [list structure](../prose/list-structure.md). Follow each linked rule's exceptions, and keep a precise technical word, a useful nominalization, or a count whose items follow immediately.
+Apply the prose rules to [ornate words](../prose/literal-wording.md) such as "delve", "underscore", "showcase", and "pivotal", clauses that [express several actions as nouns](../prose/character-action.md), [deferred counts](../prose/direct-content.md), and bulleted arguments under [list structure](../prose/list-structure.md). Follow each linked page's exceptions. Keep precise technical terms, useful actions written as nouns, and counts whose items follow immediately.
 
 ## Details
 
@@ -12,7 +12,7 @@ This rule has no further details.
 >
 > **Good.** We use a ruler to measure the stem.
 
-> **Context.** In statistics, a pivotal quantity is a defined technical term.
+> **Context.** The draft uses "pivotal quantity" as a technical term in statistics.
 >
 > **Bad.** We delve into a pivotal quantity for the mean.
 >
@@ -22,7 +22,7 @@ This rule has no further details.
 >
 > **Good.** We collect and measure the seeds.
 
-> **Context.** The draft supplies these two observations.
+> **Context.** The draft reports that the leaves curl and the stems bend.
 >
 > **Bad.** We make two observations, which we discuss later.
 >
@@ -32,7 +32,7 @@ This rule has no further details.
 >
 > **Good.** We report two findings: the leaves curl, and the stems bend.
 
-> **Context.** The slash separates two bullet lines.
+> **Context.** The draft lists two bullets, separated here by a slash.
 >
 > **Bad.** - The seal leaks. / - Water reaches the contacts because the seal leaks.
 >

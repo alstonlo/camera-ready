@@ -1,6 +1,6 @@
-# Spell each word one way throughout
+# Spell each word the same way throughout
 
-Use US or UK spelling consistently throughout the text. When a word has two accepted forms, such as "dataset" and "data set", follow the venue's style or, if the venue specifies neither, use the draft's more frequent form.
+Use US or UK spelling consistently. For terms with two accepted forms, such as "dataset" and "data set", follow venue requirements; if the venue specifies neither form, use the draft's more frequent variant.
 
 ## Details
 
@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-> **Context.** The draft consistently uses "dataset" elsewhere, and the venue specifies neither form.
+> **Context.** In this draft, the authors use "dataset" everywhere else, and the venue specifies neither form.
 >
 > **Bad.** The data set contains labeled traffic flows.
 >
 > **Good.** The dataset contains labeled traffic flows.
 
-> **Context.** The draft uses US spelling throughout.
+> **Context.** In this draft, the authors use US spelling elsewhere.
 >
 > **Bad.** The solution changes colour.
 >
 > **Good.** The solution changes color.
 
-> **Context.** The venue requires "data set", although the draft more often uses "dataset".
+> **Context.** In this draft, the authors usually write "dataset", but the venue requires "data set".
 >
 > **Bad.** The dataset contains hourly readings.
 >

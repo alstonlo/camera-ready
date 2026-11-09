@@ -1,6 +1,6 @@
-# Replace aphorism formulas with the mechanism
+# Replace slogan-like analogies with literal explanations
 
-Replace a slogan-like analogy ("X is the Y of Z") with the mechanism that the draft states, and delete an empty slogan that makes no substantive claim. If the analogy asserts a substantive mechanism that the draft does not explain, keep the analogy and flag the missing explanation.
+Replace a slogan-like analogy ("X is the Y of Z") with the mechanism stated in the draft. Delete any slogan that makes no substantive claim. If an analogy asserts an unexplained mechanism, keep the analogy and flag the missing explanation.
 
 ## Details
 
@@ -18,7 +18,7 @@ This rule has no further details.
 >
 > **Good.** The latch closes with one turn.
 
-> **Context.** The draft states that the membrane admits only water without explaining how; the revision deletes the empty slogan, keeps the gatekeeper analogy, and flags the missing mechanism.
+> **Context.** The draft states that the membrane admits only water but does not explain the mechanism. The proposed revision deletes the empty slogan, keeps the gatekeeper analogy, and flags the missing explanation.
 >
 > **Bad.** The membrane is the gatekeeper that admits only water. It is the hero of the filter.
 >

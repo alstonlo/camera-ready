@@ -1,16 +1,16 @@
 # Use logical words unambiguously
 
-Replace ambiguous "any" with "every" or "at least one" according to the intended meaning; "some" requires only one case and leaves open whether every case qualifies. Use "each" with a singular noun instead of "all" with a plural when the plural could suggest that the objects share one value ("each sample is held at its own temperature"). Rewrite a negative statement as a positive one only when the two statements hold in exactly the same cases, including values equal to a threshold. Keep a deliberate denial as a denial, and do not replace a negated property, including a monotonicity property, with its apparent opposite ("not connected" does not mean "every vertex is isolated"). When "can" or "should" could mean capability, possibility, or obligation, use the meaning the draft establishes, or flag the ambiguity if the draft establishes none; for these words, also follow [hedges](../claims/hedges.md) and [performed actions](../conventions/performed-actions.md). Replace an ambiguous slash in prose with the words it stands for, such as "or" or "and", while keeping standard notation and abbreviations. Preserve whether a list is complete; "includes" alone does not imply omitted members. Keep "then" after an "if" clause whose conclusion is a formula or technical claim, and when "contains" could mean membership or subset inclusion, state which. Use the diagnostics in Details for nested conditions, negation scope, or a rhetorical "if" mistaken for a condition.
+Replace ambiguous "any" with "every" or "at least one", whichever the draft means; "some" requires only one case and leaves open whether every case qualifies. If "all" with a plural noun could suggest that objects share one value, use "each" with a singular noun instead ("each sample is held at its own temperature"). Rewrite a negative statement as a positive one only when both statements hold in exactly the same cases, including values equal to a threshold. Keep a deliberate denial as a denial. Do not replace a negated property, including monotonicity, with its apparent opposite ("not connected" does not mean "every vertex is isolated"). When "can" or "should" could mean capability, possibility, or obligation, use the meaning the draft establishes, or flag the ambiguity; also follow [hedges](../claims/hedges.md) and [performed actions](../conventions/performed-actions.md). Replace an ambiguous slash in prose with the words it stands for, such as "or" or "and", while keeping standard abbreviations and notation. Preserve whether a list is complete; "includes" alone does not imply omitted members. Keep "then" after an "if" clause whose conclusion is a formula or technical claim. When "contains" could mean membership or subset inclusion, state which. Use the checks in Details for nested conditions, negation scope, or an "if" that frames a comparison.
 
 ## Details
 
-If the draft does not settle what an ambiguous quantifier means, flag the ambiguity. When unpacking compounded negatives, list the cases admitted and excluded, including equality at thresholds. Distinguish "not all" from "none", and distinguish denying an outcome from denying its proposed cause.
+If the draft does not establish what an ambiguous quantity word such as "any" or "all" means, flag the ambiguity. To rewrite a statement with several negatives, first list the cases that it allows and the cases that it excludes, including a value exactly equal to a threshold. Distinguish "not all" from "none". Also distinguish a denial that an outcome occurred from a denial that a proposed cause produced it.
 
-In conditional statements, preserve the distinction between necessary and sufficient conditions and mark where the conclusion begins. Combine nested conditions only when both govern the same conclusion. When a rhetorical "if" frames a comparison rather than imposing a condition, rewrite it so that the framing is separated from the theorem’s claim and from any additional assumption. For definitional equivalence, follow [definitions](definitions-procedures.md).
+In a conditional statement, preserve the distinction between a necessary condition (one that must hold for the conclusion to be true) and a sufficient condition (one that guarantees the conclusion). Make clear where the conclusion begins. Combine nested conditions into one condition only when both govern the same conclusion. When "if" introduces a comparison rather than a condition, rewrite the sentence so that the comparison is stated separately from the theorem's claim and from any additional assumption. For a definition that states that two descriptions are equivalent, follow the [rule on definitions](definitions-procedures.md).
 
-When editing modal verbs, distinguish an observation, a capability, a prediction, a recommendation, and a requirement. Saying that a step is not required does not prohibit it, and failing to observe an outcome does not make it impossible.
+When you edit "can", "should", and similar verbs, distinguish an observation, a capability, a prediction, a recommendation, and a requirement. Saying that a step is not required does not prohibit it. Failing to observe an outcome does not make it impossible.
 
-When replacing a slash, check whether it expresses alternatives, joint requirements, or synonymous labels, and clarify whether both alternatives may occur when relevant. Keep conventional forms such as w/v, S/N, and I/O.
+When you replace a slash, check whether it separates alternatives, joint requirements, or names for the same thing. State whether both alternatives may occur together when that matters. Keep conventional forms such as w/v, S/N, and I/O.
 
 ## Examples
 
@@ -60,7 +60,7 @@ When replacing a slash, check whether it expresses alternatives, joint requireme
 >
 > **Good.** The rate is not increasing monotonically. Retain the run if at least one reading is valid.
 
-> **Context.** The draft describes what the pump is capable of, not what the operator is permitted to do.
+> **Context.** The draft describes the pump's capability, not the operator's permission to use it.
 >
 > **Bad.** The pump can move hot water.
 >
@@ -90,13 +90,13 @@ When replacing a slash, check whether it expresses alternatives, joint requireme
 >
 > **Good.** Record mass and volume.
 
-> **Context.** The draft requires both mass and volume; S/N is its established signal-to-noise notation.
+> **Context.** The draft requires both mass and volume and uses S/N for signal-to-noise ratio.
 >
 > **Bad.** Record S/N, then mass/volume.
 >
 > **Good.** Record S/N, then mass and volume.
 
-> **Context.** The original draft specifies steel and glass as the kit’s complete material list; Bad weakens that specification.
+> **Context.** The original draft states that steel and glass are the kit's only materials. The Bad line is an earlier edit that no longer says that the list is complete.
 >
 > **Bad.** The kit includes steel and glass.
 >
@@ -128,7 +128,7 @@ When replacing a slash, check whether it expresses alternatives, joint requireme
 >
 > **Good.** The lid closed, but not because of the spring.
 
-> **Context.** The draft proves the bound unconditionally and uses it to compare the two designs.
+> **Context.** The draft proves the bound without conditions and uses it to compare two designs.
 >
 > **Bad.** If we compare the two designs, the theorem gives a 5 W bound.
 >

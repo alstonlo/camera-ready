@@ -1,62 +1,62 @@
-# Spell out acronyms and coin them sparingly
+# Spell out acronyms and introduce few new ones
 
-Spell out an acronym where repeated use begins, and use the full term for isolated earlier mentions. Define the acronym separately in the abstract, in the body, and in each major section where it returns. Prefer the full term unless the acronym is standard or replaces a long, recurring name. Spell out any acronym that appears only once or twice, shares its letters with another common term in the field ("LR"), or saves no syllables when read aloud ("TS" for time step). Flag an unfamiliar acronym in the title and suggest a spelled-out alternative, but leave the title unchanged and define the acronym in the body. Flag opaque coined labels rather than renaming them. If an acronym you would expand also appears in tables, figures, or code, flag the change rather than making the prose inconsistent with them.
+Spell out an acronym where repeated use begins, and use the full term for isolated earlier mentions. Define it separately in the abstract, the body, and each major section where it returns. Prefer the full term unless the acronym is standard or shortens a long, recurring name. Spell out an acronym that appears once or twice, shares letters with another common term in the field ("LR"), or saves no syllables read aloud ("TS" for time step). Flag an unfamiliar title acronym (see Details) and propose a spelled-out title, but leave the title unchanged and define the acronym in the body. Flag opaque coined labels rather than renaming them. If an acronym you would expand also appears in tables, figures, or code, flag the expansion instead.
 
 ## Details
 
-Treat an acronym in the title as unfamiliar if readers in the field outside the subfield would not know it before reading the abstract.
+Treat an acronym in the title as unfamiliar if readers in the field outside the subfield would not know it before reading the abstract. When an acronym that you would otherwise expand appears in tables, figures, or code, flag the change so the author can keep the prose and displays consistent.
 
 ## Examples
 
-> **Context.** The draft uses "annual rainfall" only once.
+> **Context.** In this draft, the phrase "annual rainfall" appears only once.
 >
 > **Bad.** We record annual rainfall (AR) at each site.
 >
 > **Good.** We record annual rainfall at each site.
 
-> **Context.** Repeated use of ETR begins here in the body, and the draft defines it as "electron transport rate".
+> **Context.** In this draft, ETR stands for "electron transport rate", and this passage in the body begins its repeated use.
 >
 > **Bad.** We measure ETR at noon. ETR rises with light intensity.
 >
 > **Good.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
 
-> **Context.** This mention in the abstract is isolated; repeated use and the definition appear in Methods.
+> **Context.** In this draft, the term appears only once in the abstract, and the authors define and reuse the acronym later in Methods.
 >
 > **Bad.** We measure electron transport rate (ETR).
 >
 > **Good.** We measure electron transport rate.
 
-> **Context.** This sentence opens a major section that uses ETR repeatedly; an earlier section defines ETR as "electron transport rate".
+> **Context.** The draft defines ETR as "electron transport rate" in an earlier section, and this sentence opens a later major section that uses the acronym repeatedly.
 >
 > **Bad.** ETR decreases in shade.
 >
 > **Good.** Electron transport rate (ETR) decreases in shade.
 
-> **Context.** The draft defines LR as linear regression, but LR also commonly means likelihood ratio in this field; the abbreviation appears only in prose.
+> **Context.** In this draft, the authors define LR as linear regression and use it only in prose, but LR also commonly denotes likelihood ratio in the field.
 >
 > **Bad.** We compare LR with a spline fit.
 >
 > **Good.** We compare linear regression with a spline fit.
 
-> **Context.** The draft defines ETR as "electron transport rate", and the acronym ETR is unfamiliar outside the subfield; the Good line is the alternative title proposed to the author.
+> **Context.** The draft defines ETR as "electron transport rate", an acronym that readers outside the subfield would not recognize in a title. The editor flags the title and proposes spelling it out.
 >
 > **Bad.** ETR in shaded leaves
 >
 > **Good.** Electron transport rate in shaded leaves
 
-> **Context.** The draft uses Z as the name of its seed-sorting procedure; the Good line proposes a descriptive label to the author.
+> **Context.** The draft refers to an invented seed-sorting procedure as Z. The editor flags the opaque label and proposes the descriptive phrasing below.
 >
 > **Bad.** We use the Z procedure.
 >
 > **Good.** We use the seed-sorting procedure.
 
-> **Context.** The draft defines AR as annual rainfall and uses it once in prose and once in a figure; the Good line proposes a prose revision for the author to coordinate with the figure.
+> **Context.** The draft defines AR as annual rainfall, using it once in prose and once in a figure. The editor flags the change for the author to coordinate with the figure, proposing the prose revision below.
 >
 > **Bad.** AR varies by site.
 >
 > **Good.** Annual rainfall varies by site.
 
-> **Context.** The draft defines TS as time step, whereas DNA is standard for the intended readership.
+> **Context.** In this draft, the authors define TS as time step, whereas DNA is standard terminology for the intended readership.
 >
 > **Bad.** DNA is measured at each TS.
 >

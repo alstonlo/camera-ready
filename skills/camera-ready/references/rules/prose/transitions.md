@@ -1,10 +1,10 @@
-# Use transitions that express a valid logical relation
+# Use connecting words only for relations the draft supports
 
-Use a connective, such as "therefore" or "however", only for the relation the draft supports. When "as", "since", or "while" could mean time, cause, or contrast, reword it so that one reading remains; "conversely" needs an actual reversal. Remove a redundant connective when the sentence already expresses that relation, but keep a link the reader needs. If "therefore" introduces a conclusion the preceding premises do not support, flag the missing inference. Causal wording must satisfy the [causal-evidence rule](../claims/causal-language.md).
+Use a connecting word such as "therefore" or "however" only for a relation the draft supports. Replace "as", "since", or "while" when it leaves time, cause, or contrast ambiguous. Use "conversely" only when the second statement reverses the first. Remove a redundant connecting word, but keep one that readers need. Flag "therefore" if the preceding statements do not support the conclusion. Follow the [causal-evidence rule](../claims/causal-language.md) for causal words.
 
 ## Details
 
-When choosing a contrastive connective, distinguish a comparison, an exception, a direct denial, and a true reversal: two different results are not necessarily converses. If the surrounding draft does not settle which relation a connective expresses, flag the ambiguity.
+When choosing a word to express contrast, distinguish a comparison, an exception, a direct denial, and a true reversal; two results that merely differ are not converses. A connecting word is redundant when the rest of the sentence already expresses that relation. If the surrounding draft leaves the connection unclear, flag the ambiguity.
 
 ## Examples
 
@@ -12,19 +12,19 @@ When choosing a contrastive connective, distinguish a comparison, an exception, 
 >
 > **Good.** The lid prevents spills. The handle makes the jug easy to carry.
 
-> **Context.** The draft reports timing, not causation.
+> **Context.** In this example, the draft reports when the lamp flashes, without claiming a cause.
 >
 > **Bad.** As the pump stops, the lamp flashes.
 >
 > **Good.** When the pump stops, the lamp flashes.
 
-> **Context.** The draft establishes that the crack causes the leak.
+> **Context.** In this example, the draft gives evidence that the crack causes the leak.
 >
 > **Bad.** Since the seal is cracked, the jar leaks.
 >
 > **Good.** Because the seal is cracked, the jar leaks.
 
-> **Context.** The draft compares two materials rather than describing simultaneous events.
+> **Context.** In this example, the draft compares the materials' properties rather than the timing of events.
 >
 > **Bad.** While wax repels water, paper absorbs it.
 >
@@ -38,7 +38,7 @@ When choosing a contrastive connective, distinguish a comparison, an exception, 
 >
 > **Good.** Because the gasket is cracked, the lid leaks.
 
-> **Context.** The draft supplies the missing premise that every cracked jar leaks; Good is the proposed revision.
+> **Context.** In this example, the draft states elsewhere that every cracked jar leaks. Good shows the revision to propose when flagging the missing step in the reasoning.
 >
 > **Bad.** This jar is cracked. Therefore, it leaks.
 >

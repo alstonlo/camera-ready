@@ -1,10 +1,10 @@
 # Put old information before new
 
-Open each sentence with something the preceding text has given the reader: a term it has used, or a part, property, or alternative the reader can infer from it. A concept is not old information merely because the field knows it. When several elements are old, open with the one the new sentence builds on; if they are equally relevant, choose the most recently mentioned one. When changing voice or clause order, keep what the paragraph is about as the main subject, and preserve a useful passive under [alternative sentence orders](passives-fronting-inversions.md).
+Open each sentence with old information: a term from the preceding text, or a part, property, or alternative that readers can infer from it. A concept known in the field is not old information until the text introduces it. Among several old items, open with the one that the sentence discusses, or the most recent one if they are equally relevant. When changing voice or clause order, keep the paragraph's topic as the main subject. Keep useful passives under [alternative sentence orders](passives-fronting-inversions.md).
 
 ## Details
 
-An introductory condition can link back to the preceding sentence while the main subject keeps attention on the paragraph’s topic. Check both the opening link and the main subject when changing clause order or voice. A repeated word does not count as a useful link when it names only an incidental detail and the sentence develops something else.
+An opening condition can refer back to the preceding sentence while the main subject names the paragraph's topic, as in the sensor example below. When you reorder clauses or change voice, check both that the opening refers to old information and that the main subject names the paragraph's topic. Repeating a word from the preceding sentence does not help readers follow the paragraph if that word names only an incidental detail and the new sentence discusses a different topic.
 
 ## Examples
 
@@ -16,19 +16,19 @@ An introductory condition can link back to the preceding sentence while the main
 >
 > **Good.** We examined a bicycle. Its front wheel was held by a loose bolt.
 
-> **Context.** The paragraph is about the fan; it mentions dust only as a test condition.
+> **Context.** The draft's paragraph is about the fan and mentions dust only as a test condition.
 >
 > **Bad.** We tested the fan in dust. Dust coated the fan’s three blades.
 >
 > **Good.** We tested the fan in dust. The fan’s three blades were coated with dust.
 
-> **Context.** The paragraph treats the cup and the bowl as equally relevant.
+> **Context.** The draft's paragraph treats the cup and the bowl as equally relevant.
 >
 > **Bad.** We put the cup beside the bowl. The cup was smaller than the bowl.
 >
 > **Good.** We put the cup beside the bowl. The bowl was larger than the cup.
 
-> **Context.** The paragraph concerns a sensor; the preceding sentence introduces cold conditions.
+> **Context.** The draft's paragraph is about a sensor. The preceding sentence introduces cold conditions.
 >
 > **Bad.** A voltage of 5 V is required by the sensor in cold conditions.
 >

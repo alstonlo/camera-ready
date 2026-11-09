@@ -1,14 +1,14 @@
 # Apply the deletion test without changing meaning
 
-Delete a word or clause only when it adds nothing and the sentence remains as easy to understand; brevity alone does not justify an edit. Before keeping any deletion, replacement, or restructuring, check that the revision preserves the original's referents, actors, actions, definitions, logical relations, modality (whether something is possible, required, or actual), scope, and authorial stance, as well as the [structural words](first-reading.md) that the reader needs on the first reading. Preserve distinctions even when a simpler version conveys the gist, and apply the [claim rules](../claims/scope.md) to any substantive change. When you are uncertain whether the revision and the original mean the same thing, keep the original and flag the ambiguity.
+Apply the deletion test: delete a word or clause only if it adds nothing and the sentence remains as easy to understand. Any deletion, replacement, or restructuring must keep the [structural words](first-reading.md) readers need on the first reading. Preserve who acts, what each actor does, what each word refers to, and whether something is possible, required, or actual. Also keep definitions, logical relations, distinctions, the cases covered, and the author's stance. Follow the [claim rules](../claims/scope.md) to any substantive change. If you are unsure whether an edit changes the meaning, keep the original and flag the ambiguity.
 
 ## Details
 
-To test equivalence, compare the exact cases in which the original and the revision hold, including values equal to a threshold, the population measured, and the denominator of any rate or fraction. When cutting ideas rather than tightening wording, follow [cutting permissions](../cutting/idea-cuts.md) and [protected content](../cutting/protected-sentences.md).
+Brevity alone does not justify an edit. Keep distinctions even when a simpler phrasing conveys the general idea. To verify that two versions mean the same thing, compare the exact cases in which each holds. Check values equal to a threshold, the population measured, and the denominator of any rate or fraction. Structural words include articles and the word "that" after verbs such as "show" and "find". When cutting ideas rather than tightening wording, follow [cutting permissions](../cutting/idea-cuts.md) and [protected content](../cutting/protected-sentences.md).
 
 ## Examples
 
-> **Context.** The original draft says the sensor works only below 40 °C; Bad is an edit that dropped this restriction.
+> **Context.** The draft states that the sensor works only below 40 °C; a proposed edit removes this temperature limit.
 >
 > **Bad.** The sensor works.
 >
@@ -18,31 +18,31 @@ To test equivalence, compare the exact cases in which the original and the revis
 >
 > **Good.** We repeated the test.
 
-> **Context.** The original draft says the nurse asks the patient to lift the weight; Bad drops an action.
+> **Context.** The draft states that the nurse asks the patient to lift the weight; a proposed edit drops the request and changes who lifts the weight.
 >
 > **Bad.** The nurse lifts the weight.
 >
 > **Good.** The nurse asks the patient to lift the weight.
 
-> **Context.** The original draft states a capability; Bad turns it into a performed action.
+> **Context.** The draft states that the latch can lock automatically; a proposed edit turns this capability into a performed action.
 >
 > **Bad.** The latch locks automatically.
 >
 > **Good.** The latch can lock automatically.
 
-> **Context.** The original defines a passing score as at least 60; Bad changes the boundary.
+> **Context.** The draft defines a passing score as at least 60; a proposed edit replaces "at least" with "exceeds" and excludes 60.
 >
 > **Bad.** A passing score exceeds 60.
 >
 > **Good.** A passing score is at least 60.
 
-> **Context.** The original draft says the lamp stays off unless the door opens; Bad asserts sufficiency.
+> **Context.** The draft states that the lamp stays off unless the door opens; a proposed edit treats opening the door as sufficient to turn the lamp on.
 >
 > **Bad.** The lamp turns on if the door opens.
 >
 > **Good.** The lamp stays off unless the door opens.
 
-> **Context.** The original draft says the authors were surprised that the thin coating lasted longer than the thick one; Bad drops this stance.
+> **Context.** The draft reports the authors' surprise that the thin coating lasted longer than the thick one; a proposed edit drops this authorial stance.
 >
 > **Bad.** The thin coating lasted longer than the thick one.
 >
@@ -52,7 +52,7 @@ To test equivalence, compare the exact cases in which the original and the revis
 >
 > **Good.** We found that the scale that we used was faulty.
 
-> **Context.** The original draft says half the planted seeds sprouted; Bad changes the denominator.
+> **Context.** The draft states that half the planted seeds sprouted; a proposed edit drops "planted" and changes the denominator of the fraction.
 >
 > **Bad.** Half the seeds sprouted.
 >

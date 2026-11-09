@@ -1,38 +1,38 @@
 # Summarize the argument in five lines
 
-Before editing, use the text itself to write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication. Condense the idea and evidence lines into the core claims for the [spine test](../cutting/spine-test.md). Flag any line you cannot write from the text.
+Before editing, summarize the draft in five lines: the problem, the gap and its cost, the idea, the evidence, and the implication. Combine the idea and evidence lines into the core claims for the [spine test](../cutting/spine-test.md). Flag any part that the draft omits.
 
 ## Details
 
-The five lines are audit notes, not sentences to insert into the paper.
+The five lines are your notes for checking the argument. Do not insert them into the paper. Write each line using only what the draft states. The gap is what existing work leaves unresolved, and its cost is why that gap matters. The spine test uses the core claims to check whether each paragraph supports the argument. If the draft omits part of a line, such as the gap's cost, write the rest of the line and flag the missing part for the author.
 
 ## Examples
 
-> **Context.** The draft says that the tide gauge stops recording during storms, leaving peak water levels unknown; this pair shows the gap-and-cost line of the audit.
+> **Context.** The draft says that the tide gauge stops recording during storms and leaves peak water levels unknown.
 >
 > **Bad.** Gap and cost: The tide gauge stops recording during storms.
 >
-> **Good.** Gap and cost: The tide gauge stops recording during storms, leaving peak water levels unknown.
+> **Good.** Gap and cost: The tide gauge stops recording during storms and leaves peak water levels unknown.
 
-> **Context.** The draft says that the tide gauge stops recording during storms but never states what the missing records cost; this pair shows the gap-and-cost line of the audit.
+> **Context.** The draft says that the tide gauge stops recording during storms but does not say why the missing records matter.
 >
 > **Bad.** Gap and cost: The tide gauge stops recording during storms, so flood warnings fail.
 >
-> **Good.** Gap and cost: The tide gauge stops recording during storms. Cost: not stated in the draft; flag for the author.
+> **Good.** Gap and cost: The tide gauge stops recording during storms. Flag for the author: The draft does not state why the missing records matter.
 
-> **Context.** The draft states that the finer screen blocks small flies in the trial, keeping them out of the tested food store; the problem, gap, and idea lines of the audit are already complete.
+> **Context.** The draft says that the finer screen blocks small flies in the trial and keeps them out of the tested food store. The problem, gap, and idea lines of the summary are already written.
 >
 > **Bad.** Evidence: The finer screen blocks small flies in the trial. Implication: Not recorded.
 >
 > **Good.** Evidence: The finer screen blocks small flies in the trial. Implication: The finer screen keeps small flies out of the tested food store.
 
-> **Context.** In the audit notes for the spine test, the idea line proposes a lid and the evidence line states that the lid halves evaporation in the tested tank.
+> **Context.** In the five-line summary, the idea line proposes a lid, and the evidence line states that the lid halves evaporation in the tested tank. The editor combines the two lines into a core claim for the spine test.
 >
 > **Bad.** Core claim: We propose and test a lid.
 >
 > **Good.** Core claim: The lid halves evaporation in the tested tank.
 
-> **Context.** The draft states that sediment clogs the village's drinking-water pipes; this is the problem line of the audit.
+> **Context.** The draft states that sediment clogs the village's drinking-water pipes.
 >
 > **Bad.** Problem: Drinking water.
 >

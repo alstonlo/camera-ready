@@ -1,10 +1,16 @@
 # Repair pause punctuation between a claim and its evidence
 
-Check every colon or semicolon, not only one that replaced an em dash, for a vague claim followed by its evidence ("Annealing helps: conductivity rises by 40%"). Read the first clause alone: if it states no specific fact, either connect the claim to its evidence in words ("as shown by ...") or delete the vague clause when the evidence already states the whole claim. Simply replacing the colon or semicolon with a period does not fix the vague clause. When the first clause states a specific fact, keep a semicolon before a related fact or a colon before an explanation or example. A colon may also introduce a list, display (following [mathematical punctuation](../conventions/math-prose.md)), quoted definition, or label without a prior factual assertion, as long as it does not pair a vague claim with its evidence. No colon may imply a cause or an exhaustive list that the draft does not support. Also restore a missing verb in a trailing comma phrase ("adds 3 ms, below the limit" becomes "adds 3 ms, which is below the limit"), while keeping appositives, clear participial phrases, and parallel phrases that share an earlier verb.
+Check every colon and semicolon for a vague claim followed by its evidence, as in "Annealing helps: conductivity rises by 40%". Check all marks, not only those that replaced an em dash. Read the clause before the mark on its own. If it states no specific fact, join the claim to its evidence in words (such as "as shown by") or delete the vague clause when the evidence states the whole claim; replacing the mark with a period does not fix the vague clause. If the first clause states a specific fact, keep a semicolon before a related fact or a colon before an explanation or example. For colons that introduce lists, displayed formulas under [mathematical punctuation](../conventions/math-prose.md), quoted definitions, or labels, see Details. In a phrase after a comma, restore any missing verb, changing "adds 3 ms, below the limit" to "adds 3 ms, which is below the limit". Keep appositives, clear participial phrases, and parallel phrases (see Details).
 
 ## Details
 
-An appositive names the same thing as the preceding noun, and a clear participial phrase modifies an identifiable actor or event.
+A colon may introduce a list, a displayed formula under mathematical punctuation, a quoted definition, or a label without a prior factual statement, provided that the mark does not separate a vague claim from its evidence. Never keep a colon that implies a cause or an exhaustive list that the draft does not support.
+
+The following phrases after a comma need no added verb:
+
+- An appositive, which names the same thing as the preceding noun, as in "the tray, a steel rectangle".
+- A clear participial phrase, which uses a verb form such as "filling" to describe an identifiable actor or event, as in "the pump runs, filling the tank".
+- Parallel phrases that share an earlier verb, as in "the tank holds 5 L, the bottle 1 L".
 
 ## Examples
 
@@ -12,17 +18,17 @@ An appositive names the same thing as the preceding noun, and a clear participia
 >
 > **Good.** The new tap reduces water use by 18%.
 
-> **Context.** The draft measures the lid only by whether it leaks.
+> **Context.** The draft uses leaks as its only measure of whether the lid works.
 >
 > **Bad.** The lid works well: no leaks at 10 °C, 20 °C, or 30 °C.
 >
 > **Good.** The lid does not leak at 10 °C, 20 °C, or 30 °C.
 
-> **Context.** The draft uses the lack of escaping water as evidence that the seal works.
+> **Context.** The draft treats the observation that no water escapes as evidence that the seal works.
 >
 > **Bad.** The seal works; no water escapes during the pressure test.
 >
-> **Good.** The seal works, as shown by the absence of escaping water during the pressure test.
+> **Good.** The seal works, as shown by the fact that no water escapes during the pressure test.
 
 > **Bad.** The box weighs 4 kg; the lid weighs 1 kg, below the limit.
 >

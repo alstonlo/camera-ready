@@ -1,6 +1,6 @@
-# Replace copula avoidance with "is", "has", or action verbs
+# Replace needless substitutes for "is", "has", or action verbs
 
-Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "is" or "has" when the meaning stays the same, or turn the following noun into a verb when it names an action ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity, such as a compound acting as a catalyst, or when they have a precise technical meaning.
+Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "is" or "has" when the meaning stays the same, or turn the following action noun into a verb ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity, such as a compound acting as a catalyst, or have a precise technical meaning.
 
 ## Details
 

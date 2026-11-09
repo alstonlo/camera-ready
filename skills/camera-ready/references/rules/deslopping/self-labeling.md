@@ -1,6 +1,6 @@
-# Make importance clear without self-labeling significance
+# Delete sentences that only label results important or surprising
 
-Delete a sentence that merely labels an earlier result important or surprising ("This is the key result"). When the draft explains why the result matters, use that explanation to organize the passage; otherwise, delete the empty label without adding an explanation. Keep a word of genuine authorial stance that introduces a claim ("Interestingly,").
+Delete sentences that merely label an earlier result important or surprising ("This is the key result"). If the draft explains why the result matters, organize the passage around that reason. Otherwise, delete the label without adding an explanation. Keep a word of authorial stance that introduces a claim ("Interestingly,").
 
 ## Details
 
@@ -12,13 +12,13 @@ This rule has no further details.
 >
 > **Good.** The covered pond loses half as much water as the uncovered pond.
 
-> **Context.** The draft states that fitting through the door allows transport without disassembly.
+> **Context.** The draft states that the tray fits through the door, so it can be transported without being taken apart.
 >
 > **Bad.** The tray fits through the door. This is an important result.
 >
-> **Good.** The tray fits through the door, allowing transport without disassembly.
+> **Good.** The tray fits through the door, so it can be transported without being taken apart.
 
-> **Context.** The draft expresses surprise in its opening word.
+> **Context.** In the draft, the opening word "Surprisingly" already states the author's surprise.
 >
 > **Bad.** Surprisingly, the dry seeds sprout first. This is a surprising result.
 >

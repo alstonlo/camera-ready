@@ -1,6 +1,6 @@
 # State the claim before the number
 
-State the finding in words before the number that supports it, then refer to the table for the remaining values. Identify the claim that each number supports. Flag a number that supports no identifiable claim; move it only when the request permits relocation and a suitable destination exists. When a table already gives a number, remove the number from the text only under the [headline-number rule](headline-number.md), preserving needed comparisons and uncertainty.
+State the finding in words before its supporting number, and refer to the table for the remaining values. Check which claim each number supports. Flag any number without an identifiable claim. Move it only if the request allows relocation and a suitable place exists. When a table gives a number, remove it from the text only under the [headline-number rule](headline-number.md), keeping needed comparisons and uncertainty.
 
 ## Details
 
@@ -10,4 +10,4 @@ This rule has no further details.
 
 > **Bad.** The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
 >
-> **Good.** The new brakes shorten stopping distance: the average stopping distance falls from 18 m to 12 m.
+> **Good.** The new brakes shorten stopping distance. The average stopping distance falls from 18 m to 12 m.

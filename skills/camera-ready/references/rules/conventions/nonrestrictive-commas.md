@@ -1,6 +1,6 @@
 # Set off non-restrictive clauses with commas
 
-Use commas around a non-restrictive clause, which adds information rather than identifying which objects are meant. Preserve the meaning of a restrictive clause: do not add commas merely because it begins with "which", and change restrictive "which" to "that" only when the venue requires it. Do not put commas around a symbol that names the preceding noun ("a directed graph G with source s").
+Put commas around a non-restrictive clause, which adds information without restricting the noun. Do not add commas to a restrictive clause just because it starts with "which". Change restrictive "which" to "that" only when the venue requires it. Do not place commas around a symbol naming the preceding noun ("a directed graph G with source s").
 
 ## Details
 
@@ -14,7 +14,7 @@ This rule has no further details.
 >
 > **Good.** The seedlings, which are in the greenhouse, need water.
 
-> **Context.** Only seedlings with red tags need water; the venue permits restrictive "which".
+> **Context.** The draft states that only seedlings with red tags need water. The venue permits restrictive "which".
 >
 > **Bad.** The seedlings, which have red tags, need water.
 >
@@ -24,7 +24,7 @@ This rule has no further details.
 >
 > **Good.** A circle $C$ encloses the triangle.
 
-> **Context.** Only the tagged seedlings need water; the venue requires restrictive "that".
+> **Context.** The draft states that only the tagged seedlings need water. The venue requires restrictive "that".
 >
 > **Bad.** The seedlings which have red tags need water.
 >

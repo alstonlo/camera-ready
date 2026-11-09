@@ -1,6 +1,6 @@
 # Add an accurate noun after an ambiguous "this"
 
-When "this", "that", or "it" could refer to several nouns or claims, add a concise noun identifying the supported referent. If the draft does not settle the referent, flag the ambiguity rather than choosing one. The noun must preserve the earlier statement's status and evaluation: a conjecture is not a finding, and a change is not necessarily an improvement. A bare demonstrative may remain in a clear interpretive opening such as "This suggests that" after one unambiguous claim.
+When "this", "that", or "it" could refer to several nouns or claims, add a noun naming the supported referent. If the draft leaves the referent unclear, flag the ambiguity instead of choosing one. The noun must preserve the statement's status and evaluation: a conjecture is not a finding, and a change is not necessarily an improvement. A bare "This" may open an interpretation like "This suggests that" after one unambiguous claim.
 
 ## Details
 
@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-> **Context.** The draft identifies the overflow, rather than the stopped pump, as the cause of the delay.
+> **Context.** The draft says the overflow caused the delay, not the stopped pump.
 >
 > **Bad.** The pump stopped, and the tank overflowed. This delayed the experiment.
 >

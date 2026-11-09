@@ -1,10 +1,10 @@
 # Finish one topic before starting another
 
-Finish one logical topic before switching to another, and repair any unexplained return to an earlier topic. In a comparison organized by named dimensions, each dimension can be the topic: discuss both methods on one dimension before moving to the next. Preserve that structure rather than regrouping the text into one block per method. Reorder sentences and paragraphs within a section when needed; flag changes to section order.
+Finish discussing one topic before starting another, and repair any unexplained return to an earlier topic. In a comparison organized by named properties, each property can be the topic; keep that structure instead of regrouping the text by method (see Details). Reorder sentences and paragraphs within a section when needed, but flag changes to section order.
 
 ## Details
 
-A comparison that alternates between methods follows this structure only when it names each dimension and applies it consistently before moving to the next.
+When a comparison treats each property, such as weight or cost, as a topic, discuss both methods on one property before comparing them on the next. Keep the comparison organized by property instead of grouping all statements about each method. A comparison that switches between methods follows this order only if it names each property and compares the methods consistently on that property before moving to the next.
 
 ## Examples
 

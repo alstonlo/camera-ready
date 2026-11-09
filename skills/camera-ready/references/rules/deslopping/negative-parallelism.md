@@ -1,6 +1,6 @@
 # Replace negative parallelism with the positive claim
 
-Replace constructions such as "not only … but also" and "It is not just X, it is Y", including those that span two sentences ("The headline is not the speedup. The real story is ..."), with the positive claim when the alternative that they reject is invented for emphasis. Keep contrasts that exclude a real alternative ("we measure X, not Y"). State the supported result and its measurements directly.
+Replace negative parallelism, such as "not only … but also", "It is not just X, it is Y", or paired sentences ("The headline is not X. The real story is Y"), with the positive claim when the rejected alternative was invented for emphasis. State supported results and measurements directly. Keep contrasts that exclude real alternatives ("we measure X, not Y").
 
 ## Details
 
@@ -16,7 +16,7 @@ This rule has no further details.
 >
 > **Good.** The lid reduces evaporation by 20%.
 
-> **Context.** The draft attributes the reduction to the lid.
+> **Context.** The draft states that the lid reduces evaporation by 20%.
 >
 > **Bad.** The headline is not the lid. The real story is the 20% reduction in evaporation.
 >

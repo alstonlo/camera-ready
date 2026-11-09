@@ -1,32 +1,32 @@
-# Remove leaked generation artifacts and flag the gaps
+# Remove stray citation codes and placeholders, and flag missing information
 
-Remove citation tokens leaked from chat interfaces, such as `citeturn0search0` and `contentReference[oaicite:...]`, along with unfilled placeholders such as "[Insert citation]". Keep the surrounding claim and flag the missing information. When a URL contains the AI-referrer parameter `utm_source=chatgpt.com`, leave the URL unchanged in the text and flag the parameter for removal.
+Remove chat citation codes, such as `citeturn0search0` and `contentReference[oaicite:...]`, and unfilled placeholders, such as "[Insert citation]". Keep the surrounding claim and flag the missing information. For URLs with `utm_source=chatgpt.com`, leave the URL unchanged and flag the parameter for removal.
 
 ## Details
 
-Also check for unfinished author fields and citation tokens from other chat interfaces. When flagging a removed placeholder or token, state what information the surrounding sentence requires.
+Also check for unfilled author fields, such as "[Author name here]", and for citation codes from other chat interfaces. The parameter `utm_source=chatgpt.com` identifies ChatGPT as the referring website. When you flag a removed placeholder or citation code, state what information the surrounding sentence needs.
 
 ## Examples
 
-> **Context.** The draft gives the opening date without a source; the edit removes the placeholder and flags the missing citation.
+> **Context.** In this draft, the sentence gives an opening date without a citation. The editor removes the placeholder and flags the missing source.
 >
 > **Bad.** The bridge opened in 1986. [Insert citation]
 >
 > **Good.** The bridge opened in 1986.
 
-> **Context.** The draft gives the opening date without a source; the edit removes the leaked token and flags the missing citation.
+> **Context.** In this draft, the sentence gives an opening date without a citation. The editor removes the stray citation code and flags the missing source.
 >
 > **Bad.** The bridge opened in 1986. citeturn0search0
 >
 > **Good.** The bridge opened in 1986.
 
-> **Context.** The draft gives the survey month but omits the author's name; the edit removes the placeholder and flags the missing name.
+> **Context.** In this draft, the text reports the survey month but leaves an author placeholder. The editor removes the placeholder and flags the missing author name.
 >
 > **Bad.** The survey was conducted in May. [Author name here]
 >
 > **Good.** The survey was conducted in May.
 
-> **Context.** The edited text leaves the URL unchanged, while a flag proposes removing the referrer parameter as shown in Good.
+> **Context.** In this draft, a URL includes an AI referrer parameter. The editor leaves the URL in place and flags the parameter for removal. The Good line shows the clean URL proposed in the flag.
 >
 > **Bad.** Data are at https://example.org/data?utm_source=chatgpt.com.
 >

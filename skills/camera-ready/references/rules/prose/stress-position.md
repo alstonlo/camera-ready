@@ -1,32 +1,32 @@
-# Put emphasized information in the stress position
+# Put important new information in the stress position
 
-The stress position is the end of a sentence or independent clause, where the clause becomes grammatically complete. Put important new information in that position. When a trailing qualifier such as "in these tests" buries the point, move the qualifier to the front of the sentence rather than deleting it. If several important items compete for one ending, split the sentence so that each receives emphasis. Check whether a paragraph's first sentence ends on the topic that the paragraph goes on to develop. When joining or subordinating clauses, preserve the relative weight of findings and qualifications. Move an essential qualification out of parentheses when the parentheses make it look optional. Keep each scope condition attached to its claim, and follow [pause punctuation](../deslopping/pause-punctuation.md) when using colons or semicolons.
+Put important new information in the stress position, the end of a sentence or independent clause. If a qualifier such as "in these tests" follows the main point, move the qualifier to the front instead of deleting it. If several important items share one ending, split the sentence so that each gets its own ending. Check whether a paragraph's first sentence ends with the topic that the paragraph develops. When joining or subordinating clauses, keep the relative emphasis of findings and qualifications. Move an essential qualification out of parentheses if they make it look optional. Keep each scope condition with the claim it limits. Follow [pause punctuation](../deslopping/pause-punctuation.md) when using colons or semicolons.
 
 ## Details
 
-An independent clause usually gives its content more prominence than a subordinate clause or phrase, and a comma or the end of a subordinate clause need not create a stress position. Check the endings of paragraphs and sections as well as sentences for central material buried before incidental detail. Do not add sentence fragments or repeated claims to create emphasis. For empty importance labels, follow [self-labeling](../deslopping/self-labeling.md).
+The stress position is where a sentence or independent clause becomes grammatically complete. An independent clause would be a complete sentence by itself. A subordinate clause, such as one that begins with "although", would not. Readers usually give more weight to an independent clause than to a subordinate clause or a phrase. A comma or the end of a subordinate clause does not create a stress position by itself. At the end of each sentence, paragraph, and section, check whether incidental detail follows the central point. Do not add sentence fragments or repeat claims to create emphasis. For words that only label a point as important, follow [self-labeling](../deslopping/self-labeling.md).
 
 ## Examples
 
-> **Context.** The paragraph reports the kettle's boiling time.
+> **Context.** The draft's paragraph reports the kettle's boiling time.
 >
 > **Bad.** The kettle boiled the water in 90 s with the lid on and the stove at full heat.
 >
 > **Good.** With the lid on and the stove at full heat, the kettle boiled the water in 90 s.
 
-> **Context.** The paragraph gives equal weight to heat loss and noise.
+> **Context.** The draft's paragraph gives equal weight to heat loss and noise.
 >
 > **Bad.** In these tests, the shield reduces heat loss and noise.
 >
 > **Good.** In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
 
-> **Context.** The rest of the paragraph explains the lid’s safety catch.
+> **Context.** The draft explains the lid's safety catch in the rest of the paragraph.
 >
 > **Bad.** The safety catch is part of the lid. The catch prevents the lid from opening under pressure.
 >
 > **Good.** The lid includes a safety catch. The catch prevents the lid from opening under pressure.
 
-> **Context.** The draft treats the leak as a limitation as important as the faster flow; Bad subordinates it.
+> **Context.** The draft treats the leak as a limitation that matters as much as the faster flow.
 >
 > **Bad.** Although the joint leaks, it allows faster flow.
 >
@@ -36,7 +36,7 @@ An independent clause usually gives its content more prominence than a subordina
 >
 > **Good.** The sensor works only below 40 °C.
 
-> **Context.** The paragraph concerns boiling time; the model number is incidental.
+> **Context.** The draft's paragraph is about boiling time. The model number is incidental.
 >
 > **Bad.** The kettle (model K2) boils water in 90 s in this test.
 >

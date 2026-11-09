@@ -1,12 +1,14 @@
-# Give units, separated from numbers by a non-breaking space
+# Give units and separate them from numbers with a non-breaking space
 
-Give units for all measurements and axes, separated from the number by a non-breaking space. When a unit or its basis is ambiguous ("ppm" by mass or by volume; "Mb" as megabits or megabytes), state the intended unit and basis from the draft, or flag the ambiguity. For ambiguous binary or decimal prefixes and time formats, see the page; never change a value to normalize units.
+Give units for every measurement and axis, separated from numbers by a non-breaking space. If a unit or its basis is ambiguous ("ppm" by mass or volume; "Mb" as megabits or megabytes), state the intended meaning from the draft or flag the ambiguity. For binary prefixes and durations, see Details. Never change a value to normalize units.
 
 ## Details
 
-In LaTeX, tie the number to its unit with a non-breaking space (`40~ms`).
+In LaTeX, use a tilde to insert a non-breaking space between the number and its unit, as in `40~ms`.
 
-When a capacity prefix could be binary or decimal, clarify the scale from the draft or flag that it is unstated. Likewise, use the draft's convention to distinguish decimal durations from clock-style durations ("1.30" as 1 min 30 s), or flag the ambiguity. Neither check authorizes converting numerical values.
+For storage capacity, a prefix may be binary (powers of two) or decimal (powers of ten). If the draft leaves the scale unclear, state the scale from elsewhere in the draft or flag that it is unstated.
+
+For durations, use the draft's convention to distinguish a decimal number from a clock reading, such as "1.30" for 1 min 30 s. If the draft leaves the format ambiguous, flag it. Neither check permits converting a numerical value.
 
 ## Examples
 
@@ -14,7 +16,7 @@ When a capacity prefix could be binary or decimal, clarify the scale from the dr
 >
 > **Good.** We stir the solution for 30~s.
 
-> **Context.** The draft states that this length is measured in centimeters.
+> **Context.** The draft gives the rod's length in centimeters.
 >
 > **Bad.** The rod is 15 long.
 >
@@ -26,19 +28,19 @@ When a capacity prefix could be binary or decimal, clarify the scale from the dr
 >
 > **Good.** Time (s)
 
-> **Context.** The draft defines this concentration on a mass basis.
+> **Context.** The draft defines the concentration as parts per million by mass.
 >
 > **Bad.** The concentration is 6 ppm.
 >
 > **Good.** The concentration is 6 ppm by mass.
 
-> **Context.** The draft states that these sizes are measured in megabytes.
+> **Context.** The draft gives file sizes in megabytes.
 >
 > **Bad.** Each file is 8 Mb.
 >
 > **Good.** Each file is 8 megabytes.
 
-> **Context.** The draft defines one capacity unit as 1,048,576 bytes, so the unit is a mebibyte and the value remains 2.
+> **Context.** The draft defines its capacity unit as 1,048,576 bytes, which is one mebibyte (MiB), so the value stays 2 and only the unit symbol changes.
 >
 > **Bad.** The capacity is 2 MB.
 >

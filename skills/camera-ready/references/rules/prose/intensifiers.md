@@ -1,10 +1,10 @@
-# Cut intensifiers
+# Cut words that add only emphasis
 
-Cut empty intensifiers such as "very" and "extremely", or replace them with a [measurement](quantified-comparatives.md) when the draft supplies one. Treat "essentially" and "largely" as [softeners](../claims/hedges.md), preserving their scope or uncertainty unless the draft supplies a precise replacement. Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only for a proof step that is routine for a reader outside the subfield; remove them from empirical claims such as "clearly outperforms", and flag any nonroutine step whose explanation is missing.
+Cut words that add only emphasis, such as "very" and "extremely", or replace them with a [measurement](quantified-comparatives.md) from the draft. Treat "essentially" and "largely" as [softeners](../claims/hedges.md); preserve their scope or uncertainty unless the draft supplies a precise replacement. Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a proof step routine for readers outside the subfield. Remove them from empirical claims, and flag any unexplained nonroutine step.
 
 ## Details
 
-The same rule applies to "highly", "remarkably", and "exceptionally" when they add only emphasis. Like "largely", words such as "somewhat" and "relatively" act as softeners, so deleting them strengthens the claim. When a modifier asserts uniqueness, completeness, or superiority, apply [unsupported labels](../claims/unsupported-labels.md) rather than deleting factual content.
+When "highly", "remarkably", or "exceptionally" adds only emphasis, cut it or replace it with a measurement from the draft. Words such as "somewhat" and "relatively" soften a claim, as "largely" does; deleting them strengthens the claim without evidence. When a modifier asserts uniqueness, completeness, or superiority, follow [unsupported labels](../claims/unsupported-labels.md) rather than deleting the factual claim. Remove words such as "clearly" from empirical statements such as "clearly outperforms".
 
 ## Examples
 
@@ -32,7 +32,7 @@ The same rule applies to "highly", "remarkably", and "exceptionally" when they a
 >
 > **Good.** The coating keeps 98% of the surface free of rust.
 
-> **Context.** The preceding sentence defines a score of zero as no detected damage, not no damage.
+> **Context.** In the draft, the preceding sentence explains that a zero score means no detected damage, not that no damage exists.
 >
 > **Bad.** Note that a zero score does not rule out damage. The test is very useful.
 >
@@ -42,13 +42,13 @@ The same rule applies to "highly", "remarkably", and "exceptionally" when they a
 >
 > **Good.** The treated seeds sprout sooner.
 
-> **Context.** In a proof, the zero term is the last term of the sum.
+> **Context.** In the draft's proof, the last term of the sum is zero.
 >
 > **Bad.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
 >
 > **Good.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
 
-> **Context.** The draft supplies a bound on the tail in Lemma 2; Good is the proposed revision.
+> **Context.** In the draft, Lemma 2 bounds the tail terms of the infinite sum.
 >
 > **Bad.** Clearly, the infinite sum converges.
 >

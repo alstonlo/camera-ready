@@ -1,20 +1,20 @@
 # Use one term per concept
 
-Use one term per concept throughout the text; do not alternate "device", "sensor", "instrument", and "system" for variety. List the names used for each recurring concept: multiple names are an error unless they denote distinct concepts. Preserve differences in type, scope, or measured quantity. In a parallel or more general case, repeat the earlier wording verbatim, then state what differs. You may refer back with an unambiguous pronoun ("it") or bare demonstrative ("this") in the same or next sentence, but do not replace a specific name with a category noun ("this compound", "the device"); repeat the name instead. Check captions and visual labels as well, and flag inconsistencies that prose edits cannot repair.
+Use one term for each concept throughout the text, including captions and figure labels. Do not alternate terms such as "device", "sensor", and "system" for variety. When the draft uses multiple names for one concept, replace them with one term. Keep different names only when they mark distinct concepts, such as different types, scopes, or measured quantities. In the same or the next sentence, a clear pronoun ("it") or bare demonstrative ("this") may refer back to the term. Flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. For parallel cases and category nouns, see Details.
 
 ## Details
 
-This rule has no further details.
+List the names that the draft uses for each recurring concept to detect unintentional synonyms. When the text describes a parallel or more general case, repeat the earlier wording exactly, then state what differs. Do not replace a specific name with a general category noun such as "this compound" or "the device"; repeat the specific name instead.
 
 ## Examples
 
-> **Context.** The draft uses "drying cabinet" and "chamber" for the same piece of equipment.
+> **Context.** In this draft, the authors refer to the same piece of equipment as both a "drying cabinet" and a "chamber".
 >
 > **Bad.** The drying cabinet holds the samples. The chamber stays at 40 °C.
 >
 > **Good.** The drying cabinet holds the samples. The drying cabinet stays at 40 °C.
 
-> **Context.** Both sentences describe the same measurement taken at two times of day.
+> **Context.** In this draft, both sentences describe the same measurement taken at two times of day.
 >
 > **Bad.** We measure leaf width at noon. At dusk, we record the breadth of each leaf.
 >
@@ -24,19 +24,19 @@ This rule has no further details.
 >
 > **Good.** The drying cabinet holds the samples. The drying cabinet stays warm.
 
-> **Context.** The draft uses "drying cabinet" and "chamber" for the same piece of equipment.
+> **Context.** In this draft, the authors use "drying cabinet" and "chamber" for the same piece of equipment.
 >
 > **Bad.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
 >
 > **Good.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
 
-> **Context.** The draft uses "seed weight" as an alias for seed mass; shell mass is a separate measurement.
+> **Context.** In this draft, the authors use "seed weight" to mean seed mass, while reporting shell mass separately.
 >
 > **Bad.** We report seed mass and shell mass. Seed weight excludes the shell.
 >
 > **Good.** We report seed mass and shell mass. Seed mass excludes the shell.
 
-> **Context.** The body text calls the equipment a "drying cabinet"; the Good line proposes matching the figure label to the body text for the author.
+> **Context.** In this draft, the body text calls the equipment a "drying cabinet", but a figure label calls it the "chamber". The editor flags the mismatched label and proposes the wording below.
 >
 > **Bad.** Chamber temperature (°C)
 >

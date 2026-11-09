@@ -1,10 +1,10 @@
-# Vary repetitive syntax through the connections between ideas
+# Vary sentence structure to show how ideas connect
 
-Look for successive sentences with the same opening, clause pattern, or length, and for paragraphs built the same way. Following the [topic string](../prose/topic-string.md), connect sentences through relations already stated in the draft: a shared object, condition, time, or consequence. Let those relations determine sentence structure instead of changing lengths at random, and do not invent causal, temporal, or contrastive links. Preserve [parallel wording for parallel ideas](../prose/parallel-form.md) and [consistent technical terms](../conventions/term-consistency.md). Keep sentences complete and literal, without adding [writerly asides](../prose/writerly-asides.md), contrasts, or emphasis, and do not vary a passage in ways that reduce clarity.
+Look for consecutive sentences or paragraphs that share an opening, clause pattern, or length. Using the [topic string](../prose/topic-string.md), join sentences through relations stated in the draft: a shared object, condition, time, or consequence. Let those relations decide sentence structure instead of varying lengths at random. Do not invent causes, sequences, or contrasts. Preserve [parallel wording for parallel ideas](../prose/parallel-form.md) and [consistent technical terms](../conventions/term-consistency.md). Keep sentences complete and literal without adding [writerly asides](../prose/writerly-asides.md), contrasts, or emphasis. Keep the original structure whenever varying it reduces clarity.
 
 ## Details
 
-Different sentence lengths can conceal repeated grammatical constructions, so check for those constructions as well as for sentence lengths.
+Different sentence lengths can hide repeated grammatical patterns. Check sentence structure directly, not just word count.
 
 ## Examples
 

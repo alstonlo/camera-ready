@@ -1,6 +1,6 @@
-# Expand compressed constructions that hinder the first reading
+# Expand compressed wording that slows the first reading
 
-Check for [inanimate subjects given human actions ("the model hopes")](../prose/character-action.md), [nouns used as verbs and unusual word pairs](../prose/literal-wording.md), and [noun stacks, omitted words such as "that" or an article, and long gaps between subject and verb](../prose/first-reading.md), following the diagnostics and exceptions on each linked page. Expand only constructions that hinder the first reading; preserve clear short forms and established technical terms.
+Check for [inanimate subjects given human actions](../prose/character-action.md) ("the model hopes"), [nouns used as verbs and unusual word pairs](../prose/literal-wording.md), and [noun strings, omitted "that" or articles, and long gaps between subject and verb](../prose/first-reading.md). Expand compressed wording only when it slows the first reading, following each linked page's exceptions. Keep clear short forms and established technical terms.
 
 ## Details
 
@@ -30,7 +30,7 @@ This rule has no further details.
 >
 > **Good.** We show that the samples we heat expand.
 
-> **Context.** The preceding sentence identifies one pump.
+> **Context.** The draft identifies one pump in the preceding sentence.
 >
 > **Bad.** We test pump in water.
 >
@@ -40,7 +40,7 @@ This rule has no further details.
 >
 > **Good.** After we remove the weights and drain the jar, the lid opens.
 
-> **Context.** The field uses "heat flux sensor" as an established term.
+> **Context.** The draft uses "heat flux sensor" as an established technical term.
 >
 > **Bad.** The heat flux sensor calibration procedure is documented.
 >

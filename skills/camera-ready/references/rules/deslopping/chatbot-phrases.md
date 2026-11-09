@@ -1,10 +1,10 @@
-# Delete chatbot artifacts
+# Delete conversational replies left by a chatbot
 
-Delete conversational wording left by an assistant, such as "Certainly!", "Great question", "I hope this helps", or "As of my last update".
+Delete conversational phrases left by an AI assistant, such as "Certainly!", except in analyzed text (see Details).
 
 ## Details
 
-Also delete offers to continue, disclaimers about the assistant's status, and direct replies to the requester. Preserve conversational wording when it appears inside a prompt, model output, or study stimulus that the paper analyzes.
+Also delete an assistant's offers to continue, disclaimers about its status, and direct replies to the user, such as "Great question", "I hope this helps", or "As of my last update". Keep conversational wording when it appears inside material that the paper analyzes, such as a prompt, a model output, or text shown to study participants.
 
 ## Examples
 
@@ -24,7 +24,7 @@ Also delete offers to continue, disclaimers about the assistant's status, and di
 >
 > **Good.** The freezer holds twelve trays.
 
-> **Context.** The paper analyzes responses to the quoted prompt.
+> **Context.** In this draft, the authors analyze responses to the quoted prompt.
 >
 > **Bad.** Certainly! The test prompt is "Great question!".
 >

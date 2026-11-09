@@ -1,10 +1,12 @@
-# Use punctuation and type only for their formal functions
+# Use punctuation and type styles only for their standard purposes
 
-Avoid contractions, exclamation marks, and emoji. Use title-case headings only when the venue requires them. Use italics for definitions, not for decorative emphasis. When italics mark what a negation denies ("we do not heat the *lid*"), express that contrast in words if the intended focus is clear; otherwise keep the italics and flag the ambiguity. Use quotation marks for quotations, mentioned words, and unendorsed terms. Keep quotation marks on unendorsed terms (the cell's "decision"), and flag the term if the draft never states what it refers to. Do not add scare quotes to ordinary words. Keep sentence punctuation outside exact literals, such as commands and outputs, unless it belongs to the literal, and preserve literal characters.
+Avoid contractions, exclamation marks, and emoji. Use title-case headings only when the venue requires them. Use italics for definitions, not decorative emphasis. When italics mark what a negation denies ("we do not heat the *lid*"), state the contrast in words if clear, or keep the italics and flag the ambiguity. Use quotation marks for quotations, words discussed as words, and unendorsed terms (the cell's "decision"); flag an unendorsed term if the draft never explains it (see Details). Do not quote ordinary words. In exact literals, such as commands and outputs, preserve every character; place sentence punctuation outside unless it belongs to the literal.
 
 ## Details
 
-Replacing straight quotes with curly quotes can change a shell argument or exact output. Flag proposed corrections inside protected literals rather than changing their characters. When the draft states what an unendorsed term refers to, keep the quotation marks and state that referent beside the term.
+Replacing straight quotes with curly quotes can change an argument passed to a shell command or the exact output of a program. For text that must be reproduced exactly, flag a proposed correction instead of changing characters directly.
+
+When the draft states what an unendorsed term in quotation marks refers to, keep the quotation marks and state that meaning beside the term.
 
 ## Examples
 
@@ -20,13 +22,13 @@ Replacing straight quotes with curly quotes can change a shell argument or exact
 >
 > **Good.** The lid fits.
 
-> **Context.** The venue does not require title-case headings.
+> **Context.** The venue does not require title case in headings.
 >
 > **Bad.** Seed Storage Conditions
 >
 > **Good.** Seed storage conditions
 
-> **Context.** The venue requires title-case headings.
+> **Context.** The venue requires title case in headings.
 >
 > **Bad.** Seed Storage Conditions!
 >
@@ -44,7 +46,7 @@ Replacing straight quotes with curly quotes can change a shell argument or exact
 >
 > **Good.** We heat the base rather than the lid.
 
-> **Context.** The draft does not settle the intended contrast, so keep the italics, flag the ambiguous focus, and expand the contraction.
+> **Context.** The draft leaves unclear what the italicized "lid" contrasts with. The editor keeps the italics and flags the ambiguity for the author.
 >
 > **Bad.** We don't heat the *lid*.
 >
@@ -76,7 +78,7 @@ Replacing straight quotes with curly quotes can change a shell argument or exact
 >
 > **Good.** The output is `Done.`.
 
-> **Context.** The script in the draft uses straight quotes in `echo "ready"`; the Good line proposes replacing the curly quotes for the author.
+> **Context.** The script in the draft uses straight quotes in `echo "ready"`. The editor flags the curly quotes for the author rather than changing characters inside the command directly.
 >
 > **Bad.** The command is `echo “ready”`.
 >

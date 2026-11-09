@@ -1,16 +1,16 @@
 # Develop one point per paragraph
 
-Develop one point per paragraph, and state it as a specific claim in the paragraph's first sentence. "Results were mixed" and "We analyze robustness" [announce](signposts.md) a topic; "Yield falls above 80 °C" states a claim. Allow brief setup only when the claim cannot be understood first: one sentence of necessary context from the draft, immediately followed by the claim. A results paragraph may open with the specific question it tests if the next sentence answers it. Put the evidence after the answer. A procedural or descriptive paragraph may begin with its first fact or step. Keep both sides of a comparison in one paragraph when they support one point. Split a paragraph where its point changes, and merge short paragraphs only when they develop the same point. Judge a paragraph by development and coherence, not length.
+Develop one point per paragraph, and state it as a specific claim in the first sentence instead of [announcing](signposts.md) the topic. Allow brief setup only when readers cannot understand the claim without context: give at most one sentence of context from the draft, then state the claim. A results paragraph may open with the specific question it tests if the next sentence answers it, followed by the evidence. A descriptive or procedural paragraph may open with its first fact or step. Keep both sides of a comparison in one paragraph when they support one point. Split a paragraph where its point changes, and merge short paragraphs only when they develop the same point.
 
 ## Details
 
-For generic setup and transition questions, follow [generic openings](../deslopping/generic-openings-closings.md) and [rhetorical questions](../deslopping/rhetorical-questions.md).
+Sentences such as "Results were mixed" and "We analyze robustness" merely announce a topic, whereas "Yield falls above 80 °C" states a claim. If an opening gives only generic context, follow [generic openings](../deslopping/generic-openings-closings.md). If a question merely connects paragraphs, follow [rhetorical questions](../deslopping/rhetorical-questions.md).
 
-End the paragraph on the point it develops or on a supported implication of that point. Keep a useful closing sentence that bridges to the next paragraph, but move an unrelated closing issue to its own paragraph. Do not append a summary sentence to every short paragraph.
+Judge a paragraph by whether its sentences develop one point and connect to each other, not by its length. End the paragraph on the point it develops or on an implication that the draft supports. Keep a useful closing sentence that connects to the next paragraph. If the closing sentence introduces an unrelated topic, move that topic to its own paragraph. Do not add a summary sentence to every short paragraph.
 
 ## Examples
 
-> **Context.** This results paragraph describes a freezing test of six clay pots and six steel pots.
+> **Context.** In this example, a results paragraph reports a freezing test of six clay pots and six steel pots.
 >
 > **Bad.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
 >
@@ -28,13 +28,13 @@ End the paragraph on the point it develops or on a supported implication of that
 >
 > **Good.** Rinse the jar, then dry it.
 
-> **Context.** The symbol ¶ marks a paragraph break.
+> **Context.** In this example, the symbol ¶ marks a paragraph break.
 >
 > **Bad.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
 >
 > **Good.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
 
-> **Context.** The symbol ¶ marks a paragraph break.
+> **Context.** In this example, the symbol ¶ marks a paragraph break.
 >
 > **Bad.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
 >

@@ -1,10 +1,10 @@
 # Delete em dashes
 
-Delete every em dash, including `---` in LaTeX, and every en dash used as a pause. Replace the dash with a colon or semicolon only when the [pause-punctuation test](pause-punctuation.md) allows it, and use parentheses only when they do not make an essential qualification look optional under [stress position](../prose/stress-position.md); otherwise, rewrite the sentence without the pause while preserving its emphasis. Keep hyphens in compound words and en dashes in numeric ranges or two-person names ("Sections 3–5", "Kullback–Leibler"). For `--` in LaTeX source, see Details.
+Delete every em dash, including `---` in LaTeX, and every en dash used as a pause. Replace the dash with a colon or semicolon only when the [pause punctuation](pause-punctuation.md) rule allows it. Use parentheses only when they do not make an essential qualification look optional under [stress position](../prose/stress-position.md). Otherwise, rewrite the sentence without the pause and keep its emphasis. Keep hyphens in compound words and en dashes in numeric ranges or two-person names (see Details).
 
 ## Details
 
-In LaTeX, `--` produces an en dash. Keep it for numeric ranges and two-person names; replace it when it marks a pause.
+In LaTeX, `--` produces an en dash. Keep an en dash in numeric ranges and in names formed from two people's names, such as "Sections 3–5" and "Kullback–Leibler". In LaTeX source, keep `--` for those same ranges and names, but replace `--` when it marks a pause.
 
 ## Examples
 
@@ -40,7 +40,7 @@ In LaTeX, `--` produces an en dash. Keep it for numeric ranges and two-person na
 >
 > **Good.** The seal holds, but only below 30 °C.
 
-> **Context.** The purchase date is a subsidiary detail.
+> **Context.** In this draft, the purchase date is an optional detail.
 >
 > **Bad.** The tray—purchased in May—holds six vials.
 >

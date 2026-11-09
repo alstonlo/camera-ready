@@ -1,34 +1,34 @@
-# Preserve LaTeX boundaries when reflowing prose
+# Preserve LaTeX paragraphs and comments when changing line breaks
 
-When reflowing LaTeX source, compare it with the original: keep paragraph breaks (blank lines) where they were, and keep each `%` comment hiding the same text as before. Joining a prose line onto the end of a comment line hides that prose; breaking a comment line can expose the rest of the comment as text. Undo any boundary changes introduced by reflow.
+When changing line breaks in LaTeX source, compare the result with the original. Keep paragraph breaks (blank lines) where they were, and keep each `%` comment covering the same text as before (see Details). Undo any paragraph or comment boundary changes caused by reflowing.
 
 ## Details
 
-Only an unescaped `%` starts a comment; `\%` prints a literal percent sign.
+Joining a prose line onto a comment line hides that prose inside the comment. Splitting a comment line prints the rest of the comment as ordinary text. A percent sign (`%`) starts a comment only when unescaped; use `\%` to print a literal percent sign.
 
-For blank lines around displayed equations, follow [math prose](math-prose.md).
+For blank lines around equations displayed on their own lines, follow the rule on [math prose](math-prose.md).
 
 ## Examples
 
-> **Context.** The original source keeps both sentences in one paragraph, and `\n` denotes a newline.
+> **Context.** The original source puts both sentences in one paragraph. Here, `\n` represents a line break.
 >
 > **Bad.** `We rinse the jars.\n\nWe leave them to dry.`
 >
 > **Good.** `We rinse the jars.\nWe leave them to dry.`
 
-> **Context.** The original source starts a new paragraph before the second sentence, and `\n` denotes a newline.
+> **Context.** The original source starts a new paragraph before the second sentence. Here, `\n` represents a line break.
 >
 > **Bad.** `We rinse the jars.\nWe store them in a cool room.`
 >
 > **Good.** `We rinse the jars.\n\nWe store them in a cool room.`
 
-> **Context.** The original source puts the sentence on the line after the comment, and `\n` denotes a newline.
+> **Context.** The original source puts the sentence on the line after the comment. Here, `\n` represents a line break.
 >
 > **Bad.** `% check label We weigh the jar.`
 >
 > **Good.** `% check label\nWe weigh the jar.`
 
-> **Context.** The original source keeps the comment `% check label` on one line, and `\n` denotes a newline.
+> **Context.** The original source keeps `% check label` on one line. Here, `\n` represents a line break.
 >
 > **Bad.** `% check\nlabel\nWe weigh the jar.`
 >

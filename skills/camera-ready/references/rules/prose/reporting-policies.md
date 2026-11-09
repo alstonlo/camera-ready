@@ -1,6 +1,6 @@
-# State the finding instead of a reporting policy
+# State findings instead of how they are reported
 
-When a sentence such as "we report both metrics" says how findings will be reported instead of stating them, replace it with the conclusions, measurements, and outcomes it refers to, taken from the draft's results, or flag any missing results. Keep a sentence that describes an actual reporting or analysis procedure when it explains what was done rather than standing in for a result.
+When a sentence only states a reporting policy, such as "we report both metrics", replace it with the draft's conclusions, measurements, and outcomes. Flag any missing results. Keep a sentence that describes an actual reporting or analysis procedure when it explains what the authors did rather than replacing a result.
 
 ## Details
 
@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-> **Context.** The draft's Results section reports that the cotton towel dries in 3 h and the wool towel in 5 h.
+> **Context.** In this draft, the Results section reports drying times of 3 h for the cotton towel and 5 h for the wool towel.
 >
 > **Bad.** We report the drying times of the cotton towel and the wool towel.
 >
 > **Good.** The cotton towel dries in 3 h and the wool towel in 5 h.
 
-> **Context.** The draft reports a mean drying time of 3 h for cotton.
+> **Context.** In this draft, the Results section reports a mean drying time of 3 h for cotton.
 >
 > **Bad.** We report means over five trials. For cotton, we report the drying time.
 >
