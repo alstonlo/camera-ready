@@ -12,36 +12,28 @@ The five parts of the argument in the abstract are the problem, the gap, the ide
 
 ## Examples
 
-**Edit 1.** Suppose the venue places Methods last, this passage appears in Results, and Methods describes obtaining depth from calibrated echo times. Before:
+**Edit 1.** Suppose the venue places Methods last, this passage appears in Results, and Methods describes obtaining depth from calibrated echo times.
 
-> The lake is 12 m deep at the sampling point.
+> **Before.** The lake is 12 m deep at the sampling point.
 
-After:
+> **After.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
 
-> We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
+**Edit 2.** Imagine the paper first reports a central result after its first quarter: the lid halves water loss in the tested tank. After is a proposal to the author for the introduction.
 
-**Edit 2.** Imagine the paper first reports a central result after its first quarter: the lid halves water loss in the tested tank. After is a proposal to the author for the introduction. Before:
+> **Before.** We test a lid to reduce water loss.
 
-> We test a lid to reduce water loss.
+> **After.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
 
-After:
+**Edit 3.** Say this passage appears in the abstract, and Section 5 establishes that the filter removes all visible sand from the tested samples. After is a proposal to the author.
 
-> We test a lid to reduce water loss. The lid halves water loss in the tested tank.
+> **Before.** The filter's result appears in Section 5.
 
-**Edit 3.** Say this passage appears in the abstract, and Section 5 establishes that the filter removes all visible sand from the tested samples. After is a proposal to the author. Before:
+> **After.** The filter removes all visible sand from the tested samples.
 
-> The filter's result appears in Section 5.
+**Edit 4.** Suppose the calibration result only validates the adjacent procedure, and the drying procedure is substantial. After is a proposal to the author.
 
-After:
+> **Before.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
 
-> The filter removes all visible sand from the tested samples.
-
-**Edit 4.** Suppose the calibration result only validates the adjacent procedure, and the drying procedure is substantial. After is a proposal to the author. Before:
-
-> Methods: temperature calibration and validation. Results: drying procedure and drying results.
-
-After:
-
-> Methods: temperature calibration and validation; drying procedure. Results: drying results.
+> **After.** Methods: temperature calibration and validation; drying procedure. Results: drying results.
 
 The calibration result stays beside the procedure it validates. The proposed move of the drying procedure needs the author's review.

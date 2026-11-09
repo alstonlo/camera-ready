@@ -8,28 +8,22 @@ State the specific gap in what is known or can be done, and state its cost: what
 
 ## Examples
 
-**Edit 1.** Suppose the draft says elsewhere that the unknown load limit prevents determining whether the bridge can carry the new buses. Before:
+**Edit 1.** Suppose the draft says elsewhere that the unknown load limit prevents determining whether the bridge can carry the new buses.
 
-> The bridge's maximum safe load is unknown.
+> **Before.** The bridge's maximum safe load is unknown.
 
-After:
+> **After.** The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
 
-> The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
+**Edit 2.** Say the draft states elsewhere that it is unknown whether these seeds can sprout after a winter freeze.
 
-**Edit 2.** Say the draft states elsewhere that it is unknown whether these seeds can sprout after a winter freeze. Before:
+> **Before.** Little is known about these seeds, so the viability of autumn sowing is unclear.
 
-> Little is known about these seeds, so the viability of autumn sowing is unclear.
+> **After.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
 
-After:
+**Edit 3.** Imagine that the study described in the draft gathers information for designing a water filter but does not build one.
 
-> It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
+> **Before.** We measure whether the membrane passes salt to build a water filter in this study.
 
-**Edit 3.** Imagine that the study described in the draft gathers information for designing a water filter but does not build one. Before:
-
-> We measure whether the membrane passes salt to build a water filter in this study.
-
-After:
-
-> We measure whether the membrane passes salt because we need that information to design a water filter.
+> **After.** We measure whether the membrane passes salt because we need that information to design a water filter.
 
 After is a proposal to the author because it rewrites the study's objective.

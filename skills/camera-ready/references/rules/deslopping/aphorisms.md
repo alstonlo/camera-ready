@@ -8,20 +8,16 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the draft states that the valve releases gas when pressure exceeds the limit. Before:
+**Edit 1.** Suppose the draft states that the valve releases gas when pressure exceeds the limit.
 
-> The safety valve is the guardian of the tank.
+> **Before.** The safety valve is the guardian of the tank.
 
-After:
+> **After.** The safety valve releases gas when the pressure rises above the limit.
 
-> The safety valve releases gas when the pressure rises above the limit.
+**Edit 2.** Imagine the draft leaves unexplained how the membrane admits only water, and the editor flags that gap separately.
 
-**Edit 2.** Imagine the draft leaves unexplained how the membrane admits only water, and the editor flags that gap separately. Before:
+> **Before.** The membrane is the gatekeeper that admits only water. It is the hero of the filter.
 
-> The membrane is the gatekeeper that admits only water. It is the hero of the filter.
-
-After:
-
-> The membrane is the gatekeeper that admits only water.
+> **After.** The membrane is the gatekeeper that admits only water.
 
 The gatekeeper sentence makes a claim about what passes through the membrane. Replacing it would require an explanation the draft does not supply.

@@ -15,48 +15,38 @@ If the venue permits footnotes, you may move secondary comments into footnotes. 
 
 ## Examples
 
-**Edit 1.** Say an editor has cut the preceding sentence, which said that the blue dye was easiest to see. Before:
+**Edit 1.** Say an editor has cut the preceding sentence, which said that the blue dye was easiest to see.
 
-> We use it for all remaining experiments.
+> **Before.** We use it for all remaining experiments.
 
-After:
-
-> Because the blue dye was easiest to see, we use it for all remaining experiments.
+> **After.** Because the blue dye was easiest to see, we use it for all remaining experiments.
 
 Before shows what remains after the editor's cut. After restores the reason for choosing the dye so that readers know what "it" refers to.
 
-**Edit 2.** Suppose the protocol appears in Section S2 of the existing supplement, and the author permits moving it there. Before:
+**Edit 2.** Suppose the protocol appears in Section S2 of the existing supplement, and the author permits moving it there.
 
-> We dry each sample at 30 °C using the protocol in the supplement.
+> **Before.** We dry each sample at 30 °C using the protocol in the supplement.
 
-After:
+> **After.** We dry each sample at 30 °C using the protocol in Supplement Section S2.
 
-> We dry each sample at 30 °C using the protocol in Supplement Section S2.
+**Edit 3.** Imagine that an editor has substituted an appendix reference for the draft's calibration temperatures of 0 °C and 20 °C, but the draft has no appendix.
 
-**Edit 3.** Imagine that an editor has substituted an appendix reference for the draft's calibration temperatures of 0 °C and 20 °C, but the draft has no appendix. Before:
+> **Before.** The calibration settings appear in Appendix A.
 
-> The calibration settings appear in Appendix A.
-
-After:
-
-> We calibrate at 0 °C and 20 °C.
+> **After.** We calibrate at 0 °C and 20 °C.
 
 Before is the editor's replacement. After restores the calibration settings from the draft so that readers can repeat the procedure.
 
-**Edit 4.** Suppose the author allows content to be moved. Before:
+**Edit 4.** Suppose the author allows content to be moved.
 
-> We heat the sample (first removing the cap).
+> **Before.** We heat the sample (first removing the cap).
 
-After:
+> **After.** We remove the cap before heating the sample.
 
-> We remove the cap before heating the sample.
+**Edit 5.** Say an editor has cut the draft's only definition of R as recovery time, the time to return to 20 °C, even though later sections still use R.
 
-**Edit 5.** Say an editor has cut the draft's only definition of R as recovery time, the time to return to 20 °C, even though later sections still use R. Before:
+> **Before.** We record R after each trial.
 
-> We record R after each trial.
-
-After:
-
-> Recovery time R is the time to return to 20 °C. We record R after each trial.
+> **After.** Recovery time R is the time to return to 20 °C. We record R after each trial.
 
 Before shows the text after that cut. After restores the definition needed by the later sections.

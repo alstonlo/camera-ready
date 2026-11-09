@@ -8,48 +8,38 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Say an editor has moved the recovery experiment from Section 5 to Appendix D to shorten the main text. Before:
+**Edit 1.** Say an editor has moved the recovery experiment from Section 5 to Appendix D to shorten the main text.
 
-> The recovery experiment is described in Section 5.
+> **Before.** The recovery experiment is described in Section 5.
 
-After:
+> **After.** The recovery experiment is described in Appendix D.
 
-> The recovery experiment is described in Appendix D.
+**Edit 2.** Suppose the draft establishes that the coating prevents rust in fresh water, and an editor has moved the complete supporting test to Appendix B.
 
-**Edit 2.** Suppose the draft establishes that the coating prevents rust in fresh water, and an editor has moved the complete supporting test to Appendix B. Before:
+> **Before.** The coating may prevent rust in fresh water (Appendix B).
 
-> The coating may prevent rust in fresh water (Appendix B).
-
-After:
-
-> The coating prevents rust in fresh water (Appendix B).
+> **After.** The coating prevents rust in fresh water (Appendix B).
 
 Before shows an editor's unnecessary hedge; After restores the draft's confidence. Moving the full test leaves the support for the claim intact.
 
-**Edit 3.** Imagine an editor has removed the metal lid's only test with the author's approval, leaving evidence that supports reduced evaporation for the glass lid. Before:
+**Edit 3.** Imagine an editor has removed the metal lid's only test with the author's approval, leaving evidence that supports reduced evaporation for the glass lid.
 
-> Both lids reduce evaporation.
+> **Before.** Both lids reduce evaporation.
 
-After:
+> **After.** The glass lid reduces evaporation.
 
-> The glass lid reduces evaporation.
+**Edit 4.** Say an editor has cut the draft's statement that the soil is too acidic for beans.
 
-**Edit 4.** Say an editor has cut the draft's statement that the soil is too acidic for beans. Before:
+> **Before.** We measure acidity. We therefore add lime.
 
-> We measure acidity. We therefore add lime.
-
-After:
-
-> We measure acidity. The soil is too acidic for beans. We therefore add lime.
+> **After.** We measure acidity. The soil is too acidic for beans. We therefore add lime.
 
 Before shows what remains after the editor's cut. The soil's acidity explains the decision to add lime; measuring it alone does not.
 
-**Edit 5.** Suppose the draft presents slow drainage as a possible explanation, and an editor has removed its hedge. Before:
+**Edit 5.** Suppose the draft presents slow drainage as a possible explanation, and an editor has removed its hedge.
 
-> The delay reflects slow drainage.
+> **Before.** The delay reflects slow drainage.
 
-After:
-
-> The delay may reflect slow drainage.
+> **After.** The delay may reflect slow drainage.
 
 Before is the editor's version after the cut; After restores the draft's uncertainty about the cause.

@@ -10,42 +10,32 @@ Propose a simpler mathematical condition only when the draft shows that the two 
 
 ## Examples
 
-**Edit 1.** Suppose the draft reports a simulation but gives no measurements of the actual bridge. Before:
+**Edit 1.** Suppose the draft reports a simulation but gives no measurements of the actual bridge.
 
-> Under the tested load, the bridge bends by 2 cm.
+> **Before.** Under the tested load, the bridge bends by 2 cm.
 
-After:
+> **After.** Under the tested load, the simulated bridge bends by 2 cm.
 
-> Under the tested load, the simulated bridge bends by 2 cm.
+**Edit 2.** Say the draft proves uniqueness in Theorem 2 when stiffness is positive.
 
-**Edit 2.** Say the draft proves uniqueness in Theorem 2 when stiffness is positive. Before:
+> **Before.** The equilibrium is unique.
 
-> The equilibrium is unique.
+> **After.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
 
-After:
+**Edit 3.** Suppose Theorem 1 requires independent errors.
 
-> When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
+> **Before.** The correlated errors in these sensors make Theorem 1 false.
 
-**Edit 3.** Suppose Theorem 1 requires independent errors. Before:
+> **After.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
-> The correlated errors in these sensors make Theorem 1 false.
+**Edit 4.** Say the draft shows that positivity already requires x to be nonzero and that stating both conditions adds no useful information.
 
-After:
+> **Before.** For positive, nonzero x, the bound holds.
 
-> Theorem 1 does not apply to these sensors because their errors are correlated.
+> **After.** For positive x, the bound holds.
 
-**Edit 4.** Say the draft shows that positivity already requires x to be nonzero and that stating both conditions adds no useful information. Before:
+**Edit 5.** Imagine the reported observations cover only five tested mixtures.
 
-> For positive, nonzero x, the bound holds.
+> **Before.** Every mixture settles within an hour.
 
-After:
-
-> For positive x, the bound holds.
-
-**Edit 5.** Imagine the reported observations cover only five tested mixtures. Before:
-
-> Every mixture settles within an hour.
-
-After:
-
-> Each of the five tested mixtures settles within an hour.
+> **After.** Each of the five tested mixtures settles within an hour.

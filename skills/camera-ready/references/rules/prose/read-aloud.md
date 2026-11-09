@@ -8,20 +8,16 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> The observers recorded errors on the checklist that occurred during navigation.
+> **Before.** The observers recorded errors on the checklist that occurred during navigation.
 
-After:
+> **After.** The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
 
-> The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
+**Edit 2.** Suppose the draft calls for rinsing the jar rather than the lid.
 
-**Edit 2.** Suppose the draft calls for rinsing the jar rather than the lid. Before:
+> **Before.** The operator should rinse the jar.
 
-> The operator should rinse the jar.
-
-After:
-
-> The operator should rinse the jar rather than the lid.
+> **After.** The operator should rinse the jar rather than the lid.
 
 A reader cannot hear the emphasis on "jar" that would convey the choice aloud.

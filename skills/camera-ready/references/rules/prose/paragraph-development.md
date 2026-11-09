@@ -10,36 +10,32 @@ Judge a paragraph by whether its sentences develop one point and connect to each
 
 ## Examples
 
-**Edit 1.** Suppose a results paragraph about a freezing test opens with this passage. Before:
+**Edit 1.** Suppose a results paragraph about a freezing test opens with this passage.
 
-> We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
+> **Before.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
 
-After:
+> **After.** Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
 
-> Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
 
-> Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
-
-After:
-
-> Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
+> **After.** Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
 
 The opening question states what the experiment tests, so it can stay once its answer follows immediately.
 
-**Edit 3.** Here ¶ marks a paragraph break. Before:
+**Edit 3.**
 
-> The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
+> **Before.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
 
-After:
+> **After.** The door locks automatically. Its latch engages when the door closes.
+>
+> The roof drains through two gutters.
 
-> The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
+**Edit 4.**
 
-**Edit 4.** Here ¶ marks a paragraph break. Before:
+> **Before.** The glass jar survives freezing.
+>
+> The clay jar cracks under the same conditions.
 
-> The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
-
-After:
-
-> The glass jar survives freezing. The clay jar cracks under the same conditions.
+> **After.** The glass jar survives freezing. The clay jar cracks under the same conditions.

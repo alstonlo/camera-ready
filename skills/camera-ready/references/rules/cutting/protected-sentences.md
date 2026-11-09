@@ -13,40 +13,32 @@ Readers may need a sentence even when it adds no new facts. Details needed to re
 
 ## Examples
 
-**Edit 1.** Suppose the draft also reports reduced growth in dry soil, and an editor proposes cutting that result. Before:
+**Edit 1.** Suppose the draft also reports reduced growth in dry soil, and an editor proposes cutting that result.
 
-> The fertilizer increases growth in wet soil.
+> **Before.** The fertilizer increases growth in wet soil.
 
-After:
-
-> The fertilizer increases growth in wet soil. It reduces growth in dry soil.
+> **After.** The fertilizer increases growth in wet soil. It reduces growth in dry soil.
 
 Before shows the editor's cut, and After restores the draft. Without the second result, readers see only the condition in which the fertilizer helps.
 
-**Edit 2.** Imagine an editor proposes removing a figure caption's credit to Rao et al. (2022) and its permission statement. Before:
+**Edit 2.** Imagine an editor proposes removing a figure caption's credit to Rao et al. (2022) and its permission statement.
 
-> The roots (brown) spread wider than the leaves (green).
+> **Before.** The roots (brown) spread wider than the leaves (green).
 
-After:
-
-> The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
+> **After.** The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
 
 After restores the caption text removed in Before. The figure still needs its credit and permission statement when readers view it on its own.
 
-**Edit 3.** Say an editor proposes cutting the paragraph's opening sentence. Before:
+**Edit 3.** Say an editor proposes cutting the paragraph's opening sentence.
 
-> At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
+> **Before.** At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 
-After:
-
-> Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
+> **After.** Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 
 Before shows the proposed cut; After restores the opening. The measurements alone leave readers to work out the paragraph's point.
 
-**Edit 4.** Suppose the author has requested cuts, and the triage order has reached repeated limitations. Before:
+**Edit 4.** Suppose the author has requested cuts, and the triage order has reached repeated limitations.
 
-> Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
+> **Before.** Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
 
-After:
-
-> Only adults participate, so the results cannot establish effects in children.
+> **After.** Only adults participate, so the results cannot establish effects in children.

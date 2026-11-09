@@ -8,30 +8,24 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking. Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
+> **Before.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking. Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
 
-After:
+> **After.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.<br><br>Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
 
-> Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.<br><br>Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** Does soaking shorten sprouting time? Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens sprouting time.
 
-> Does soaking shorten sprouting time? Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens sprouting time.
-
-After:
-
-> Does soaking shorten sprouting time? Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.
+> **After.** Does soaking shorten sprouting time? Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.
 
 The question states what the experiment tests. Keeping it gives readers the question and its answer together before the measurements.
 
-**Edit 3.** Suppose this is a results paragraph. Before:
+**Edit 3.** Suppose this is a results paragraph.
 
-> Trays were red, blue, or green. Each tray held 12 pots.
+> **Before.** Trays were red, blue, or green. Each tray held 12 pots.
 
-After:
-
-> Trays were red, blue, or green. Each tray held 12 pots. Flag for the author: Which research question does this paragraph answer?
+> **After.** Trays were red, blue, or green. Each tray held 12 pots. Flag for the author: Which research question does this paragraph answer?
 
 The tray descriptions do not establish a result. The flag asks the author to identify the question rather than letting the editor invent one.

@@ -10,32 +10,26 @@ Keep existing `\label` commands unchanged. Flag any numbering change that requir
 
 ## Examples
 
-**Edit 1.** Suppose the draft presents this equation as its central model. Before:
+**Edit 1.** Suppose the draft presents this equation as its central model.
 
-> \begin{equation*} h(t)=h(0)+rt. \end{equation*}
+> **Before.** \begin{equation*} h(t)=h(0)+rt. \end{equation*}
 
-After:
-
-> \begin{equation} h(t)=h(0)+rt. \end{equation}
+> **After.** \begin{equation} h(t)=h(0)+rt. \end{equation}
 
 After is a proposal to the author because the display environment is protected.
 
-**Edit 2.** Imagine that a later passage in the draft refers to this display by its label. Before:
+**Edit 2.** Imagine that a later passage in the draft refers to this display by its label.
 
-> \begin{equation*}\label{eq:sum} s=a+b. \end{equation*}
+> **Before.** \begin{equation*}\label{eq:sum} s=a+b. \end{equation*}
 
-After:
-
-> \begin{equation}\label{eq:sum} s=a+b. \end{equation}
+> **After.** \begin{equation}\label{eq:sum} s=a+b. \end{equation}
 
 Changing the protected display environment requires a proposal to the author.
 
-**Edit 3.** Say this equation serves only as an intermediate step, and the draft never refers to it. Before:
+**Edit 3.** Say this equation serves only as an intermediate step, and the draft never refers to it.
 
-> \begin{equation} 2+3=5. \end{equation}
+> **Before.** \begin{equation} 2+3=5. \end{equation}
 
-After:
-
-> \begin{equation*} 2+3=5. \end{equation*}
+> **After.** \begin{equation*} 2+3=5. \end{equation*}
 
 After shows a proposed change for the author to review because the display environment is protected.

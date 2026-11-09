@@ -10,42 +10,32 @@ To answer an objection, authors may give evidence against it, identify assumptio
 
 ## Examples
 
-**Edit 1.** Suppose the draft compares bare soil with soil covered by both materials and tests neither material alone. Before:
+**Edit 1.** Suppose the draft compares bare soil with soil covered by both materials and tests neither material alone.
 
-> Compost reduces water loss by 15%.
+> **Before.** Compost reduces water loss by 15%.
 
-After:
+> **After.** Compost and straw together reduce water loss by 15%.
 
-> Compost and straw together reduce water loss by 15%.
+**Edit 2.** Say the draft does not test whether the resin fills pores.
 
-**Edit 2.** Say the draft does not test whether the resin fills pores. Before:
+> **Before.** The combined coating reduces leaks because the resin fills pores.
 
-> The combined coating reduces leaks because the resin fills pores.
+> **After.** The combined coating reduces leaks. We conjecture that it does so because the resin fills pores.
 
-After:
+**Edit 3.** Imagine the draft reports that both groups start with equal moisture.
 
-> The combined coating reduces leaks. We conjecture that it does so because the resin fills pores.
+> **Before.** The pots with covers lose less water. Unequal starting moisture cannot explain this because the pots with covers lose less water.
 
-**Edit 3.** Imagine the draft reports that both groups start with equal moisture. Before:
+> **After.** The pots with covers lose less water. Unequal starting moisture cannot explain this because both groups start with equal moisture.
 
-> The pots with covers lose less water. Unequal starting moisture cannot explain this because the pots with covers lose less water.
+**Edit 4.** Suppose the draft reports more sediment passage when the mesh is removed, although the remaining gravel still removes some sediment.
 
-After:
+> **Before.** The mesh improves sediment removal because no sediment can be removed without it.
 
-> The pots with covers lose less water. Unequal starting moisture cannot explain this because both groups start with equal moisture.
+> **After.** The mesh improves sediment removal because removing it increases sediment passage.
 
-**Edit 4.** Suppose the draft reports more sediment passage when the mesh is removed, although the remaining gravel still removes some sediment. Before:
+**Edit 5.** Say the draft reports that the fertilized field received more rain but does not consider the effect of rainfall on yield.
 
-> The mesh improves sediment removal because no sediment can be removed without it.
+> **Before.** The fertilized field yields 20% more grain, so the fertilizer raises yield.
 
-After:
-
-> The mesh improves sediment removal because removing it increases sediment passage.
-
-**Edit 5.** Say the draft reports that the fertilized field received more rain but does not consider the effect of rainfall on yield. Before:
-
-> The fertilized field yields 20% more grain, so the fertilizer raises yield.
-
-After:
-
-> The fertilized field yields 20% more grain, but it also received more rain. The fertilizer, the rain, or both may explain the higher yield.
+> **After.** The fertilized field yields 20% more grain, but it also received more rain. The fertilizer, the rain, or both may explain the higher yield.

@@ -8,28 +8,22 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the editor also alerts the author to the missing source. Before:
+**Edit 1.** Suppose the editor also alerts the author to the missing source.
 
-> The well is 12 m deep. [Insert source]
+> **Before.** The well is 12 m deep. [Insert source]
 
-After:
+> **After.** The well is 12 m deep.
 
-> The well is 12 m deep.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** We use the tray in order to catch drips.
 
-> We use the tray in order to catch drips.
+> **After.** We use the tray to catch drips.
 
-After:
+**Edit 3.**
 
-> We use the tray to catch drips.
+> **Before.** The proof appears in Appendix A. We next describe the watering schedule. We water each pot every morning.
 
-**Edit 3.** Before:
-
-> The proof appears in Appendix A. We next describe the watering schedule. We water each pot every morning.
-
-After:
-
-> The proof appears in Appendix A. We water each pot every morning.
+> **After.** The proof appears in Appendix A. We water each pot every morning.
 
 The Appendix A sentence lets readers find the proof.

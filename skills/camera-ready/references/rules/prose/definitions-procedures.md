@@ -20,44 +20,34 @@ When you cannot follow an explanation, use an example already in the draft to fi
 
 ## Examples
 
-**Edit 1.** Suppose the draft defines germination rate elsewhere as the fraction of planted seeds that sprout within seven days. Before:
+**Edit 1.** Suppose the draft defines germination rate elsewhere as the fraction of planted seeds that sprout within seven days.
 
-> Germination rate measures how well seeds germinate.
+> **Before.** Germination rate measures how well seeds germinate.
 
-After:
+> **After.** Germination rate is the fraction of planted seeds that sprout within seven days.
 
-> Germination rate is the fraction of planted seeds that sprout within seven days.
+**Edit 2.** Say the draft specifies 2 h for drying and gives 1 h as the time in Lee’s protocol.
 
-**Edit 2.** Say the draft specifies 2 h for drying and gives 1 h as the time in Lee’s protocol. Before:
+> **Before.** We follow Lee’s protocol [4].
 
-> We follow Lee’s protocol [4].
+> **After.** We follow Lee’s protocol [4], but dry for 2 h instead of 1 h.
 
-After:
+**Edit 3.** Imagine another passage in the draft states that the procedure separates water from sand.
 
-> We follow Lee’s protocol [4], but dry for 2 h instead of 1 h.
+> **Before.** We let the sand settle, then pour off the water.
 
-**Edit 3.** Imagine another passage in the draft states that the procedure separates water from sand. Before:
+> **After.** To separate the water from the sand, we let the sand settle, then pour off the water.
 
-> We let the sand settle, then pour off the water.
+**Edit 4.** Suppose the draft gives 3 g as the correct mean elsewhere; the editor flags the mismatch and proposes After to the author.
 
-After:
+> **Before.** For masses of 2 g and 4 g, the mean mass is 6 g.
 
-> To separate the water from the sand, we let the sand settle, then pour off the water.
-
-**Edit 4.** Suppose the draft gives 3 g as the correct mean elsewhere; the editor flags the mismatch and proposes After to the author. Before:
-
-> For masses of 2 g and 4 g, the mean mass is 6 g.
-
-After:
-
-> For masses of 2 g and 4 g, the mean mass is 3 g.
+> **After.** For masses of 2 g and 4 g, the mean mass is 3 g.
 
 The proposed correction needs the author's review because it changes a worked result.
 
-**Edit 5.** Suppose the author intends a complete definition. Before:
+**Edit 5.** Suppose the author intends a complete definition.
 
-> A reading is valid if it lies between the two limits.
+> **Before.** A reading is valid if it lies between the two limits.
 
-After:
-
-> We define a reading as valid if it lies between the two limits.
+> **After.** We define a reading as valid if it lies between the two limits.

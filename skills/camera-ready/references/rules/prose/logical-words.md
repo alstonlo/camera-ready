@@ -14,54 +14,42 @@ When you replace a slash, check whether it separates alternatives, joint require
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> The score is not less than 60.
+> **Before.** The score is not less than 60.
 
-After:
+> **After.** The score is at least 60.
 
-> The score is at least 60.
+**Edit 2.** Suppose one valid reading is enough to retain a run under the draft's requirements.
 
-**Edit 2.** Suppose one valid reading is enough to retain a run under the draft's requirements. Before:
+> **Before.** The rate is not increasing monotonically. Retain the run if any reading is valid.
 
-> The rate is not increasing monotonically. Retain the run if any reading is valid.
-
-After:
-
-> The rate is not increasing monotonically. Retain the run if at least one reading is valid.
+> **After.** The rate is not increasing monotonically. Retain the run if at least one reading is valid.
 
 The first sentence allows a rate that rises and falls; calling it decreasing would exclude that possibility.
 
-**Edit 3.** Imagine the draft says gloves are optional. Before:
+**Edit 3.** Imagine the draft says gloves are optional.
 
-> You should not wear gloves.
+> **Before.** You should not wear gloves.
 
-After:
+> **After.** You need not wear gloves.
 
-> You need not wear gloves.
+**Edit 4.** Say the draft requires both measurements.
 
-**Edit 4.** Say the draft requires both measurements. Before:
+> **Before.** Record S/N, then mass/volume.
 
-> Record S/N, then mass/volume.
-
-After:
-
-> Record S/N, then mass and volume.
+> **After.** Record S/N, then mass and volume.
 
 The slash in S/N belongs to the standard abbreviation for signal-to-noise ratio.
 
-**Edit 5.** Suppose the draft does not say whether other materials are present. Before:
+**Edit 5.** Suppose the draft does not say whether other materials are present.
 
-> The kit includes steel and glass, so it must contain another material.
+> **Before.** The kit includes steel and glass, so it must contain another material.
 
-After:
+> **After.** The kit includes steel and glass.
 
-> The kit includes steel and glass.
+**Edit 6.** Imagine the draft proves the bound without conditions.
 
-**Edit 6.** Imagine the draft proves the bound without conditions. Before:
+> **Before.** If we compare the two designs, the theorem gives a 5 W bound.
 
-> If we compare the two designs, the theorem gives a 5 W bound.
-
-After:
-
-> The theorem gives a 5 W bound, which we use to compare the two designs.
+> **After.** The theorem gives a 5 W bound, which we use to compare the two designs.

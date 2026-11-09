@@ -8,20 +8,16 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose no one has claimed that the lid serves only as a cover. Before:
+**Edit 1.** Suppose no one has claimed that the lid serves only as a cover.
 
-> The lid is not just a cover; it reduces evaporation by 20%.
+> **Before.** The lid is not just a cover; it reduces evaporation by 20%.
 
-After:
+> **After.** The lid reduces evaporation by 20%.
 
-> The lid reduces evaporation by 20%.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** We measure mass, not volume, and record not only the mass but also the temperature.
 
-> We measure mass, not volume, and record not only the mass but also the temperature.
-
-After:
-
-> We measure mass, not volume, and record the mass and the temperature.
+> **After.** We measure mass, not volume, and record the mass and the temperature.
 
 The contrast with volume tells readers which quantity is measured.

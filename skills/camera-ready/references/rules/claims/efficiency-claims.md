@@ -19,42 +19,32 @@ Distinguish an upper bound on one algorithm's cost from a lower bound that every
 
 ## Examples
 
-**Edit 1.** Suppose the draft specifies elsewhere that the assay cost covers reagents and excludes sample preparation. Before:
+**Edit 1.** Suppose the draft specifies elsewhere that the assay cost covers reagents and excludes sample preparation.
 
-> The assay costs $4 per sample.
+> **Before.** The assay costs $4 per sample.
 
-After:
+> **After.** The assay costs $4 per sample for reagents, excluding sample preparation.
 
-> The assay costs $4 per sample for reagents, excluding sample preparation.
+**Edit 2.** Say the draft defines heater efficiency as the fraction of supplied electrical energy delivered as heat to the water.
 
-**Edit 2.** Say the draft defines heater efficiency as the fraction of supplied electrical energy delivered as heat to the water. Before:
+> **Before.** The heater's efficiency is 80%.
 
-> The heater's efficiency is 80%.
+> **After.** The heater delivers 80% of the supplied electrical energy as heat to the water.
 
-After:
+**Edit 3.** Suppose the draft establishes that method A has slower asymptotic time growth than method B but reports no measured times.
 
-> The heater delivers 80% of the supplied electrical energy as heat to the water.
+> **Before.** Method A has lower elapsed time than method B.
 
-**Edit 3.** Suppose the draft establishes that method A has slower asymptotic time growth than method B but reports no measured times. Before:
+> **After.** Method A's time grows asymptotically more slowly than method B's.
 
-> Method A has lower elapsed time than method B.
+**Edit 4.** If the draft proves a quadratic upper bound for the algorithm under discussion, the claim can be narrowed as follows.
 
-After:
+> **Before.** Every algorithm for the problem requires quadratic time.
 
-> Method A's time grows asymptotically more slowly than method B's.
+> **After.** This algorithm requires at most quadratic time.
 
-**Edit 4.** If the draft proves a quadratic upper bound for the algorithm under discussion, the claim can be narrowed as follows. Before:
+**Edit 5.** Imagine the draft reports higher total energy use when production increases, despite lower energy use per item.
 
-> Every algorithm for the problem requires quadratic time.
+> **Before.** The new process uses less energy.
 
-After:
-
-> This algorithm requires at most quadratic time.
-
-**Edit 5.** Imagine the draft reports higher total energy use when production increases, despite lower energy use per item. Before:
-
-> The new process uses less energy.
-
-After:
-
-> The new process uses less energy per item.
+> **After.** The new process uses less energy per item.

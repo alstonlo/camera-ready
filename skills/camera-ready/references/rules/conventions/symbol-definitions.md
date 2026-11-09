@@ -16,40 +16,32 @@ Suggest notation changes to the author rather than rewriting equations yourself:
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> We compare $h$ across plants. The symbol $h$ denotes plant height.
+> **Before.** We compare $h$ across plants. The symbol $h$ denotes plant height.
 
-After:
+> **After.** The symbol $h$ denotes plant height. We compare $h$ across plants.
 
-> The symbol $h$ denotes plant height. We compare $h$ across plants.
+**Edit 2.** Suppose the tables use $w$ to denote moisture content.
 
-**Edit 2.** Suppose the tables use $w$ to denote moisture content. Before:
+> **Before.** Let $m$ denote mass and $m$ denote moisture content.
 
-> Let $m$ denote mass and $m$ denote moisture content.
-
-After:
-
-> Let $m$ denote mass and $w$ denote moisture content.
+> **After.** Let $m$ denote mass and $w$ denote moisture content.
 
 After is a proposal to the author because choosing which symbol to keep is the author's decision.
 
-**Edit 3.** Suppose both symbols are used throughout the paper, but the request does not authorize moving their definitions. Before:
+**Edit 3.** Suppose both symbols are used throughout the paper, but the request does not authorize moving their definitions.
 
-> Notation: Let $h$ denote height. Methods: Let $w$ denote width.
+> **Before.** Notation: Let $h$ denote height. Methods: Let $w$ denote width.
 
-After:
-
-> Notation: Let $h$ denote height. Let $w$ denote width. Methods:
+> **After.** Notation: Let $h$ denote height. Let $w$ denote width. Methods:
 
 After is a proposal to the author. The definitions stay in place unless the author authorizes the move.
 
-**Edit 4.** Say the draft defines all four symbols. Before:
+**Edit 4.** Say the draft defines all four symbols.
 
-> We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
+> **Before.** We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
 
-After:
-
-> Let $R=(a+b)/(c+d)$. We compare $R$ across sites and plot $R$ over time.
+> **After.** Let $R=(a+b)/(c+d)$. We compare $R$ across sites and plot $R$ over time.
 
 After proposes new notation for the author to consider.

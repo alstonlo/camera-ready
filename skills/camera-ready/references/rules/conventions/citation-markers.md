@@ -12,42 +12,32 @@ When a passage moves from reporting a cited source's claims to presenting the pa
 
 ## Examples
 
-**Edit 1.** Suppose the draft uses natbib, and ortiz2025 has one author. Before:
+**Edit 1.** Suppose the draft uses natbib, and ortiz2025 has one author.
 
-> \citep{ortiz2025} compares two methods for measuring rainfall.
+> **Before.** \citep{ortiz2025} compares two methods for measuring rainfall.
 
-After:
+> **After.** \citet{ortiz2025} compares two methods for measuring rainfall.
 
-> \citet{ortiz2025} compares two methods for measuring rainfall.
+**Edit 2.** Say the draft uses natbib and treats the salt's solubility as established.
 
-**Edit 2.** Say the draft uses natbib and treats the salt's solubility as established. Before:
+> **Before.** In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
 
-> In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
+> **After.** This salt dissolves in water~\citep{ortiz2025}.
 
-After:
+**Edit 3.** Suppose the draft identifies ortiz2025 as the source for the shell's shrinkage and patel2024 as the source for slower decay.
 
-> This salt dissolves in water~\citep{ortiz2025}.
+> **Before.** Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
 
-**Edit 3.** Suppose the draft identifies ortiz2025 as the source for the shell's shrinkage and patel2024 as the source for slower decay. Before:
+> **After.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
 
-> Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
+**Edit 4.** If the draft attributes the cooling hypothesis to the paper's own authors elsewhere, propose this clarification to the author.
 
-After:
+> **Before.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
 
-> Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
+> **After.** Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
 
-**Edit 4.** If the draft attributes the cooling hypothesis to the paper's own authors elsewhere, propose this clarification to the author. Before:
+**Edit 5.** Imagine the authors extend Ortiz's method and use natbib in the draft.
 
-> Ortiz reports that the shell shrinks. Cooling may reduce this effect.
+> **Before.** We extend \citep{ortiz2025}.
 
-After:
-
-> Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
-
-**Edit 5.** Imagine the authors extend Ortiz's method and use natbib in the draft. Before:
-
-> We extend \citep{ortiz2025}.
-
-After:
-
-> We extend the method of \citet{ortiz2025}.
+> **After.** We extend the method of \citet{ortiz2025}.

@@ -8,44 +8,34 @@ A hedge marks a claim as uncertain, so deleting the only hedge on a claim makes 
 
 ## Examples
 
-**Edit 1.** Suppose the draft reports this value as a measurement. Before:
+**Edit 1.** Suppose the draft reports this value as a measurement.
 
-> The mean mass may be 5.0 ± 0.2 g (standard error).
+> **Before.** The mean mass may be 5.0 ± 0.2 g (standard error).
 
-After:
+> **After.** The mean mass is 5.0 ± 0.2 g (standard error).
 
-> The mean mass is 5.0 ± 0.2 g (standard error).
+**Edit 2.** Say the draft confirms that the samples were cooled, but whether cooling affects decay remains untested.
 
-**Edit 2.** Say the draft confirms that the samples were cooled, but whether cooling affects decay remains untested. Before:
+> **Before.** We may have cooled the samples because cooling may prevent decay.
 
-> We may have cooled the samples because cooling may prevent decay.
+> **After.** We cooled the samples because cooling may prevent decay.
 
-After:
+**Edit 3.**
 
-> We cooled the samples because cooling may prevent decay.
+> **Before.** Heat may possibly loosen the seal, which may allow water to enter.
 
-**Edit 3.** Before:
-
-> Heat may possibly loosen the seal, which may allow water to enter.
-
-After:
-
-> Heat may loosen the seal, which may allow water to enter.
+> **After.** Heat may loosen the seal, which may allow water to enter.
 
 Loosening the seal and letting water enter are separate uncertain claims, so each still needs a hedge.
 
-**Edit 4.** Imagine the draft reports elsewhere that the treated cloth absorbs 8% less water. Before:
+**Edit 4.** Imagine the draft reports elsewhere that the treated cloth absorbs 8% less water.
 
-> The treated cloth absorbs somewhat less water than untreated cloth.
+> **Before.** The treated cloth absorbs somewhat less water than untreated cloth.
 
-After:
+> **After.** The treated cloth absorbs 8% less water than untreated cloth.
 
-> The treated cloth absorbs 8% less water than untreated cloth.
+**Edit 5.** Suppose Results presents the frost explanation as tentative.
 
-**Edit 5.** Suppose Results presents the frost explanation as tentative. Before:
+> **Before.** Abstract: Frost explains the cracks.
 
-> Abstract: Frost explains the cracks.
-
-After:
-
-> Abstract: Frost may explain the cracks.
+> **After.** Abstract: Frost may explain the cracks.

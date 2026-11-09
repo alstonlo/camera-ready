@@ -8,36 +8,28 @@ When choosing a word to express contrast, distinguish a comparison, an exception
 
 ## Examples
 
-**Edit 1.** Suppose the draft establishes the timing without establishing a cause. Before:
+**Edit 1.** Suppose the draft establishes the timing without establishing a cause.
 
-> As the pump stops, the lamp flashes.
+> **Before.** As the pump stops, the lamp flashes.
 
-After:
+> **After.** When the pump stops, the lamp flashes.
 
-> When the pump stops, the lamp flashes.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** Glass transmits light. Conversely, wool retains heat.
 
-> Glass transmits light. Conversely, wool retains heat.
+> **After.** Glass transmits light. Wool retains heat.
 
-After:
+**Edit 3.**
 
-> Glass transmits light. Wool retains heat.
+> **Before.** Because the gasket is cracked, therefore the lid leaks.
 
-**Edit 3.** Before:
+> **After.** Because the gasket is cracked, the lid leaks.
 
-> Because the gasket is cracked, therefore the lid leaks.
+**Edit 4.** Say the draft states elsewhere that every cracked jar leaks.
 
-After:
+> **Before.** This jar is cracked. Therefore, it leaks.
 
-> Because the gasket is cracked, the lid leaks.
-
-**Edit 4.** Say the draft states elsewhere that every cracked jar leaks. Before:
-
-> This jar is cracked. Therefore, it leaks.
-
-After:
-
-> Every cracked jar leaks. This jar is cracked. Therefore, it leaks.
+> **After.** Every cracked jar leaks. This jar is cracked. Therefore, it leaks.
 
 After is a proposal to the author for supplying the missing premise from elsewhere in the draft.

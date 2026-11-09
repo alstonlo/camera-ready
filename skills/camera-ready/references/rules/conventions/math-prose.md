@@ -12,36 +12,41 @@ In LaTeX source, a blank line starts a new paragraph. Do not put blank lines aro
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> The area of a circle of radius $r$ is: \[\pi r^2.\]
+> **Before.** The area of a circle of radius $r$ is: \[\pi r^2.\]
 
-After:
+> **After.** The area of a circle of radius $r$ is \[\pi r^2.\]
 
-> The area of a circle of radius $r$ is \[\pi r^2.\]
+**Edit 2.** Imagine a paper on logic in which this passage explains the universal quantifier.
 
-**Edit 2.** Imagine a paper on logic in which this passage explains the universal quantifier. Before:
+> **Before.** $P$ is the predicate in $\forall x\,P(x)$.
 
-> $P$ is the predicate in $\forall x\,P(x)$.
-
-After:
-
-> The symbol $P$ is the predicate in $\forall x\,P(x)$.
+> **After.** The symbol $P$ is the predicate in $\forall x\,P(x)$.
 
 The quantifier stays in symbols because the passage discusses the notation itself.
 
-**Edit 3.** Before:
+**Edit 3.**
 
-> The value of $q$ is positive, where $q$ denotes net inflow.
+> **Before.** The value of $q$ is positive, where $q$ denotes net inflow.
 
-After:
+> **After.** Let $q$ denote net inflow. The value of $q$ is positive.
 
-> Let $q$ denote net inflow. The value of $q$ is positive.
+**Edit 4.** Suppose the draft has already defined $a$ and $b$.
 
-**Edit 4.** Suppose the draft has already defined $a$ and $b$. Here `\n` marks a newline. Before:
+> **Before.**
+>
+> ```latex
+> The total is
+>
+> \[s=a+b.\]
+> We compare it with the limit.
+> ```
 
-> `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
-
-After:
-
-> `The total is\n\[s=a+b.\]\nWe compare it with the limit.`
+> **After.**
+>
+> ```latex
+> The total is
+> \[s=a+b.\]
+> We compare it with the limit.
+> ```

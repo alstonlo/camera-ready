@@ -14,38 +14,30 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Imagine the author asks for a shorter draft. Before:
+**Edit 1.** Imagine the author asks for a shorter draft.
 
-> The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
+> **Before.** The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
 
-After:
+> **After.** The lid reduces evaporation in both jars.
 
-> The lid reduces evaporation in both jars.
+**Edit 2.** Say an editor has proposed cutting the closing restatement.
 
-**Edit 2.** Say an editor has proposed cutting the closing restatement. Before:
+> **Before.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
 
-> An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
-
-After:
-
-> An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
+> **After.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
 
 Before shows the editor's proposed cut; After restores the draft's final sentence. The closing sentence connects the explanation about expanding gas to the opening claim.
 
-**Edit 3.** Suppose the draft still exceeds the length limit after redundant restatements have been cut. Before:
+**Edit 3.** Suppose the draft still exceeds the length limit after redundant restatements have been cut.
 
-> Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
+> **Before.** Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
 
-After:
-
-> Appendix A proves the stability bound.
+> **After.** Appendix A proves the stability bound.
 
 The appendix reference tells readers where to find the proof.
 
-**Edit 4.** Imagine cuts in the first three stages have left the draft over the length limit, and Appendix B already contains the pressure checks. Before:
+**Edit 4.** Imagine cuts in the first three stages have left the draft over the length limit, and Appendix B already contains the pressure checks.
 
-> The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
+> **Before.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
 
-After:
-
-> The seal holds at 10 °C and 20 °C but leaks at 30 °C. Appendix B gives the pressure checks.
+> **After.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. Appendix B gives the pressure checks.

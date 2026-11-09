@@ -8,18 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> Some fruits are rich in vitamin C, i.e., oranges and kiwis.
+> **Before.** Some fruits are rich in vitamin C, i.e., oranges and kiwis.
 
-After:
+> **After.** Some fruits are rich in vitamin C, e.g., oranges and kiwis.
 
-> Some fruits are rich in vitamin C, e.g., oranges and kiwis.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** For the full protocol, cf. Section 2.
 
-> For the full protocol, cf. Section 2.
-
-After:
-
-> For the full protocol, see Section 2.
+> **After.** For the full protocol, see Section 2.

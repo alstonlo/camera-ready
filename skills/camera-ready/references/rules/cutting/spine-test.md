@@ -10,38 +10,30 @@ Writing a short title for a section tests whether the section develops one coher
 
 ## Examples
 
-**Edit 1.** Imagine the author asks to shorten a paper about erosion. Before:
+**Edit 1.** Imagine the author asks to shorten a paper about erosion.
 
-> Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
+> **Before.** Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
 
-After:
+> **After.** Gravel reduces soil erosion in our tests.
 
-> Gravel reduces soil erosion in our tests.
+**Edit 2.** Say the author wants to shorten a paper whose core claim concerns leaf entry.
 
-**Edit 2.** Say the author wants to shorten a paper whose core claim concerns leaf entry. Before:
+> **Before.** The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
 
-> The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
+> **After.** The mesh prevents leaf entry. A finer mesh might also block grit.
 
-After:
+**Edit 3.** Suppose the author asks to shorten a study of debris exclusion, and the draft also reports that the mesh lets sand through.
 
-> The mesh prevents leaf entry. A finer mesh might also block grit.
+> **Before.** The mesh blocks leaves.
 
-**Edit 3.** Suppose the author asks to shorten a study of debris exclusion, and the draft also reports that the mesh lets sand through. Before:
-
-> The mesh blocks leaves.
-
-After:
-
-> The mesh blocks leaves but lets sand through.
+> **After.** The mesh blocks leaves but lets sand through.
 
 Before is an editor's proposed cut; After restores the sand result. That result limits what the mesh can exclude.
 
-**Edit 4.** Say the author asks to shorten a section about leaf blockage and pump power, and the draft also reports that the pump draws 5 W. Before:
+**Edit 4.** Say the author asks to shorten a section about leaf blockage and pump power, and the draft also reports that the pump draws 5 W.
 
-> The mesh blocks leaves.
+> **Before.** The mesh blocks leaves.
 
-After:
-
-> The mesh blocks leaves. The pump draws 5 W.
+> **After.** The mesh blocks leaves. The pump draws 5 W.
 
 Before is an editor's proposed cut; After restores the power measurement. Flag the section's competing topics before deciding which finding to remove.

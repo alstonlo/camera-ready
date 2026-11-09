@@ -8,36 +8,28 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the draft names leaks and evaporation as the two sources elsewhere. Before:
+**Edit 1.** Suppose the draft names leaks and evaporation as the two sources elsewhere.
 
-> Two sources of water loss are discussed later.
+> **Before.** Two sources of water loss are discussed later.
 
-After:
+> **After.** Water is lost through leaks and evaporation.
 
-> Water is lost through leaks and evaporation.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** We make two observations, which we discuss below. First, the lid bends. Second, the seal leaks.
 
-> We make two observations, which we discuss below. First, the lid bends. Second, the seal leaks.
+> **After.** We make two observations. First, the lid bends. Second, the seal leaks.
 
-After:
+**Edit 3.**
 
-> We make two observations. First, the lid bends. Second, the seal leaks.
+> **Before.** This issue is complex. We have not defined partial failure, so these tests cannot distinguish it from complete failure.
 
-**Edit 3.** Before:
+> **After.** We have not defined partial failure, so these tests cannot distinguish it from complete failure.
 
-> This issue is complex. We have not defined partial failure, so these tests cannot distinguish it from complete failure.
+**Edit 4.** Suppose the draft promises to explain later why the lid stays shut but never provides the explanation.
 
-After:
+> **Before.** The lid stays shut because its latch resists pressure.
 
-> We have not defined partial failure, so these tests cannot distinguish it from complete failure.
-
-**Edit 4.** Suppose the draft promises to explain later why the lid stays shut but never provides the explanation. Before:
-
-> The lid stays shut because its latch resists pressure.
-
-After:
-
-> We explain below why the lid stays shut. Flag for the author: The promised explanation is missing.
+> **After.** We explain below why the lid stays shut. Flag for the author: The promised explanation is missing.
 
 Before is an editor's proposed addition, which the draft does not support. The author must supply the explanation; the editor cannot infer it from the fact that the lid stays shut.

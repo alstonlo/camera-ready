@@ -8,34 +8,26 @@ Place each section reminder according to [paragraph opening order](../prose/para
 
 ## Examples
 
-**Edit 1.** Suppose this sentence opens Results, and Methods defines the schedules as feeding once or three times a day. Before:
+**Edit 1.** Suppose this sentence opens Results, and Methods defines the schedules as feeding once or three times a day.
 
-> We compare fish growth under the two feeding schedules.
+> **Before.** We compare fish growth under the two feeding schedules.
 
-After:
+> **After.** We compare fish growth under the two feeding schedules: once or three times a day.
 
-> We compare fish growth under the two feeding schedules: once or three times a day.
+**Edit 2.** Imagine the preceding section identifies cooling time as the production limit, and this section tests a fan to shorten that time.
 
-**Edit 2.** Imagine the preceding section identifies cooling time as the production limit, and this section tests a fan to shorten that time. Before:
+> **Before.** We test a fan.
 
-> We test a fan.
+> **After.** To shorten the cooling time that limits production, we test a fan.
 
-After:
+**Edit 3.** Say this is the seal's first mention in the introduction, and the abstract defines it as a rubber ring.
 
-> To shorten the cooling time that limits production, we test a fan.
+> **Before.** The seal prevents leaks at the pipe joint.
 
-**Edit 3.** Say this is the seal's first mention in the introduction, and the abstract defines it as a rubber ring. Before:
+> **After.** The seal, a rubber ring, prevents leaks at the pipe joint.
 
-> The seal prevents leaks at the pipe joint.
+**Edit 4.** Imagine these sentences open Methods.
 
-After:
+> **Before.** We attach a fan to the lid. We use airflow to shorten cooling time.
 
-> The seal, a rubber ring, prevents leaks at the pipe joint.
-
-**Edit 4.** Imagine these sentences open Methods. Before:
-
-> We attach a fan to the lid. We use airflow to shorten cooling time.
-
-After:
-
-> We use airflow to shorten cooling time. We attach a fan to the lid.
+> **After.** We use airflow to shorten cooling time. We attach a fan to the lid.

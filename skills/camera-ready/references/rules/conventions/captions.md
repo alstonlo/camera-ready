@@ -12,34 +12,26 @@ In the edits for Table 3 and Figures 8 and 10, each After line proposes a revisi
 
 ## Examples
 
-**Edit 1.** Suppose the paragraph citing Figure 2 gives the measurement, time, units, and finding shown in After. Before:
+**Edit 1.** Suppose the paragraph citing Figure 2 gives the measurement, time, units, and finding shown in After.
 
-> Figure 2: Plant growth.
+> **Before.** Figure 2: Plant growth.
 
-After:
+> **After.** Figure 2: Mean plant height after four weeks, in centimeters. Plants given fertilizer were taller than untreated plants.
 
-> Figure 2: Mean plant height after four weeks, in centimeters. Plants given fertilizer were taller than untreated plants.
+**Edit 2.** Say the draft identifies the dashes in Table 3 as missing measurements.
 
-**Edit 2.** Say the draft identifies the dashes in Table 3 as missing measurements. Before:
+> **Before.** Table 3: Daily air temperature at each site, in degrees Celsius.
 
-> Table 3: Daily air temperature at each site, in degrees Celsius.
+> **After.** Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
 
-After:
+**Edit 3.** Imagine Figure 8's vertical axis starts at 9 cm and the draft reports heights of 11 cm for treated plants and 10 cm for controls.
 
-> Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
+> **Before.** Figure 8: The treated plants are twice as tall as the controls.
 
-**Edit 3.** Imagine Figure 8's vertical axis starts at 9 cm and the draft reports heights of 11 cm for treated plants and 10 cm for controls. Before:
+> **After.** Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
 
-> Figure 8: The treated plants are twice as tall as the controls.
+**Edit 4.** Suppose the draft's measurements end at day 20 and the day-30 value comes from a fitted curve.
 
-After:
+> **Before.** Figure 10: The measured height at day 30 is 18 cm.
 
-> Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
-
-**Edit 4.** Suppose the draft's measurements end at day 20 and the day-30 value comes from a fitted curve. Before:
-
-> Figure 10: The measured height at day 30 is 18 cm.
-
-After:
-
-> Figure 10: The predicted height at day 30 is 18 cm.
+> **After.** Figure 10: The predicted height at day 30 is 18 cm.

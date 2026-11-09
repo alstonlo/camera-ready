@@ -26,36 +26,28 @@ When the draft recommends practical use, check the requirements it documents, su
 
 ## Examples
 
-**Edit 1.** Suppose the draft records that 99 of the 100 tested bulbs lit within a second and calls that timing typical. Before:
+**Edit 1.** Suppose the draft records that 99 of the 100 tested bulbs lit within a second and calls that timing typical.
 
-> The tested bulbs always lit within a second.
+> **Before.** The tested bulbs always lit within a second.
 
-After:
+> **After.** The tested bulbs usually lit within a second.
 
-> The tested bulbs usually lit within a second.
+**Edit 2.** If the draft documents a crack in one photographed tile but gives no survey of other tiles, propose the revision in After to the author.
 
-**Edit 2.** If the draft documents a crack in one photographed tile but gives no survey of other tiles, propose the revision in After to the author. Before:
+> **Before.** Cracks are common in these tiles.
 
-> Cracks are common in these tiles.
+> **After.** The photographed tile has a crack.
 
-After:
+**Edit 3.** Say the draft gives chair A a comfort score of 8 and chair B a score of 4, without establishing that the scores are proportional to comfort. Treat After as a proposal to the author.
 
-> The photographed tile has a crack.
+> **Before.** Chair A is twice as comfortable as chair B.
 
-**Edit 3.** Say the draft gives chair A a comfort score of 8 and chair B a score of 4, without establishing that the scores are proportional to comfort. Treat After as a proposal to the author. Before:
+> **After.** Chair A scores twice as high as chair B on the comfort scale.
 
-> Chair A is twice as comfortable as chair B.
+**Edit 4.** Imagine the draft reports tests only on aluminum and explicitly describes possible use on bridges as untested.
 
-After:
+> **Before.** The coating resists corrosion on all metals and may be useful on bridges.
 
-> Chair A scores twice as high as chair B on the comfort scale.
-
-**Edit 4.** Imagine the draft reports tests only on aluminum and explicitly describes possible use on bridges as untested. Before:
-
-> The coating resists corrosion on all metals and may be useful on bridges.
-
-After:
-
-> The coating resists corrosion on aluminum in the tests and may be useful on bridges.
+> **After.** The coating resists corrosion on aluminum in the tests and may be useful on bridges.
 
 The draft already marks the bridge application as untested, so the tentative suggestion can stay.

@@ -8,36 +8,28 @@ In LaTeX, `--` produces an en dash. Keep an en dash in numeric ranges and in nam
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> The two-stage test uses the Kullback–Leibler divergence—over steps 3–5.
+> **Before.** The two-stage test uses the Kullback–Leibler divergence—over steps 3–5.
 
-After:
-
-> The two-stage test uses the Kullback–Leibler divergence over steps 3–5.
+> **After.** The two-stage test uses the Kullback–Leibler divergence over steps 3–5.
 
 The dashes in "Kullback–Leibler" and "3–5" identify the name and range; they do not mark pauses.
 
-**Edit 2.** Before:
+**Edit 2.**
 
-> The tray holds two tools—a ruler and a brush.
+> **Before.** The tray holds two tools—a ruler and a brush.
 
-After:
+> **After.** The tray holds two tools: a ruler and a brush.
 
-> The tray holds two tools: a ruler and a brush.
+**Edit 3.**
 
-**Edit 3.** Before:
+> **Before.** The seal holds—only below 30 °C.
 
-> The seal holds—only below 30 °C.
+> **After.** The seal holds, but only below 30 °C.
 
-After:
+**Edit 4.** Suppose the purchase date serves as optional background.
 
-> The seal holds, but only below 30 °C.
+> **Before.** The tray—purchased in May—holds six vials.
 
-**Edit 4.** Suppose the purchase date serves as optional background. Before:
-
-> The tray—purchased in May—holds six vials.
-
-After:
-
-> The tray (purchased in May) holds six vials.
+> **After.** The tray (purchased in May) holds six vials.

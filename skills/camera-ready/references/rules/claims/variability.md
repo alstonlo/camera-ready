@@ -22,60 +22,46 @@ For a claim that an iterative method converges, meaning that its successive esti
 
 ## Examples
 
-**Edit 1.** Suppose the draft compares both modes on the same photographs and reports that mode A loses more image detail than mode B. Before:
+**Edit 1.** Suppose the draft compares both modes on the same photographs and reports that mode A loses more image detail than mode B.
 
-> Mode A produces smaller files than mode B.
+> **Before.** Mode A produces smaller files than mode B.
 
-After:
+> **After.** Mode A produces smaller files than mode B but loses more image detail.
 
-> Mode A produces smaller files than mode B but loses more image detail.
+**Edit 2.** Say the draft gives the mean yield for six independently prepared batches and defines ± as standard deviation.
 
-**Edit 2.** Say the draft gives the mean yield for six independently prepared batches and defines ± as standard deviation. Before:
+> **Before.** The yield is 72 ± 3%.
 
-> The yield is 72 ± 3%.
+> **After.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
 
-After:
+**Edit 3.** Imagine the draft says the authors tested their tiles wet, while Lee's tiles were tested dry.
 
-> Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
+> **Before.** Our tiles are stronger than Lee's tiles.
 
-**Edit 3.** Imagine the draft says the authors tested their tiles wet, while Lee's tiles were tested dry. Before:
+> **After.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
 
-> Our tiles are stronger than Lee's tiles.
+**Edit 4.** Suppose the draft uses the same photographs to select the filter and measure its accuracy.
 
-After:
+> **Before.** The photographs independently confirm the selected filter's accuracy.
 
-> These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
+> **After.** The selected filter's accuracy is measured on the same photographs used to select it.
 
-**Edit 4.** Suppose the draft uses the same photographs to select the filter and measure its accuracy. Before:
+**Edit 5.** Say the draft describes separate, independently sampled plots for selection and held-out testing.
 
-> The photographs independently confirm the selected filter's accuracy.
+> **Before.** The test reuses the selection plots from the farm.
 
-After:
-
-> The selected filter's accuracy is measured on the same photographs used to select it.
-
-**Edit 5.** Say the draft describes separate, independently sampled plots for selection and held-out testing. Before:
-
-> The test reuses the selection plots from the farm.
-
-After:
-
-> The test uses separate held-out plots from the farm.
+> **After.** The test uses separate held-out plots from the farm.
 
 Plots from the same farm can still provide a separate test; a shared source does not make them the same data.
 
-**Edit 6.** Suppose the draft reports a known calibration error that went uncorrected. Before:
+**Edit 6.** Suppose the draft reports a known calibration error that went uncorrected.
 
-> The small spread rules out measurement error.
+> **Before.** The small spread rules out measurement error.
 
-After:
+> **After.** The small spread shows little variation across repeats.
 
-> The small spread shows little variation across repeats.
+**Edit 7.** Here the draft defines the increase as four percentage points.
 
-**Edit 7.** Here the draft defines the increase as four percentage points. Before:
+> **Before.** The attendance rate increases by 4%.
 
-> The attendance rate increases by 4%.
-
-After:
-
-> The attendance rate increases by 4 percentage points.
+> **After.** The attendance rate increases by 4 percentage points.

@@ -14,8 +14,8 @@ LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
 RULE_LINK = re.compile(r"\brules/([a-z0-9-]+/[a-z0-9-]+)\.md\)")
 HEADS = ["## Details", "## Examples"]
-LABEL = re.compile(r"\*\*Edit (\d+)\.\*\* (?:\S.* )?Before:")
-QUOTE = re.compile(r"> (\S.*)")
+LABEL = re.compile(r"\*\*Edit (\d+)\.\*\*(?: \S.*)?")
+QUOTE = re.compile(r"> \*\*(Before|After)\.\*\*((?: \S.*)?(?:\n>.*)*)")
 NOTE = re.compile(r"[^>*\s].*")
 
 
@@ -27,22 +27,24 @@ def check_examples(name: str, examples: str):
     for i, edit in enumerate(re.split(r"\n\n(?=\*\*Edit )", examples), 1):
         parts = edit.split("\n\n")
         label = LABEL.fullmatch(parts[0])
-        quotes = [QUOTE.fullmatch(part) for part in parts[1:4:2]]
+        quotes = [QUOTE.fullmatch(part) for part in parts[1:3]]
         if not (
-            len(parts) in (4, 5)
+            len(parts) in (3, 4)
             and label
             and all(quotes)
-            and parts[2] == "After:"
-            and all(NOTE.fullmatch(part) for part in parts[4:])
+            and [m[1] for m in quotes] == ["Before", "After"]
+            and all(m[2].strip() for m in quotes)
+            and all(NOTE.fullmatch(part) for part in parts[3:])
         ):
             fail(
-                f"{name}.md: each edit must be '**Edit N.** [context] Before:', a one-line quote, "
-                "'After:', a one-line quote, and an optional one-paragraph explanation"
+                f"{name}.md: each edit must be an '**Edit N.**' line with optional context, "
+                "a quote starting '> **Before.**', a quote starting '> **After.**', "
+                "and an optional one-paragraph explanation"
             )
 
         if label[1] != str(i):
             fail(f"{name}.md: edits must be numbered 1, 2, ... in order")
-        if quotes[0][1].strip() == quotes[1][1].strip():
+        if quotes[0][2].strip() == quotes[1][2].strip():
             fail(f"{name}.md: an edit's After passage repeats its Before passage")
 
 

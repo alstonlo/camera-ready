@@ -10,36 +10,28 @@ Separate the construction of an object from its use. At the transition, state th
 
 ## Examples
 
-**Edit 1.** Suppose the proof later derives a contradiction by adding one to $n$. Before:
+**Edit 1.** Suppose the proof later derives a contradiction by adding one to $n$.
 
-> Let $n$ be the largest integer.
+> **Before.** Let $n$ be the largest integer.
 
-After:
+> **After.** We argue by contradiction. Let $n$ be the largest integer.
 
-> We argue by contradiction. Let $n$ be the largest integer.
+**Edit 2.** Say the draft assumes evenness for this case.
 
-**Edit 2.** Say the draft assumes evenness for this case. Before:
+> **Before.** The integer $n$ is even. Write $n=2k$.
 
-> The integer $n$ is even. Write $n=2k$.
+> **After.** Assume that the integer $n$ is even. Write $n=2k$.
 
-After:
+**Edit 3.** Suppose the draft establishes that the dry case uses the bound proved in the wet case.
 
-> Assume that the integer $n$ is even. Write $n=2k$.
+> **Before.** We treat the dry case, then the wet case. We begin with the wet case.
 
-**Edit 3.** Suppose the draft establishes that the dry case uses the bound proved in the wet case. Before:
-
-> We treat the dry case, then the wet case. We begin with the wet case.
-
-After:
-
-> We treat the dry case, then the wet case. We begin with the wet case because the proof of the dry case uses the bound from the wet case.
+> **After.** We treat the dry case, then the wet case. We begin with the wet case because the proof of the dry case uses the bound from the wet case.
 
 The announced order can stay because the proof gives a reason for handling the cases in a different order.
 
-**Edit 4.** Imagine the draft has just constructed $S$ and proved it finite, and Lemma 2 applies to finite sets. Before:
+**Edit 4.** Imagine the draft has just constructed $S$ and proved it finite, and Lemma 2 applies to finite sets.
 
-> We now apply Lemma 2 to $S$.
+> **Before.** We now apply Lemma 2 to $S$.
 
-After:
-
-> We have constructed a finite set $S$. We now apply Lemma 2 to $S$.
+> **After.** We have constructed a finite set $S$. We now apply Lemma 2 to $S$.

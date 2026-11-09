@@ -8,32 +8,28 @@ Confusion in a passage usually means that a step is missing, not that the passag
 
 ## Examples
 
-**Edit 1.** Say an earlier cut removed the draft's count of eighteen seedlings. Before:
+**Edit 1.** Say an earlier cut removed the draft's count of eighteen seedlings.
 
-> Each tray holds six seedlings. We therefore need three trays.
+> **Before.** Each tray holds six seedlings. We therefore need three trays.
 
-After:
-
-> Each tray holds six seedlings. We have eighteen seedlings and therefore need three trays.
+> **After.** Each tray holds six seedlings. We have eighteen seedlings and therefore need three trays.
 
 Before shows the passage left by that cut. Without the total, readers cannot check why three trays are needed.
 
-**Edit 2.** Imagine an earlier cut has left these paragraphs adjacent. Here a slash marks the paragraph break. Before:
+**Edit 2.** Imagine an earlier cut has left these paragraphs adjacent.
 
-> The lid reduces evaporation. / Less water is lost overnight.
+> **Before.** The lid reduces evaporation.
+>
+> Less water is lost overnight.
 
-After:
-
-> The lid reduces evaporation. Less water is lost overnight.
+> **After.** The lid reduces evaporation. Less water is lost overnight.
 
 Before shows the paragraphs left by the cut. The second sentence explains what reduced evaporation means for overnight water loss.
 
-**Edit 3.** Suppose an editor added \vspace{-4mm} to meet the length limit, while \smallskip was already in the draft. Before:
+**Edit 3.** Suppose an editor added \vspace{-4mm} to meet the length limit, while \smallskip was already in the draft.
 
-> \smallskip The sample remains dry. \vspace{-4mm}
+> **Before.** \smallskip The sample remains dry. \vspace{-4mm}
 
-After:
-
-> \smallskip The sample remains dry.
+> **After.** \smallskip The sample remains dry.
 
 Before includes the editor's added spacing. The original \smallskip needs no correction; if clear cuts cannot meet the limit, report the remaining excess.

@@ -8,12 +8,10 @@ Also delete an assistant's offers to continue, disclaimers about its status, and
 
 ## Examples
 
-**Edit 1.** Suppose the study examines responses to the quoted prompt. Before:
+**Edit 1.** Suppose the study examines responses to the quoted prompt.
 
-> Certainly! The test prompt is "Great question!".
+> **Before.** Certainly! The test prompt is "Great question!".
 
-After:
-
-> The test prompt is "Great question!".
+> **After.** The test prompt is "Great question!".
 
 The wording inside the quotation is part of the study material; editing it would change what was tested.

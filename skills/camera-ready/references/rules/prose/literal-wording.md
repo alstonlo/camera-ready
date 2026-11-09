@@ -14,38 +14,30 @@ To check an analogy, list which familiar object stands for each technical object
 
 ## Examples
 
-**Edit 1.** Suppose the draft identifies a foam pad as the support. Before:
+**Edit 1.** Suppose the draft identifies a foam pad as the support.
 
-> Our support strategy holds the vial upright.
+> **Before.** Our support strategy holds the vial upright.
 
-After:
+> **After.** A foam pad holds the vial upright.
 
-> A foam pad holds the vial upright.
+**Edit 2.** Say the preceding sentence defines "the framework" as the steel frame around the tank.
 
-**Edit 2.** Say the preceding sentence defines "the framework" as the steel frame around the tank. Before:
+> **Before.** We utilize the framework to support the tank.
 
-> We utilize the framework to support the tank.
-
-After:
-
-> We use the framework to support the tank.
+> **After.** We use the framework to support the tank.
 
 The preceding definition already tells readers which object "the framework" names.
 
-**Edit 3.** Before:
+**Edit 3.**
 
-> Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
+> **Before.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
 
-After:
-
-> Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
+> **After.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
 
 The sieve explains which particles the mesh retains, so the comparison helps readers understand the operation.
 
-**Edit 4.** Imagine the draft states that the spring closes the lid. Before:
+**Edit 4.** Imagine the draft states that the spring closes the lid.
 
-> The spring is the lid’s tireless guardian.
+> **Before.** The spring is the lid’s tireless guardian.
 
-After:
-
-> The spring closes the lid.
+> **After.** The spring closes the lid.

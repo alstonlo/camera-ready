@@ -16,46 +16,39 @@ A readability score does not measure whether readers in the field can follow a s
 
 ## Examples
 
-**Edit 1.** Suppose the preceding text discusses the leak and introduces trial 2. Before:
+**Edit 1.** Suppose the preceding text discusses the leak and introduces trial 2.
 
-> That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
+> **Before.** That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
 
-After:
-
-> That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
+> **After.** That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
 
 The first sentence keeps the leak as its subject because readers already know about it. The short aside refers to a familiar trial and does not make the sentence hard to follow.
 
-**Edit 2.** Before:
+**Edit 2.**
 
-> We inspect the scanning electron microscope sample holder cover.
+> **Before.** We inspect the scanning electron microscope sample holder cover.
 
-After:
-
-> We inspect the cover of the sample holder for the scanning electron microscope.
+> **After.** We inspect the cover of the sample holder for the scanning electron microscope.
 
 The words "scanning electron microscope" stay together because they name one instrument.
 
-**Edit 3.** Before:
+**Edit 3.**
 
-> Wearing gloves, the vial was opened by the technician.
+> **Before.** Wearing gloves, the vial was opened by the technician.
 
-After:
+> **After.** Wearing gloves, the technician opened the vial.
 
-> Wearing gloves, the technician opened the vial.
+**Edit 4.**
 
-**Edit 4.** Before:
+> **Before.** We assume the samples in the red tray contain salt.
 
-> We assume the samples in the red tray contain salt.
+> **After.** We assume that the samples in the red tray contain salt.
 
-After:
+**Edit 5.**
 
-> We assume that the samples in the red tray contain salt.
+> **Before.** Open the valve only if the lid is shut, the pump is off, and the tank is cool.
 
-**Edit 5.** Here the symbol ↵ marks a line break. Before:
-
-> Open the valve only if the lid is shut, the pump is off, and the tank is cool.
-
-After:
-
-> Open the valve only if all three conditions hold: ↵ 1. The lid is shut. ↵ 2. The pump is off. ↵ 3. The tank is cool.
+> **After.** Open the valve only if all three conditions hold:
+> 1. The lid is shut.
+> 2. The pump is off.
+> 3. The tank is cool.

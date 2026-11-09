@@ -8,28 +8,22 @@ Discuss related minor objections together so that repeating them does not make t
 
 ## Examples
 
-**Edit 1.** Suppose the rainfall measurements are independent of the wind measurements. After is a proposal to the author. Before:
+**Edit 1.** Suppose the rainfall measurements are independent of the wind measurements. After is a proposal to the author.
 
-> 2 Measuring rainfall; 3 Measuring wind; 4 Correcting rainfall measurements
+> **Before.** 2 Measuring rainfall; 3 Measuring wind; 4 Correcting rainfall measurements
 
-After:
+> **After.** 2 Measuring rainfall; 3 Correcting rainfall measurements; 4 Measuring wind
 
-> 2 Measuring rainfall; 3 Correcting rainfall measurements; 4 Measuring wind
+**Edit 2.** Say the rigid seal is a rejected approach reported as a negative result.
 
-**Edit 2.** Say the rigid seal is a rejected approach reported as a negative result. Before:
+> **Before.** We test the rigid seal on pipes bent to five angles. The rigid seal cracks at every angle.
 
-> We test the rigid seal on pipes bent to five angles. The rigid seal cracks at every angle.
+> **After.** The rigid seal cracks at every tested bend angle. We test the rigid seal on pipes bent to five angles.
 
-After:
+**Edit 3.** Imagine both tests use the temperature definition. After is a proposal to the author.
 
-> The rigid seal cracks at every tested bend angle. We test the rigid seal on pipes bent to five angles.
+> **Before.** 2 Leak test; 3 Temperature definition; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 
-**Edit 3.** Imagine both tests use the temperature definition. After is a proposal to the author. Before:
-
-> 2 Leak test; 3 Temperature definition; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
-
-After:
-
-> 2 Temperature definition; 3 Leak test; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
+> **After.** 2 Temperature definition; 3 Leak test; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 
 The leak test supplies the reason for the flexible seal, so the second test belongs after that result.

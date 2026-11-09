@@ -10,20 +10,16 @@ The words "Some may argue" alone do not make an objection explicitly hypothetica
 
 ## Examples
 
-**Edit 1.** Suppose the draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself. Before:
+**Edit 1.** Suppose the draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself.
 
-> Experts believe that most new city roofs will be white by 2040 (Zhao et al., 2023).
+> **Before.** Experts believe that most new city roofs will be white by 2040 (Zhao et al., 2023).
 
-After:
+> **After.** Zhao et al. (2023) expect that most new city roofs will be white by 2040.
 
-> Zhao et al. (2023) expect that most new city roofs will be white by 2040.
+**Edit 2.** Say the draft cites Lin (2021) for the germination claim.
 
-**Edit 2.** Say the draft cites Lin (2021) for the germination claim. Before:
+> **Before.** Studies show that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 
-> Studies show that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
-
-After:
-
-> Lin (2021) reports that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
+> **After.** Lin (2021) reports that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 
 The objection needs no named source because the authors pose it as a hypothetical question and answer it themselves.

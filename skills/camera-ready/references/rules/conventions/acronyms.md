@@ -8,40 +8,32 @@ Treat an acronym in the title as unfamiliar if readers in the field outside the 
 
 ## Examples
 
-**Edit 1.** Say the draft defines ETR as "electron transport rate", and its repeated use in the body begins here. Before:
+**Edit 1.** Say the draft defines ETR as "electron transport rate", and its repeated use in the body begins here.
 
-> We measure ETR at noon. ETR rises with light intensity.
+> **Before.** We measure ETR at noon. ETR rises with light intensity.
 
-After:
+> **After.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
 
-> We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
+**Edit 2.** Suppose the draft defines ETR as "electron transport rate", but readers outside the subfield would not recognize the acronym in this title. After is a proposal to the author.
 
-**Edit 2.** Suppose the draft defines ETR as "electron transport rate", but readers outside the subfield would not recognize the acronym in this title. After is a proposal to the author. Before:
+> **Before.** ETR in shaded leaves
 
-> ETR in shaded leaves
-
-After:
-
-> Electron transport rate in shaded leaves
+> **After.** Electron transport rate in shaded leaves
 
 The editor flags the acronym and leaves the actual title unchanged while the author reviews the proposal.
 
-**Edit 3.** Imagine the draft defines AR as "annual rainfall" and uses it only here and in a figure. After is a proposal to the author. Before:
+**Edit 3.** Imagine the draft defines AR as "annual rainfall" and uses it only here and in a figure. After is a proposal to the author.
 
-> AR varies by site.
+> **Before.** AR varies by site.
 
-After:
-
-> Annual rainfall varies by site.
+> **After.** Annual rainfall varies by site.
 
 The author needs to coordinate the proposed prose change with the figure.
 
-**Edit 4.** Suppose the intended readers know DNA as a standard acronym, and the draft defines TS as "time step". Before:
+**Edit 4.** Suppose the intended readers know DNA as a standard acronym, and the draft defines TS as "time step".
 
-> DNA is measured at each TS.
+> **Before.** DNA is measured at each TS.
 
-After:
-
-> DNA is measured at each time step.
+> **After.** DNA is measured at each time step.
 
 DNA needs no introduction for these readers.

@@ -12,36 +12,28 @@ For durations, use the draft's convention to distinguish a decimal number from a
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> We stir the solution for 30s.
+> **Before.** We stir the solution for 30s.
 
-After:
+> **After.** We stir the solution for 30~s.
 
-> We stir the solution for 30~s.
+**Edit 2.** Suppose the draft specifies a ratio by mass.
 
-**Edit 2.** Suppose the draft specifies a ratio by mass. Before:
+> **Before.** The concentration is 6 ppm.
 
-> The concentration is 6 ppm.
+> **After.** The concentration is 6 ppm by mass.
 
-After:
+**Edit 3.** Say the draft defines one capacity unit as 1,048,576 bytes.
 
-> The concentration is 6 ppm by mass.
+> **Before.** The capacity is 2 MB.
 
-**Edit 3.** Say the draft defines one capacity unit as 1,048,576 bytes. Before:
-
-> The capacity is 2 MB.
-
-After:
-
-> The capacity is 2 MiB.
+> **After.** The capacity is 2 MiB.
 
 The draft uses MB for a binary unit, so this corrects the label without converting the capacity.
 
-**Edit 4.** Imagine the draft uses a period to separate minutes from seconds. Before:
+**Edit 4.** Imagine the draft uses a period to separate minutes from seconds.
 
-> The duration is 1.30.
+> **Before.** The duration is 1.30.
 
-After:
-
-> The duration is 1 min 30 s.
+> **After.** The duration is 1 min 30 s.

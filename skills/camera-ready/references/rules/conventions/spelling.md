@@ -8,18 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the rest of the draft uses "dataset" and the venue has no preference between the two forms. Before:
+**Edit 1.** Suppose the rest of the draft uses "dataset" and the venue has no preference between the two forms.
 
-> The data set contains labeled traffic flows.
+> **Before.** The data set contains labeled traffic flows.
 
-After:
+> **After.** The dataset contains labeled traffic flows.
 
-> The dataset contains labeled traffic flows.
+**Edit 2.** Imagine the venue requires "data set", although "dataset" is more frequent in the draft.
 
-**Edit 2.** Imagine the venue requires "data set", although "dataset" is more frequent in the draft. Before:
+> **Before.** The dataset contains hourly readings.
 
-> The dataset contains hourly readings.
-
-After:
-
-> The data set contains hourly readings.
+> **After.** The data set contains hourly readings.

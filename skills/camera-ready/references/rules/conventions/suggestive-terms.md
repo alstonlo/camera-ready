@@ -8,36 +8,28 @@ Replace intentions or mental states attributed to a system ("the particle wants 
 
 ## Examples
 
-**Edit 1.** Suppose the draft says that the coating darkens when heated but never defines "intelligent". Before:
+**Edit 1.** Suppose the draft says that the coating darkens when heated but never defines "intelligent".
 
-> We test an intelligent coating.
+> **Before.** We test an intelligent coating.
 
-After:
+> **After.** We test a coating that darkens when heated.
 
-> We test a coating that darkens when heated.
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** The tank level grows exponentially, rising by 2 cm each minute.
 
-> The tank level grows exponentially, rising by 2 cm each minute.
+> **After.** The tank level grows linearly, rising by 2 cm each minute.
 
-After:
+**Edit 3.** Imagine this is the first use of "recognizes", and the draft says elsewhere that the enzyme binds to the substrate's phosphate group.
 
-> The tank level grows linearly, rising by 2 cm each minute.
+> **Before.** The enzyme recognizes its substrate.
 
-**Edit 3.** Imagine this is the first use of "recognizes", and the draft says elsewhere that the enzyme binds to the substrate's phosphate group. Before:
-
-> The enzyme recognizes its substrate.
-
-After:
-
-> The enzyme recognizes its substrate by binding to the substrate's phosphate group.
+> **After.** The enzyme recognizes its substrate by binding to the substrate's phosphate group.
 
 The enzyme is not being credited with awareness. Here "recognizes" names a physical interaction that the added explanation makes clear.
 
-**Edit 4.** Say the first "normal" means routine. Before:
+**Edit 4.** Say the first "normal" means routine.
 
-> We draw a normal sample from the normal distribution.
+> **Before.** We draw a normal sample from the normal distribution.
 
-After:
-
-> We draw a routine sample from the normal distribution.
+> **After.** We draw a routine sample from the normal distribution.

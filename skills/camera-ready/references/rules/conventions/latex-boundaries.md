@@ -10,22 +10,38 @@ For blank lines around equations displayed on their own lines, follow the rule o
 
 ## Examples
 
-**Edit 1.** Suppose the original source consists of one paragraph; `\n` denotes a line break. Before:
+**Edit 1.** Suppose the original source consists of one paragraph.
 
-> `We rinse the jars.\n\nWe leave them to dry.`
+> **Before.**
+>
+> ```latex
+> We rinse the jars.
+>
+> We leave them to dry.
+> ```
 
-After:
-
-> `We rinse the jars.\nWe leave them to dry.`
+> **After.**
+>
+> ```latex
+> We rinse the jars.
+> We leave them to dry.
+> ```
 
 Before shows a paragraph break introduced during editing. After restores the author's single paragraph.
 
-**Edit 2.** Say the original source puts the sentence on the line after the comment; `\n` denotes a line break. Before:
+**Edit 2.** Say the original source puts the sentence on the line after the comment.
 
-> `% check label We weigh the jar.`
+> **Before.**
+>
+> ```latex
+> % check label We weigh the jar.
+> ```
 
-After:
-
-> `% check label\nWe weigh the jar.`
+> **After.**
+>
+> ```latex
+> % check label
+> We weigh the jar.
+> ```
 
 Before shows the lines joined during editing, which hides the sentence in the comment. After restores the original line break.

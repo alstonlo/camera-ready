@@ -12,34 +12,40 @@ When a table would help readers compare several objects on the same properties, 
 
 ## Examples
 
-**Edit 1.** Suppose the draft explicitly gives the scale's limit as the reason for the weighing failure. Before:
+**Edit 1.** Suppose the draft explicitly gives the scale's limit as the reason for the weighing failure.
 
-> • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
+> **Before.**
+> - The scale reads only up to 5 kg.
+> - The scale cannot weigh the 8 kg sack.
 
-After:
+> **After.** The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
 
-> The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
+**Edit 2.**
 
-**Edit 2.** Here the symbol ↵ marks a line break. Before:
+> **Before.** First, close the valve; second, disconnect the hose; third, remove the filter.
 
-> First, close the valve; second, disconnect the hose; third, remove the filter.
+> **After.**
+> 1. Close the valve.
+> 2. Disconnect the hose.
+> 3. Remove the filter.
 
-After:
+**Edit 3.** Suppose all requirements have equal priority and the draft never refers to their numbers.
 
-> 1. Close the valve. ↵ 2. Disconnect the hose. ↵ 3. Remove the filter.
+> **Before.**
+> 1. The lid must seal.
+> 2. The handle must fold.
 
-**Edit 3.** Suppose all requirements have equal priority and the draft never refers to their numbers. Here ↵ marks a line break. Before:
+> **After.**
+> - The lid must seal.
+> - The handle must fold.
 
-> 1. The lid must seal. ↵ 2. The handle must fold.
+**Edit 4.** Say the draft establishes measurement and prediction as the two groups. The change below is a proposal to the author.
 
-After:
+> **Before.** Our objectives are:
+> - Record pressure.
+> - Forecast rainfall.
+> - Record temperature.
 
-> • The lid must seal. ↵ • The handle must fold.
-
-**Edit 4.** Say the draft establishes measurement and prediction as the two groups. The change below is a proposal to the author; ↵ marks a line break. Before:
-
-> Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
-
-After:
-
-> Our objectives are: ↵ • Measurement: record pressure and temperature. ↵ • Prediction: forecast rainfall.
+> **After.** Our objectives are:
+> - Measurement: record pressure and temperature.
+> - Prediction: forecast rainfall.

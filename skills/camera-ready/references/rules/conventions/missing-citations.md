@@ -10,30 +10,24 @@ In every example below, the After line is a correction proposed to the author, n
 
 ## Examples
 
-**Edit 1.** Suppose the draft names ortiz2025 as the source, but the bibliography lacks ortiz2026. Before:
+**Edit 1.** Suppose the draft names ortiz2025 as the source, but the bibliography lacks ortiz2026.
 
-> Drying shrinks the shell~\citep{ortiz2026}.
+> **Before.** Drying shrinks the shell~\citep{ortiz2026}.
 
-After:
+> **After.** Drying shrinks the shell~\citep{ortiz2025}.
 
-> Drying shrinks the shell~\citep{ortiz2025}.
+**Edit 2.** Say the draft credits the cooling result to chen2024.
 
-**Edit 2.** Say the draft credits the cooling result to chen2024. Before:
+> **Before.** Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay.
 
-> Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay.
-
-After:
-
-> Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay~\citep{chen2024}.
+> **After.** Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay~\citep{chen2024}.
 
 The words "as cited in" still matter: they tell readers that the authors learned of Ortiz's result through Patel.
 
-**Edit 3.** If the draft supplies both references and credits the cooling result to chen2024, propose this correction. Before:
+**Edit 3.** If the draft supplies both references and credits the cooling result to chen2024, propose this correction.
 
-> A year has twelve months~\citep{calendar2025}. Cooling slows decay.
+> **Before.** A year has twelve months~\citep{calendar2025}. Cooling slows decay.
 
-After:
-
-> A year has twelve months~\citep{calendar2025}. Cooling slows decay~\citep{chen2024}.
+> **After.** A year has twelve months~\citep{calendar2025}. Cooling slows decay~\citep{chen2024}.
 
 Readers need no source for the number of months in a year, but that alone does not justify removing a citation the author included.

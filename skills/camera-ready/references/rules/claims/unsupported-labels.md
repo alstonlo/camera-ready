@@ -12,20 +12,16 @@ Do not treat a claim that the work is the first of its kind as verified merely b
 
 ## Examples
 
-**Edit 1.** Suppose the draft compares hole diameters among the tested sieves and finds that only sieve A has 1 mm holes. Before:
+**Edit 1.** Suppose the draft compares hole diameters among the tested sieves and finds that only sieve A has 1 mm holes.
 
-> Sieve A is unique.
+> **Before.** Sieve A is unique.
 
-After:
+> **After.** Among the tested sieves, only sieve A has 1 mm holes.
 
-> Among the tested sieves, only sieve A has 1 mm holes.
+**Edit 2.** Say the draft supports the claim that the catalog is the first of its kind but provides no evidence of optimality.
 
-**Edit 2.** Say the draft supports the claim that the catalog is the first of its kind but provides no evidence of optimality. Before:
+> **Before.** We provide the first open catalog of these specimens, an optimal resource.
 
-> We provide the first open catalog of these specimens, an optimal resource.
-
-After:
-
-> We provide the first open catalog of these specimens.
+> **After.** We provide the first open catalog of these specimens.
 
 The claim to be first stays because the draft supports it; being first does not establish that the catalog is the best possible resource.

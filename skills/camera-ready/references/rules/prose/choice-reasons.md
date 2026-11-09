@@ -15,28 +15,22 @@ To decide whether a choice needs a reason, consider what a researcher in the fie
 
 ## Examples
 
-**Edit 1.** Suppose a claim depends on the rinse duration and the draft states elsewhere that shorter rinses leave salt on the glass. Before:
+**Edit 1.** Suppose a claim depends on the rinse duration and the draft states elsewhere that shorter rinses leave salt on the glass.
 
-> We rinse each slide for 5 min.
+> **Before.** We rinse each slide for 5 min.
 
-After:
+> **After.** We rinse each slide for 5 min because shorter rinses leave salt on the glass.
 
-> We rinse each slide for 5 min because shorter rinses leave salt on the glass.
+**Edit 2.** Say the draft describes the cloth as preventing scratches on the jars.
 
-**Edit 2.** Say the draft describes the cloth as preventing scratches on the jars. Before:
+> **Before.** We label the jars 1, 2, 3, etc., and wrap them in cloth for various reasons.
 
-> We label the jars 1, 2, 3, etc., and wrap them in cloth for various reasons.
-
-After:
-
-> We label the jars 1, 2, 3, etc., and wrap them in cloth to prevent scratches.
+> **After.** We label the jars 1, 2, 3, etc., and wrap them in cloth to prevent scratches.
 
 The jar labels follow a counting sequence, so readers can supply the next labels.
 
-**Edit 3.** Imagine the draft lists heat, light, and moisture as the factors that damage the film. Before:
+**Edit 3.** Imagine the draft lists heat, light, and moisture as the factors that damage the film.
 
-> We protect the film from heat, light, etc.
+> **Before.** We protect the film from heat, light, etc.
 
-After:
-
-> We protect the film from heat, light, and moisture.
+> **After.** We protect the film from heat, light, and moisture.

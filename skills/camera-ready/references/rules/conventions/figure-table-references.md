@@ -8,26 +8,20 @@ Write `Figure~\ref{...}` with a non-breaking space between "Figure" and the refe
 
 ## Examples
 
-**Edit 1.** If the draft identifies this plot as Figure 4(b), use that reference. Before:
+**Edit 1.** If the draft identifies this plot as Figure 4(b), use that reference.
 
-> The water level falls during summer, as shown in the plot below.
+> **Before.** The water level falls during summer, as shown in the plot below.
 
-After:
+> **After.** The water level falls during summer, as shown in Figure 4(b).
 
-> The water level falls during summer, as shown in Figure 4(b).
+**Edit 2.**
 
-**Edit 2.** Before:
+> **Before.** Figure 2 shows the results. Water loss increases with temperature.
 
-> Figure 2 shows the results. Water loss increases with temperature.
+> **After.** Water loss increases with temperature (Figure 2).
 
-After:
+**Edit 3.** Suppose the draft gives the water level as 5.2 cm, but the plot is too coarse to show how far it exceeds the limit.
 
-> Water loss increases with temperature (Figure 2).
+> **Before.** The water level exceeds the 5 cm limit (Figure 4).
 
-**Edit 3.** Suppose the draft gives the water level as 5.2 cm, but the plot is too coarse to show how far it exceeds the limit. Before:
-
-> The water level exceeds the 5 cm limit (Figure 4).
-
-After:
-
-> The water level is 5.2 cm, which exceeds the 5 cm limit (Figure 4).
+> **After.** The water level is 5.2 cm, which exceeds the 5 cm limit (Figure 4).

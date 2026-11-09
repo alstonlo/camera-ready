@@ -8,38 +8,30 @@ For percentages and differences in percentage points, follow the rule on [variab
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> The tray holds 4 jars, each containing 200 mL of water.
+> **Before.** The tray holds 4 jars, each containing 200 mL of water.
 
-After:
+> **After.** The tray holds four jars, each containing 200 mL of water.
 
-> The tray holds four jars, each containing 200 mL of water.
+**Edit 2.** Suppose the draft spells out counts below ten, and the number of cycles is a protocol setting.
 
-**Edit 2.** Suppose the draft spells out counts below ten, and the number of cycles is a protocol setting. Before:
+> **Before.** We use 2 trays and run 3 cycles.
 
-> We use 2 trays and run 3 cycles.
-
-After:
-
-> We use two trays and run 3 cycles.
+> **After.** We use two trays and run 3 cycles.
 
 The cycle count stays in numerals because it specifies how to run the protocol.
 
-**Edit 3.** Before:
+**Edit 3.**
 
-> The counts are 2.4M and 800,000.
+> **Before.** The counts are 2.4M and 800,000.
 
-After:
+> **After.** The counts are 2.4M and 0.8M.
 
-> The counts are 2.4M and 0.8M.
+**Edit 4.** Say the draft gives the count as 0.8M elsewhere. After is a proposal to the author.
 
-**Edit 4.** Say the draft gives the count as 0.8M elsewhere. After is a proposal to the author. Before:
+> **Before.** The counts are 2.4M and 812,345.
 
-> The counts are 2.4M and 812,345.
-
-After:
-
-> The counts are 2.4M and 0.8M.
+> **After.** The counts are 2.4M and 0.8M.
 
 This rounding loses precision, so the author needs to review it before it is applied.

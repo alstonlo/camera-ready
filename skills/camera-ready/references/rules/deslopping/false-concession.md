@@ -8,20 +8,16 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the draft reports that the glue holds on wood and fails on glass. Before:
+**Edit 1.** Suppose the draft reports that the glue holds on wood and fails on glass.
 
-> Although progress is substantial, problems persist.
+> **Before.** Although progress is substantial, problems persist.
 
-After:
+> **After.** Although the glue holds on wood, it fails on glass.
 
-> Although the glue holds on wood, it fails on glass.
+**Edit 2.** If the draft supports both findings in the first sentence, keep that sentence.
 
-**Edit 2.** If the draft supports both findings in the first sentence, keep that sentence. Before:
+> **Before.** Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
 
-> Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
-
-After:
-
-> Although the glue holds on wood, it fails on glass.
+> **After.** Although the glue holds on wood, it fails on glass.
 
 The first concession stays because it identifies the surfaces on which the glue holds and fails.

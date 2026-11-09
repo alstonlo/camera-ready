@@ -13,13 +13,11 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 ## Examples
 
-**Edit 1.** {{ Optional context, phrased as a hypothetical: "Suppose the draft ..." }} Before:
+**Edit 1.** {{ Optional context, phrased as a hypothetical: "Suppose the draft ..." }}
 
-> {{ A passage that breaks the rule. }}
+> **Before.** {{ A passage that breaks the rule. }}
 
-After:
-
-> {{ The same passage, corrected under this rule alone. }}
+> **After.** {{ The same passage, corrected under this rule alone. }}
 
 {{ Optional explanation of the edit, when it is not obvious. }}
 ```

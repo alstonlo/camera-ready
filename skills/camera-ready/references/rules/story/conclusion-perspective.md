@@ -8,34 +8,26 @@ Distinguish a new question that the findings raise from a question that the stud
 
 ## Examples
 
-**Edit 1.** Suppose the authors already ask in the draft whether the recognition gain extends to other accents. Before:
+**Edit 1.** Suppose the authors already ask in the draft whether the recognition gain extends to other accents.
 
-> Recognition improves for the tested accent. Future work will extend the evaluation.
+> **Before.** Recognition improves for the tested accent. Future work will extend the evaluation.
 
-After:
+> **After.** Recognition improves for the tested accent. Evaluating other accents would establish whether this gain holds across accents.
 
-> Recognition improves for the tested accent. Evaluating other accents would establish whether this gain holds across accents.
+**Edit 2.** Imagine this conclusion repeats the abstract's finding, while the discussion says that dissolved salt remains and prevents the filter alone from making the water drinkable.
 
-**Edit 2.** Imagine this conclusion repeats the abstract's finding, while the discussion says that dissolved salt remains and prevents the filter alone from making the water drinkable. Before:
+> **Before.** The tested filter removes sand.
 
-> The tested filter removes sand.
+> **After.** The tested filter removes sand. Dissolved salt remains, so the filter alone cannot make the water drinkable.
 
-After:
+**Edit 3.** Say the draft promises a test in rain but reports tests only in dry weather.
 
-> The tested filter removes sand. Dissolved salt remains, so the filter alone cannot make the water drinkable.
+> **Before.** The sensor detects smoke in dry weather. Whether it detects smoke in rain is a new question for future work.
 
-**Edit 3.** Say the draft promises a test in rain but reports tests only in dry weather. Before:
+> **After.** The sensor detects smoke in dry weather. The promised test in rain remains incomplete.
 
-> The sensor detects smoke in dry weather. Whether it detects smoke in rain is a new question for future work.
+**Edit 4.** Suppose the draft identifies the outer layer as the one that sheds rain.
 
-After:
+> **Before.** Two insulation layers lower heat loss. The latter also sheds rain.
 
-> The sensor detects smoke in dry weather. The promised test in rain remains incomplete.
-
-**Edit 4.** Suppose the draft identifies the outer layer as the one that sheds rain. Before:
-
-> Two insulation layers lower heat loss. The latter also sheds rain.
-
-After:
-
-> Two insulation layers lower heat loss. The outer layer also sheds rain.
+> **After.** Two insulation layers lower heat loss. The outer layer also sheds rain.

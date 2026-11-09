@@ -8,18 +8,14 @@ Build this sentence from the five-line summary of the problem, the gap and its c
 
 ## Examples
 
-**Edit 1.** Suppose the draft states elsewhere that existing window screens fail to keep small flies out. Before:
+**Edit 1.** Suppose the draft states elsewhere that existing window screens fail to keep small flies out.
 
-> Keeping flies out protects stored food; we propose a finer window screen that blocks all flies in our trial.
+> **Before.** Keeping flies out protects stored food; we propose a finer window screen that blocks all flies in our trial.
 
-After:
+> **After.** Keeping flies out protects stored food, but existing window screens let small flies through; we propose a finer window screen that blocks all flies in our trial.
 
-> Keeping flies out protects stored food, but existing window screens let small flies through; we propose a finer window screen that blocks all flies in our trial.
+**Edit 2.** Imagine the draft gives no connection between the two problems.
 
-**Edit 2.** Imagine the draft gives no connection between the two problems. Before:
+> **Before.** Small flies and overheating make homes uncomfortable, so we propose a finer window screen and a reflective roof paint.
 
-> Small flies and overheating make homes uncomfortable, so we propose a finer window screen and a reflective roof paint.
-
-After:
-
-> Flag for the author: The summary can be written only by naming two unrelated problems, small flies and overheating roofs, so the draft has two competing focuses.
+> **After.** Flag for the author: The summary can be written only by naming two unrelated problems, small flies and overheating roofs, so the draft has two competing focuses.

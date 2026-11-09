@@ -8,18 +8,14 @@ Find the introduction's final substantive promise, which states what the study w
 
 ## Examples
 
-**Edit 1.** Suppose the introduction asks whether the pump can reach a roof 8 m above the tank, and this passage opens the discussion. Before:
+**Edit 1.** Suppose the introduction asks whether the pump can reach a roof 8 m above the tank, and this passage opens the discussion.
 
-> The pump lifts water 10 m above the tank.
+> **Before.** The pump lifts water 10 m above the tank.
 
-After:
+> **After.** The pump lifts water 10 m above the tank, which is high enough to reach the roof.
 
-> The pump lifts water 10 m above the tank, which is high enough to reach the roof.
+**Edit 2.** Imagine the introduction promises a seal that works in fresh and salt water. This passage opens the discussion, and the draft reports that the seal stops leaks in fresh water but still leaks in salt water.
 
-**Edit 2.** Imagine the introduction promises a seal that works in fresh and salt water. This passage opens the discussion, and the draft reports that the seal stops leaks in fresh water but still leaks in salt water. Before:
+> **Before.** The seal closes the stated gap by stopping leaks in both fresh and salt water.
 
-> The seal closes the stated gap by stopping leaks in both fresh and salt water.
-
-After:
-
-> The seal partly closes the stated gap by stopping leaks in fresh water, but leaks remain in salt water.
+> **After.** The seal partly closes the stated gap by stopping leaks in fresh water, but leaks remain in salt water.

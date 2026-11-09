@@ -8,42 +8,32 @@ When a later claim depends on a limitation, keep the brief reminder of the limit
 
 ## Examples
 
-**Edit 1.** Say the battery tests in the draft cover only room temperature. Before:
+**Edit 1.** Say the battery tests in the draft cover only room temperature.
 
-> Future work will test the battery in freezing conditions.
+> **Before.** Future work will test the battery in freezing conditions.
 
-After:
+> **After.** The battery tests cover only room temperature. Future work will test the battery in freezing conditions.
 
-> The battery tests cover only room temperature. Future work will test the battery in freezing conditions.
+**Edit 2.** Say the draft specifies that the observations cover only weekdays.
 
-**Edit 2.** Say the draft specifies that the observations cover only weekdays. Before:
+> **Before.** Unfortunately, the observations have limited coverage.
 
-> Unfortunately, the observations have limited coverage.
+> **After.** The observations cover only weekdays.
 
-After:
+**Edit 3.** Suppose the draft explains elsewhere that missing night readings prevent estimates of daily totals but leave the weekday daytime comparison valid.
 
-> The observations cover only weekdays.
+> **Before.** Night readings are missing.
 
-**Edit 3.** Suppose the draft explains elsewhere that missing night readings prevent estimates of daily totals but leave the weekday daytime comparison valid. Before:
+> **After.** Night readings are missing, so daily totals cannot be estimated. The weekday daytime comparison remains valid.
 
-> Night readings are missing.
+**Edit 4.** Imagine the draft says elsewhere that absolute masses cannot be interpreted because the scale was not calibrated. The revision below is a proposal to the author.
 
-After:
+> **Before.** The only limitation is the slow display.
 
-> Night readings are missing, so daily totals cannot be estimated. The weekday daytime comparison remains valid.
+> **After.** One limitation is the slow display. Another limitation is that the scale was not calibrated, so absolute masses cannot be interpreted.
 
-**Edit 4.** Imagine the draft says elsewhere that absolute masses cannot be interpreted because the scale was not calibrated. The revision below is a proposal to the author. Before:
+**Edit 5.** Suppose the author asks for cuts, and triage has reached repeated full statements of limitations. The full limitation already appears earlier in this section.
 
-> The only limitation is the slow display.
+> **Before.** Demand peaks at noon. The tests exclude nights, so daily totals cannot be estimated.
 
-After:
-
-> One limitation is the slow display. Another limitation is that the scale was not calibrated, so absolute masses cannot be interpreted.
-
-**Edit 5.** Suppose the author asks for cuts, and triage has reached repeated full statements of limitations. The full limitation already appears earlier in this section. Before:
-
-> Demand peaks at noon. The tests exclude nights, so daily totals cannot be estimated.
-
-After:
-
-> During the monitored daytime hours, demand peaks at noon.
+> **After.** During the monitored daytime hours, demand peaks at noon.

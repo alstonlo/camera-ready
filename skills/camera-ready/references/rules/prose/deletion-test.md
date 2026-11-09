@@ -8,52 +8,42 @@ Brevity alone does not justify an edit. Keep distinctions even when a simpler ph
 
 ## Examples
 
-**Edit 1.** Suppose the draft says that the nurse asks the patient to lift the weight. Before:
+**Edit 1.** Suppose the draft says that the nurse asks the patient to lift the weight.
 
-> The nurse lifts the weight.
+> **Before.** The nurse lifts the weight.
 
-After:
-
-> The nurse asks the patient to lift the weight.
+> **After.** The nurse asks the patient to lift the weight.
 
 Before is an editor's shortening that assigns the lifting to the nurse. After restores the draft's account of who asks and who is asked to act.
 
-**Edit 2.** Say the draft counts a score of exactly 60 as passing. Before:
+**Edit 2.** Say the draft counts a score of exactly 60 as passing.
 
-> A passing score exceeds 60.
+> **Before.** A passing score exceeds 60.
 
-After:
-
-> A passing score is at least 60.
+> **After.** A passing score is at least 60.
 
 Before is an editor's rewrite that excludes a score the draft counts as passing. After restores the intended threshold.
 
-**Edit 3.** Imagine the draft says the lamp cannot turn on while the door is closed and may stay off while it is open. Before:
+**Edit 3.** Imagine the draft says the lamp cannot turn on while the door is closed and may stay off while it is open.
 
-> The lamp turns on if the door opens.
+> **Before.** The lamp turns on if the door opens.
 
-After:
-
-> The lamp stays off unless the door opens.
+> **After.** The lamp stays off unless the door opens.
 
 Before is an editor's rewrite; After restores the draft. An open door does not guarantee that the lamp will turn on.
 
-**Edit 4.** Before:
+**Edit 4.**
 
-> We found that the scale that we used was faulty in nature.
+> **Before.** We found that the scale that we used was faulty in nature.
 
-After:
-
-> We found that the scale that we used was faulty.
+> **After.** We found that the scale that we used was faulty.
 
 The two instances of "that" keep the finding and the description of the scale easy to follow.
 
-**Edit 5.** Suppose the draft establishes that the latch can lock automatically but does not report that it does so. Before:
+**Edit 5.** Suppose the draft establishes that the latch can lock automatically but does not report that it does so.
 
-> The latch locks automatically.
+> **Before.** The latch locks automatically.
 
-After:
-
-> The latch can lock automatically.
+> **After.** The latch can lock automatically.
 
 Before is an editor's shortening. After restores what the draft says the latch can do without claiming that it actually locks.

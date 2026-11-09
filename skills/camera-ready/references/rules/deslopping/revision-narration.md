@@ -8,22 +8,18 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Before:
+**Edit 1.**
 
-> As requested by the reviewer, we note that the second pump design uses less power than the first.
+> **Before.** As requested by the reviewer, we note that the second pump design uses less power than the first.
 
-After:
-
-> The second pump design uses less power than the first.
+> **After.** The second pump design uses less power than the first.
 
 The comparison between pump designs stays because it reports a study result, regardless of what prompted the authors to include it.
 
-**Edit 2.** Before:
+**Edit 2.**
 
-> Reviewer response: We added the calibration test. Manuscript: In this revision, we report a calibration error of 2%.
+> **Before.** Reviewer response: We added the calibration test. Manuscript: In this revision, we report a calibration error of 2%.
 
-After:
-
-> Reviewer response: We added the calibration test. Manuscript: We report a calibration error of 2%.
+> **After.** Reviewer response: We added the calibration test. Manuscript: We report a calibration error of 2%.
 
 The reviewer response keeps its account of the added test because the reviewer needs to know what changed.

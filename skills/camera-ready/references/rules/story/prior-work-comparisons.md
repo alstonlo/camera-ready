@@ -12,34 +12,26 @@ For proprietary products, distinguish what documentation says the product can do
 
 ## Examples
 
-**Edit 1.** Suppose Lee et al. chose to limit their study to summer rainfall. Before:
+**Edit 1.** Suppose Lee et al. chose to limit their study to summer rainfall.
 
-> Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
+> **Before.** Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
 
-After:
+> **After.** Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
 
-> Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
+**Edit 2.** Say the draft reports that Lee concedes that the coating costs too much, and the authors do not endorse that judgment.
 
-**Edit 2.** Say the draft reports that Lee concedes that the coating costs too much, and the authors do not endorse that judgment. Before:
+> **Before.** Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
 
-> Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
+> **After.** Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
 
-After:
+**Edit 3.** Imagine a survey whose draft states that both studies measure only summer rainfall.
 
-> Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
+> **Before.** Lee measures summer rainfall. Rao also measures summer rainfall.
 
-**Edit 3.** Imagine a survey whose draft states that both studies measure only summer rainfall. Before:
+> **After.** Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
 
-> Lee measures summer rainfall. Rao also measures summer rainfall.
+**Edit 4.** Suppose the draft says that the commercial filter's internal design is undisclosed.
 
-After:
+> **Before.** The commercial filter removes salt with the same membrane as ours; our membrane design is public.
 
-> Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
-
-**Edit 4.** Suppose the draft says that the commercial filter's internal design is undisclosed. Before:
-
-> The commercial filter removes salt with the same membrane as ours; our membrane design is public.
-
-After:
-
-> The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.
+> **After.** The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.

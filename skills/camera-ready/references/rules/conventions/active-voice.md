@@ -8,36 +8,28 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the draft credits the authors with both steps and consistently uses "we" elsewhere. Before:
+**Edit 1.** Suppose the draft credits the authors with both steps and consistently uses "we" elsewhere.
 
-> We filter the water. The method heats it.
+> **Before.** We filter the water. The method heats it.
 
-After:
+> **After.** We filter the water. We heat it.
 
-> We filter the water. We heat it.
+**Edit 2.** Say the draft identifies the vessel material as the authors' choice.
 
-**Edit 2.** Say the draft identifies the vessel material as the authors' choice. Before:
+> **Before.** The method chooses a glass vessel to avoid corrosion.
 
-> The method chooses a glass vessel to avoid corrosion.
+> **After.** We choose a glass vessel to avoid corrosion.
 
-After:
+**Edit 3.** Imagine this sentence describes a convention followed by researchers in general.
 
-> We choose a glass vessel to avoid corrosion.
+> **Before.** We conventionally measure angles in degrees.
 
-**Edit 3.** Imagine this sentence describes a convention followed by researchers in general. Before:
+> **After.** Researchers conventionally measure angles in degrees.
 
-> We conventionally measure angles in degrees.
+**Edit 4.** Suppose the draft does not specify who removed the label.
 
-After:
+> **Before.** The label was removed before delivery. The jar is weighed by us.
 
-> Researchers conventionally measure angles in degrees.
-
-**Edit 4.** Suppose the draft does not specify who removed the label. Before:
-
-> The label was removed before delivery. The jar is weighed by us.
-
-After:
-
-> The label was removed before delivery. We weigh the jar.
+> **After.** The label was removed before delivery. We weigh the jar.
 
 The passive leaves the unknown actor unnamed. Writing "We removed the label" would assign the action to the authors without support.

@@ -8,22 +8,18 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the authors weigh individual seeds and do not weigh whole plants. Before:
+**Edit 1.** Suppose the authors weigh individual seeds and do not weigh whole plants.
 
-> The scale can weigh whole plants. We can weigh each seed separately.
+> **Before.** The scale can weigh whole plants. We can weigh each seed separately.
 
-After:
-
-> The scale can weigh whole plants. We weigh each seed separately.
+> **After.** The scale can weigh whole plants. We weigh each seed separately.
 
 The scale's ability to weigh a whole plant does not mean the authors used it that way.
 
-**Edit 2.** Say the authors sort the seeds by hand and have not achieved automated sorting. Before:
+**Edit 2.** Say the authors sort the seeds by hand and have not achieved automated sorting.
 
-> We aim to automate sorting. We can sort these seeds by hand.
+> **Before.** We aim to automate sorting. We can sort these seeds by hand.
 
-After:
-
-> We aim to automate sorting. We sort these seeds by hand.
+> **After.** We aim to automate sorting. We sort these seeds by hand.
 
 Hand sorting is an action the authors performed; automation is still only a goal.

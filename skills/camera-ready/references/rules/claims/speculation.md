@@ -10,36 +10,28 @@ To disprove a claim that one property implies another, a counterexample must hav
 
 ## Examples
 
-**Edit 1.** Suppose the draft supports reduced cracking but provides no evidence about moisture absorption. Before:
+**Edit 1.** Suppose the draft supports reduced cracking but provides no evidence about moisture absorption.
 
-> The treated boards cracked less often because they absorbed less moisture.
+> **Before.** The treated boards cracked less often because they absorbed less moisture.
 
-After:
+> **After.** The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
 
-> The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
+**Edit 2.** Say the draft supports reduced flow through the narrowed outlet as the cause of the delay but never defines "bottleneck effect".
 
-**Edit 2.** Say the draft supports reduced flow through the narrowed outlet as the cause of the delay but never defines "bottleneck effect". Before:
+> **Before.** The bottleneck effect explains the delay.
 
-> The bottleneck effect explains the delay.
-
-After:
-
-> Reduced flow through the narrowed outlet explains the delay.
+> **After.** Reduced flow through the narrowed outlet explains the delay.
 
 The explanation has support; only its name is unclear. Calling it a conjecture would give readers the wrong impression about that support.
 
-**Edit 3.** Imagine the draft gives a rectangle with sides 2 cm and 3 cm as a counterexample. Before:
+**Edit 3.** Imagine the draft gives a rectangle with sides 2 cm and 3 cm as a counterexample.
 
-> Four right angles do not imply four equal sides.
+> **Before.** Four right angles do not imply four equal sides.
 
-After:
+> **After.** Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
 
-> Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
+**Edit 4.** If the draft reports only three failed solvent tests, propose this correction to the author.
 
-**Edit 4.** If the draft reports only three failed solvent tests, propose this correction to the author. Before:
+> **Before.** The coating cannot be dissolved.
 
-> The coating cannot be dissolved.
-
-After:
-
-> The coating did not dissolve in the three tested solvents.
+> **After.** The coating did not dissolve in the three tested solvents.
