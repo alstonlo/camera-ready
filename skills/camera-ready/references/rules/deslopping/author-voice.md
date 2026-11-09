@@ -8,31 +8,31 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** After is the original draft. The edit combines the three short statements about draining, leaving, and entering into "Water then drains from the upper tank into the lower tank" so that the passage restores the authors' varied rhythm without losing the water's route.
+**Edit 1.** The authors' original wording appears in After.
 
 > **Before.** The pump stops. Water then drains. The water leaves the upper tank. The water enters the lower tank.
 >
 > **After.** The pump stops. Water then drains from the upper tank into the lower tank.
 
-**Edit 2.** The draft makes no judgment about the finding's importance. The edit deletes "Crucially," so that the sentence no longer adds emphasis introduced by the editor.
+**Edit 2.** No judgment about the finding's importance appears in the draft.
 
 > **Before.** Crucially, the seeds sprout after 3 days.
 >
 > **After.** The seeds sprout after 3 days.
 
-**Edit 3.** The surprise is the authors' stated reaction. The edit restores "Surprisingly," so that the finding retains that reaction even though the sentence would be grammatical without it.
+**Edit 3.** In the draft, the authors describe this finding as surprising.
 
 > **Before.** The dry seeds sprout first.
 >
 > **After.** Surprisingly, the dry seeds sprout first.
 
-**Edit 4.** The draft consistently uses "we". The edit replaces "The authors find" with "We find" to preserve that voice, because first person is not a defect merely because generated prose also uses it.
+**Edit 4.** Throughout the draft, the authors use first-person "we".
 
 > **Before.** The authors find that the seeds sprout first.
 >
 > **After.** We find that the seeds sprout first.
 
-**Edit 5.** Both sentences refer to the same object, called "the tray" throughout the draft. The edit replaces "The receptacle" with "The tray" so that readers need not infer whether the second sentence introduces another object.
+**Edit 5.** Both sentences describe the same object, called "the tray" throughout the draft.
 
 > **Before.** The tray holds six seeds. The receptacle stays dry.
 >

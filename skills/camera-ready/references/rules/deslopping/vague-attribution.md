@@ -10,13 +10,13 @@ The words "Some may argue" alone do not make an objection explicitly hypothetica
 
 ## Examples
 
-**Edit 1.** The draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself. The edit replaces "Experts believe" and the trailing citation with "Zhao et al. (2023) expect" so that the forecast belongs explicitly to the cited authors.
+**Edit 1.** Zhao et al. (2023) are cited for the forecast, but the draft does not make the forecast itself.
 
 > **Before.** Experts believe that most new city roofs will be white by 2040 (Zhao et al., 2023).
 >
 > **After.** Zhao et al. (2023) expect that most new city roofs will be white by 2040.
 
-**Edit 2.** The draft cites Lin (2021) for the germination claim. The edit replaces "Studies show" with "Lin (2021) reports" so that the claim has a named source. It leaves the objection unattributed because the paper explicitly poses and answers it as a hypothetical question.
+**Edit 2.** For the germination claim, the draft cites Lin (2021).
 
 > **Before.** Studies show that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 >

@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Readers can compare fly sizes without Methods, but the mesh ratio is unfamiliar until defined there. The edit, a proposal to the author, moves "Our mesh ratio is lower" from the Introduction to just after the definition in Methods so that readers can understand the ratio comparison, while leaving the fly-size comparison in place.
+**Edit 1.** To understand the ratio comparison, readers need the definition of mesh ratio in Methods; they can compare fly sizes before Methods. After is a proposal to the author.
 
 > **Before.** Introduction: Lee's screen blocks adult flies; ours also blocks small flies. Our mesh ratio is lower. Methods: We define the mesh ratio.
 >

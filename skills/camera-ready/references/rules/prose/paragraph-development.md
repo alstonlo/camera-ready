@@ -10,25 +10,25 @@ Judge a paragraph by whether its sentences develop one point and connect to each
 
 ## Examples
 
-**Edit 1.** This is the opening of a results paragraph about a freezing test. The edit replaces "We compared two pot materials" with "Only the clay pots cracked", so the paragraph opens with its finding before giving the counts that support it.
+**Edit 1.** A results paragraph about a freezing test begins with this passage.
 
 > **Before.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
 >
 > **After.** Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
 
-**Edit 2.** The edit moves "Salt lowered the freezing point" immediately after the opening question, so readers get the answer before the temperature measurements that support it. It keeps the question because it states what the experiment tests.
+**Edit 2.**
 
 > **Before.** Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
 >
 > **After.** Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
 
-**Edit 3.** The symbol ¶ marks a paragraph break. The edit starts a new paragraph at "The roof drains through two gutters", so the paragraph about the door's automatic lock ends before the unrelated roof topic begins.
+**Edit 3.** A paragraph break is marked by the symbol ¶.
 
 > **Before.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
 >
 > **After.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
 
-**Edit 4.** The symbol ¶ marks a paragraph break. The edit removes the break between the glass and clay jar outcomes, so the contrasting results stay together as one comparison under the same conditions.
+**Edit 4.** Here, the symbol ¶ indicates a paragraph break.
 
 > **Before.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
 >

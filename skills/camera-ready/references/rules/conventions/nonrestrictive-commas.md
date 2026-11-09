@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** All the seedlings are in the greenhouse. The edit adds commas around "which are in the greenhouse" so that the clause describes the whole group rather than selecting only some seedlings.
+**Edit 1.** Every seedling is in the greenhouse.
 
 > **Before.** The seedlings which are in the greenhouse need water.
 >
 > **After.** The seedlings, which are in the greenhouse, need water.
 
-**Edit 2.** Only seedlings with red tags need water, and the venue permits restrictive "which". The edit removes the commas around "which have red tags" and keeps "which", so that the clause selects the seedlings that need water without an unnecessary word change.
+**Edit 2.** The venue permits restrictive "which", and only seedlings with red tags need water.
 
 > **Before.** The seedlings, which have red tags, need water.
 >
 > **After.** The seedlings which have red tags need water.
 
-**Edit 3.** The edit removes the commas around "$C$" because the symbol names the circle and should not be set off from the noun it names.
+**Edit 3.**
 
 > **Before.** A circle, $C$, encloses the triangle.
 >

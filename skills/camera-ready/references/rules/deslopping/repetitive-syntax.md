@@ -8,13 +8,13 @@ Different sentence lengths can hide repeated grammatical patterns. Check sentenc
 
 ## Examples
 
-**Edit 1.** The edit joins the first two sentences with "a tank that supplies a fountain" so that the shared tank connects the ideas and breaks the repeated sentence pattern, while keeping the fountain's drainage in a separate sentence.
+**Edit 1.**
 
 > **Before.** The pump fills a tank. The tank supplies a fountain. The fountain drains into a pond.
 >
 > **After.** The pump fills a tank that supplies a fountain. The fountain drains into a pond.
 
-**Edit 2.** The edit joins "The seal is rubber" and "The seal is 2 mm thick" with "and" to describe the same seal without repeating the opening, while keeping the parallel temperature sentences because they make the two conditions easy to compare.
+**Edit 2.**
 
 > **Before.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber. The seal is 2 mm thick.
 >

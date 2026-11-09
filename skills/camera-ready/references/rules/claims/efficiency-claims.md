@@ -19,31 +19,31 @@ Distinguish an upper bound on one algorithm's cost from a lower bound that every
 
 ## Examples
 
-**Edit 1.** The draft gives the reagent cost and exclusions elsewhere. The edit adds "for reagents, excluding sample preparation" so that readers know which costs the $4 includes and excludes.
+**Edit 1.** Elsewhere, the draft specifies that the assay cost covers reagents and excludes sample preparation.
 
 > **Before.** The assay costs $4 per sample.
 >
 > **After.** The assay costs $4 per sample for reagents, excluding sample preparation.
 
-**Edit 2.** The draft defines the efficiency calculation elsewhere. The edit replaces "efficiency is 80%" with the fraction of supplied electrical energy delivered as heat to the water, so that readers know what the percentage measures.
+**Edit 2.** Heater efficiency is defined in the draft as the fraction of supplied electrical energy delivered as heat to the water.
 
 > **Before.** The heater's efficiency is 80%.
 >
 > **After.** The heater delivers 80% of the supplied electrical energy as heat to the water.
 
-**Edit 3.** The draft contains a mathematical comparison but no measured times. The edit replaces "lower elapsed time" with time that "grows asymptotically more slowly", because slower growth with input size does not establish shorter elapsed time.
+**Edit 3.** For method A, the draft establishes slower asymptotic time growth than for method B but reports no measured times.
 
 > **Before.** Method A has lower elapsed time than method B.
 >
 > **After.** Method A's time grows asymptotically more slowly than method B's.
 
-**Edit 4.** The draft proves an upper bound for one algorithm. The edit replaces "Every algorithm for the problem" with "This algorithm" and adds "at most", because an upper limit on one algorithm's cost does not establish a minimum cost for every algorithm.
+**Edit 4.** The draft proves a quadratic upper bound for the algorithm under discussion.
 
 > **Before.** Every algorithm for the problem requires quadratic time.
 >
 > **After.** This algorithm requires at most quadratic time.
 
-**Edit 5.** The draft reports higher total energy use when production increases, despite a saving per item. The edit adds "per item" so that the claim describes the saving for each item without implying lower total energy use.
+**Edit 5.** When production increases, the draft reports higher total energy use despite lower energy use per item.
 
 > **Before.** The new process uses less energy.
 >

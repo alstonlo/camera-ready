@@ -10,25 +10,25 @@ Separate the construction of an object from its use. At the transition, state th
 
 ## Examples
 
-**Edit 1.** The proof later derives a contradiction by adding one to $n$. The edit adds "We argue by contradiction" before the assumption so that readers know the proof's strategy from the start.
+**Edit 1.** The proof later derives a contradiction by adding one to $n$.
 
 > **Before.** Let $n$ be the largest integer.
 >
 > **After.** We argue by contradiction. Let $n$ be the largest integer.
 
-**Edit 2.** The draft treats evenness as an assumption for this case. The edit adds "Assume that" before "the integer $n$ is even" so that readers recognize an assumption rather than an established fact.
+**Edit 2.** For this case, the draft assumes evenness.
 
 > **Before.** The integer $n$ is even. Write $n=2k$.
 >
 > **After.** Assume that the integer $n$ is even. Write $n=2k$.
 
-**Edit 3.** The draft establishes that the dry case needs the bound proved in the wet case. The edit adds the reason for beginning with the wet case, explaining why the proof departs from the announced order.
+**Edit 3.** As the draft establishes, the dry case uses the bound proved in the wet case.
 
 > **Before.** We treat the dry case, then the wet case. We begin with the wet case.
 >
 > **After.** We treat the dry case, then the wet case. We begin with the wet case because the proof of the dry case uses the bound from the wet case.
 
-**Edit 4.** The draft has just constructed $S$ and proved it finite, and Lemma 2 applies to finite sets. The edit adds "We have constructed a finite set $S$" to mark the completed construction and identify the property that permits applying the lemma.
+**Edit 4.** Just before this passage, the draft constructs $S$ and proves it finite; Lemma 2 applies to finite sets.
 
 > **Before.** We now apply Lemma 2 to $S$.
 >

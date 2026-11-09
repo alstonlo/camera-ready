@@ -1,8 +1,10 @@
 import make_guide
 import pytest
 
-PAIR = "> **Before.** We perform an evaluation of the model.\n>\n> **After.** We evaluate the model."
-LABEL = "**Edit 1.** The edit replaces the noun with a verb.\n\n"
+PAIR = (
+    "> **Before.** We perform an evaluation of the model.\n>\n> **After.** We evaluate the model."
+)
+LABEL = "**Edit 1.**\n\n"
 EX1 = LABEL + PAIR
 
 
@@ -24,8 +26,8 @@ def test_guide_is_up_to_date():
             "## Details",
             "More cases.",
             "## Examples",
-            "**Edit 1.** In a Methods section. The edit uses the verb.\n\n" + PAIR,
-            "**Edit 2.** The edit uses the verb.\n\n" + PAIR,
+            "**Edit 1.** In a Methods section.\n\n" + PAIR,
+            "**Edit 2.**\n\n" + PAIR,
         ),
     ],
 )
@@ -75,14 +77,13 @@ def test_valid_pages_render_only_title_and_summary(text: str):
             "## Details",
             "More cases.",
             "## Examples",
-            "**Edit 2.** The edit uses the verb.\n\n" + PAIR,
+            "**Edit 2.**\n\n" + PAIR,
         ),
-        page("## Details", "More cases.", "## Examples", "**Edit 1.**\n\n" + PAIR),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "**Example 1.** The edit uses the verb.\n\n" + PAIR,
+            "**Example 1.** In a Methods section.\n\n" + PAIR,
         ),
         page(
             "## Details",
@@ -102,8 +103,12 @@ def test_valid_pages_render_only_title_and_summary(text: str):
             "## Examples",
             LABEL + "> **Before.** Same.\n>\n> **After.** Same.",
         ),
-        page("## Details", "More cases.", "## Examples", LABEL + "- **Before.** A.\n- **After.** B."),
-        page("## Details", "More cases.", "## Examples", LABEL + "> **Before.** A.\n> **After.** B."),
+        page(
+            "## Details", "More cases.", "## Examples", LABEL + "- **Before.** A.\n- **After.** B."
+        ),
+        page(
+            "## Details", "More cases.", "## Examples", LABEL + "> **Before.** A.\n> **After.** B."
+        ),
     ],
 )
 def test_invalid_pages_fail(text: str):

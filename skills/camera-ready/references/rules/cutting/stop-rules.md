@@ -8,19 +8,19 @@ Confusion in a passage usually means that a step is missing, not that the passag
 
 ## Examples
 
-**Edit 1.** An earlier cut removed the draft's seedling count. The edit restores "We have eighteen seedlings" so that readers can see why six seedlings per tray requires three trays.
+**Edit 1.** An earlier cut removed the draft's count of eighteen seedlings.
 
 > **Before.** Each tray holds six seedlings. We therefore need three trays.
 >
 > **After.** Each tray holds six seedlings. We have eighteen seedlings and therefore need three trays.
 
-**Edit 2.** An earlier cut left these adjacent paragraphs; a slash marks the paragraph break. The edit removes the paragraph break and keeps both sentences together because they make the same point about reduced water loss.
+**Edit 2.** After an earlier cut, these paragraphs are adjacent. A slash marks the paragraph break.
 
 > **Before.** The lid reduces evaporation. / Less water is lost overnight.
 >
 > **After.** The lid reduces evaporation. Less water is lost overnight.
 
-**Edit 3.** The draft already contains \smallskip, and an editor adds negative \vspace to meet the length limit. The edit removes "\vspace{-4mm}" but keeps "\smallskip", because the rule forbids adding layout changes to force the paper to fit. If no authorized cut keeps the text clear, the editor reports the remaining excess instead.
+**Edit 3.** An editor added \vspace{-4mm} to meet the length limit; \smallskip was already in the draft.
 
 > **Before.** \smallskip The sample remains dry. \vspace{-4mm}
 >

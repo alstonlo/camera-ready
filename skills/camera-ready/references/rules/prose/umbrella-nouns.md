@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The percentage measures purity. The edit replaces "Performance" with "Purity" so that the sentence names the quantity measured by the percentage, while keeping "quality" as the collective label for purity and yield.
+**Edit 1.** The 98% measurement is for purity, according to the draft.
 
 > **Before.** We assess quality using purity and yield. Performance reaches 98%.
 >

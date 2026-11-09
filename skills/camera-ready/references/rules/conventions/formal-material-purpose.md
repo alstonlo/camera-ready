@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit moves the explanation of converting distance and elapsed time into average speed before "$v=d/t$" and combines the two sentences, so that readers know the equation's purpose before seeing it.
+**Edit 1.**
 
 > **Before.** We use $v=d/t$. This equation converts each runner's distance and elapsed time into average speed.
 >
 > **After.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
 
-**Edit 2.** The draft explains the equation's purpose in another section. The edit, a proposal to the author, moves that explanation before "$v=d/t$" so that readers know it converts distance and elapsed time into average speed. The move must be flagged because it transfers material between sections.
+**Edit 2.** In another section, the draft explains that the equation converts each runner's distance and elapsed time into average speed. After is a proposal to the author.
 
 > **Before.** We use $v=d/t$.
 >

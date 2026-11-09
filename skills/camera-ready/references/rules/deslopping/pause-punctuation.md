@@ -14,25 +14,25 @@ The following phrases after a comma need no added verb:
 
 ## Examples
 
-**Edit 1.** The edit removes "is effective:" and makes "The new tap" the subject of "reduces water use by 18%", so the sentence states the measured effect directly instead of prefacing it with vague praise.
+**Edit 1.**
 
 > **Before.** The new tap is effective: it reduces water use by 18%.
 >
 > **After.** The new tap reduces water use by 18%.
 
-**Edit 2.** The draft presents the absence of escaping water as evidence that the seal works. The edit replaces the semicolon with ", as shown by the fact that", so words explicitly connect the claim to its evidence.
+**Edit 2.** In the draft, the absence of escaping water provides evidence that the seal works.
 
 > **Before.** The seal works; no water escapes during the pressure test.
 >
 > **After.** The seal works, as shown by the fact that no water escapes during the pressure test.
 
-**Edit 3.** The draft reports that the events occur together without explaining why. The edit replaces the colon with a semicolon, so the two facts are related without suggesting an explanation the draft does not support.
+**Edit 3.** The draft reports that the two events occur together without explaining why.
 
 > **Before.** The valve opens: the lamp turns green.
 >
 > **After.** The valve opens; the lamp turns green.
 
-**Edit 4.** The edit adds "which is" before "below the capacity of the tank", so the capacity comparison has its own verb. It leaves "the bottle 1 L" unchanged because that parallel phrase shares the earlier verb "holds".
+**Edit 4.**
 
 > **Before.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
 >

@@ -19,25 +19,25 @@ Check for these problems, and propose a clearer form only when the draft establi
 
 ## Examples
 
-**Edit 1.** The draft defines the operation as a logarithm. The edit replaces "log" with "\log" so that LaTeX typesets the logarithm as an upright operator rather than italic variables.
+**Edit 1.** The operation is described in the draft as taking a logarithm.
 
 > **Before.** We evaluate $log(x)$.
 >
 > **After.** We evaluate $\log(x)$.
 
-**Edit 2.** The draft defines $i$ as a sample index and "cool" as a label for cooling time. The edit puts "cool" inside "\text{...}" to make the word label upright while leaving the variable index $i$ italic.
+**Edit 2.** Samples are indexed by $i$ in the draft, and "cool" is defined as a word label for cooling time.
 
 > **Before.** We compare $t_i$ with $t_{cool}$.
 >
 > **After.** We compare $t_i$ with $t_{\text{cool}}$.
 
-**Edit 3.** The edit replaces the asterisk in "$a * b$" with "\times" so that mathematical multiplication uses the multiplication sign, while preserving the code syntax "a*b".
+**Edit 3.**
 
 > **Before.** The code `a*b` computes $a * b$.
 >
 > **After.** The code `a*b` computes $a \times b$.
 
-**Edit 4.** The draft defines the denominator as $b+c$. The edit, a proposal to the author, replaces "$a/b+c$" with "$\frac{a}{b+c}$" to put both terms in the denominator. This requires the author's review because grouping the terms changes the mathematical meaning, not just the type.
+**Edit 4.** The denominator is $b+c$, as specified in the draft. After is a proposal to the author.
 
 > **Before.** The ratio is $a/b+c$.
 >

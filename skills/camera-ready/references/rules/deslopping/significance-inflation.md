@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit deletes "and paves the way for a new era of air filtration", so the sentence reports the measured dust removal without an empty claim of historical importance.
+**Edit 1.**
 
 > **Before.** The filter removes 90% of the dust and paves the way for a new era of air filtration.
 >
 > **After.** The filter removes 90% of the dust.
 
-**Edit 2.** The draft supports a claim about fit in the tested bottles. The edit replaces "ushers in a new era of water treatment" with "fits inside the tested bottles", so the sentence states a supported implication within the tested conditions.
+**Edit 2.** The smaller filter fits inside the tested bottles, as the draft establishes.
 
 > **Before.** The smaller filter ushers in a new era of water treatment.
 >
 > **After.** The smaller filter fits inside the tested bottles.
 
-**Edit 3.** The draft reports no safety tests. The edit deletes "marking a historic turning point" as empty praise, but keeps the drinking-water claim and adds a flag asking for supporting safety tests. The safety claim is a substantive assertion, so the editor must flag its missing support rather than discard it as praise.
+**Edit 3.** No safety tests are described in the draft.
 
 > **Before.** The filter makes river water safe to drink, marking a historic turning point.
 >

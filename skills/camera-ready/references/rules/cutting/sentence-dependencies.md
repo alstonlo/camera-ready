@@ -15,31 +15,31 @@ If the venue permits footnotes, you may move secondary comments into footnotes. 
 
 ## Examples
 
-**Edit 1.** An editor cuts the preceding sentence about why the blue dye was chosen. The edit adds "Because the blue dye was easiest to see" so that "it" has a named referent and the reason for choosing the dye survives the cut.
+**Edit 1.** The preceding sentence said that the blue dye was easiest to see; an editor cut it.
 
 > **Before.** We use it for all remaining experiments.
 >
 > **After.** Because the blue dye was easiest to see, we use it for all remaining experiments.
 
-**Edit 2.** The author permits moving the protocol to the existing supplement, where it appears in Section S2. The edit replaces "the supplement" with "Supplement Section S2" so that readers can find the specific protocol after it moves.
+**Edit 2.** The protocol appears in Section S2 of the existing supplement, and the author permits moving it there.
 
 > **Before.** We dry each sample at 30 °C using the protocol in the supplement.
 >
 > **After.** We dry each sample at 30 °C using the protocol in Supplement Section S2.
 
-**Edit 3.** An editor replaces the calibration settings with an appendix reference, but the draft has no appendix. The edit replaces the reference to Appendix A with the calibration temperatures of 0 °C and 20 °C, restoring the settings to the main text so that readers can reproduce the calibration.
+**Edit 3.** An editor substituted an appendix reference for the draft's calibration temperatures of 0 °C and 20 °C. There is no appendix in the draft.
 
 > **Before.** The calibration settings appear in Appendix A.
 >
 > **After.** We calibrate at 0 °C and 20 °C.
 
-**Edit 4.** The author permits moving content. The edit moves "first removing the cap" out of parentheses and states cap removal before heating in the main clause, so that the required preparation does not look optional and the order stays clear.
+**Edit 4.** The author allows content to be moved.
 
 > **Before.** We heat the sample (first removing the cap).
 >
 > **After.** We remove the cap before heating the sample.
 
-**Edit 5.** An editor cuts the draft's only definition of R, which later sections still use. The edit restores the sentence defining recovery time R as the time to return to 20 °C, so that the symbol has a meaning wherever it appears.
+**Edit 5.** Later sections still use R, but an editor cut the draft's only definition of R as recovery time, the time to return to 20 °C.
 
 > **Before.** We record R after each trial.
 >

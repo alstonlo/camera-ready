@@ -8,25 +8,25 @@ In LaTeX, `--` produces an en dash. Keep an en dash in numeric ranges and in nam
 
 ## Examples
 
-**Edit 1.** The edit replaces the em dash before "over steps 3–5" with a space so that the sentence reads without a pause, while keeping the hyphen in "two-stage" and the en dashes in "Kullback–Leibler" and "3–5" for their distinct uses.
+**Edit 1.**
 
 > **Before.** The two-stage test uses the Kullback–Leibler divergence—over steps 3–5.
 >
 > **After.** The two-stage test uses the Kullback–Leibler divergence over steps 3–5.
 
-**Edit 2.** The edit replaces the em dash with a colon so that the complete clause "The tray holds two tools" introduces the list of those tools.
+**Edit 2.**
 
 > **Before.** The tray holds two tools—a ruler and a brush.
 >
 > **After.** The tray holds two tools: a ruler and a brush.
 
-**Edit 3.** The edit replaces the em dash with ", but" so that the temperature limit stays in the main clause as an essential condition on the claim.
+**Edit 3.**
 
 > **Before.** The seal holds—only below 30 °C.
 >
 > **After.** The seal holds, but only below 30 °C.
 
-**Edit 4.** The purchase date is optional background. The edit replaces the em dashes around "purchased in May" with parentheses so that the date remains an aside without interrupting the main claim with dashes.
+**Edit 4.** The purchase date serves as optional background.
 
 > **Before.** The tray—purchased in May—holds six vials.
 >

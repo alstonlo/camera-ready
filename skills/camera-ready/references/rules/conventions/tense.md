@@ -10,19 +10,19 @@ A sentence such as "No work had studied X before Lee" describes only the gap tha
 
 ## Examples
 
-**Edit 1.** The draft consistently describes the experiment in the past tense. The edit replaces "dry" with "dried" so that both actions use the draft's consistent past tense.
+**Edit 1.** Past tense is used for this experiment in the rest of the draft.
 
 > **Before.** We rinsed the seeds and dry them.
 >
 > **After.** We rinsed the seeds and dried them.
 
-**Edit 2.** The second pilot is still planned. The edit replaces "will describe" with "describes" because Section 3 already exists, while keeping "will repeat" for work that has yet to be done.
+**Edit 2.** The second pilot is still planned, and Section 3 is already written.
 
 > **Before.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
 >
 > **After.** Section 3 describes the pilot. We will repeat the pilot at a second site.
 
-**Edit 3.** The draft treats the model and the freezing-point relation as established knowledge. The edit replaces "described" with "describes" and "lowered" with "lowers" because both the model and the relation still apply, even though the model comes from prior work.
+**Edit 3.** Both the model and the freezing-point relation are presented in the draft as established knowledge that still applies.
 
 > **Before.** Ortiz's model described how salt lowered the freezing point.
 >

@@ -10,25 +10,25 @@ When the draft states what an unendorsed term in quotation marks refers to, keep
 
 ## Examples
 
-**Edit 1.** The edit removes italics from "constant" because they add only decorative emphasis, and keeps italics on "clearance" because they introduce a definition.
+**Edit 1.**
 
 > **Before.** We call the gap between lid and jar the *clearance*. The clearance remains *constant*.
 >
 > **After.** We call the gap between lid and jar the *clearance*. The clearance remains constant.
 
-**Edit 2.** The draft does not say what contrasts with the lid. The edit expands "don't" to "do not" to avoid a contraction and keeps the italics on "lid" because removing them could change what the sentence denies. The editor flags the unclear contrast.
+**Edit 2.** Nothing in the draft identifies what contrasts with the lid.
 
 > **Before.** We don't heat the *lid*.
 >
 > **After.** We do not heat the *lid*.
 
-**Edit 3.** Elsewhere, the draft defines the cell's "decision" without attributing conscious choice. The edit adds "its change in swimming direction" beside "decision" and keeps the term's quotation marks so that readers understand what it means without an implication of conscious choice.
+**Edit 3.** Elsewhere in the draft, the cell's "decision" is defined as its change in swimming direction, with no conscious choice attributed to the cell.
 
 > **Before.** We record the cell's "decision".
 >
 > **After.** We record the cell's "decision", its change in swimming direction.
 
-**Edit 4.** The draft's script uses the command shown in After. The edit, a proposal to the author, replaces the curly quotes around "ready" with straight quotes to match the script; author review is needed because changing quote characters can change a command's behavior.
+**Edit 4.** The command shown in After appears in the draft's script. After is a proposal to the author.
 
 > **Before.** The command is `echo “ready”`.
 >

@@ -14,7 +14,7 @@ LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
 RULE_LINK = re.compile(r"\brules/([a-z0-9-]+/[a-z0-9-]+)\.md\)")
 HEADS = ["## Details", "## Examples"]
-EDIT = re.compile(r"\*\*Edit (\d+)\.\*\* (\S.*)")
+EDIT = re.compile(r"\*\*Edit (\d+)\.\*\*(?: (\S.*))?")
 PAIR = re.compile(r"> \*\*Before\.\*\* (\S.*)\n>\n> \*\*After\.\*\* (\S.*)")
 
 
@@ -28,7 +28,7 @@ def check_examples(name: str, examples: str):
     pairs = [PAIR.fullmatch(para) for para in paras[1::2]]
     if len(paras) % 2 or not all(labels) or not all(pairs):
         fail(
-            f"{name}.md: each example must be an '**Edit N.**' line with what the edit changes and why, "
+            f"{name}.md: each example must be an '**Edit N.**' line with optional context, "
             "then a quote of '> **Before.** ...', '>', and '> **After.** ...'"
         )
 

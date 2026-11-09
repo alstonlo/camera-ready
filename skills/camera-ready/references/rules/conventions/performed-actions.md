@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The authors weigh individual seeds but never whole plants. The edit changes "We can weigh" to "We weigh" to state the performed action directly, while keeping "can" for the scale's unused capability so that it does not imply the authors weighed whole plants.
+**Edit 1.** The authors weigh individual seeds and do not weigh whole plants.
 
 > **Before.** The scale can weigh whole plants. We can weigh each seed separately.
 >
 > **After.** The scale can weigh whole plants. We weigh each seed separately.
 
-**Edit 2.** The authors sort these seeds by hand, but automated sorting remains an unreached goal. The edit changes "We can sort" to "We sort" to state the performed action directly, while keeping "aim to" so that automation remains a goal rather than an accomplishment.
+**Edit 2.** The authors have not achieved automated sorting; they sort the seeds by hand.
 
 > **Before.** We aim to automate sorting. We can sort these seeds by hand.
 >

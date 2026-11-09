@@ -16,25 +16,25 @@ Suggest notation changes to the author rather than rewriting equations yourself:
 
 ## Examples
 
-**Edit 1.** The edit moves the definition of "$h$" before "We compare" so that readers know what the symbol means when it is first used.
+**Edit 1.**
 
 > **Before.** We compare $h$ across plants. The symbol $h$ denotes plant height.
 >
 > **After.** The symbol $h$ denotes plant height. We compare $h$ across plants.
 
-**Edit 2.** The tables use $w$ for moisture content. The edit, a proposal to the author because it changes a symbol, replaces "$m$" with "$w$" for moisture content so that "$m$" means only mass and the definition agrees with the tables.
+**Edit 2.** In the tables, $w$ denotes moisture content.
 
 > **Before.** Let $m$ denote mass and $m$ denote moisture content.
 >
 > **After.** Let $m$ denote mass and $w$ denote moisture content.
 
-**Edit 3.** Both symbols are used throughout the paper, and the request does not authorize moving their definitions. The edit, a proposal to the author, moves the definition of "$w$" from Methods into the existing Notation section so that both definitions appear together.
+**Edit 3.** The request does not authorize moving the definitions of these two symbols, which are used throughout the paper. After is a proposal to the author.
 
 > **Before.** Notation: Let $h$ denote height. Methods: Let $w$ denote width.
 >
 > **After.** Notation: Let $h$ denote height. Let $w$ denote width. Methods:
 
-**Edit 4.** The draft defines all four symbols. The edit, a proposal to the author because introducing notation is the author's decision, defines "$R=(a+b)/(c+d)$" and replaces both later occurrences of the expression with "$R$" so that readers can recognize the repeated quantity by a short name.
+**Edit 4.** All four symbols are defined in the draft.
 
 > **Before.** We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
 >

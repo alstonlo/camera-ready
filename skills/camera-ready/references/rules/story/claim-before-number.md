@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit moves "the new brakes shorten stopping distance" to a separate opening sentence and removes "showing that", so that readers encounter the finding before the supporting decrease from 18 to 12 meters.
+**Edit 1.**
 
 > **Before.** The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
 >

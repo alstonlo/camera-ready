@@ -12,25 +12,25 @@ In the edits for Table 3 and Figures 8 and 10, each After line proposes a revisi
 
 ## Examples
 
-**Edit 1.** The paragraph citing Figure 2 supplies the measurements, units, and finding added here. The edit replaces "Plant growth" with the mean plant height, the four-week measurement time, the units in centimeters, and the finding that fertilized plants were taller than untreated plants, so that the caption explains the measurement and result on its own.
+**Edit 1.** The paragraph citing Figure 2 gives the measurement, time, units, and finding stated in After.
 
 > **Before.** Figure 2: Plant growth.
 >
 > **After.** Figure 2: Mean plant height after four weeks, in centimeters. Plants given fertilizer were taller than untreated plants.
 
-**Edit 2.** The draft defines the dashes in Table 3 as missing measurements. The edit, a proposal to the author, adds "A dash marks a missing measurement" so that readers can interpret the dashes without assuming they mean zero.
+**Edit 2.** In Table 3, a dash marks a missing measurement, according to the draft.
 
 > **Before.** Table 3: Daily air temperature at each site, in degrees Celsius.
 >
 > **After.** Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
 
-**Edit 3.** The vertical axis starts at 9 cm, so the displayed bar lengths do not show the ratio of plant heights. The edit, a proposal to the author, replaces "twice as tall" with the reported heights of 11 cm for treated plants and 10 cm for controls, so that the caption compares the measurements accurately.
+**Edit 3.** Figure 8's vertical axis begins at 9 cm, and the draft reports heights of 11 cm for treated plants and 10 cm for controls.
 
 > **Before.** Figure 8: The treated plants are twice as tall as the controls.
 >
 > **After.** Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
 
-**Edit 4.** Measurements end at day 20; a fitted curve supplies the value at day 30. The edit, a proposal to the author, replaces "measured" with "predicted" so that the caption does not present a value beyond the measured time range as an observation.
+**Edit 4.** Measurements in the draft extend through day 20; the day-30 value comes from a fitted curve.
 
 > **Before.** Figure 10: The measured height at day 30 is 18 cm.
 >

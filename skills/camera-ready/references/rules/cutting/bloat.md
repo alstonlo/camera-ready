@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The editor also flags the missing source: deleting the placeholder does not resolve the need for a citation. The edit deletes "[Insert source]" so that an instruction left in the draft does not appear as paper text, while keeping the depth claim.
+**Edit 1.** The editor also alerts the author to the missing source.
 
 > **Before.** The well is 12 m deep. [Insert source]
 >
 > **After.** The well is 12 m deep.
 
-**Edit 2.** The edit replaces "in order to" with "to" so that the sentence states the tray's purpose without unnecessary words.
+**Edit 2.**
 
 > **Before.** We use the tray in order to catch drips.
 >
 > **After.** We use the tray to catch drips.
 
-**Edit 3.** The edit deletes "We next describe the watering schedule" because the following sentence gives the schedule directly, and keeps the reference that locates the proof in Appendix A.
+**Edit 3.**
 
 > **Before.** The proof appears in Appendix A. We next describe the watering schedule. We water each pot every morning.
 >

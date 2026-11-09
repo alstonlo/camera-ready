@@ -8,19 +8,19 @@ Read the title on its own, as readers see it in search results. A short, establi
 
 ## Examples
 
-**Edit 1.** The draft studies detecting cracks in ceramic cups with sound. The edit, a proposal to the author as in Examples 2 and 3, replaces "A new approach to testing ceramics" with "Detecting cracks in ceramic cups with sound", so that the title names the task, objects, and method instead of hiding them behind a generic claim of novelty.
+**Edit 1.** The study examines the use of sound to detect cracks in ceramic cups.
 
 > **Before.** A new approach to testing ceramics
 >
 > **After.** Detecting cracks in ceramic cups with sound
 
-**Edit 2.** The draft uses radio tags to locate birds carrying cameras. The edit, a proposal to the author, replaces "with cameras" with "that carry cameras", so that the title no longer suggests that cameras do the tracking.
+**Edit 2.** The birds carry cameras, and the draft uses radio tags to locate them.
 
 > **Before.** Tracking birds with cameras
 >
 > **After.** Tracking birds that carry cameras
 
-**Edit 3.** The draft reports reduced leakage only in the tested pipes. The edit, a proposal to the author, replaces "Preventing all pipe leaks" with "Reducing leaks in the tested pipes", so that the title claims reduction rather than prevention and limits the claim to the tested pipes.
+**Edit 3.** Reduced leakage is reported only for the tested pipes.
 
 > **Before.** Preventing all pipe leaks
 >

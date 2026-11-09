@@ -8,19 +8,19 @@ Discuss related minor objections together so that repeating them does not make t
 
 ## Examples
 
-**Edit 1.** The rainfall and wind measurements are independent. The edit, a proposal to the author, moves "Correcting rainfall measurements" before "Measuring wind" and renumbers the sections, so that the argument finishes rainfall before moving to wind.
+**Edit 1.** The rainfall measurements are independent of the wind measurements. After is a proposal to the author.
 
 > **Before.** 2 Measuring rainfall; 3 Measuring wind; 4 Correcting rainfall measurements
 >
 > **After.** 2 Measuring rainfall; 3 Correcting rainfall measurements; 4 Measuring wind
 
-**Edit 2.** The rigid seal is a rejected approach retained as a negative result. The edit puts the cracking result before the test description and changes "every angle" to "every tested bend angle", so that readers know the approach's flaw before its details and can understand which angles the opening claim covers.
+**Edit 2.** The rigid seal is a rejected approach reported as a negative result.
 
 > **Before.** We test the rigid seal on pipes bent to five angles. The rigid seal cracks at every angle.
 >
 > **After.** The rigid seal cracks at every tested bend angle. We test the rigid seal on pipes bent to five angles.
 
-**Edit 3.** Both tests use the temperature definition. The edit, a proposal to the author, moves "Temperature definition" before "Leak test" and renumbers those sections, so that the definition precedes both uses. It keeps the second round of methods and results because the leak result motivates the flexible seal.
+**Edit 3.** The temperature definition is used in both tests. After is a proposal to the author.
 
 > **Before.** 2 Leak test; 3 Temperature definition; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 >

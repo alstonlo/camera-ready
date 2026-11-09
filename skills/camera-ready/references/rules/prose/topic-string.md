@@ -10,25 +10,25 @@ Check that the paragraph's opening and ending fit what the paragraph contributes
 
 ## Examples
 
-**Edit 1.** The draft states elsewhere that the lid keeps rain out. The edit adds "that prevents rain from entering" after "lid", supplying the missing reason the tools stay dry; a connecting word alone would leave that reason unstated.
+**Edit 1.** Elsewhere, the draft says that the lid keeps rain out.
 
 > **Before.** The box has a lid. The tools stay dry.
 >
 > **After.** The box has a lid that prevents rain from entering. The tools stay dry.
 
-**Edit 2.** The edit changes "A tight seal keeps the jar dry" to "The jar stays dry because of a tight seal", so that the jar remains the topic of all three sentences. The mention of salt does not require the next sentence to discuss salt.
+**Edit 2.**
 
 > **Before.** The jar holds salt. A tight seal keeps the jar dry. The jar fits on the shelf.
 >
 > **After.** The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
 
-**Edit 3.** The draft describes a box; ¶ marks a paragraph break. The edit adds an opening paragraph naming the gasket in the lid and the drain in the base as the box's two features, so that readers know why the two independent descriptions belong together.
+**Edit 3.** The draft describes a box; the symbol ¶ marks a paragraph break.
 
 > **Before.** The lid has a gasket. ¶ The base has a drain.
 >
 > **After.** The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
 
-**Edit 4.** The draft states that draining must finish before drying begins; ¶ marks a paragraph break. The edit adds "After draining" at the start of the drying paragraph, so that the required order is explicit and the paragraphs cannot be read as interchangeable steps.
+**Edit 4.** Draining must finish before drying begins, according to the draft. The symbol ¶ marks a paragraph break.
 
 > **Before.** We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
 >

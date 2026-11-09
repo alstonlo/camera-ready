@@ -10,19 +10,19 @@ A roadmap previews the sections or items that follow. For each roadmap you keep,
 
 ## Examples
 
-**Edit 1.** The edit deletes "Section 4 describes the filter" and inserts "(Section 4)" after "The filter" in the remaining sentence so that readers get the filter's function and location without a separate topic announcement.
+**Edit 1.**
 
 > **Before.** Section 4 describes the filter. The filter traps particles larger than 5 micrometers.
 >
 > **After.** The filter (Section 4) traps particles larger than 5 micrometers.
 
-**Edit 2.** This roadmap closes the introduction; the headings place drying in Section 2 and weighing in Section 3. The edit swaps "weighing" and "drying" in the roadmap so that it matches the existing section order.
+**Edit 2.** The introduction ends with this roadmap, and the headings assign drying to Section 2 and weighing to Section 3.
 
 > **Before.** Section 2 describes weighing; Section 3 describes drying.
 >
 > **After.** Section 2 describes drying; Section 3 describes weighing.
 
-**Edit 3.** The edit deletes "The next section presents the measurements" because the next sentence already gives the measurement, and keeps "as proved in Appendix A" so that readers can locate the proof of the heat-loss bound.
+**Edit 3.**
 
 > **Before.** Heat loss is at most 5 W, as proved in Appendix A. The next section presents the measurements. Measured heat loss is 4 W.
 >

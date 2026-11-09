@@ -8,13 +8,13 @@ Do not keep extra digits merely because software prints them. Do not require the
 
 ## Examples
 
-**Edit 1.** The source data give both lengths to the nearest 0.1 cm. The edit, a proposal to the author, replaces "2.300" with "2.3" to remove unsupported digits and match the measurements' precision, while keeping "approximately" to preserve the qualification.
+**Edit 1.** Both lengths are reported to the nearest 0.1 cm in the source data. After is a proposal to the author.
 
 > **Before.** The lengths are approximately 2.300 cm and 4.1 cm.
 >
 > **After.** The lengths are approximately 2.3 cm and 4.1 cm.
 
-**Edit 2.** The source measurements have precision of 0.01 g for mass and 1 cm for length. The edit, a proposal requiring the author's authorization, replaces "8.00" with "8" and keeps "2.34" so that each measurement uses only supported digits. These unlike measurements need not have matching decimal places.
+**Edit 2.** In the source measurements, mass has a precision of 0.01 g and length a precision of 1 cm. After is a proposal to the author.
 
 > **Before.** The sample weighs 2.34 g and is 8.00 cm long.
 >

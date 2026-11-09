@@ -8,19 +8,19 @@ The first sentence under a heading, including a bold title that opens a paragrap
 
 ## Examples
 
-**Edit 1.** The draft identifies run A as the comparison for run C. The edit replaces both instances of "the earlier run" with "run A" so that readers know which run provides the comparison and leaves the puddle.
+**Edit 1.** For run C, the draft names run A as the comparison.
 
 > **Before.** Runs A and B use dry sand. Run C drains faster than the earlier run. The earlier run leaves a puddle.
 >
 > **After.** Runs A and B use dry sand. Run C drains faster than run A. Run A leaves a puddle.
 
-**Edit 2.** The edit replaces "This" with "Copper mesh" so that the opening sentence names what catches the particles and makes sense without its heading.
+**Edit 2.**
 
 > **Before.** **Copper mesh.** This catches the larger particles.
 >
 > **After.** **Copper mesh.** Copper mesh catches the larger particles.
 
-**Edit 3.** An earlier cut removed the draft's identification of the red switch as the power switch; the panel also has a blue switch. The edit restores "red power" before "switch" so that readers know which switch to press and what "This control" refers to.
+**Edit 3.** An earlier cut removed the draft's identification of the red switch as the power switch. The panel also has a blue switch.
 
 > **Before.** Press the switch. This control then turns the pump off.
 >

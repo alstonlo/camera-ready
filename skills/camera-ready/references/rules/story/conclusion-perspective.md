@@ -8,25 +8,25 @@ Distinguish a new question that the findings raise from a question that the stud
 
 ## Examples
 
-**Edit 1.** The draft already raises the question of whether the gain holds across accents. The edit replaces "Future work will extend the evaluation" with a sentence explaining that evaluating other accents would test whether the gain holds across accents, so that future work has a stated purpose without an invented research plan.
+**Edit 1.** The authors already ask in the draft whether the recognition gain extends to other accents.
 
 > **Before.** Recognition improves for the tested accent. Future work will extend the evaluation.
 >
 > **After.** Recognition improves for the tested accent. Evaluating other accents would establish whether this gain holds across accents.
 
-**Edit 2.** Before repeats the abstract's finding; the discussion already explains its consequence for drinking water. The edit keeps the sand-removal finding and adds that dissolved salt remains and prevents the filter alone from making the water drinkable, so that the conclusion states the finding's implication.
+**Edit 2.** This conclusion repeats the finding from the abstract. The discussion says that dissolved salt remains and prevents the filter alone from making the water drinkable.
 
 > **Before.** The tested filter removes sand.
 >
 > **After.** The tested filter removes sand. Dissolved salt remains, so the filter alone cannot make the water drinkable.
 
-**Edit 3.** The draft promised a test in rain but reports only dry-weather tests. The edit replaces the sentence calling rain detection "a new question for future work" with "The promised test in rain remains incomplete" so that the conclusion identifies an unmet promise as a limitation even if later work could address it.
+**Edit 3.** Despite promising a test in rain, the draft reports tests only in dry weather.
 
 > **Before.** The sensor detects smoke in dry weather. Whether it detects smoke in rain is a new question for future work.
 >
 > **After.** The sensor detects smoke in dry weather. The promised test in rain remains incomplete.
 
-**Edit 4.** The draft attributes rain shedding to the outer layer. The edit replaces "The latter" with "The outer layer" so that readers can identify which layer sheds rain, since the preceding sentence does not name the two layers separately.
+**Edit 4.** The outer layer is the one that sheds rain, according to the draft.
 
 > **Before.** Two insulation layers lower heat loss. The latter also sheds rain.
 >

@@ -8,13 +8,13 @@ You may write the question as a statement rather than a direct question. Do not 
 
 ## Examples
 
-**Edit 1.** The finding appears later in this section. The edit adds "The lid halves water loss" after the statement of what the section tests, so the opening gives both the question and its answer.
+**Edit 1.** Later in this section, the draft reports that the lid halves water loss during boiling.
 
 > **Before.** We test whether a lid reduces water loss during boiling.
 >
 > **After.** We test whether a lid reduces water loss during boiling. The lid halves water loss.
 
-**Edit 2.** The Methods section already explains this mechanism. The edit replaces "We describe how" with a direct statement and adds "by returning condensed water to the tank", so the opening answers how the lid prevents evaporation instead of merely announcing an explanation.
+**Edit 2.** Methods explains how the lid returns condensed water to the tank to prevent evaporation.
 
 > **Before.** We describe how the lid prevents evaporation.
 >

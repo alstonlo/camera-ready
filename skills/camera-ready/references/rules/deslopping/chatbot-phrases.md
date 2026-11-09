@@ -8,7 +8,7 @@ Also delete an assistant's offers to continue, disclaimers about its status, and
 
 ## Examples
 
-**Edit 1.** The authors analyze responses to the quoted prompt. The edit deletes "Certainly!" as a chatbot reply outside the analyzed material and keeps "Great question!" inside the prompt, because changing the prompt would alter the study material.
+**Edit 1.** The study examines responses to the quoted prompt.
 
 > **Before.** Certainly! The test prompt is "Great question!".
 >

@@ -8,25 +8,25 @@ When you propose a heading, keep the claim strength and conditions from the body
 
 ## Examples
 
-**Edit 1.** The body text supports the stated effect of shade. The edit, a proposal to the author, replaces "Fern experiment" with "Shade reduces water loss in the tested ferns" so that the heading states the supported finding and its tested scope instead of merely naming the experiment.
+**Edit 1.** The body text establishes that shade reduces water loss in the tested ferns. After is a proposed heading for the author.
 
 > **Before.** Fern experiment
 >
 > **After.** Shade reduces water loss in the tested ferns
 
-**Edit 2.** The draft identifies fewer refills as its contribution and states that the trial tests that aim. The edit adds "enough to reduce refill frequency" so that the question connects reduced water loss to the claimed contribution, since less water loss alone may not mean fewer refills.
+**Edit 2.** Fewer refills are the draft's stated contribution, and the trial is described as testing that aim.
 
 > **Before.** We test whether the lid reduces water loss.
 >
 > **After.** We test whether the lid reduces water loss enough to reduce refill frequency.
 
-**Edit 3.** The edit, a proposal to the author, moves the single-coat result and its interpretation before the double-coat method so that readers see why the second experiment was needed. The editor must flag this reordering for the author.
+**Edit 3.** After is a proposed order for the author to review.
 
 > **Before.** Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
 >
 > **After.** Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
 
-**Edit 4.** The draft identifies the pressure test as the source of Section 4's leakage measurements. The edit adds "to measure the leakage reported in Section 4" so that readers can connect the test to its reported result.
+**Edit 4.** Section 4's leakage measurements come from the pressure test, according to the draft.
 
 > **Before.** We also perform a pressure test.
 >

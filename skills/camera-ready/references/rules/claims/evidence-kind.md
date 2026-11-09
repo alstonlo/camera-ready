@@ -10,31 +10,31 @@ Propose a simpler mathematical condition only when the draft shows that the two 
 
 ## Examples
 
-**Edit 1.** The draft reports only a simulation, with no measurements of the actual bridge. The edit adds "simulated" before "bridge", so that the reported bending describes the model rather than the actual bridge.
+**Edit 1.** A simulation is reported in the draft, but measurements of the actual bridge are absent.
 
 > **Before.** Under the tested load, the bridge bends by 2 cm.
 >
 > **After.** Under the tested load, the simulated bridge bends by 2 cm.
 
-**Edit 2.** The draft proves the stated result in Theorem 2. The edit adds "When stiffness is positive" and attributes the guarantee to Theorem 2, so that the uniqueness claim names both its supporting proof and its condition.
+**Edit 2.** In Theorem 2, the draft proves uniqueness when stiffness is positive.
 
 > **Before.** The equilibrium is unique.
 >
 > **After.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
 
-**Edit 3.** Theorem 1 assumes independent errors, which these sensors violate without disproving the theorem. The edit replaces "make Theorem 1 false" with a statement that the theorem does not apply because the errors are correlated, so that an unmet assumption is not mistaken for a false theorem.
+**Edit 3.** Theorem 1 requires independent errors.
 
 > **Before.** The correlated errors in these sensors make Theorem 1 false.
 >
 > **After.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
-**Edit 4.** The draft establishes that positivity implies the nonzero condition and that the latter adds no useful information. The edit, a proposal to the author, removes "nonzero" while keeping "positive", so that the condition is simpler but covers exactly the same values of x.
+**Edit 4.** As the draft shows, positivity already requires x to be nonzero, and stating both conditions adds no useful information.
 
 > **Before.** For positive, nonzero x, the bound holds.
 >
 > **After.** For positive x, the bound holds.
 
-**Edit 5.** The draft reports observations from only five tested mixtures. The edit replaces "Every mixture" with "Each of the five tested mixtures", so that the claim describes the observations without promising the same outcome for untested mixtures.
+**Edit 5.** The reported observations cover only five tested mixtures.
 
 > **Before.** Every mixture settles within an hour.
 >

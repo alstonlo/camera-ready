@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The draft otherwise uses "dataset", and the venue specifies neither form. The edit replaces "data set" with "dataset" to match the spelling used elsewhere in the draft.
+**Edit 1.** The rest of the draft uses "dataset", and the venue has no preference between the two forms.
 
 > **Before.** The data set contains labeled traffic flows.
 >
 > **After.** The dataset contains labeled traffic flows.
 
-**Edit 2.** The draft usually uses "dataset", but the venue requires "data set". The edit replaces "dataset" with "data set" because the venue's requirement takes precedence over the draft's more frequent spelling.
+**Edit 2.** The venue mandates "data set", although "dataset" is more frequent in the draft.
 
 > **Before.** The dataset contains hourly readings.
 >

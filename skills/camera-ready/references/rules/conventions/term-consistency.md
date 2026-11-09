@@ -8,19 +8,19 @@ List the names that the draft uses for each recurring concept to detect unintent
 
 ## Examples
 
-**Edit 1.** Although "this device" is unambiguous, the rule requires the equipment's specific name. The edit replaces "This device" with "The drying cabinet" so that both sentences use the same name for the equipment.
+**Edit 1.**
 
 > **Before.** The drying cabinet holds the samples. This device stays warm.
 >
 > **After.** The drying cabinet holds the samples. The drying cabinet stays warm.
 
-**Edit 2.** The draft uses "drying cabinet" and "chamber" for the same equipment. The edit replaces "The chamber" with "The drying cabinet" to keep one name for the equipment, while retaining "It" because the clear pronoun introduces no competing name.
+**Edit 2.** Both "drying cabinet" and "chamber" name the same equipment in the draft.
 
 > **Before.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
 >
 > **After.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
 
-**Edit 3.** This figure label names equipment called a "drying cabinet" in the body text. The edit, a proposal to the author, replaces "Chamber" with "Drying cabinet" so that the figure uses the same equipment name as the body text. Changing the prose alone would leave the figure inconsistent, so the label change must be flagged.
+**Edit 3.** The equipment named in this figure label is called a "drying cabinet" in the body text. After is a proposal to the author.
 
 > **Before.** Chamber temperature (°C)
 >

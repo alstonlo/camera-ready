@@ -8,13 +8,13 @@ Also check for unfilled author fields, such as "[Author name here]", and for cit
 
 ## Examples
 
-**Edit 1.** The opening date has no source in the draft. The edit removes "citeturn0search0" and keeps the opening-date claim, so that the stray citation code is gone without deleting the claim. Alongside this edit, the editor flags the need for a source for the date, because deleting the code does not supply one.
+**Edit 1.** No source for the opening date appears in the draft; the editor flags the missing source separately.
 
 > **Before.** The bridge opened in 1986. citeturn0search0
 >
 > **After.** The bridge opened in 1986.
 
-**Edit 2.** The edit, a proposal to the author shown in the editor's flag, removes "?utm_source=chatgpt.com" from the URL so that it no longer identifies ChatGPT as the referring website. The draft's URL remains unchanged because the rule requires flagging this parameter for removal.
+**Edit 2.** In the editor's flag to the author, After is a proposal. The draft's URL remains unchanged.
 
 > **Before.** Data are at https://example.org/data?utm_source=chatgpt.com.
 >

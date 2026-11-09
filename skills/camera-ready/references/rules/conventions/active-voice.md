@@ -8,25 +8,25 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The draft identifies both steps as the authors' actions and otherwise uses "we" consistently. The edit replaces "The method heats it" with "We heat it", so both steps name the authors as the actor and use the draft's consistent voice.
+**Edit 1.** The draft credits the authors with both steps and consistently uses "we" elsewhere.
 
 > **Before.** We filter the water. The method heats it.
 >
 > **After.** We filter the water. We heat it.
 
-**Edit 2.** The draft identifies the vessel material as a choice made by the authors. The edit replaces "The method chooses" with "We choose", so the design decision is attributed to the authors who made it.
+**Edit 2.** The authors chose the vessel material, according to the draft.
 
 > **Before.** The method chooses a glass vessel to avoid corrosion.
 >
 > **After.** We choose a glass vessel to avoid corrosion.
 
-**Edit 3.** The sentence describes a convention shared by researchers generally. The edit replaces "We" with "Researchers", so the subject names the wider group whose convention is being described.
+**Edit 3.** This sentence describes a convention followed by researchers in general.
 
 > **Before.** We conventionally measure angles in degrees.
 >
 > **After.** Researchers conventionally measure angles in degrees.
 
-**Edit 4.** The draft does not identify who removed the label. The edit replaces "The jar is weighed by us" with "We weigh the jar" to state the authors' action in active voice. It keeps "The label was removed" because assigning that action to the authors would invent an actor.
+**Edit 4.** Who removed the label is not specified in the draft.
 
 > **Before.** The label was removed before delivery. The jar is weighed by us.
 >

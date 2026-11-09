@@ -14,25 +14,25 @@ A suitable controlled comparison can isolate the effect of a factor such as a de
 
 ## Examples
 
-**Edit 1.** The draft reports only a correlation from a household survey. The edit, a proposal to the author after flagging the unsupported causal claim, replaces "caused" with "was associated with" so that the claim matches the survey evidence.
+**Edit 1.** Only a correlation is reported in the draft's household survey. After is a proposal to the author.
 
 > **Before.** In the surveyed households, owning more houseplants caused fewer colds.
 >
 > **After.** In the surveyed households, owning more houseplants was associated with fewer colds.
 
-**Edit 2.** The draft's controlled comparison adds mulch and shade together without testing either alone. The edit, a proposal to the author after flagging the attribution to mulch alone, replaces "Mulch reduces" with "Mulch and shade together reduce" so that the claim attributes the effect to the tested combination.
+**Edit 2.** The controlled comparison reported in the draft adds mulch and shade together, with no separate test of either. After is a proposal to the author.
 
 > **Before.** Mulch reduces water loss.
 >
 > **After.** Mulch and shade together reduce water loss.
 
-**Edit 3.** The draft identifies lubrication as a contributing factor but reports failures despite it. The edit, a proposal to the author after flagging the unsupported guarantee, replaces "is sufficient to prevent" with "contributes to preventing" so that lubrication helps prevent wear without guaranteeing prevention.
+**Edit 3.** The draft calls lubrication a contributing factor and reports wear despite lubrication. After is a proposal to the author.
 
 > **Before.** Lubrication is sufficient to prevent wear.
 >
 > **After.** Lubrication contributes to preventing wear.
 
-**Edit 4.** The draft establishes the coating's effect but does not test its explanation. The edit separates the reduction in corrosion from the oxygen-blocking explanation and introduces the latter with "We conjecture", so that the established effect remains a claim and the untested mechanism is marked as speculation.
+**Edit 4.** In the draft, the reduction in corrosion is established, but oxygen blocking is not tested as an explanation.
 
 > **Before.** The coating reduces corrosion because it blocks oxygen.
 >

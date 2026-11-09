@@ -10,25 +10,25 @@ Writing a short title for a section tests whether the section develops one coher
 
 ## Examples
 
-**Edit 1.** The author asks to shorten a paper about erosion. The edit deletes "Gravel also decorates aquariums" because that detail supports none of the paper's claims, while keeping the tested erosion finding.
+**Edit 1.** The paper concerns erosion, and the author asks to shorten it.
 
 > **Before.** Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
 >
 > **After.** Gravel reduces soil erosion in our tests.
 
-**Edit 2.** The author asks to shorten a paper whose core claim concerns leaf entry. The edit deletes "grit particles are smaller than leaves" and ends the preceding clause with a period, shortening the secondary point about grit because particle size is not needed to evaluate the core claim.
+**Edit 2.** The author wants to shorten a paper whose core claim concerns leaf entry.
 
 > **Before.** The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
 >
 > **After.** The mesh prevents leaf entry. A finer mesh might also block grit.
 
-**Edit 3.** The author asks to shorten a study of whether a mesh excludes debris. The edit restores "but lets sand through" because the sand finding limits the claim about what the mesh blocks and must survive shortening.
+**Edit 3.** Before is a proposed cut. The author asks to shorten a study of debris exclusion, and the draft also reports that the mesh lets sand through.
 
 > **Before.** The mesh blocks leaves.
 >
 > **After.** The mesh blocks leaves but lets sand through.
 
-**Edit 4.** The author asks to shorten a section about leaf blockage and pump power. The edit restores "The pump draws 5 W" alongside the leaf-blockage finding while the editor flags the competing topics, because the lack of a common point does not establish which finding can be cut.
+**Edit 4.** The section concerns leaf blockage and pump power, and the author asks to shorten it. Before is a proposed cut; the draft also reports that the pump draws 5 W.
 
 > **Before.** The mesh blocks leaves.
 >

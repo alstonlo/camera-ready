@@ -16,31 +16,31 @@ A readability score does not measure whether readers in the field can follow a s
 
 ## Examples
 
-**Edit 1.** The preceding text discusses the leak and introduces trial 2. The edit keeps the first sentence's familiar subject and short aside, then moves "which holds water from the stream beside the shed" into a separate sentence beginning "It holds", so that "The tank" sits next to "stays full".
+**Edit 1.** Before this passage, the text discusses the leak and introduces trial 2.
 
 > **Before.** That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
 >
 > **After.** That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
 
-**Edit 2.** The edit puts "cover" first and adds "of" and "for" to show how the cover, sample holder, and instrument relate, so that readers do not have to untangle the noun string. It keeps "scanning electron microscope" together as the instrument's established name.
+**Edit 2.**
 
 > **Before.** We inspect the scanning electron microscope sample holder cover.
 >
 > **After.** We inspect the cover of the sample holder for the scanning electron microscope.
 
-**Edit 3.** The edit replaces "the vial was opened by the technician" with "the technician opened the vial" so that "Wearing gloves" clearly describes the technician who performs the action.
+**Edit 3.**
 
 > **Before.** Wearing gloves, the vial was opened by the technician.
 >
 > **After.** Wearing gloves, the technician opened the vial.
 
-**Edit 4.** The edit adds "that" after "assume" so that readers do not initially take "the samples" as the object of "assume".
+**Edit 4.**
 
 > **Before.** We assume the samples in the red tray contain salt.
 >
 > **After.** We assume that the samples in the red tray contain salt.
 
-**Edit 5.** The symbol ↵ marks a line break. The edit turns the three conditions into a numbered list introduced by "only if all three conditions hold", so that readers can check each condition separately while all three remain necessary for opening the valve.
+**Edit 5.** A line break is marked by the symbol ↵.
 
 > **Before.** Open the valve only if the lid is shut, the pump is off, and the tank is cool.
 >

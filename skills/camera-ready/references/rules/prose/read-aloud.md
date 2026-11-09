@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit places "that occurred during navigation" directly after "errors" and moves the checklist into a separate sentence, so that readers can tell when the errors occurred and where the observers recorded them.
+**Edit 1.**
 
 > **Before.** The observers recorded errors on the checklist that occurred during navigation.
 >
 > **After.** The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
 
-**Edit 2.** The draft intends a choice between the jar and the lid. The edit adds "rather than the lid" to state the choice explicitly, because readers cannot hear the stress on "jar" that would suggest it aloud.
+**Edit 2.** The draft calls for rinsing the jar rather than the lid.
 
 > **Before.** The operator should rinse the jar.
 >

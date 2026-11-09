@@ -12,25 +12,25 @@ The five parts of the argument in the abstract are the problem, the gap, the ide
 
 ## Examples
 
-**Edit 1.** The venue places Methods last, and that section supplies the procedure added here. The edit adds "We obtain depth from calibrated echo times (Methods)" before the depth result so that readers of Results know how depth was measured and where to find the full procedure.
+**Edit 1.** The venue places Methods last. This passage appears in Results, and Methods describes obtaining depth from calibrated echo times.
 
 > **Before.** The lake is 12 m deep at the sampling point.
 >
 > **After.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
 
-**Edit 2.** The central result first appears in Results, after the paper's first quarter. The edit, a proposal to the author, adds "The lid halves water loss in the tested tank" to the introduction so that readers encounter the contribution earlier. The editor flags the delayed result.
+**Edit 2.** The paper first reports a central result after its first quarter: the lid halves water loss in the tested tank. After is a proposal to the author for the introduction.
 
 > **Before.** We test a lid to reduce water loss.
 >
 > **After.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
 
-**Edit 3.** This abstract omits a result established in the body. The edit, a proposal to the author, replaces the reference to Section 5 with the finding that the filter removes all visible sand from the tested samples, so that readers can understand the result from the abstract alone. The editor flags the missing result.
+**Edit 3.** Section 5 establishes that the filter removes all visible sand from the tested samples; this passage appears in the abstract. After is a proposal to the author.
 
 > **Before.** The filter's result appears in Section 5.
 >
 > **After.** The filter removes all visible sand from the tested samples.
 
-**Edit 4.** The drying procedure is substantial, while the calibration result only validates the procedure beside it. The edit, a proposal to the author, moves the drying procedure from Results to Methods, because a substantial procedure belongs in Methods, and leaves the small calibration result next to its procedure. The editor flags the move for the author.
+**Edit 4.** The calibration result only validates the adjacent procedure, and the drying procedure is substantial. After is a proposal to the author.
 
 > **Before.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
 >

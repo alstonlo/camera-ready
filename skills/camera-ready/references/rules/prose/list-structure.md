@@ -12,25 +12,25 @@ When a table would help readers compare several objects on the same properties, 
 
 ## Examples
 
-**Edit 1.** The draft explicitly links the weighing failure to the scale's limit. The edit combines the two bullets into a sentence joined by "so" and replaces the second "The scale" with "it", making the supported reason for the weighing failure explicit.
+**Edit 1.** The scale's limit is explicitly given in the draft as the reason for the weighing failure.
 
 > **Before.** • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
 >
 > **After.** The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
 
-**Edit 2.** The symbol ↵ marks a line break. The edit replaces the sentence's "First", "second", and "third" with three numbered lines so that readers can follow each action separately in the same order.
+**Edit 2.** The symbol ↵ marks a line break.
 
 > **Before.** First, close the valve; second, disconnect the hose; third, remove the filter.
 >
 > **After.** 1. Close the valve. ↵ 2. Disconnect the hose. ↵ 3. Remove the filter.
 
-**Edit 3.** The requirements have equal priority, and the draft never refers to their numbers; ↵ marks a line break. The edit replaces the numbers with bullets so that the requirements remain separate without implying an unsupported order or ranking.
+**Edit 3.** All requirements have equal priority, and none of their numbers is referenced in the draft. The symbol ↵ marks a line break.
 
 > **Before.** 1. The lid must seal. ↵ 2. The handle must fold.
 >
 > **After.** • The lid must seal. ↵ • The handle must fold.
 
-**Edit 4.** The draft establishes measurement and prediction as the two groups; ↵ marks a line break. The edit, a proposal to the author, combines the pressure and temperature objectives under "Measurement" and places the rainfall objective under "Prediction" so that all three objectives appear in their established groups. Regrouping objectives must be flagged even when the categories are established.
+**Edit 4.** The draft establishes measurement and prediction as the two groups; ↵ marks a line break. After is a proposal to the author.
 
 > **Before.** Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
 >

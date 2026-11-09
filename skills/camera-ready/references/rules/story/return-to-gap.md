@@ -8,13 +8,13 @@ Find the introduction's final substantive promise, which states what the study w
 
 ## Examples
 
-**Edit 1.** The introduction asks whether the pump can reach a roof 8 m above the tank. The edit adds "which is high enough to reach the roof", so that the discussion opening explains how the measured height answers the introduction's question.
+**Edit 1.** The introduction asks whether the pump can reach a roof 8 m above the tank. This passage opens the discussion.
 
 > **Before.** The pump lifts water 10 m above the tank.
 >
 > **After.** The pump lifts water 10 m above the tank, which is high enough to reach the roof.
 
-**Edit 2.** The introduction promises a seal that works in fresh and salt water, but the results establish success only in fresh water. The edit adds "partly", limits the success to fresh water, and states that leaks remain in salt water, so that the discussion opening acknowledges both the result and the unfulfilled part of the promise.
+**Edit 2.** In the introduction, the authors promise a seal that works in fresh and salt water. This passage opens the discussion; the draft reports that the seal stops leaks in fresh water but still leaks in salt water.
 
 > **Before.** The seal closes the stated gap by stopping leaks in both fresh and salt water.
 >

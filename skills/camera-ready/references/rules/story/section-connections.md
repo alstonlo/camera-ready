@@ -8,25 +8,25 @@ Place each section reminder according to [paragraph opening order](../prose/para
 
 ## Examples
 
-**Edit 1.** This sentence opens Results; Methods already defines the schedules. The edit adds "once or three times a day" after "the two feeding schedules" so that readers starting at Results know the essential comparison.
+**Edit 1.** Results opens with this sentence; Methods defines the schedules as feeding once or three times a day.
 
 > **Before.** We compare fish growth under the two feeding schedules.
 >
 > **After.** We compare fish growth under the two feeding schedules: once or three times a day.
 
-**Edit 2.** The preceding section identifies cooling time as the production limit, and the current section tests a fan to shorten that time. The edit adds "To shorten the cooling time that limits production" before the test, connecting its purpose to the problem in the preceding section.
+**Edit 2.** Cooling time is identified as the production limit in the preceding section, and this section tests a fan to shorten that time.
 
 > **Before.** We test a fan.
 >
 > **After.** To shorten the cooling time that limits production, we test a fan.
 
-**Edit 3.** The abstract defines the seal as a rubber ring, and this sentence is the seal's first mention in the introduction. The edit adds "a rubber ring" after "The seal" so that the introduction supplies the definition without requiring readers to consult the abstract.
+**Edit 3.** The seal first appears in the introduction here; the abstract defines it as a rubber ring.
 
 > **Before.** The seal prevents leaks at the pipe joint.
 >
 > **After.** The seal, a rubber ring, prevents leaks at the pipe joint.
 
-**Edit 4.** These sentences open Methods. The edit moves the sentence about using airflow to shorten cooling time before the sentence about attaching the fan, so that the section presents the key idea before the implementation step.
+**Edit 4.** Methods opens with these sentences.
 
 > **Before.** We attach a fan to the lid. We use airflow to shorten cooling time.
 >

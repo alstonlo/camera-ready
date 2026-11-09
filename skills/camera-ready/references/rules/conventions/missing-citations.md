@@ -10,19 +10,19 @@ In every example below, the After line is a correction proposed to the author, n
 
 ## Examples
 
-**Edit 1.** The draft identifies ortiz2025 as the source; ortiz2026 is absent from the bibliography. The edit, a proposal to the author, replaces the missing key "ortiz2026" with the draft-supported key "ortiz2025", so that the citation identifies the stated source.
+**Edit 1.** The stated source is ortiz2025, but the bibliography lacks ortiz2026.
 
 > **Before.** Drying shrinks the shell~\citep{ortiz2026}.
 >
 > **After.** Drying shrinks the shell~\citep{ortiz2025}.
 
-**Edit 2.** The draft identifies chen2024 as the source of the cooling result. The edit, a proposal to the author, adds "~\citep{chen2024}" to that result to identify its source and keeps "as cited in" in the preceding sentence because removing it would imply that the authors read Ortiz directly.
+**Edit 2.** The cooling result is credited to chen2024 in the draft.
 
 > **Before.** Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay.
 >
 > **After.** Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay~\citep{chen2024}.
 
-**Edit 3.** The draft supplies both references and identifies chen2024 as the source of the cooling result. The edit, a proposal to the author, adds "~\citep{chen2024}" to identify that source and keeps the calendar citation because common knowledge is not a reason to delete an existing citation.
+**Edit 3.** Both references appear in the draft, which credits the cooling result to chen2024.
 
 > **Before.** A year has twelve months~\citep{calendar2025}. Cooling slows decay.
 >

@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit joins the two sentences with a comma and "and", replacing the opening "Plus" while preserving the addition of rain protection to wind protection.
+**Edit 1.**
 
 > **Before.** The shelter blocks wind. Plus, it keeps rain out.
 >
 > **After.** The shelter blocks wind, and it keeps rain out.
 
-**Edit 2.** The edit replaces the opening "But" with "However," so that the sentence keeps the contrast between the box's low weight and its capacity without starting with "But".
+**Edit 2.**
 
 > **Before.** The box is light. But it holds 20 kg.
 >
 > **After.** The box is light. However, it holds 20 kg.
 
-**Edit 3.** The edit replaces "Moreover" with "Finally" to mark drying as the last step in the sequence, since "Moreover" would introduce additional support for a claim.
+**Edit 3.** The procedure ends with drying.
 
 > **Before.** First, close the valve. Next, drain the tank. Moreover, dry the tank.
 >

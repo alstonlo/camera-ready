@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The draft explains elsewhere why fitting through the door matters for transport. The edit replaces "This is an important result" with a clause explaining that the tray can be transported without being taken apart, joined to the finding with "so" to state why it matters.
+**Edit 1.** Elsewhere, the draft says the tray can be transported without disassembly because it fits through the door.
 
 > **Before.** The tray fits through the door. This is an important result.
 >
 > **After.** The tray fits through the door, so it can be transported without being taken apart.
 
-**Edit 2.** The edit deletes "This is a surprising result" because it only repeats the authors' reaction, and keeps "Surprisingly," where that reaction introduces the finding.
+**Edit 2.**
 
 > **Before.** Surprisingly, the dry seeds sprout first. This is a surprising result.
 >

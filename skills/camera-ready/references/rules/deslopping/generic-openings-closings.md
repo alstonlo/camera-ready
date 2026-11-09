@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit deletes "The future of public transit looks bright" because it adds a generic closing rather than information about the route, and keeps the specific hospital service frequency.
+**Edit 1.**
 
 > **Before.** The new bus route stops at the hospital every 10 minutes. The future of public transit looks bright.
 >
 > **After.** The new bus route stops at the hospital every 10 minutes.
 
-**Edit 2.** The draft gives the roof-heating explanation elsewhere. The edit replaces the claim that roof paint "has attracted much attention" with the explanation that dark roofs absorb sunlight and heat rooms, giving a specific reason to test white paint.
+**Edit 2.** Dark roofs absorb sunlight and heat the rooms below, as stated elsewhere in the draft.
 
 > **Before.** Roof paint has attracted much attention. We test white paint.
 >
 > **After.** Dark roofs absorb sunlight and heat the rooms below. We test white paint.
 
-**Edit 3.** Readers need the definition of dormancy to understand this draft's study question. The edit deletes "Gardening is an exciting field" as generic praise and keeps the definition before the question so that readers have the necessary background.
+**Edit 3.**
 
 > **Before.** Gardening is an exciting field. Dormancy is a period without growth. We test whether cold ends dormancy.
 >

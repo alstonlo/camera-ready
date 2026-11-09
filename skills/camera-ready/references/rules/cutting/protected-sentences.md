@@ -13,25 +13,25 @@ Readers may need a sentence even when it adds no new facts. Details needed to re
 
 ## Examples
 
-**Edit 1.** Before shows a proposed cut from the draft. The edit restores "It reduces growth in dry soil", so that the passage keeps the condition in which the treatment has the opposite effect.
+**Edit 1.** Reduced growth in dry soil is also reported in the draft; Before shows a proposed cut of that result.
 
 > **Before.** The fertilizer increases growth in wet soil.
 >
 > **After.** The fertilizer increases growth in wet soil. It reduces growth in dry soil.
 
-**Edit 2.** Before shows a proposed cut from a figure caption. The edit restores "Adapted from Rao et al. (2022), with permission", so that the caption acknowledges the adapted material and its permission on its own.
+**Edit 2.** In Before, a proposed cut removes a figure caption's credit to Rao et al. (2022) and permission statement.
 
 > **Before.** The roots (brown) spread wider than the leaves (green).
 >
 > **After.** The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
 
-**Edit 3.** Before shows a proposed cut of the paragraph's opening sentence. The edit restores "Thicker walls keep the jar cooler" before the measurements, so that readers know what the measurements show even though the opening adds no new data.
+**Edit 3.** The proposed cut shown in Before removes the paragraph's opening sentence.
 
 > **Before.** At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 >
 > **After.** Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 
-**Edit 4.** The author has requested cuts, and the triage order has reached repeated limitations. The edit deletes the second "The results cannot establish effects in children" while keeping the first statement and its reason, so that the authorized cut removes repetition without losing the limitation.
+**Edit 4.** The author has requested cuts, and the triage order has reached repeated limitations.
 
 > **Before.** Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
 >

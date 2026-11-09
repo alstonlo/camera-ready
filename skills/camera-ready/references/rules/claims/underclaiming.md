@@ -10,19 +10,19 @@ A dataset, instrument, protocol, software tool, or other resource or artifact ca
 
 ## Examples
 
-**Edit 1.** The draft lists this as a contribution, and Section 4 reports that thicker wool samples retained more heat in the tests. The edit replaces "investigate whether" with "find that" so that the contribution states the finding rather than just the research activity, while keeping the test conditions and section reference.
+**Edit 1.** The contribution list contains this sentence. Section 4 reports greater heat retention for thicker wool samples in the tests.
 
 > **Before.** We investigate whether thicker wool samples retain more heat in the tests (Section 4).
 >
 > **After.** We find that thicker wool samples retain more heat in the tests (Section 4).
 
-**Edit 2.** The gap was directly measured in every tested panel. The edit replaces "may have found" with "found" so that the directly measured result is stated without an unnecessary hedge.
+**Edit 2.** For every tested panel, the draft reports direct measurements of the gap.
 
 > **Before.** We may have found a 2 cm gap in every tested panel.
 >
 > **After.** We found a 2 cm gap in every tested panel.
 
-**Edit 3.** Section 3 documents the catalog as a contribution. The edit replaces "explore leaf images" with "present a catalog of 200 labeled leaf images" so that the contribution names the resource produced, its size, and its labels, while keeping the section reference and requiring no performance gain.
+**Edit 3.** A catalog of 200 labeled leaf images is documented as a contribution in Section 3.
 
 > **Before.** We explore leaf images (Section 3).
 >

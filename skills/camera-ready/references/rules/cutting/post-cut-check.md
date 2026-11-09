@@ -8,31 +8,31 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** An editor moves the recovery experiment to Appendix D to shorten the main text. The edit replaces "Section 5" with "Appendix D" so that the reference points to the experiment's new location.
+**Edit 1.** An editor relocated the recovery experiment from Section 5 to Appendix D to shorten the main text.
 
 > **Before.** The recovery experiment is described in Section 5.
 >
 > **After.** The recovery experiment is described in Appendix D.
 
-**Edit 2.** The draft establishes the claim, and an editor moves the full supporting test to Appendix B. The edit replaces "may prevent" with "prevents" to restore the original confidence while keeping the Appendix B reference, because moving the evidence does not weaken it.
+**Edit 2.** The draft establishes that the coating prevents rust in fresh water, and an editor relocated the complete supporting test to Appendix B.
 
 > **Before.** The coating may prevent rust in fresh water (Appendix B).
 >
 > **After.** The coating prevents rust in fresh water (Appendix B).
 
-**Edit 3.** With the author's permission, an editor cuts the only test of the metal lid, leaving evidence that supports the claim about the glass lid. The edit replaces "Both lids reduce" with "The glass lid reduces" so that the claim covers only the lid whose supporting test remains.
+**Edit 3.** With the author's approval, an editor removed the metal lid's only test. The remaining evidence supports reduced evaporation for the glass lid.
 
 > **Before.** Both lids reduce evaporation.
 >
 > **After.** The glass lid reduces evaporation.
 
-**Edit 4.** An editor cuts the statement about soil acidity. The edit restores "The soil is too acidic for beans" between the measurement and the decision to add lime, because measuring acidity alone does not explain that decision.
+**Edit 4.** The statement that the soil is too acidic for beans was removed from the draft by an editor.
 
 > **Before.** We measure acidity. We therefore add lime.
 >
 > **After.** We measure acidity. The soil is too acidic for beans. We therefore add lime.
 
-**Edit 5.** The draft gives slow drainage as a tentative explanation, but an editor cuts the hedge. The edit replaces "reflects" with "may reflect" to restore the uncertainty in the draft's explanation.
+**Edit 5.** Slow drainage is presented as a possible explanation in the draft, and an editor removed its hedge.
 
 > **Before.** The delay reflects slow drainage.
 >

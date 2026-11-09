@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit removes "impervious to water" because it repeats "waterproof", leaving the two distinct properties of being lockable and waterproof.
+**Edit 1.**
 
 > **Before.** The case is lockable, waterproof, and impervious to water.
 >
 > **After.** The case is lockable and waterproof.
 
-**Edit 2.** The edit deletes the clause calling the kit "remarkable, outstanding, and extraordinary" because it adds only praise, and keeps the three distinct items that the kit contains.
+**Edit 2.**
 
 > **Before.** The kit contains a ruler, a brush, and a tray; the kit is remarkable, outstanding, and extraordinary.
 >
 > **After.** The kit contains a ruler, a brush, and a tray.
 
-**Edit 3.** The draft supports "waterproof" but reports no fire test; the editor separately flags the missing support for "fireproof". The edit removes "remarkable" as empty praise and keeps "waterproof" and "fireproof" because both describe substantive properties, even though one lacks support.
+**Edit 3.** Support is given for "waterproof", but the draft reports no fire test. The editor separately flags the missing support for "fireproof".
 
 > **Before.** The case is waterproof, fireproof, and remarkable.
 >

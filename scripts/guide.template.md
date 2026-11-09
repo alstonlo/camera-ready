@@ -13,7 +13,7 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 ## Examples
 
-**Edit 1.** {{ Optional context for the example. Then what the edit changes and why, in one or two sentences. }}
+**Edit 1.** {{ Optional context: only the facts about the draft that a reader needs to understand the edit. }}
 
 > **Before.** {{ A passage that breaks the rule. }}
 >

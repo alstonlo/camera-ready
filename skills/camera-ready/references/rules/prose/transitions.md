@@ -8,25 +8,25 @@ When choosing a word to express contrast, distinguish a comparison, an exception
 
 ## Examples
 
-**Edit 1.** The draft establishes timing but no cause. The edit replaces "As" with "When" so that the connection clearly expresses timing without implying causation.
+**Edit 1.** The draft establishes the timing without establishing a cause.
 
 > **Before.** As the pump stops, the lamp flashes.
 >
 > **After.** When the pump stops, the lamp flashes.
 
-**Edit 2.** The edit removes "Conversely" and its comma because wool retaining heat does not reverse the statement that glass transmits light.
+**Edit 2.**
 
 > **Before.** Glass transmits light. Conversely, wool retains heat.
 >
 > **After.** Glass transmits light. Wool retains heat.
 
-**Edit 3.** The edit removes "therefore" because "Because" already expresses the causal relation between the cracked gasket and the leak.
+**Edit 3.**
 
 > **Before.** Because the gasket is cracked, therefore the lid leaks.
 >
 > **After.** Because the gasket is cracked, the lid leaks.
 
-**Edit 4.** The draft states the general rule elsewhere. The edit, a proposal to the author when flagging the missing premise, restores "Every cracked jar leaks" before the statement about this jar so that the conclusion introduced by "Therefore" has its supporting premise.
+**Edit 4.** Elsewhere, the draft says that every cracked jar leaks. After is a proposal to the author.
 
 > **Before.** This jar is cracked. Therefore, it leaks.
 >

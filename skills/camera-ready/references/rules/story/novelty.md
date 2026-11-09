@@ -8,19 +8,19 @@ State additions and credit using only what the draft says. Do not describe the a
 
 ## Examples
 
-**Edit 1.** The draft states that the authors previously published the rain gauge and are now adding an overflow alarm. The edit makes the overflow alarm the object of "introduce" and calls the gauge "our published rain gauge", so that only the alarm is presented as new and the authors retain credit for the gauge.
+**Edit 1.** According to the draft, the authors previously published the rain gauge and are adding an overflow alarm.
 
 > **Before.** We introduce the rain gauge and its overflow alarm.
 >
 > **After.** We introduce the overflow alarm for our published rain gauge.
 
-**Edit 2.** The draft identifies the earlier report as the authors’ own and says it uses the same measurements. The edit replaces "An independent study confirms" with "Our earlier report describes" and adds "using the same measurements", so that the authors' earlier account is not presented as independent confirmation.
+**Edit 2.** The earlier report is the authors’ own and uses the same measurements, as stated in the draft.
 
 > **Before.** An independent study confirms the effect.
 >
 > **After.** Our earlier report describes the effect using the same measurements.
 
-**Edit 3.** The venue requires anonymity, and the editor flags the self-identification. The edit, a proposal to the author, replaces "our earlier design (Lee et al., 2024)" with "the design of Lee et al. (2024)" to retain credit for the design without identifying the current authors as its creators.
+**Edit 3.** The venue requires anonymity. The editor flags the self-identification and proposes After to the author.
 
 > **Before.** We add an alarm to our earlier design (Lee et al., 2024).
 >

@@ -8,7 +8,7 @@ When replacing a verb, keep [technical names](term-consistency.md) unchanged. If
 
 ## Examples
 
-**Edit 1.** The edit replaces the verb "test" with "assess" while keeping the noun "test", so that readers do not have to parse the same word twice in different roles in one sentence. The two uses of "model" remain because their roles are clear in separate sentences.
+**Edit 1.**
 
 > **Before.** We model growth. The model fits the observations. We test the test's accuracy.
 >

@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The draft reports both findings about the glue. The edit replaces "progress is substantial" with "the glue holds on wood" and "problems persist" with "it fails on glass", so that both sides of the concession state specific findings.
+**Edit 1.** According to the draft, the glue holds on wood and fails on glass.
 
 > **Before.** Although progress is substantial, problems persist.
 >
 > **After.** Although the glue holds on wood, it fails on glass.
 
-**Edit 2.** The draft supports both findings in the first sentence. The edit keeps the concrete concession about wood and glass and deletes "Although progress is substantial, problems persist" because the second sentence adds no finding.
+**Edit 2.** The draft supports both findings in the first sentence.
 
 > **Before.** Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
 >

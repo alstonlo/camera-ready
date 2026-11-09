@@ -26,25 +26,25 @@ When the draft recommends practical use, check the requirements it documents, su
 
 ## Examples
 
-**Edit 1.** The draft reports that 99 of 100 tested bulbs lit within a second and calls that timing typical. The edit replaces "always" with "usually" so that the claim describes the observed tendency without claiming that every tested bulb met it.
+**Edit 1.** For the tested bulbs, the draft records that 99 of 100 lit within a second and describes this timing as typical.
 
 > **Before.** The tested bulbs always lit within a second.
 >
 > **After.** The tested bulbs usually lit within a second.
 
-**Edit 2.** The draft reports one photographed crack and no survey of other tiles. The edit, a proposal to the author, replaces the claim that cracks are common with a statement that the photographed tile has a crack, because one photograph cannot establish how common cracks are.
+**Edit 2.** A crack in one photographed tile is documented in the draft, but no survey of other tiles is provided. After is a proposal to the author.
 
 > **Before.** Cracks are common in these tiles.
 >
 > **After.** The photographed tile has a crack.
 
-**Edit 3.** The draft gives comfort scores of 8 for chair A and 4 for chair B but does not establish that doubling the score means doubling comfort. The edit, a proposal to the author, replaces "is twice as comfortable" with "scores twice as high" and names the comfort scale so that the comparison concerns the scores rather than comfort itself.
+**Edit 3.** Chair A receives a comfort score of 8 and chair B a score of 4 in the draft, which does not establish that the scores are proportional to comfort. After is a proposal to the author.
 
 > **Before.** Chair A is twice as comfortable as chair B.
 >
 > **After.** Chair A scores twice as high as chair B on the comfort scale.
 
-**Edit 4.** The coating was tested only on aluminum, and the draft explicitly presents the possible bridge application as untested. The edit replaces "on all metals" with "on aluminum in the tests" to limit the corrosion claim to the evidence, while keeping "may be useful on bridges" as a tentative application.
+**Edit 4.** Only aluminum was tested, according to the draft, which explicitly describes possible use on bridges as untested.
 
 > **Before.** The coating resists corrosion on all metals and may be useful on bridges.
 >

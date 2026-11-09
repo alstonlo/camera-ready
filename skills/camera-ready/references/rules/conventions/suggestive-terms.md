@@ -8,25 +8,25 @@ Replace intentions or mental states attributed to a system ("the particle wants 
 
 ## Examples
 
-**Edit 1.** The draft describes the coating's response to heat but does not define "intelligent". The edit, a proposal to the author to resolve the flagged term, replaces "an intelligent coating" with "a coating that darkens when heated", so that the sentence describes the stated response literally.
+**Edit 1.** The coating darkens when heated, according to the draft, but "intelligent" is undefined.
 
 > **Before.** We test an intelligent coating.
 >
 > **After.** We test a coating that darkens when heated.
 
-**Edit 2.** The edit replaces "exponentially" with "linearly", so that the growth term matches the stated increase of 2 cm each minute.
+**Edit 2.**
 
 > **Before.** The tank level grows exponentially, rising by 2 cm each minute.
 >
 > **After.** The tank level grows linearly, rising by 2 cm each minute.
 
-**Edit 3.** This is the first use of "recognizes", and the draft supplies the binding mechanism elsewhere. The edit keeps "recognizes" and adds "by binding to the substrate's phosphate group", so that readers learn the physical action named by the established technical term.
+**Edit 3.** This is the first use of "recognizes"; elsewhere, the draft says the enzyme binds to the substrate's phosphate group.
 
 > **Before.** The enzyme recognizes its substrate.
 >
 > **After.** The enzyme recognizes its substrate by binding to the substrate's phosphate group.
 
-**Edit 4.** The draft uses the first "normal" to mean routine. The edit replaces that "normal" with "routine" and keeps "normal distribution", so that readers do not mistake the ordinary word for another reference to the distribution.
+**Edit 4.** The first "normal" is used to mean routine.
 
 > **Before.** We draw a normal sample from the normal distribution.
 >

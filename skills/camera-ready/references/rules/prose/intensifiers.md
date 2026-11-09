@@ -8,31 +8,31 @@ When "highly", "remarkably", or "exceptionally" adds only emphasis, cut it or re
 
 ## Examples
 
-**Edit 1.** The draft supplies the cable's measured length. The edit replaces "extremely" with "40 m" so that the sentence gives the measured length instead of merely emphasizing it.
+**Edit 1.** The measured cable length reported in the draft is 40 m.
 
 > **Before.** The cable is extremely long.
 >
 > **After.** The cable is 40 m long.
 
-**Edit 2.** The edit deletes "Note that" because the prompt adds no needed clarification, while keeping "largely" because removing it would claim that the coating prevents all rust.
+**Edit 2.**
 
 > **Before.** Note that the coating largely prevents rust.
 >
 > **After.** The coating largely prevents rust.
 
-**Edit 3.** The preceding sentence defines a zero score as no detected damage. The edit deletes "very" from "very useful" because it adds only emphasis, while keeping "Note that" to guard against reading the score as proof of no damage.
+**Edit 3.** In the preceding sentence, a zero score is defined as no detected damage.
 
 > **Before.** Note that a zero score does not rule out damage. The test is very useful.
 >
 > **After.** Note that a zero score does not rule out damage. The test is useful.
 
-**Edit 4.** The draft's proof establishes that the last term is zero. The edit deletes "very" from "very safely" because it adds only emphasis, while keeping "Clearly" because adding zero is a routine step even for readers outside the subfield.
+**Edit 4.** The last term is zero, as established by the draft's proof.
 
 > **Before.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
 >
 > **After.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
 
-**Edit 5.** The edit deletes "clearly" because it adds only emphasis to an empirical claim, leaving the finding about earlier sprouting intact.
+**Edit 5.**
 
 > **Before.** The treated seeds clearly sprout sooner.
 >

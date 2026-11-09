@@ -8,7 +8,7 @@ Without an explanation of why the obvious approach fails, readers cannot tell wh
 
 ## Examples
 
-**Edit 1.** The draft explains elsewhere why the crane cannot lift the tree in one piece. The edit adds "because the tree is too heavy for the crane" so that readers know why the obvious approach fails rather than only being told it is infeasible.
+**Edit 1.** The tree is too heavy for the crane to lift in one piece, as stated elsewhere in the draft.
 
 > **Before.** Lifting the fallen tree in one piece is infeasible.
 >

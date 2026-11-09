@@ -8,25 +8,25 @@ Preserve real differences and qualifications between parallel items. If the draf
 
 ## Examples
 
-**Edit 1.** The edit replaces "how much the box weighed" with "the weight of the box" so that all three measurements use the same grammatical form. It keeps "with the lid open" on the width measurement because parallel wording does not require identical measurement conditions.
+**Edit 1.**
 
 > **Before.** We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
 >
 > **After.** We measured the length of the box, the width of the box with the lid open, and the weight of the box.
 
-**Edit 2.** The draft says hot water is used only for washing. The edit moves "with hot water" next to "wash the jars" and changes the drying phrase to "dry them" so that hot water clearly applies only to washing.
+**Edit 2.** Hot water is specified in the draft for washing alone.
 
 > **Before.** We wash and dry the jars with hot water.
 >
 > **After.** We wash the jars with hot water and dry them.
 
-**Edit 3.** The edit adds "the mass of" before "the wooden ball" so that the sentence compares one mass with another rather than a mass with an object.
+**Edit 3.**
 
 > **Before.** The mass of the steel ball exceeds the wooden ball.
 >
 > **After.** The mass of the steel ball exceeds the mass of the wooden ball.
 
-**Edit 4.** The draft establishes that freezing caused the split. The edit replaces "froze and split" with "split because it froze" so that the sentence states the supported causal relationship instead of merely joining two events.
+**Edit 4.** Freezing caused the pipe to split, as established in the draft.
 
 > **Before.** The pipe froze and split.
 >

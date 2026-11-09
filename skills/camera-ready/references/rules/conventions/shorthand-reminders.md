@@ -8,19 +8,19 @@ A reference to a nearby equation needs no added description if readers can tell 
 
 ## Examples
 
-**Edit 1.** The symbol was defined in Section 2; this passage appears in Section 5. The edit replaces "Let $r$ denote" with "Recall that $r$ denotes", so the rainfall-rate definition reads as a reminder after the section gap rather than a new definition.
+**Edit 1.** This passage appears in Section 5; Section 2 defines $r$ as the rainfall rate.
 
 > **Before.** Let $r$ denote the rainfall rate. We compare $r$ across sites.
 >
 > **After.** Recall that $r$ denotes the rainfall rate. We compare $r$ across sites.
 
-**Edit 2.** The draft discusses evaporation and infiltration and attributes the summer increase to evaporation. The edit replaces "The rate" with "The evaporation rate", so readers can tell which of the two rates increases.
+**Edit 2.** The draft discusses both evaporation and infiltration rates; it says that the evaporation rate increases in summer.
 
 > **Before.** The rate increases in summer.
 >
 > **After.** The evaporation rate increases in summer.
 
-**Edit 3.** The draft calls equation (9) the energy balance several pages earlier. The edit adds "the energy balance" before "(9)" to remind readers what the distant equation does, and leaves "(3)" brief because the preceding sentence identifies it.
+**Edit 3.** Several pages before this passage, the draft names equation (9) as the energy balance.
 
 > **Before.** Equation (3) gives the heat loss. We evaluate (3), then apply (9).
 >

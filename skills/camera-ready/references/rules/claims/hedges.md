@@ -8,31 +8,31 @@ A hedge marks a claim as uncertain, so deleting the only hedge on a claim makes 
 
 ## Examples
 
-**Edit 1.** The draft reports this value as a measurement. The edit replaces "may be" with "is" to state the measured mass directly while keeping its reported standard error.
+**Edit 1.** In the draft, this value is reported as a measurement.
 
 > **Before.** The mean mass may be 5.0 ± 0.2 g (standard error).
 >
 > **After.** The mean mass is 5.0 ± 0.2 g (standard error).
 
-**Edit 2.** The draft confirms that cooling was performed but leaves its effect on decay untested. The edit replaces "may have cooled" with "cooled" to state the performed procedure directly, while keeping "may prevent" for its uncertain effect.
+**Edit 2.** The draft confirms that the samples were cooled; whether cooling affects decay remains untested.
 
 > **Before.** We may have cooled the samples because cooling may prevent decay.
 >
 > **After.** We cooled the samples because cooling may prevent decay.
 
-**Edit 3.** The draft treats water entry as a separate uncertain claim. The edit removes "possibly" from "may possibly loosen" so that one hedge marks the uncertain loosening, and keeps "may allow" to preserve the separate uncertainty about water entry.
+**Edit 3.**
 
 > **Before.** Heat may possibly loosen the seal, which may allow water to enter.
 >
 > **After.** Heat may loosen the seal, which may allow water to enter.
 
-**Edit 4.** The draft supplies the measured difference elsewhere. The edit replaces "somewhat less" with "8% less" so that readers know the measured size of the difference.
+**Edit 4.** Elsewhere, the draft reports that the treated cloth absorbs 8% less water.
 
 > **Before.** The treated cloth absorbs somewhat less water than untreated cloth.
 >
 > **After.** The treated cloth absorbs 8% less water than untreated cloth.
 
-**Edit 5.** The Results section presents the frost explanation as tentative. The edit replaces "explains" with "may explain" so that the abstract preserves the uncertainty stated in Results.
+**Edit 5.** Results presents the frost explanation as tentative.
 
 > **Before.** Abstract: Frost explains the cracks.
 >

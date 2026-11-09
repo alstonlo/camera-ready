@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit replaces "serves as a temperature monitor" with "monitors temperature", so that the verb states the probe's action directly.
+**Edit 1.**
 
 > **Before.** The probe serves as a temperature monitor.
 >
 > **After.** The probe monitors temperature.
 
-**Edit 2.** The edit replaces "boasts" with "has" to state plainly that the tray has two compartments. It keeps "acts as" because the tray takes on an additional role during transport; calling it a lid would lose that distinction.
+**Edit 2.**
 
 > **Before.** The tray boasts two compartments and acts as a lid during transport.
 >
 > **After.** The tray has two compartments and acts as a lid during transport.
 
-**Edit 3.** The edit replaces "boasts" with "has" to state plainly that the plot has two axes. It keeps "represents" because the symbol denotes pressure; it is not itself pressure.
+**Edit 3.**
 
 > **Before.** The symbol represents pressure, and the plot boasts two axes.
 >

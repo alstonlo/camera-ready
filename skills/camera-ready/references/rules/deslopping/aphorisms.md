@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The draft explains how the valve works. The edit replaces "the guardian of the tank" with the explanation that the valve releases gas above the pressure limit, so that readers learn the mechanism rather than an analogy.
+**Edit 1.** According to the draft, the valve releases gas when pressure exceeds the limit.
 
 > **Before.** The safety valve is the guardian of the tank.
 >
 > **After.** The safety valve releases gas when the pressure rises above the limit.
 
-**Edit 2.** The draft does not explain how the membrane admits only water; the editor flags that gap separately. The edit deletes "It is the hero of the filter" as empty praise, while keeping the gatekeeper analogy because it makes a substantive claim about what passes through the membrane.
+**Edit 2.** The draft leaves unexplained how the membrane admits only water. The editor flags that gap separately.
 
 > **Before.** The membrane is the gatekeeper that admits only water. It is the hero of the filter.
 >

@@ -14,25 +14,25 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The author asks to shorten the draft. The edit deletes "In both jars, less water evaporates with the lid", because it repeats the first sentence without adding information.
+**Edit 1.** The author has asked for a shorter draft.
 
 > **Before.** The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
 >
 > **After.** The lid reduces evaporation in both jars.
 
-**Edit 2.** An editor proposes cutting the closing restatement. The edit restores "The vent thus prevents pressure buildup", because readers need the intervening explanation of gas expansion to understand the opening claim and the closing sentence connects that explanation back to the claim.
+**Edit 2.** An editor has proposed cutting the closing restatement.
 
 > **Before.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
 >
 > **After.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
 
-**Edit 3.** The draft still exceeds the length limit after redundant restatements are cut. The edit deletes the sentence announcing Sections 2 and 3 but keeps the reference to Appendix A, so that it cuts the roadmap while preserving directions to the proof.
+**Edit 3.** After redundant restatements have been cut, the draft still exceeds the length limit.
 
 > **Before.** Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
 >
 > **After.** Appendix A proves the stability bound.
 
-**Edit 4.** The draft still exceeds the length limit after Tiers 1–3, and Appendix B already contains the pressure checks. The edit replaces the sentence about repeating each test at three pressures with a reference to Appendix B, so that readers can find those secondary details while the main text keeps the leak that limits the seal's success.
+**Edit 4.** Cuts in Tiers 1–3 have left the draft over the length limit. Appendix B already contains the pressure checks.
 
 > **Before.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
 >

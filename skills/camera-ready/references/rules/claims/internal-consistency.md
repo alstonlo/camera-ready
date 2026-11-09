@@ -10,25 +10,25 @@ Comparing two approaches does not imply that they are the only options, as an ex
 
 ## Examples
 
-**Edit 1.** Elsewhere, the draft states that the lamp works in dry conditions but not in rain. The edit, a proposal to the author, adds "In dry conditions" to the abstract and "In rain" to Results so that the passages state the conditions that explain the apparent conflict.
+**Edit 1.** Elsewhere, the draft says the lamp works in dry conditions and fails in rain.
 
 > **Before.** Abstract: The lamp works. Results: The lamp does not work.
 >
 > **After.** Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
 
-**Edit 2.** The draft also allows responses through an online form. The edit, a proposal to the author, adds "or through an online form" to the response options so that the requirement no longer excludes a permitted response.
+**Edit 2.** Responses through an online form are also permitted in the draft.
 
 > **Before.** Participants must respond by phone or by mail.
 >
 > **After.** Participants must respond by phone, by mail, or through an online form.
 
-**Edit 3.** The draft reports that two students use both forms of transport. The edit, a proposal to the author, replaces "with no overlap" with "with two using both" so that the stated overlap explains why the bus and train counts add up to more than twelve students.
+**Edit 3.** Two students commute by both bus and train, according to the draft.
 
 > **Before.** Twelve students commute: eight by bus and six by train, with no overlap.
 >
 > **After.** Twelve students commute: eight by bus and six by train, with two using both.
 
-**Edit 4.** The draft gives no explanation for its conflicting trial counts and does not establish which is correct; Before silently chooses one count. The edit restores the abstract's count of 12, keeps Results' count of 14, and adds a flag naming both counts so that the author can resolve the conflict.
+**Edit 4.** The abstract reports 12 trials and Results reports 14; the draft does not establish which count is correct. An earlier edit produced Before.
 
 > **Before.** Abstract: We ran 14 trials. Results: We ran 14 trials.
 >

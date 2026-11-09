@@ -12,13 +12,13 @@ Do not treat a claim that the work is the first of its kind as verified merely b
 
 ## Examples
 
-**Edit 1.** The draft compares hole diameters among the tested sieves and finds that only sieve A has 1 mm holes. The edit replaces "is unique" with "Among the tested sieves, only sieve A has 1 mm holes" so that the claim names the compared property and limits uniqueness to the tested alternatives.
+**Edit 1.** Among the tested sieves, the draft compares hole diameters and finds that only sieve A has 1 mm holes.
 
 > **Before.** Sieve A is unique.
 >
 > **After.** Among the tested sieves, only sieve A has 1 mm holes.
 
-**Edit 2.** The draft supports the claim that the catalog is the first of its kind but provides no evidence of optimality. The edit removes "an optimal resource" while keeping "the first open catalog of these specimens", so that the claim retains the supported distinction without asserting unsupported optimality.
+**Edit 2.** The catalog's claim to be the first of its kind is supported in the draft, but no evidence of optimality is provided.
 
 > **Before.** We provide the first open catalog of these specimens, an optimal resource.
 >

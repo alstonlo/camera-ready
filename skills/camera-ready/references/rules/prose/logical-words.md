@@ -14,37 +14,37 @@ When you replace a slash, check whether it separates alternatives, joint require
 
 ## Examples
 
-**Edit 1.** The edit replaces "not less than 60" with "at least 60" to state the same threshold positively while still including a score of exactly 60.
+**Edit 1.**
 
 > **Before.** The score is not less than 60.
 >
 > **After.** The score is at least 60.
 
-**Edit 2.** The draft requires only one valid reading to retain a run. The edit replaces "any" with "at least one" to make that requirement explicit. It keeps "not increasing monotonically" because a rate that is not always increasing need not be always decreasing.
+**Edit 2.** One valid reading is enough to retain a run under the draft's requirements.
 
 > **Before.** The rate is not increasing monotonically. Retain the run if any reading is valid.
 >
 > **After.** The rate is not increasing monotonically. Retain the run if at least one reading is valid.
 
-**Edit 3.** The draft says gloves are optional. The edit replaces "should not" with "need not" so that the sentence removes an obligation to wear gloves rather than advising against wearing them.
+**Edit 3.** Gloves are optional, according to the draft.
 
 > **Before.** You should not wear gloves.
 >
 > **After.** You need not wear gloves.
 
-**Edit 4.** The draft requires both measurements. The edit replaces "mass/volume" with "mass and volume" so that readers know to record both, while keeping the standard abbreviation S/N for signal-to-noise ratio.
+**Edit 4.** Both measurements are required by the draft.
 
 > **Before.** Record S/N, then mass/volume.
 >
 > **After.** Record S/N, then mass and volume.
 
-**Edit 5.** The draft does not say whether other materials are present. The edit deletes "so it must contain another material" because "includes" does not establish whether steel and glass are the complete list.
+**Edit 5.** The draft does not say whether other materials are present.
 
 > **Before.** The kit includes steel and glass, so it must contain another material.
 >
 > **After.** The kit includes steel and glass.
 
-**Edit 6.** The draft proves the bound without conditions. The edit moves the comparison from the opening "If" clause to "which we use to compare the two designs", so that the bound is stated independently of its use and holds whether or not the designs are compared.
+**Edit 6.** The bound is proved without conditions in the draft.
 
 > **Before.** If we compare the two designs, the theorem gives a 5 W bound.
 >

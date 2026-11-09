@@ -8,25 +8,25 @@ If a major result supports no contribution, check how it relates to the paper's 
 
 ## Examples
 
-**Edit 1.** Section 4 establishes the rust-prevention result. The edit, a proposal to the author, replaces "We test the coating in saltwater" with "We show that the coating prevents rust in the saltwater test", so the contribution states a checkable finding rather than an activity while retaining the supporting section reference.
+**Edit 1.** Section 4 establishes rust prevention in the saltwater test. After proposes a contribution claim for the author.
 
 > **Before.** We test the coating in saltwater (Section 4).
 >
 > **After.** We show that the coating prevents rust in the saltwater test (Section 4).
 
-**Edit 2.** Section 3 provides evidence for this claim. The edit adds "(Section 3)", so readers know where to find support for the claim that the screen blocks all flies in the trial.
+**Edit 2.** The evidence for this claim appears in Section 3.
 
 > **Before.** The screen blocks all flies in our trial.
 >
 > **After.** The screen blocks all flies in our trial (Section 3).
 
-**Edit 3.** Section 4 supports the contribution. The edit deletes "Section 4 presents the results", because the contribution already names its supporting section and the roadmap sentence adds no content.
+**Edit 3.**
 
 > **Before.** The coating prevents rust in the saltwater test (Section 4). Section 4 presents the results.
 >
 > **After.** The coating prevents rust in the saltwater test (Section 4).
 
-**Edit 4.** The draft provides no measurements or analysis to support the power-use claim. The edit keeps the claim and adds a flag asking which evidence supports it, so the author can supply support without the editor inventing evidence or deleting the contribution.
+**Edit 4.** No measurements or analysis in the draft support the power-use claim.
 
 > **Before.** Our controller uses less power than the baseline.
 >

@@ -14,25 +14,25 @@ To check an analogy, list which familiar object stands for each technical object
 
 ## Examples
 
-**Edit 1.** The draft identifies a foam pad as the support. The edit replaces "Our support strategy" with "A foam pad", so that the sentence names the actual object holding the vial upright.
+**Edit 1.** A foam pad provides the support, according to the draft.
 
 > **Before.** Our support strategy holds the vial upright.
 >
 > **After.** A foam pad holds the vial upright.
 
-**Edit 2.** The preceding sentence defines "the framework" as the steel frame around the tank. The edit replaces "utilize" with "use" to state the same action in simpler words, while keeping "the framework" because the defined shorthand already names a specific object.
+**Edit 2.** The preceding sentence defines "the framework" as the steel frame around the tank.
 
 > **Before.** We utilize the framework to support the tank.
 >
 > **After.** We use the framework to support the tank.
 
-**Edit 3.** The edit replaces "utilize" with "use" to state the same action in simpler words. It keeps the analogy because the sieve and mesh retain objects in the same way, and the passage makes that correspondence clear.
+**Edit 3.**
 
 > **Before.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
 >
 > **After.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
 
-**Edit 4.** The draft states that the spring closes the lid. The edit replaces "is the lid’s tireless guardian" with "closes the lid", so that the sentence names the spring's actual action instead of giving it an imagined role.
+**Edit 4.** The spring closes the lid, as stated in the draft.
 
 > **Before.** The spring is the lid’s tireless guardian.
 >

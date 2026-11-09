@@ -8,25 +8,25 @@ When headings under the same parent mix objects, operations, and findings, check
 
 ## Examples
 
-**Edit 1.** The user study covers only screen-reader navigation. The edit, a proposal to the author, removes "3.1 Screen-reader navigation" and incorporates its topic into "3 User study of screen-reader navigation", so that the scope stays explicit without a subsection heading that adds no distinction.
+**Edit 1.** The user study is limited to screen-reader navigation.
 
 > **Before.** 3 User study; 3.1 Screen-reader navigation
 >
 > **After.** 3 User study of screen-reader navigation
 
-**Edit 2.** The edit replaces the parent heading "Drying" with "Sample preparation" so that it describes both drying and weighing, while keeping the two subsection headings.
+**Edit 2.**
 
 > **Before.** 2 Drying; 2.1 Drying samples; 2.2 Weighing samples
 >
 > **After.** 2 Sample preparation; 2.1 Drying samples; 2.2 Weighing samples
 
-**Edit 3.** The edit replaces "The solution is cooled" with "Cooling the solution" so that the two headings name operations in parallel form.
+**Edit 3.**
 
 > **Before.** 2.1 Mixing the solution; 2.2 The solution is cooled
 >
 > **After.** 2.1 Mixing the solution; 2.2 Cooling the solution
 
-**Edit 4.** The section supports the stated finding only for the tested ferns. The edit, a proposal to the author, replaces "Water loss" with "Shade reduces water loss in the tested ferns" so that the heading states the finding while keeping its limit to the tested ferns.
+**Edit 4.** According to the section, shade reduces water loss; the evidence is limited to the tested ferns.
 
 > **Before.** Water loss
 >

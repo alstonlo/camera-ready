@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The author asks only for polish; Before is a proposed cut to the draft. The edit restores "because the scale sometimes drifts", because this reason explains a method choice and polishing does not authorize deleting it.
+**Edit 1.** The author asked for polish only. Before proposes cutting the draft's explanation that the scale sometimes drifts.
 
 > **Before.** We weigh each sample twice.
 >
 > **After.** We weigh each sample twice because the scale sometimes drifts.
 
-**Edit 2.** The author asks for a shorter paper, and the sundial has no bearing on the paper's claims. The edit deletes "The garden also has a sundial", removing unrelated content under the author's request for cuts.
+**Edit 2.** The sundial has no bearing on the paper's claims, and the author has asked for a shorter paper.
 
 > **Before.** The test measures soil acidity. The garden also has a sundial.
 >
 > **After.** The test measures soil acidity.
 
-**Edit 3.** The author asks only for polish; Before is a proposed move of the drying temperature to Appendix A. The edit replaces the appendix referral with "at 30 °C", restoring the temperature to the main text because polishing does not authorize relocating method details.
+**Edit 3.** The draft specifies drying at 30 °C, and the author's request was limited to polish. Before proposes moving that detail from the main text to Appendix A.
 
 > **Before.** We dry the seeds overnight; see Appendix A for the procedure.
 >

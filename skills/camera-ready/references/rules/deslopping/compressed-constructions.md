@@ -8,19 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit replaces "spreadsheet the readings" with "enter the readings in a spreadsheet" so that the sentence states the action directly instead of using the tool's name as an unfamiliar verb.
+**Edit 1.**
 
 > **Before.** We spreadsheet the readings.
 >
 > **After.** We enter the readings in a spreadsheet.
 
-**Edit 2.** The edit adds "that" after "show" so that readers do not initially read "show the samples" as displaying the samples.
+**Edit 2.**
 
 > **Before.** We show the samples we heat expand.
 >
 > **After.** We show that the samples we heat expand.
 
-**Edit 3.** The draft uses "heat flux sensor" as an established technical term. The edit replaces "heat flux sensor calibration procedure" with "procedure for calibrating the heat flux sensor" to make the relationship between the procedure and the sensor clear while preserving the technical name.
+**Edit 3.** "Heat flux sensor" is an established technical term in the draft.
 
 > **Before.** The heat flux sensor calibration procedure is documented.
 >

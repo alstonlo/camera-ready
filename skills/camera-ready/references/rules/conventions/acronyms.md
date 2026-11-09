@@ -8,25 +8,25 @@ Treat an acronym in the title as unfamiliar if readers in the field outside the 
 
 ## Examples
 
-**Edit 1.** In this draft, ETR means "electron transport rate", and this passage begins its repeated use in the body. The edit replaces the first "ETR" with "electron transport rate (ETR)" and keeps the second "ETR" so that readers learn the acronym where its repeated use begins.
+**Edit 1.** Repeated use of ETR in the body begins here; the draft defines it as "electron transport rate".
 
 > **Before.** We measure ETR at noon. ETR rises with light intensity.
 >
 > **After.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
 
-**Edit 2.** The draft defines ETR as "electron transport rate", but readers outside the subfield would not recognize it in the title. The edit, a proposal to the author, replaces "ETR" with "Electron transport rate" so that those readers can understand the title. The editor flags the unfamiliar acronym and leaves the actual title unchanged pending review.
+**Edit 2.** This title uses ETR, which the draft defines as "electron transport rate"; the acronym is unfamiliar to readers outside the subfield. After is a proposal to the author.
 
 > **Before.** ETR in shaded leaves
 >
 > **After.** Electron transport rate in shaded leaves
 
-**Edit 3.** The draft defines AR as "annual rainfall" and uses it only here and in a figure. The edit, a proposal to the author, replaces "AR" with "Annual rainfall" so that this isolated prose use needs no acronym. The editor flags the change so the author can coordinate it with the figure.
+**Edit 3.** AR, defined in the draft as "annual rainfall", appears only here and in a figure. After is a proposal to the author.
 
 > **Before.** AR varies by site.
 >
 > **After.** Annual rainfall varies by site.
 
-**Edit 4.** The draft defines TS as "time step"; DNA is standard terminology for the intended readers. The edit replaces "TS" with "time step" because saying the letters saves no syllables, and keeps the familiar acronym "DNA".
+**Edit 4.** The intended readers know DNA as a standard acronym; TS is defined in the draft as "time step".
 
 > **Before.** DNA is measured at each TS.
 >

@@ -8,19 +8,19 @@ An opening condition can refer back to the preceding sentence while the main sub
 
 ## Examples
 
-**Edit 1.** Readers can infer a front wheel from the bicycle. The edit changes "A loose bolt held its front wheel" to "Its front wheel was held by a loose bolt" so that the second sentence starts with an inferable part of the bicycle before introducing the bolt.
+**Edit 1.**
 
 > **Before.** We examined a bicycle. A loose bolt held its front wheel.
 >
 > **After.** We examined a bicycle. Its front wheel was held by a loose bolt.
 
-**Edit 2.** The paragraph is about the fan; dust is only a test condition, even though it was mentioned more recently. The edit makes "The fan’s three blades" the subject of the second sentence and moves "dust" to the end using the passive "were coated with", so that the opening stays with the paragraph's topic.
+**Edit 2.** The paragraph is about the fan; dust is a test condition.
 
 > **Before.** We tested the fan in dust. Dust coated the fan’s three blades.
 >
 > **After.** We tested the fan in dust. The fan’s three blades were coated with dust.
 
-**Edit 3.** The paragraph is about a sensor, and the preceding sentence introduces cold conditions. The edit moves "In cold conditions" to the opening and replaces "A voltage of 5 V is required by the sensor" with "the sensor requires 5 V" so that the condition connects the sentences and the sensor becomes the main subject.
+**Edit 3.** The preceding sentence introduces cold conditions; the paragraph discusses the sensor.
 
 > **Before.** A voltage of 5 V is required by the sensor in cold conditions.
 >

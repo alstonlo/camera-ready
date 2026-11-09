@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The edit removes the hyphen from "battery-powered", because the modifier follows the noun "pump".
+**Edit 1.**
 
 > **Before.** The pump is battery-powered.
 >
 > **After.** The pump is battery powered.
 
-**Edit 2.** The draft consistently writes "fluid mechanics" without a hyphen. The edit hyphenates "battery-powered" because it modifies the following noun "pump", but keeps the established term "fluid mechanics" unhyphenated before "laboratory" to preserve the draft's consistent usage.
+**Edit 2.** Throughout the draft, "fluid mechanics" appears without a hyphen.
 
 > **Before.** We use a battery powered pump in the fluid mechanics laboratory.
 >

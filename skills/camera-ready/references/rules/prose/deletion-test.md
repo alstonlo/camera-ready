@@ -8,31 +8,31 @@ Brevity alone does not justify an edit. Keep distinctions even when a simpler ph
 
 ## Examples
 
-**Edit 1.** After is the draft's account. The edit replaces "lifts the weight" with "asks the patient to lift the weight" so that the sentence restores who asks and who is asked to act, rather than claiming that the nurse performs the lift.
+**Edit 1.** In the draft's account, the nurse asks the patient to lift the weight.
 
 > **Before.** The nurse lifts the weight.
 >
 > **After.** The nurse asks the patient to lift the weight.
 
-**Edit 2.** The draft defines a score of exactly 60 as passing. The edit replaces "exceeds 60" with "is at least 60" so that the sentence includes the boundary value rather than excluding it.
+**Edit 2.** A score of exactly 60 counts as passing in the draft.
 
 > **Before.** A passing score exceeds 60.
 >
 > **After.** A passing score is at least 60.
 
-**Edit 3.** After is the draft's claim, which allows the lamp to stay off when the door opens. The edit replaces "turns on if" with "stays off unless" so that opening the door is a necessary condition for the lamp to turn on, not a guarantee that it does.
+**Edit 3.** According to the draft, the lamp cannot turn on while the door is closed and may stay off while it is open.
 
 > **Before.** The lamp turns on if the door opens.
 >
 > **After.** The lamp stays off unless the door opens.
 
-**Edit 4.** The edit deletes "in nature" because it adds nothing to "faulty", and keeps both instances of "that" so that one introduces the finding and the other identifies the scale used.
+**Edit 4.**
 
 > **Before.** We found that the scale that we used was faulty in nature.
 >
 > **After.** We found that the scale that we used was faulty.
 
-**Edit 5.** The draft establishes only a capability. The edit replaces "locks" with "can lock" so that the sentence describes what the latch can do without claiming that automatic locking occurs.
+**Edit 5.** The draft establishes that the latch can lock automatically but does not report that it does so.
 
 > **Before.** The latch locks automatically.
 >

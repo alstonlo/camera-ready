@@ -22,43 +22,43 @@ For a claim that an iterative method converges, meaning that its successive esti
 
 ## Examples
 
-**Edit 1.** The draft compares both modes on the same photographs and reports both outcomes. The edit adds "but loses more image detail", so that the comparison states the loss in image quality alongside the reduction in file size.
+**Edit 1.** Both modes are compared on the same photographs, and the draft reports that mode A loses more image detail than mode B.
 
 > **Before.** Mode A produces smaller files than mode B.
 >
 > **After.** Mode A produces smaller files than mode B but loses more image detail.
 
-**Edit 2.** The draft describes independently prepared batches and supplies the batch count, averaging procedure, and meaning of ±. The edit identifies six independently prepared batches, labels the yield as a mean, and defines ± as standard deviation, so that readers know what was repeated and how the results were summarized.
+**Edit 2.** For six independently prepared batches, the draft gives the mean yield and defines ± as standard deviation.
 
 > **Before.** The yield is 72 ± 3%.
 >
 > **After.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
 
-**Edit 3.** The draft gives the test conditions for both sets of tiles. The edit names the wet and dry conditions and replaces the strength ranking with "These tests do not establish whether", because the different conditions do not establish a fair comparison.
+**Edit 3.** According to the draft, the authors tested their tiles wet, while Lee's tiles were tested dry.
 
 > **Before.** Our tiles are stronger than Lee's tiles.
 >
 > **After.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
 
-**Edit 4.** The draft identifies the photographs used at each stage. The edit replaces "independently confirm" with a statement that accuracy is measured on the same photographs used for selection, because data that influenced the choice cannot independently confirm it.
+**Edit 4.** The photographs used to select the filter also serve to measure its accuracy, according to the draft.
 
 > **Before.** The photographs independently confirm the selected filter's accuracy.
 >
 > **After.** The selected filter's accuracy is measured on the same photographs used to select it.
 
-**Edit 5.** The draft describes separate, independently sampled plots for selection and testing. The edit replaces "reuses the selection plots" with "uses separate held-out plots", because coming from one farm does not make the plots the same data.
+**Edit 5.** Selection and held-out testing use separate, independently sampled plots, as described in the draft.
 
 > **Before.** The test reuses the selection plots from the farm.
 >
 > **After.** The test uses separate held-out plots from the farm.
 
-**Edit 6.** The draft leaves a known calibration error uncorrected. The edit replaces "rules out measurement error" with "shows little variation across repeats", because closely agreeing measurements can share the same error.
+**Edit 6.** A known calibration error went uncorrected, according to the draft.
 
 > **Before.** The small spread rules out measurement error.
 >
 > **After.** The small spread shows little variation across repeats.
 
-**Edit 7.** The draft defines the increase as four percentage points. The edit replaces "4%" with "4 percentage points", so that the increase is stated as the difference between rates rather than a percentage of the starting rate.
+**Edit 7.** The increase is defined in the draft as four percentage points.
 
 > **Before.** The attendance rate increases by 4%.
 >
