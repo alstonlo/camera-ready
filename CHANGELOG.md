@@ -2,13 +2,11 @@
 
 This project follows [Semantic Versioning](https://semver.org/). The version is set in [`.claude-plugin/plugin.json`](.claude-plugin/plugin.json); bump it with every release so that installed plugins pick up the update.
 
-## Unreleased
+## 0.3.0 (2026-11-08)
 
 - Split the writing guide into one page per rule.
 - Incorporated guidance from writing textbooks.
 - Added examples to every rule page.
-- Generalized the rules from computer science to STEM.
-- Rewrote the rules in plainer language.
 
 ## 0.2.0 (2026-11-04)
 
