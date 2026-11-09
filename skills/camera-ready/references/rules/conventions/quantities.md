@@ -1,0 +1,73 @@
+# Make every quantity unambiguous without changing it
+
+Give every measurement and axis its unit, and separate numbers from units with a non-breaking space. Preserve numerical values, precision, and established formats; match forms within a comparison only when value and precision remain unchanged. Resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats from the draft, or flag them when the draft does not establish the interpretation. Flag proposed rounding or unit conversion for author review instead of performing it.
+
+## Details
+
+In LaTeX, use a tilde to insert a non-breaking space between the number and its unit, as in `40~ms`.
+
+For storage capacity, a prefix may be binary (powers of two) or decimal (powers of ten). If the draft leaves the scale unclear, state the scale from elsewhere in the draft or flag that it is unstated.
+
+For durations, use the draft's convention to distinguish a decimal number from a clock reading, such as "1.30" for 1 min 30 s. If the draft leaves the format ambiguous, flag it. Neither check permits converting a numerical value.
+
+For percentages and differences in percentage points, follow the rule on [variability](../claims/variability.md).
+
+## Examples
+
+**Edit 1.**
+
+> **Before.** We stir the solution for 30s.
+
+> **After.** We stir the solution for 30~s.
+
+**Edit 2.** Suppose the draft specifies a ratio by mass.
+
+> **Before.** The concentration is 6 ppm.
+
+> **After.** The concentration is 6 ppm by mass.
+
+**Edit 3.** Say the draft defines one capacity unit as 1,048,576 bytes.
+
+> **Before.** The capacity is 2 MB.
+
+> **After.** The capacity is 2 MiB.
+
+The draft uses MB for a binary unit, so this corrects the label without converting the capacity.
+
+**Edit 4.** Imagine the draft uses a period to separate minutes from seconds.
+
+> **Before.** The duration is 1.30.
+
+> **After.** The duration is 1 min 30 s.
+
+**Edit 5.** Suppose an editor removed the trailing zero from a measurement reported to two decimal places.
+
+> **Before.** The probe reads 1.2 mV.
+
+> **After.** The probe reads 1.20 mV.
+
+After restores the draft's precision and established format.
+
+**Edit 6.** Suppose an editor converted the draft's temperature to degrees Celsius while normalizing number forms.
+
+> **Before.** The chamber remains at 20 °C.
+
+> **After.** The chamber remains at 293.15 K.
+
+After restores the original value and units. Flag the proposed conversion for author review.
+
+**Edit 7.** Suppose the draft uses M for exact counts in millions in this comparison.
+
+> **Before.** The sample counts are 3.2M and 400,000.
+
+> **After.** The sample counts are 3.2M and 0.4M.
+
+The matching forms preserve both exact counts without rounding.
+
+**Edit 8.** Suppose an editor rounded the second count to match the first count's form.
+
+> **Before.** The sample counts are 3.2M and 0.4M.
+
+> **After.** The sample counts are 3.2M and 412,678.
+
+After restores the draft's exact count. Flag the proposed rounding for author review.

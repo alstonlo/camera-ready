@@ -32,7 +32,7 @@ The guide has six sections of rules:
 - [Claims](#claims): reporting verbs matched to evidence, scope, overclaiming and underclaiming, consistency across the text, causal language, what an efficiency claim counts, statistical significance, hedges, speculation, and limitations.
 - [Cutting](#cutting): what you may delete or move without asking the author, the triage order under a length limit, sentences to protect, and how to repair text around a cut.
 - [Prose](#prose): explanation order, paragraphs, information flow from familiar to new, sentence structure, direct content instead of promises, concrete quantities, and plain wording.
-- [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, typography, and LaTeX source.
+- [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, and typography.
 - [Deslopping](#deslopping): blacklisted and tolerable patterns common in AI-written prose.
 
 For a request narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk of text against every rule in each applicable section. When two rules call for different edits to a sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence, or use your judgment as an expert editor if both are equally clear.
@@ -54,9 +54,7 @@ Flag any change to the claims, section order, or list of contributions instead o
 
 ### The whole argument
 
-{{story/five-line-summary}}
-
-{{story/one-sentence-summary}}
+{{story/argument-summary}}
 
 {{story/section-functions}}
 
@@ -79,8 +77,6 @@ Flag any change to the claims, section order, or list of contributions instead o
 ### Section openings and connections
 
 {{story/section-openings}}
-
-{{story/section-connections}}
 
 {{story/headings}}
 
@@ -107,8 +103,6 @@ Flag any change to the claims, section order, or list of contributions instead o
 The most common flaw in the argument of AI-generated text is listing results before stating what they show, or never stating the point. Reorder the text so that every number supports a claim already stated in words.
 
 {{story/claim-before-number}}
-
-{{story/headline-number}}
 
 {{story/number-precision}}
 
@@ -212,11 +206,11 @@ Use the [spine test](rules/cutting/spine-test.md) to find the core claims and th
 
 {{prose/first-reading}}
 
+{{prose/read-aloud}}
+
 {{prose/parallel-form}}
 
 {{prose/sentence-initial-conjunctions}}
-
-{{prose/read-aloud}}
 
 ### Content instead of promises
 
@@ -248,8 +242,6 @@ Use the [spine test](rules/cutting/spine-test.md) to find the core claims and th
 
 {{prose/referents}}
 
-{{prose/ambiguous-this}}
-
 {{prose/writerly-asides}}
 
 ## Conventions
@@ -271,8 +263,6 @@ When a convention in this section conflicts with general writing advice, follow 
 {{conventions/parts-of-speech}}
 
 {{conventions/acronyms}}
-
-{{conventions/spelling}}
 
 {{conventions/shorthand-reminders}}
 
@@ -306,19 +296,9 @@ When a convention in this section conflicts with general writing advice, follow 
 
 ### Typography
 
-{{conventions/hyphens}}
+{{conventions/quantities}}
 
-{{conventions/number-forms}}
-
-{{conventions/latin-abbreviations}}
-
-{{conventions/nonrestrictive-commas}}
-
-{{conventions/punctuation-typography}}
-
-{{conventions/units}}
-
-{{conventions/latex-boundaries}}
+{{conventions/marks-and-forms}}
 
 ## Deslopping
 

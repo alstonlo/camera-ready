@@ -1,10 +1,10 @@
-# State the claim before the number
+# State each finding before its representative numbers
 
-Express the finding in words, and refer to the table for the remaining values. Check which claim each number supports. Flag any number without an identifiable claim. Move it only if the request allows relocation and a suitable place exists. When a table gives a number, remove it from the text only under the [headline-number rule](headline-number.md), keeping needed comparisons and uncertainty.
+State the finding in words before giving its numbers, including where the supported pattern fails. Choose a representative headline result for each claim rather than an unrepresentative best case. Retain its baseline and any interval or range needed for interpretation. Refer to an existing table for remaining values, removing duplicated numbers only when the prose retains the comparison, [uncertainty](../claims/variability.md), and [statistical conclusion](../claims/statistical-significance.md). Check which claim each number supports, and flag numbers without an identifiable supporting claim. Relocate them only when the request permits relocation and a suitable destination exists.
 
 ## Details
 
-This rule has no further details.
+A headline number is the main result that a sentence focuses on. The sentence may still contain several numerals, such as the values before and after a change.
 
 ## Examples
 
@@ -13,3 +13,23 @@ This rule has no further details.
 > **Before.** The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
 
 > **After.** The new brakes shorten stopping distance. The average stopping distance falls from 18 m to 12 m.
+
+**Edit 2.** Suppose Table 2 contains all six drying times.
+
+> **Before.** The fan halves drying time for all three fabrics: from 80 to 40 minutes for wool, from 60 to 30 minutes for cotton, and from 20 to 10 minutes for nylon (Table 2).
+
+> **After.** The fan halves drying time for all three fabrics. For cotton, drying time falls from 60 to 30 minutes (Table 2).
+
+**Edit 3.** Say Table 3 reports reductions of 20%, 18%, and 2%. The draft identifies 18% as typical and notes that the 2% reduction misses the 10% target.
+
+> **Before.** The fan reduces drying time by 20% in the best trial (Table 3).
+
+> **After.** The fan typically reduces drying time by 18%, but the 2% reduction in one trial misses the 10% target (Table 3).
+
+**Edit 4.** Suppose Table 4 contains both the individual daily yields and the summary statistics.
+
+> **Before.** Mean yield is 12 kg (95% CI, 9–15 kg) with fertilizer and 10 kg (95% CI, 8–12 kg) without it; the difference is not statistically significant. Daily yields with fertilizer are 9, 12, and 15 kg (Table 4).
+
+> **After.** Mean yield is 12 kg (95% CI, 9–15 kg) with fertilizer and 10 kg (95% CI, 8–12 kg) without it; the difference is not statistically significant (Table 4).
+
+The intervals and statistical conclusion stay because the two means alone could make the evidence for a difference look stronger than it is.
