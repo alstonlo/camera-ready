@@ -8,14 +8,18 @@ The five parts of the argument are the problem, the gap in existing work, the id
 
 ## Examples
 
-**Edit 1.** The battery-life comparison in After appears in the body, but the finding is absent from all passages checked in the skim test.
+**Edit 1.** Suppose the body reports the battery-life comparison in After, but every passage checked in the skim test omits the finding. Before:
 
-> **Before.** Figure 3: Battery life at 0 °C and 20 °C.
->
-> **After.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
+> Figure 3: Battery life at 0 °C and 20 °C.
 
-**Edit 2.** The body's test results cover only indoor conditions. After is a proposal to the author.
+After:
 
-> **Before.** Figure 2: The cover halves water loss indoors and outdoors.
->
-> **After.** Figure 2: The cover halves water loss indoors.
+> Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
+
+**Edit 2.** If the body's test results cover only indoor conditions, propose the revision in After to the author. Before:
+
+> Figure 2: The cover halves water loss indoors and outdoors.
+
+After:
+
+> Figure 2: The cover halves water loss indoors.

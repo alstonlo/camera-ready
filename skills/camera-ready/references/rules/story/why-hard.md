@@ -8,8 +8,10 @@ Without an explanation of why the obvious approach fails, readers cannot tell wh
 
 ## Examples
 
-**Edit 1.** The tree is too heavy for the crane to lift in one piece, as stated elsewhere in the draft.
+**Edit 1.** Suppose the draft states elsewhere that the tree is too heavy for the crane to lift in one piece. Before:
 
-> **Before.** Lifting the fallen tree in one piece is infeasible.
->
-> **After.** Lifting the fallen tree in one piece is infeasible because the tree is too heavy for the crane.
+> Lifting the fallen tree in one piece is infeasible.
+
+After:
+
+> Lifting the fallen tree in one piece is infeasible because the tree is too heavy for the crane.

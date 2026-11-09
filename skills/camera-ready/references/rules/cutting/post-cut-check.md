@@ -8,32 +8,48 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** An editor relocated the recovery experiment from Section 5 to Appendix D to shorten the main text.
+**Edit 1.** Say an editor has moved the recovery experiment from Section 5 to Appendix D to shorten the main text. Before:
 
-> **Before.** The recovery experiment is described in Section 5.
->
-> **After.** The recovery experiment is described in Appendix D.
+> The recovery experiment is described in Section 5.
 
-**Edit 2.** The draft establishes that the coating prevents rust in fresh water, and an editor relocated the complete supporting test to Appendix B.
+After:
 
-> **Before.** The coating may prevent rust in fresh water (Appendix B).
->
-> **After.** The coating prevents rust in fresh water (Appendix B).
+> The recovery experiment is described in Appendix D.
 
-**Edit 3.** With the author's approval, an editor removed the metal lid's only test. The remaining evidence supports reduced evaporation for the glass lid.
+**Edit 2.** Suppose the draft establishes that the coating prevents rust in fresh water, and an editor has moved the complete supporting test to Appendix B. Before:
 
-> **Before.** Both lids reduce evaporation.
->
-> **After.** The glass lid reduces evaporation.
+> The coating may prevent rust in fresh water (Appendix B).
 
-**Edit 4.** The statement that the soil is too acidic for beans was removed from the draft by an editor.
+After:
 
-> **Before.** We measure acidity. We therefore add lime.
->
-> **After.** We measure acidity. The soil is too acidic for beans. We therefore add lime.
+> The coating prevents rust in fresh water (Appendix B).
 
-**Edit 5.** Slow drainage is presented as a possible explanation in the draft, and an editor removed its hedge.
+Before shows an editor's unnecessary hedge; After restores the draft's confidence. Moving the full test leaves the support for the claim intact.
 
-> **Before.** The delay reflects slow drainage.
->
-> **After.** The delay may reflect slow drainage.
+**Edit 3.** Imagine an editor has removed the metal lid's only test with the author's approval, leaving evidence that supports reduced evaporation for the glass lid. Before:
+
+> Both lids reduce evaporation.
+
+After:
+
+> The glass lid reduces evaporation.
+
+**Edit 4.** Say an editor has cut the draft's statement that the soil is too acidic for beans. Before:
+
+> We measure acidity. We therefore add lime.
+
+After:
+
+> We measure acidity. The soil is too acidic for beans. We therefore add lime.
+
+Before shows what remains after the editor's cut. The soil's acidity explains the decision to add lime; measuring it alone does not.
+
+**Edit 5.** Suppose the draft presents slow drainage as a possible explanation, and an editor has removed its hedge. Before:
+
+> The delay reflects slow drainage.
+
+After:
+
+> The delay may reflect slow drainage.
+
+Before is the editor's version after the cut; After restores the draft's uncertainty about the cause.

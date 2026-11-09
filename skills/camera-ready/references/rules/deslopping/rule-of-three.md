@@ -8,20 +8,30 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The case is lockable, waterproof, and impervious to water.
->
-> **After.** The case is lockable and waterproof.
+> The case is lockable, waterproof, and impervious to water.
 
-**Edit 2.**
+After:
 
-> **Before.** The kit contains a ruler, a brush, and a tray; the kit is remarkable, outstanding, and extraordinary.
->
-> **After.** The kit contains a ruler, a brush, and a tray.
+> The case is lockable and waterproof.
 
-**Edit 3.** Support is given for "waterproof", but the draft reports no fire test. The editor separately flags the missing support for "fireproof".
+**Edit 2.** Before:
 
-> **Before.** The case is waterproof, fireproof, and remarkable.
->
-> **After.** The case is waterproof and fireproof.
+> The kit contains a ruler, a brush, and a tray; the kit is remarkable, outstanding, and extraordinary.
+
+After:
+
+> The kit contains a ruler, a brush, and a tray.
+
+The list of contents stays because the ruler, brush, and tray are three distinct items.
+
+**Edit 3.** Suppose the draft supports "waterproof" but reports no fire test, and the editor separately flags the missing support for "fireproof". Before:
+
+> The case is waterproof, fireproof, and remarkable.
+
+After:
+
+> The case is waterproof and fireproof.
+
+Fire resistance is a substantive claim even though it lacks support. The author needs to address that claim.

@@ -16,26 +16,40 @@ Suggest notation changes to the author rather than rewriting equations yourself:
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We compare $h$ across plants. The symbol $h$ denotes plant height.
->
-> **After.** The symbol $h$ denotes plant height. We compare $h$ across plants.
+> We compare $h$ across plants. The symbol $h$ denotes plant height.
 
-**Edit 2.** In the tables, $w$ denotes moisture content.
+After:
 
-> **Before.** Let $m$ denote mass and $m$ denote moisture content.
->
-> **After.** Let $m$ denote mass and $w$ denote moisture content.
+> The symbol $h$ denotes plant height. We compare $h$ across plants.
 
-**Edit 3.** The request does not authorize moving the definitions of these two symbols, which are used throughout the paper. After is a proposal to the author.
+**Edit 2.** Suppose the tables use $w$ to denote moisture content. Before:
 
-> **Before.** Notation: Let $h$ denote height. Methods: Let $w$ denote width.
->
-> **After.** Notation: Let $h$ denote height. Let $w$ denote width. Methods:
+> Let $m$ denote mass and $m$ denote moisture content.
 
-**Edit 4.** All four symbols are defined in the draft.
+After:
 
-> **Before.** We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
->
-> **After.** Let $R=(a+b)/(c+d)$. We compare $R$ across sites and plot $R$ over time.
+> Let $m$ denote mass and $w$ denote moisture content.
+
+After is a proposal to the author because choosing which symbol to keep is the author's decision.
+
+**Edit 3.** Suppose both symbols are used throughout the paper, but the request does not authorize moving their definitions. Before:
+
+> Notation: Let $h$ denote height. Methods: Let $w$ denote width.
+
+After:
+
+> Notation: Let $h$ denote height. Let $w$ denote width. Methods:
+
+After is a proposal to the author. The definitions stay in place unless the author authorizes the move.
+
+**Edit 4.** Say the draft defines all four symbols. Before:
+
+> We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
+
+After:
+
+> Let $R=(a+b)/(c+d)$. We compare $R$ across sites and plot $R$ over time.
+
+After proposes new notation for the author to consider.

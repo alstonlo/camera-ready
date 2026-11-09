@@ -8,14 +8,20 @@ When a comparison treats each property, such as weight or cost, as a topic, disc
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
->
-> **After.** The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
+> The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
 
-**Edit 2.**
+After:
 
-> **Before.** For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
->
-> **After.** For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.
+> The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
+
+**Edit 2.** Before:
+
+> For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
+
+After:
+
+> For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.
+
+Weight and cost are the topics here, so mentioning both carts within each comparison keeps each topic together.

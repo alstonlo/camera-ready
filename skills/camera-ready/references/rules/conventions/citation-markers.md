@@ -12,32 +12,42 @@ When a passage moves from reporting a cited source's claims to presenting the pa
 
 ## Examples
 
-**Edit 1.** The draft uses natbib; ortiz2025 has one author.
+**Edit 1.** Suppose the draft uses natbib, and ortiz2025 has one author. Before:
 
-> **Before.** \citep{ortiz2025} compares two methods for measuring rainfall.
->
-> **After.** \citet{ortiz2025} compares two methods for measuring rainfall.
+> \citep{ortiz2025} compares two methods for measuring rainfall.
 
-**Edit 2.** With natbib as its citation package, the draft treats the salt's solubility as established.
+After:
 
-> **Before.** In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
->
-> **After.** This salt dissolves in water~\citep{ortiz2025}.
+> \citet{ortiz2025} compares two methods for measuring rainfall.
 
-**Edit 3.** The cited sources are ortiz2025 for the shell's shrinkage and patel2024 for slower decay.
+**Edit 2.** Say the draft uses natbib and treats the salt's solubility as established. Before:
 
-> **Before.** Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
->
-> **After.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
+> In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
 
-**Edit 4.** Elsewhere in the draft, the cooling hypothesis is attributed to the paper's own authors. After is a proposal to the author.
+After:
 
-> **Before.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
->
-> **After.** Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
+> This salt dissolves in water~\citep{ortiz2025}.
 
-**Edit 5.** The authors extend Ortiz's method, and the draft uses natbib.
+**Edit 3.** Suppose the draft identifies ortiz2025 as the source for the shell's shrinkage and patel2024 as the source for slower decay. Before:
 
-> **Before.** We extend \citep{ortiz2025}.
->
-> **After.** We extend the method of \citet{ortiz2025}.
+> Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
+
+After:
+
+> Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
+
+**Edit 4.** If the draft attributes the cooling hypothesis to the paper's own authors elsewhere, propose this clarification to the author. Before:
+
+> Ortiz reports that the shell shrinks. Cooling may reduce this effect.
+
+After:
+
+> Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
+
+**Edit 5.** Imagine the authors extend Ortiz's method and use natbib in the draft. Before:
+
+> We extend \citep{ortiz2025}.
+
+After:
+
+> We extend the method of \citet{ortiz2025}.

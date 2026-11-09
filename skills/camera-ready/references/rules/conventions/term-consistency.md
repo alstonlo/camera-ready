@@ -8,20 +8,28 @@ List the names that the draft uses for each recurring concept to detect unintent
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The drying cabinet holds the samples. This device stays warm.
->
-> **After.** The drying cabinet holds the samples. The drying cabinet stays warm.
+> The drying cabinet holds the samples. This device stays warm.
 
-**Edit 2.** Both "drying cabinet" and "chamber" name the same equipment in the draft.
+After:
 
-> **Before.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
->
-> **After.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
+> The drying cabinet holds the samples. The drying cabinet stays warm.
 
-**Edit 3.** The equipment named in this figure label is called a "drying cabinet" in the body text. After is a proposal to the author.
+**Edit 2.** Suppose "drying cabinet" and "chamber" name the same equipment in the draft. Before:
 
-> **Before.** Chamber temperature (°C)
->
-> **After.** Drying cabinet temperature (°C)
+> The drying cabinet is insulated. It stays warm. The chamber holds six trays.
+
+After:
+
+> The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
+
+The pronoun "It" clearly refers to the drying cabinet and gives readers no competing name to remember.
+
+**Edit 3.** Imagine a figure label names equipment that the body text calls a "drying cabinet". The change below is a proposal to the author. Before:
+
+> Chamber temperature (°C)
+
+After:
+
+> Drying cabinet temperature (°C)

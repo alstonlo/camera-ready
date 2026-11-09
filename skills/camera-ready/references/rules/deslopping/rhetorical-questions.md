@@ -8,20 +8,30 @@ When a question assumes that readers agree with a claim ("Does this not prove...
 
 ## Examples
 
-**Edit 1.** The experiment tests whether salt delays germination.
+**Edit 1.** Suppose the experiment tests whether salt delays germination. Before:
 
-> **Before.** What should we ask next? Does salt delay germination? In our tests, it delays germination by 2 days.
->
-> **After.** Does salt delay germination? In our tests, it delays germination by 2 days.
+> What should we ask next? Does salt delay germination? In our tests, it delays germination by 2 days.
 
-**Edit 2.**
+After:
 
-> **Before.** What do we learn? The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
->
-> **After.** The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
+> Does salt delay germination? In our tests, it delays germination by 2 days.
 
-**Edit 3.** In these tests, the measurements reported in the draft show reduced water loss.
+The remaining question states what the experiment tests.
 
-> **Before.** Do these tests not prove that the mulch prevents water loss?
->
-> **After.** The mulch reduces water loss in these tests.
+**Edit 2.** Before:
+
+> What do we learn? The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
+
+After:
+
+> The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
+
+The remaining question puts the wet soil and wilting leaves in apparent conflict, which the next sentence resolves.
+
+**Edit 3.** Suppose the draft's measurements show reduced water loss in these tests. Before:
+
+> Do these tests not prove that the mulch prevents water loss?
+
+After:
+
+> The mulch reduces water loss in these tests.

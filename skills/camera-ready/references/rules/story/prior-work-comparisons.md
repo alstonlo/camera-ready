@@ -12,26 +12,34 @@ For proprietary products, distinguish what documentation says the product can do
 
 ## Examples
 
-**Edit 1.** Lee et al. chose to limit their study to summer rainfall.
+**Edit 1.** Suppose Lee et al. chose to limit their study to summer rainfall. Before:
 
-> **Before.** Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
->
-> **After.** Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
+> Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
 
-**Edit 2.** The draft reports that Lee concedes that the coating costs too much, and the authors do not endorse that judgment.
+After:
 
-> **Before.** Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
->
-> **After.** Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
+> Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
 
-**Edit 3.** In this survey, the draft says that both studies measure only summer rainfall.
+**Edit 2.** Say the draft reports that Lee concedes that the coating costs too much, and the authors do not endorse that judgment. Before:
 
-> **Before.** Lee measures summer rainfall. Rao also measures summer rainfall.
->
-> **After.** Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
+> Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
 
-**Edit 4.** The commercial filter's internal design is undisclosed, according to the draft.
+After:
 
-> **Before.** The commercial filter removes salt with the same membrane as ours; our membrane design is public.
->
-> **After.** The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.
+> Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
+
+**Edit 3.** Imagine a survey whose draft states that both studies measure only summer rainfall. Before:
+
+> Lee measures summer rainfall. Rao also measures summer rainfall.
+
+After:
+
+> Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
+
+**Edit 4.** Suppose the draft says that the commercial filter's internal design is undisclosed. Before:
+
+> The commercial filter removes salt with the same membrane as ours; our membrane design is public.
+
+After:
+
+> The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.

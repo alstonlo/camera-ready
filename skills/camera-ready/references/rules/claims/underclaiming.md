@@ -10,20 +10,26 @@ A dataset, instrument, protocol, software tool, or other resource or artifact ca
 
 ## Examples
 
-**Edit 1.** The contribution list contains this sentence. Section 4 reports greater heat retention for thicker wool samples in the tests.
+**Edit 1.** Suppose this sentence appears in the contribution list, and Section 4 reports greater heat retention for thicker wool samples in the tests. Before:
 
-> **Before.** We investigate whether thicker wool samples retain more heat in the tests (Section 4).
->
-> **After.** We find that thicker wool samples retain more heat in the tests (Section 4).
+> We investigate whether thicker wool samples retain more heat in the tests (Section 4).
 
-**Edit 2.** For every tested panel, the draft reports direct measurements of the gap.
+After:
 
-> **Before.** We may have found a 2 cm gap in every tested panel.
->
-> **After.** We found a 2 cm gap in every tested panel.
+> We find that thicker wool samples retain more heat in the tests (Section 4).
 
-**Edit 3.** A catalog of 200 labeled leaf images is documented as a contribution in Section 3.
+**Edit 2.** Say the draft reports direct measurements of the gap in every tested panel. Before:
 
-> **Before.** We explore leaf images (Section 3).
->
-> **After.** We present a catalog of 200 labeled leaf images (Section 3).
+> We may have found a 2 cm gap in every tested panel.
+
+After:
+
+> We found a 2 cm gap in every tested panel.
+
+**Edit 3.** Imagine Section 3 documents a catalog of 200 labeled leaf images as a contribution. Before:
+
+> We explore leaf images (Section 3).
+
+After:
+
+> We present a catalog of 200 labeled leaf images (Section 3).

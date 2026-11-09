@@ -8,20 +8,26 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The shelter blocks wind. Plus, it keeps rain out.
->
-> **After.** The shelter blocks wind, and it keeps rain out.
+> The shelter blocks wind. Plus, it keeps rain out.
 
-**Edit 2.**
+After:
 
-> **Before.** The box is light. But it holds 20 kg.
->
-> **After.** The box is light. However, it holds 20 kg.
+> The shelter blocks wind, and it keeps rain out.
 
-**Edit 3.** The procedure ends with drying.
+**Edit 2.** Before:
 
-> **Before.** First, close the valve. Next, drain the tank. Moreover, dry the tank.
->
-> **After.** First, close the valve. Next, drain the tank. Finally, dry the tank.
+> The box is light. But it holds 20 kg.
+
+After:
+
+> The box is light. However, it holds 20 kg.
+
+**Edit 3.** Suppose drying is the last step in the procedure. Before:
+
+> First, close the valve. Next, drain the tank. Moreover, dry the tank.
+
+After:
+
+> First, close the valve. Next, drain the tank. Finally, dry the tank.

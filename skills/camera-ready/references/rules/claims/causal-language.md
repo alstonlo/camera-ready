@@ -14,26 +14,34 @@ A suitable controlled comparison can isolate the effect of a factor such as a de
 
 ## Examples
 
-**Edit 1.** Only a correlation is reported in the draft's household survey. After is a proposal to the author.
+**Edit 1.** Suppose the draft's household survey reports only a correlation. After is a proposal to the author. Before:
 
-> **Before.** In the surveyed households, owning more houseplants caused fewer colds.
->
-> **After.** In the surveyed households, owning more houseplants was associated with fewer colds.
+> In the surveyed households, owning more houseplants caused fewer colds.
 
-**Edit 2.** The controlled comparison reported in the draft adds mulch and shade together, with no separate test of either. After is a proposal to the author.
+After:
 
-> **Before.** Mulch reduces water loss.
->
-> **After.** Mulch and shade together reduce water loss.
+> In the surveyed households, owning more houseplants was associated with fewer colds.
 
-**Edit 3.** The draft calls lubrication a contributing factor and reports wear despite lubrication. After is a proposal to the author.
+**Edit 2.** Say the controlled comparison in the draft adds mulch and shade together, with no separate test of either. After is a proposal to the author. Before:
 
-> **Before.** Lubrication is sufficient to prevent wear.
->
-> **After.** Lubrication contributes to preventing wear.
+> Mulch reduces water loss.
 
-**Edit 4.** In the draft, the reduction in corrosion is established, but oxygen blocking is not tested as an explanation.
+After:
 
-> **Before.** The coating reduces corrosion because it blocks oxygen.
->
-> **After.** The coating reduces corrosion. We conjecture that it does so by blocking oxygen.
+> Mulch and shade together reduce water loss.
+
+**Edit 3.** If the draft calls lubrication a contributing factor and reports wear despite lubrication, propose the revision below to the author. Before:
+
+> Lubrication is sufficient to prevent wear.
+
+After:
+
+> Lubrication contributes to preventing wear.
+
+**Edit 4.** Imagine the draft establishes that the coating reduces corrosion but does not test whether blocking oxygen explains the reduction. Before:
+
+> The coating reduces corrosion because it blocks oxygen.
+
+After:
+
+> The coating reduces corrosion. We conjecture that it does so by blocking oxygen.

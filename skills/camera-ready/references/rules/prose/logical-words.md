@@ -14,38 +14,54 @@ When you replace a slash, check whether it separates alternatives, joint require
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The score is not less than 60.
->
-> **After.** The score is at least 60.
+> The score is not less than 60.
 
-**Edit 2.** One valid reading is enough to retain a run under the draft's requirements.
+After:
 
-> **Before.** The rate is not increasing monotonically. Retain the run if any reading is valid.
->
-> **After.** The rate is not increasing monotonically. Retain the run if at least one reading is valid.
+> The score is at least 60.
 
-**Edit 3.** Gloves are optional, according to the draft.
+**Edit 2.** Suppose one valid reading is enough to retain a run under the draft's requirements. Before:
 
-> **Before.** You should not wear gloves.
->
-> **After.** You need not wear gloves.
+> The rate is not increasing monotonically. Retain the run if any reading is valid.
 
-**Edit 4.** Both measurements are required by the draft.
+After:
 
-> **Before.** Record S/N, then mass/volume.
->
-> **After.** Record S/N, then mass and volume.
+> The rate is not increasing monotonically. Retain the run if at least one reading is valid.
 
-**Edit 5.** The draft does not say whether other materials are present.
+The first sentence allows a rate that rises and falls; calling it decreasing would exclude that possibility.
 
-> **Before.** The kit includes steel and glass, so it must contain another material.
->
-> **After.** The kit includes steel and glass.
+**Edit 3.** Imagine the draft says gloves are optional. Before:
 
-**Edit 6.** The bound is proved without conditions in the draft.
+> You should not wear gloves.
 
-> **Before.** If we compare the two designs, the theorem gives a 5 W bound.
->
-> **After.** The theorem gives a 5 W bound, which we use to compare the two designs.
+After:
+
+> You need not wear gloves.
+
+**Edit 4.** Say the draft requires both measurements. Before:
+
+> Record S/N, then mass/volume.
+
+After:
+
+> Record S/N, then mass and volume.
+
+The slash in S/N belongs to the standard abbreviation for signal-to-noise ratio.
+
+**Edit 5.** Suppose the draft does not say whether other materials are present. Before:
+
+> The kit includes steel and glass, so it must contain another material.
+
+After:
+
+> The kit includes steel and glass.
+
+**Edit 6.** Imagine the draft proves the bound without conditions. Before:
+
+> If we compare the two designs, the theorem gives a 5 W bound.
+
+After:
+
+> The theorem gives a 5 W bound, which we use to compare the two designs.

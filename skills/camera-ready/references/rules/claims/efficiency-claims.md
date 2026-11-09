@@ -19,32 +19,42 @@ Distinguish an upper bound on one algorithm's cost from a lower bound that every
 
 ## Examples
 
-**Edit 1.** Elsewhere, the draft specifies that the assay cost covers reagents and excludes sample preparation.
+**Edit 1.** Suppose the draft specifies elsewhere that the assay cost covers reagents and excludes sample preparation. Before:
 
-> **Before.** The assay costs $4 per sample.
->
-> **After.** The assay costs $4 per sample for reagents, excluding sample preparation.
+> The assay costs $4 per sample.
 
-**Edit 2.** Heater efficiency is defined in the draft as the fraction of supplied electrical energy delivered as heat to the water.
+After:
 
-> **Before.** The heater's efficiency is 80%.
->
-> **After.** The heater delivers 80% of the supplied electrical energy as heat to the water.
+> The assay costs $4 per sample for reagents, excluding sample preparation.
 
-**Edit 3.** For method A, the draft establishes slower asymptotic time growth than for method B but reports no measured times.
+**Edit 2.** Say the draft defines heater efficiency as the fraction of supplied electrical energy delivered as heat to the water. Before:
 
-> **Before.** Method A has lower elapsed time than method B.
->
-> **After.** Method A's time grows asymptotically more slowly than method B's.
+> The heater's efficiency is 80%.
 
-**Edit 4.** The draft proves a quadratic upper bound for the algorithm under discussion.
+After:
 
-> **Before.** Every algorithm for the problem requires quadratic time.
->
-> **After.** This algorithm requires at most quadratic time.
+> The heater delivers 80% of the supplied electrical energy as heat to the water.
 
-**Edit 5.** When production increases, the draft reports higher total energy use despite lower energy use per item.
+**Edit 3.** Suppose the draft establishes that method A has slower asymptotic time growth than method B but reports no measured times. Before:
 
-> **Before.** The new process uses less energy.
->
-> **After.** The new process uses less energy per item.
+> Method A has lower elapsed time than method B.
+
+After:
+
+> Method A's time grows asymptotically more slowly than method B's.
+
+**Edit 4.** If the draft proves a quadratic upper bound for the algorithm under discussion, the claim can be narrowed as follows. Before:
+
+> Every algorithm for the problem requires quadratic time.
+
+After:
+
+> This algorithm requires at most quadratic time.
+
+**Edit 5.** Imagine the draft reports higher total energy use when production increases, despite lower energy use per item. Before:
+
+> The new process uses less energy.
+
+After:
+
+> The new process uses less energy per item.

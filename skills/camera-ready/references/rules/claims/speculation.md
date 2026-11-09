@@ -10,26 +10,36 @@ To disprove a claim that one property implies another, a counterexample must hav
 
 ## Examples
 
-**Edit 1.** The draft supports reduced cracking but provides no evidence about moisture absorption.
+**Edit 1.** Suppose the draft supports reduced cracking but provides no evidence about moisture absorption. Before:
 
-> **Before.** The treated boards cracked less often because they absorbed less moisture.
->
-> **After.** The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
+> The treated boards cracked less often because they absorbed less moisture.
 
-**Edit 2.** Reduced flow through the narrowed outlet is supported in the draft as the cause of the delay, but "bottleneck effect" is never defined.
+After:
 
-> **Before.** The bottleneck effect explains the delay.
->
-> **After.** Reduced flow through the narrowed outlet explains the delay.
+> The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
 
-**Edit 3.** A rectangle with sides 2 cm and 3 cm is the draft's counterexample.
+**Edit 2.** Say the draft supports reduced flow through the narrowed outlet as the cause of the delay but never defines "bottleneck effect". Before:
 
-> **Before.** Four right angles do not imply four equal sides.
->
-> **After.** Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
+> The bottleneck effect explains the delay.
 
-**Edit 4.** Only three failed solvent tests are reported in the draft. After is a proposal to the author.
+After:
 
-> **Before.** The coating cannot be dissolved.
->
-> **After.** The coating did not dissolve in the three tested solvents.
+> Reduced flow through the narrowed outlet explains the delay.
+
+The explanation has support; only its name is unclear. Calling it a conjecture would give readers the wrong impression about that support.
+
+**Edit 3.** Imagine the draft gives a rectangle with sides 2 cm and 3 cm as a counterexample. Before:
+
+> Four right angles do not imply four equal sides.
+
+After:
+
+> Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
+
+**Edit 4.** If the draft reports only three failed solvent tests, propose this correction to the author. Before:
+
+> The coating cannot be dissolved.
+
+After:
+
+> The coating did not dissolve in the three tested solvents.

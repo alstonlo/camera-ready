@@ -16,32 +16,46 @@ A readability score does not measure whether readers in the field can follow a s
 
 ## Examples
 
-**Edit 1.** Before this passage, the text discusses the leak and introduces trial 2.
+**Edit 1.** Suppose the preceding text discusses the leak and introduces trial 2. Before:
 
-> **Before.** That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
->
-> **After.** That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
+> That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
 
-**Edit 2.**
+After:
 
-> **Before.** We inspect the scanning electron microscope sample holder cover.
->
-> **After.** We inspect the cover of the sample holder for the scanning electron microscope.
+> That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
 
-**Edit 3.**
+The first sentence keeps the leak as its subject because readers already know about it. The short aside refers to a familiar trial and does not make the sentence hard to follow.
 
-> **Before.** Wearing gloves, the vial was opened by the technician.
->
-> **After.** Wearing gloves, the technician opened the vial.
+**Edit 2.** Before:
 
-**Edit 4.**
+> We inspect the scanning electron microscope sample holder cover.
 
-> **Before.** We assume the samples in the red tray contain salt.
->
-> **After.** We assume that the samples in the red tray contain salt.
+After:
 
-**Edit 5.** A line break is marked by the symbol ↵.
+> We inspect the cover of the sample holder for the scanning electron microscope.
 
-> **Before.** Open the valve only if the lid is shut, the pump is off, and the tank is cool.
->
-> **After.** Open the valve only if all three conditions hold: ↵ 1. The lid is shut. ↵ 2. The pump is off. ↵ 3. The tank is cool.
+The words "scanning electron microscope" stay together because they name one instrument.
+
+**Edit 3.** Before:
+
+> Wearing gloves, the vial was opened by the technician.
+
+After:
+
+> Wearing gloves, the technician opened the vial.
+
+**Edit 4.** Before:
+
+> We assume the samples in the red tray contain salt.
+
+After:
+
+> We assume that the samples in the red tray contain salt.
+
+**Edit 5.** Here the symbol ↵ marks a line break. Before:
+
+> Open the valve only if the lid is shut, the pump is off, and the tank is cool.
+
+After:
+
+> Open the valve only if all three conditions hold: ↵ 1. The lid is shut. ↵ 2. The pump is off. ↵ 3. The tank is cool.

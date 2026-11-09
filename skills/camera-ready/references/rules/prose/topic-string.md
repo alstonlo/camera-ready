@@ -10,26 +10,36 @@ Check that the paragraph's opening and ending fit what the paragraph contributes
 
 ## Examples
 
-**Edit 1.** Elsewhere, the draft says that the lid keeps rain out.
+**Edit 1.** Suppose the draft says elsewhere that the lid keeps rain out. Before:
 
-> **Before.** The box has a lid. The tools stay dry.
->
-> **After.** The box has a lid that prevents rain from entering. The tools stay dry.
+> The box has a lid. The tools stay dry.
 
-**Edit 2.**
+After:
 
-> **Before.** The jar holds salt. A tight seal keeps the jar dry. The jar fits on the shelf.
->
-> **After.** The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
+> The box has a lid that prevents rain from entering. The tools stay dry.
 
-**Edit 3.** The draft describes a box; the symbol ¶ marks a paragraph break.
+**Edit 2.** Before:
 
-> **Before.** The lid has a gasket. ¶ The base has a drain.
->
-> **After.** The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
+> The jar holds salt. A tight seal keeps the jar dry. The jar fits on the shelf.
 
-**Edit 4.** Draining must finish before drying begins, according to the draft. The symbol ¶ marks a paragraph break.
+After:
 
-> **Before.** We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
->
-> **After.** We open the valve to drain the tank. ¶ After draining, we dry the empty tank with warm air.
+> The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
+
+The mention of salt does not promise a discussion of salt. The paragraph can keep the jar as its topic.
+
+**Edit 3.** Imagine the draft describes a box. The symbol ¶ marks a paragraph break. Before:
+
+> The lid has a gasket. ¶ The base has a drain.
+
+After:
+
+> The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
+
+**Edit 4.** Say the draft requires draining to finish before drying begins. The symbol ¶ marks a paragraph break. Before:
+
+> We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
+
+After:
+
+> We open the valve to drain the tank. ¶ After draining, we dry the empty tank with warm air.

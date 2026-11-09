@@ -21,38 +21,50 @@ When describing cited work, do not write "notes in passing" if the source presen
 
 ## Examples
 
-**Edit 1.** The temperatures reported in the draft were measured.
+**Edit 1.** Suppose the temperatures reported in the draft were measured. Before:
 
-> **Before.** We prove that the insulated bottle kept water warmer than the plain bottle in the test.
->
-> **After.** We find that the insulated bottle kept water warmer than the plain bottle in the test.
+> We prove that the insulated bottle kept water warmer than the plain bottle in the test.
 
-**Edit 2.** A complete proof under the stated assumption appears in the draft.
+After:
 
-> **Before.** We conjecture that the minimum is unique when the function is strictly convex.
->
-> **After.** We prove that the minimum is unique when the function is strictly convex.
+> We find that the insulated bottle kept water warmer than the plain bottle in the test.
 
-**Edit 3.** The test neither detects nor rules out the effect. The editor flags the claimed disproof and proposes After to the author.
+**Edit 2.** Imagine the draft contains a complete proof under the stated assumption. Before:
 
-> **Before.** The test disproves the proposed effect.
->
-> **After.** The test does not detect the proposed effect.
+> We conjecture that the minimum is unique when the function is strictly convex.
 
-**Edit 4.** Lee's cited work establishes this premise.
+After:
 
-> **Before.** Lee assumes that the errors are independent.
->
-> **After.** Lee establishes that the errors are independent.
+> We prove that the minimum is unique when the function is strictly convex.
 
-**Edit 5.** Results treats slower diffusion as a tentative interpretation.
+**Edit 3.** Say the test neither detects nor rules out the effect; the editor flags the claimed disproof and proposes After to the author. Before:
 
-> **Before.** Conclusion: The measurements establish slower diffusion.
->
-> **After.** Conclusion: The measurements suggest slower diffusion.
+> The test disproves the proposed effect.
 
-**Edit 6.** Section 4 reports that the coating lowers temperature in the tests.
+After:
 
-> **Before.** Abstract: We find the result reported in Section 4.
->
-> **After.** Abstract: We find that the coating lowers temperature in the tests.
+> The test does not detect the proposed effect.
+
+**Edit 4.** Suppose Lee's cited work establishes this premise. Before:
+
+> Lee assumes that the errors are independent.
+
+After:
+
+> Lee establishes that the errors are independent.
+
+**Edit 5.** Say Results treats slower diffusion as a tentative interpretation. Before:
+
+> Conclusion: The measurements establish slower diffusion.
+
+After:
+
+> Conclusion: The measurements suggest slower diffusion.
+
+**Edit 6.** Imagine Section 4 reports that the coating lowers temperature in the tests. Before:
+
+> Abstract: We find the result reported in Section 4.
+
+After:
+
+> Abstract: We find that the coating lowers temperature in the tests.

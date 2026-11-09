@@ -8,26 +8,36 @@ Preserve real differences and qualifications between parallel items. If the draf
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
->
-> **After.** We measured the length of the box, the width of the box with the lid open, and the weight of the box.
+> We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
 
-**Edit 2.** Hot water is specified in the draft for washing alone.
+After:
 
-> **Before.** We wash and dry the jars with hot water.
->
-> **After.** We wash the jars with hot water and dry them.
+> We measured the length of the box, the width of the box with the lid open, and the weight of the box.
 
-**Edit 3.**
+Only the width measurement specifies an open lid; making the list parallel gives no reason to extend that condition to the other measurements.
 
-> **Before.** The mass of the steel ball exceeds the wooden ball.
->
-> **After.** The mass of the steel ball exceeds the mass of the wooden ball.
+**Edit 2.** Suppose the draft specifies hot water for washing alone. Before:
 
-**Edit 4.** Freezing caused the pipe to split, as established in the draft.
+> We wash and dry the jars with hot water.
 
-> **Before.** The pipe froze and split.
->
-> **After.** The pipe split because it froze.
+After:
+
+> We wash the jars with hot water and dry them.
+
+**Edit 3.** Before:
+
+> The mass of the steel ball exceeds the wooden ball.
+
+After:
+
+> The mass of the steel ball exceeds the mass of the wooden ball.
+
+**Edit 4.** Say the draft establishes that freezing caused the pipe to split. Before:
+
+> The pipe froze and split.
+
+After:
+
+> The pipe split because it froze.

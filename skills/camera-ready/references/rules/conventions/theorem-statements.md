@@ -8,26 +8,36 @@ State the type of each object, as in "the linear operator $A$". Keep every assum
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We prove that: Theorem 1. Every square is a rectangle.
->
-> **After.** We prove the following result: Theorem 1. Every square is a rectangle.
+> We prove that: Theorem 1. Every square is a rectangle.
 
-**Edit 2.** Before the theorem, the draft defines $a$, $b$, and $c$ as the interior angles of a Euclidean triangle.
+After:
 
-> **Before.** Theorem 2. The sum of $a$, $b$, and $c$ is 180°.
->
-> **After.** Theorem 2. Let $a$, $b$, and $c$ be the interior angles of a Euclidean triangle. Their sum is 180°.
+> We prove the following result: Theorem 1. Every square is a rectangle.
 
-**Edit 3.** In the draft, $n$ denotes the number of items and $s$ denotes storage.
+**Edit 2.** Suppose the draft defines $a$, $b$, and $c$ as the interior angles of a Euclidean triangle before the theorem. Before:
 
-> **Before.** Theorem 3. The following bound gives an upper limit on storage. If $n>0$, then $s(n)\leq 2n$.
->
-> **After.** The following bound gives an upper limit on storage. Theorem 3. If $n>0$, then $s(n)\leq 2n$.
+> Theorem 2. The sum of $a$, $b$, and $c$ is 180°.
 
-**Edit 4.** The theorem's assumptions occupy several lines in the draft.
+After:
 
-> **Before.** Theorem 4. If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, where $a<b$, then $f$ satisfies the mean value theorem.
->
-> **After.** Assumption 1 (regularity): Let $a<b$, and let $f$ be continuous on $[a,b]$ and differentiable on $(a,b)$. Theorem 4. Under Assumption 1, $f$ satisfies the mean value theorem.
+> Theorem 2. Let $a$, $b$, and $c$ be the interior angles of a Euclidean triangle. Their sum is 180°.
+
+**Edit 3.** Say the draft defines $n$ as the number of items and $s$ as storage. Before:
+
+> Theorem 3. The following bound gives an upper limit on storage. If $n>0$, then $s(n)\leq 2n$.
+
+After:
+
+> The following bound gives an upper limit on storage. Theorem 3. If $n>0$, then $s(n)\leq 2n$.
+
+**Edit 4.** Imagine the theorem's assumptions occupy several lines in the draft. Before:
+
+> Theorem 4. If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, where $a<b$, then $f$ satisfies the mean value theorem.
+
+After:
+
+> Assumption 1 (regularity): Let $a<b$, and let $f$ be continuous on $[a,b]$ and differentiable on $(a,b)$. Theorem 4. Under Assumption 1, $f$ satisfies the mean value theorem.
+
+This is a proposed reorganization for the author to review, with all three restrictions on $a$, $b$, and $f$ preserved.

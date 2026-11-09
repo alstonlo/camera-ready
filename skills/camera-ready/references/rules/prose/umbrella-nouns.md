@@ -8,8 +8,12 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The 98% measurement is for purity, according to the draft.
+**Edit 1.** Say the draft identifies purity as the quantity measured by the 98% value. Before:
 
-> **Before.** We assess quality using purity and yield. Performance reaches 98%.
->
-> **After.** We assess quality using purity and yield. Purity reaches 98%.
+> We assess quality using purity and yield. Performance reaches 98%.
+
+After:
+
+> We assess quality using purity and yield. Purity reaches 98%.
+
+The word "quality" stays because it names purity and yield together.

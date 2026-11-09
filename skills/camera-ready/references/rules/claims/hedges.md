@@ -8,32 +8,44 @@ A hedge marks a claim as uncertain, so deleting the only hedge on a claim makes 
 
 ## Examples
 
-**Edit 1.** In the draft, this value is reported as a measurement.
+**Edit 1.** Suppose the draft reports this value as a measurement. Before:
 
-> **Before.** The mean mass may be 5.0 ± 0.2 g (standard error).
->
-> **After.** The mean mass is 5.0 ± 0.2 g (standard error).
+> The mean mass may be 5.0 ± 0.2 g (standard error).
 
-**Edit 2.** The draft confirms that the samples were cooled; whether cooling affects decay remains untested.
+After:
 
-> **Before.** We may have cooled the samples because cooling may prevent decay.
->
-> **After.** We cooled the samples because cooling may prevent decay.
+> The mean mass is 5.0 ± 0.2 g (standard error).
 
-**Edit 3.**
+**Edit 2.** Say the draft confirms that the samples were cooled, but whether cooling affects decay remains untested. Before:
 
-> **Before.** Heat may possibly loosen the seal, which may allow water to enter.
->
-> **After.** Heat may loosen the seal, which may allow water to enter.
+> We may have cooled the samples because cooling may prevent decay.
 
-**Edit 4.** Elsewhere, the draft reports that the treated cloth absorbs 8% less water.
+After:
 
-> **Before.** The treated cloth absorbs somewhat less water than untreated cloth.
->
-> **After.** The treated cloth absorbs 8% less water than untreated cloth.
+> We cooled the samples because cooling may prevent decay.
 
-**Edit 5.** Results presents the frost explanation as tentative.
+**Edit 3.** Before:
 
-> **Before.** Abstract: Frost explains the cracks.
->
-> **After.** Abstract: Frost may explain the cracks.
+> Heat may possibly loosen the seal, which may allow water to enter.
+
+After:
+
+> Heat may loosen the seal, which may allow water to enter.
+
+Loosening the seal and letting water enter are separate uncertain claims, so each still needs a hedge.
+
+**Edit 4.** Imagine the draft reports elsewhere that the treated cloth absorbs 8% less water. Before:
+
+> The treated cloth absorbs somewhat less water than untreated cloth.
+
+After:
+
+> The treated cloth absorbs 8% less water than untreated cloth.
+
+**Edit 5.** Suppose Results presents the frost explanation as tentative. Before:
+
+> Abstract: Frost explains the cracks.
+
+After:
+
+> Abstract: Frost may explain the cracks.

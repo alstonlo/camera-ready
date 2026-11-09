@@ -10,26 +10,40 @@ When the draft states what an unendorsed term in quotation marks refers to, keep
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We call the gap between lid and jar the *clearance*. The clearance remains *constant*.
->
-> **After.** We call the gap between lid and jar the *clearance*. The clearance remains constant.
+> We call the gap between lid and jar the *clearance*. The clearance remains *constant*.
 
-**Edit 2.** Nothing in the draft identifies what contrasts with the lid.
+After:
 
-> **Before.** We don't heat the *lid*.
->
-> **After.** We do not heat the *lid*.
+> We call the gap between lid and jar the *clearance*. The clearance remains constant.
 
-**Edit 3.** Elsewhere in the draft, the cell's "decision" is defined as its change in swimming direction, with no conscious choice attributed to the cell.
+The italics on "clearance" introduce a definition.
 
-> **Before.** We record the cell's "decision".
->
-> **After.** We record the cell's "decision", its change in swimming direction.
+**Edit 2.** Suppose nothing in the draft identifies what contrasts with the lid. Before:
 
-**Edit 4.** The command shown in After appears in the draft's script. After is a proposal to the author.
+> We don't heat the *lid*.
 
-> **Before.** The command is `echo “ready”`.
->
-> **After.** The command is `echo "ready"`.
+After:
+
+> We do not heat the *lid*.
+
+The emphasis affects what is being denied. Keep it and flag the unclear contrast for the author.
+
+**Edit 3.** Imagine the draft defines the cell's "decision" elsewhere as its change in swimming direction, without attributing conscious choice to the cell. Before:
+
+> We record the cell's "decision".
+
+After:
+
+> We record the cell's "decision", its change in swimming direction.
+
+The quotation marks keep the term from implying a conscious choice.
+
+**Edit 4.** Say the command shown in After appears in the draft's script. After is a proposal to the author. Before:
+
+> The command is `echo “ready”`.
+
+After:
+
+> The command is `echo "ready"`.

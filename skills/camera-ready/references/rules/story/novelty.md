@@ -8,20 +8,26 @@ State additions and credit using only what the draft says. Do not describe the a
 
 ## Examples
 
-**Edit 1.** According to the draft, the authors previously published the rain gauge and are adding an overflow alarm.
+**Edit 1.** Suppose the draft says the authors previously published the rain gauge and are adding an overflow alarm. Before:
 
-> **Before.** We introduce the rain gauge and its overflow alarm.
->
-> **After.** We introduce the overflow alarm for our published rain gauge.
+> We introduce the rain gauge and its overflow alarm.
 
-**Edit 2.** The earlier report is the authors’ own and uses the same measurements, as stated in the draft.
+After:
 
-> **Before.** An independent study confirms the effect.
->
-> **After.** Our earlier report describes the effect using the same measurements.
+> We introduce the overflow alarm for our published rain gauge.
 
-**Edit 3.** The venue requires anonymity. The editor flags the self-identification and proposes After to the author.
+**Edit 2.** Say the draft identifies the earlier report as the authors’ own and states that it uses the same measurements. Before:
 
-> **Before.** We add an alarm to our earlier design (Lee et al., 2024).
->
-> **After.** We add an alarm to the design of Lee et al. (2024).
+> An independent study confirms the effect.
+
+After:
+
+> Our earlier report describes the effect using the same measurements.
+
+**Edit 3.** Suppose the venue requires anonymity; the editor flags the self-identification and proposes After to the author. Before:
+
+> We add an alarm to our earlier design (Lee et al., 2024).
+
+After:
+
+> We add an alarm to the design of Lee et al. (2024).

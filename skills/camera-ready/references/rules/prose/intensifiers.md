@@ -8,32 +8,48 @@ When "highly", "remarkably", or "exceptionally" adds only emphasis, cut it or re
 
 ## Examples
 
-**Edit 1.** The measured cable length reported in the draft is 40 m.
+**Edit 1.** Suppose the draft reports the cable's measured length as 40 m. Before:
 
-> **Before.** The cable is extremely long.
->
-> **After.** The cable is 40 m long.
+> The cable is extremely long.
 
-**Edit 2.**
+After:
 
-> **Before.** Note that the coating largely prevents rust.
->
-> **After.** The coating largely prevents rust.
+> The cable is 40 m long.
 
-**Edit 3.** In the preceding sentence, a zero score is defined as no detected damage.
+**Edit 2.** Before:
 
-> **Before.** Note that a zero score does not rule out damage. The test is very useful.
->
-> **After.** Note that a zero score does not rule out damage. The test is useful.
+> Note that the coating largely prevents rust.
 
-**Edit 4.** The last term is zero, as established by the draft's proof.
+After:
 
-> **Before.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
->
-> **After.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
+> The coating largely prevents rust.
 
-**Edit 5.**
+The word "largely" stays because the coating is not claimed to prevent all rust.
 
-> **Before.** The treated seeds clearly sprout sooner.
->
-> **After.** The treated seeds sprout sooner.
+**Edit 3.** Imagine the preceding sentence defines a zero score as no detected damage. Before:
+
+> Note that a zero score does not rule out damage. The test is very useful.
+
+After:
+
+> Note that a zero score does not rule out damage. The test is useful.
+
+The prompt stays to prevent readers from mistaking a lack of detected damage for proof that no damage exists.
+
+**Edit 4.** Say the draft's proof establishes that the last term is zero. Before:
+
+> Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
+
+After:
+
+> Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
+
+The word "Clearly" can stay because adding zero is a routine step for readers outside the subfield.
+
+**Edit 5.** Before:
+
+> The treated seeds clearly sprout sooner.
+
+After:
+
+> The treated seeds sprout sooner.

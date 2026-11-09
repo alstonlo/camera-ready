@@ -8,20 +8,28 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Earlier text has introduced the crane but has not mentioned the beam.
+**Edit 1.** Suppose earlier text has introduced the crane but has not mentioned the beam. Before:
 
-> **Before.** A steel beam is lifted by the crane.
->
-> **After.** The crane lifts a steel beam.
+> A steel beam is lifted by the crane.
 
-**Edit 2.** The gate has been introduced in the draft; the padlock and bush have not.
+After:
 
-> **Before.** Beside a thorny bush stands the gate. The gate is secured by a padlock.
->
-> **After.** The gate stands beside a thorny bush. The gate is secured by a padlock.
+> The crane lifts a steel beam.
 
-**Edit 3.** This is a standalone description.
+**Edit 2.** Say the draft has introduced the gate but not the padlock or bush. Before:
 
-> **Before.** Behind a heavy curtain lies a small room. Lamps light the room.
->
-> **After.** A small room lies behind a heavy curtain. Lamps light the room.
+> Beside a thorny bush stands the gate. The gate is secured by a padlock.
+
+After:
+
+> The gate stands beside a thorny bush. The gate is secured by a padlock.
+
+The passive in the second sentence already puts the familiar gate before the new padlock, so it stays.
+
+**Edit 3.** Imagine this is a standalone description. Before:
+
+> Behind a heavy curtain lies a small room. Lamps light the room.
+
+After:
+
+> A small room lies behind a heavy curtain. Lamps light the room.

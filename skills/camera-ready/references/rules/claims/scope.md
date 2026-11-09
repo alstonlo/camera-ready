@@ -26,26 +26,36 @@ When the draft recommends practical use, check the requirements it documents, su
 
 ## Examples
 
-**Edit 1.** For the tested bulbs, the draft records that 99 of 100 lit within a second and describes this timing as typical.
+**Edit 1.** Suppose the draft records that 99 of the 100 tested bulbs lit within a second and calls that timing typical. Before:
 
-> **Before.** The tested bulbs always lit within a second.
->
-> **After.** The tested bulbs usually lit within a second.
+> The tested bulbs always lit within a second.
 
-**Edit 2.** A crack in one photographed tile is documented in the draft, but no survey of other tiles is provided. After is a proposal to the author.
+After:
 
-> **Before.** Cracks are common in these tiles.
->
-> **After.** The photographed tile has a crack.
+> The tested bulbs usually lit within a second.
 
-**Edit 3.** Chair A receives a comfort score of 8 and chair B a score of 4 in the draft, which does not establish that the scores are proportional to comfort. After is a proposal to the author.
+**Edit 2.** If the draft documents a crack in one photographed tile but gives no survey of other tiles, propose the revision in After to the author. Before:
 
-> **Before.** Chair A is twice as comfortable as chair B.
->
-> **After.** Chair A scores twice as high as chair B on the comfort scale.
+> Cracks are common in these tiles.
 
-**Edit 4.** Only aluminum was tested, according to the draft, which explicitly describes possible use on bridges as untested.
+After:
 
-> **Before.** The coating resists corrosion on all metals and may be useful on bridges.
->
-> **After.** The coating resists corrosion on aluminum in the tests and may be useful on bridges.
+> The photographed tile has a crack.
+
+**Edit 3.** Say the draft gives chair A a comfort score of 8 and chair B a score of 4, without establishing that the scores are proportional to comfort. Treat After as a proposal to the author. Before:
+
+> Chair A is twice as comfortable as chair B.
+
+After:
+
+> Chair A scores twice as high as chair B on the comfort scale.
+
+**Edit 4.** Imagine the draft reports tests only on aluminum and explicitly describes possible use on bridges as untested. Before:
+
+> The coating resists corrosion on all metals and may be useful on bridges.
+
+After:
+
+> The coating resists corrosion on aluminum in the tests and may be useful on bridges.
+
+The draft already marks the bridge application as untested, so the tentative suggestion can stay.

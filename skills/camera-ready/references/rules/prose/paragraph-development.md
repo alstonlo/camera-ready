@@ -10,26 +10,36 @@ Judge a paragraph by whether its sentences develop one point and connect to each
 
 ## Examples
 
-**Edit 1.** A results paragraph about a freezing test begins with this passage.
+**Edit 1.** Suppose a results paragraph about a freezing test opens with this passage. Before:
 
-> **Before.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
->
-> **After.** Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
+> We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
 
-**Edit 2.**
+After:
 
-> **Before.** Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
->
-> **After.** Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
+> Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
 
-**Edit 3.** A paragraph break is marked by the symbol ¶.
+**Edit 2.** Before:
 
-> **Before.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
->
-> **After.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
+> Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
 
-**Edit 4.** Here, the symbol ¶ indicates a paragraph break.
+After:
 
-> **Before.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
->
-> **After.** The glass jar survives freezing. The clay jar cracks under the same conditions.
+> Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
+
+The opening question states what the experiment tests, so it can stay once its answer follows immediately.
+
+**Edit 3.** Here ¶ marks a paragraph break. Before:
+
+> The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
+
+After:
+
+> The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
+
+**Edit 4.** Here ¶ marks a paragraph break. Before:
+
+> The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
+
+After:
+
+> The glass jar survives freezing. The clay jar cracks under the same conditions.

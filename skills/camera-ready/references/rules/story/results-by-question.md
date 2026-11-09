@@ -8,26 +8,34 @@ When you propose a heading, keep the claim strength and conditions from the body
 
 ## Examples
 
-**Edit 1.** The body text establishes that shade reduces water loss in the tested ferns. After is a proposed heading for the author.
+**Edit 1.** Suppose the body text establishes that shade reduces water loss in the tested ferns. The heading below is a proposal to the author. Before:
 
-> **Before.** Fern experiment
->
-> **After.** Shade reduces water loss in the tested ferns
+> Fern experiment
 
-**Edit 2.** Fewer refills are the draft's stated contribution, and the trial is described as testing that aim.
+After:
 
-> **Before.** We test whether the lid reduces water loss.
->
-> **After.** We test whether the lid reduces water loss enough to reduce refill frequency.
+> Shade reduces water loss in the tested ferns
 
-**Edit 3.** After is a proposed order for the author to review.
+**Edit 2.** Say fewer refills are the draft's stated contribution and the trial is described as testing that aim. Before:
 
-> **Before.** Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
->
-> **After.** Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
+> We test whether the lid reduces water loss.
 
-**Edit 4.** Section 4's leakage measurements come from the pressure test, according to the draft.
+After:
 
-> **Before.** We also perform a pressure test.
->
-> **After.** We also perform a pressure test to measure the leakage reported in Section 4.
+> We test whether the lid reduces water loss enough to reduce refill frequency.
+
+**Edit 3.** Imagine proposing the order in After for the author to review. Before:
+
+> Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
+
+After:
+
+> Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
+
+**Edit 4.** If the draft identifies the pressure test as the source of Section 4's leakage measurements, that connection can be stated here. Before:
+
+> We also perform a pressure test.
+
+After:
+
+> We also perform a pressure test to measure the leakage reported in Section 4.

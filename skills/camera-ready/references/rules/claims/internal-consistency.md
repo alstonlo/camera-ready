@@ -10,26 +10,36 @@ Comparing two approaches does not imply that they are the only options, as an ex
 
 ## Examples
 
-**Edit 1.** Elsewhere, the draft says the lamp works in dry conditions and fails in rain.
+**Edit 1.** Suppose the draft says elsewhere that the lamp works in dry conditions and fails in rain. Before:
 
-> **Before.** Abstract: The lamp works. Results: The lamp does not work.
->
-> **After.** Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
+> Abstract: The lamp works. Results: The lamp does not work.
 
-**Edit 2.** Responses through an online form are also permitted in the draft.
+After:
 
-> **Before.** Participants must respond by phone or by mail.
->
-> **After.** Participants must respond by phone, by mail, or through an online form.
+> Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
 
-**Edit 3.** Two students commute by both bus and train, according to the draft.
+**Edit 2.** Imagine the draft also permits responses through an online form. Before:
 
-> **Before.** Twelve students commute: eight by bus and six by train, with no overlap.
->
-> **After.** Twelve students commute: eight by bus and six by train, with two using both.
+> Participants must respond by phone or by mail.
 
-**Edit 4.** The abstract reports 12 trials and Results reports 14; the draft does not establish which count is correct. An earlier edit produced Before.
+After:
 
-> **Before.** Abstract: We ran 14 trials. Results: We ran 14 trials.
->
-> **After.** Abstract: We ran 12 trials. Results: We ran 14 trials. Flag for the author: The abstract reports 12 trials, but Results reports 14.
+> Participants must respond by phone, by mail, or through an online form.
+
+**Edit 3.** Say the draft reports that two students commute by both bus and train. Before:
+
+> Twelve students commute: eight by bus and six by train, with no overlap.
+
+After:
+
+> Twelve students commute: eight by bus and six by train, with two using both.
+
+**Edit 4.** Suppose the abstract reports 12 trials and Results reports 14, and the draft does not establish which count is correct. Before:
+
+> Abstract: We ran 14 trials. Results: We ran 14 trials.
+
+After:
+
+> Abstract: We ran 12 trials. Results: We ran 14 trials. Flag for the author: The abstract reports 12 trials, but Results reports 14.
+
+Before is an editor's change to the abstract. After restores the draft so the author can resolve the conflict without losing either reported count.

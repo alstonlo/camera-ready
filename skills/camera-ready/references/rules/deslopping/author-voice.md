@@ -8,32 +8,48 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The authors' original wording appears in After.
+**Edit 1.** Suppose After is the authors' original wording. Before:
 
-> **Before.** The pump stops. Water then drains. The water leaves the upper tank. The water enters the lower tank.
->
-> **After.** The pump stops. Water then drains from the upper tank into the lower tank.
+> The pump stops. Water then drains. The water leaves the upper tank. The water enters the lower tank.
 
-**Edit 2.** No judgment about the finding's importance appears in the draft.
+After:
 
-> **Before.** Crucially, the seeds sprout after 3 days.
->
-> **After.** The seeds sprout after 3 days.
+> The pump stops. Water then drains from the upper tank into the lower tank.
 
-**Edit 3.** In the draft, the authors describe this finding as surprising.
+Before is an editor's rewrite; After restores the authors' sentence rhythm.
 
-> **Before.** The dry seeds sprout first.
->
-> **After.** Surprisingly, the dry seeds sprout first.
+**Edit 2.** Imagine the draft makes no judgment about the finding's importance. Before:
 
-**Edit 4.** Throughout the draft, the authors use first-person "we".
+> Crucially, the seeds sprout after 3 days.
 
-> **Before.** The authors find that the seeds sprout first.
->
-> **After.** We find that the seeds sprout first.
+After:
 
-**Edit 5.** Both sentences describe the same object, called "the tray" throughout the draft.
+> The seeds sprout after 3 days.
 
-> **Before.** The tray holds six seeds. The receptacle stays dry.
->
-> **After.** The tray holds six seeds. The tray stays dry.
+Before adds the editor's judgment; After restores the authors' account.
+
+**Edit 3.** Say the authors describe this finding as surprising in the draft. Before:
+
+> The dry seeds sprout first.
+
+After:
+
+> Surprisingly, the dry seeds sprout first.
+
+Before is an editor's version that omits the authors' reaction; After restores it.
+
+**Edit 4.** Suppose the authors use first-person "we" throughout the draft. Before:
+
+> The authors find that the seeds sprout first.
+
+After:
+
+> We find that the seeds sprout first.
+
+**Edit 5.** Imagine both sentences describe the same object, which the draft calls "the tray" throughout. Before:
+
+> The tray holds six seeds. The receptacle stays dry.
+
+After:
+
+> The tray holds six seeds. The tray stays dry.

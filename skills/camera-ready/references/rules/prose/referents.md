@@ -8,20 +8,28 @@ The first sentence under a heading, including a bold title that opens a paragrap
 
 ## Examples
 
-**Edit 1.** For run C, the draft names run A as the comparison.
+**Edit 1.** Suppose the draft names run A as the comparison for run C. Before:
 
-> **Before.** Runs A and B use dry sand. Run C drains faster than the earlier run. The earlier run leaves a puddle.
->
-> **After.** Runs A and B use dry sand. Run C drains faster than run A. Run A leaves a puddle.
+> Runs A and B use dry sand. Run C drains faster than the earlier run. The earlier run leaves a puddle.
 
-**Edit 2.**
+After:
 
-> **Before.** **Copper mesh.** This catches the larger particles.
->
-> **After.** **Copper mesh.** Copper mesh catches the larger particles.
+> Runs A and B use dry sand. Run C drains faster than run A. Run A leaves a puddle.
 
-**Edit 3.** An earlier cut removed the draft's identification of the red switch as the power switch. The panel also has a blue switch.
+**Edit 2.** Before:
 
-> **Before.** Press the switch. This control then turns the pump off.
->
-> **After.** Press the red power switch. This control then turns the pump off.
+> **Copper mesh.** This catches the larger particles.
+
+After:
+
+> **Copper mesh.** Copper mesh catches the larger particles.
+
+**Edit 3.** Say an earlier cut removed the draft's identification of the red switch as the power switch, and the panel also has a blue switch. Before:
+
+> Press the switch. This control then turns the pump off.
+
+After:
+
+> Press the red power switch. This control then turns the pump off.
+
+Before is the result of that cut, and After restores the lost identification. Once the switch is named, "This control" has a clear referent.

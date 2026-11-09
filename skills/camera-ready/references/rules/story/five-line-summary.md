@@ -8,20 +8,28 @@ The five lines are your notes for checking the argument. Do not insert them into
 
 ## Examples
 
-**Edit 1.** According to the draft, the missing storm records leave peak water levels unknown.
+**Edit 1.** Suppose the draft says that the missing storm records leave peak water levels unknown. Before:
 
-> **Before.** Gap and cost: The tide gauge stops recording during storms.
->
-> **After.** Gap and cost: The tide gauge stops recording during storms and leaves peak water levels unknown.
+> Gap and cost: The tide gauge stops recording during storms.
 
-**Edit 2.**
+After:
 
-> **Before.** Gap and cost: The tide gauge stops recording during storms, so flood warnings fail.
->
-> **After.** Gap and cost: The tide gauge stops recording during storms. Flag for the author: The draft does not state why the missing records matter.
+> Gap and cost: The tide gauge stops recording during storms and leaves peak water levels unknown.
 
-**Edit 3.** The authors propose the lid and report that it halves evaporation in the tested tank.
+**Edit 2.** Before:
 
-> **Before.** Core claim: We propose and test a lid.
->
-> **After.** Core claim: The lid halves evaporation in the tested tank.
+> Gap and cost: The tide gauge stops recording during storms, so flood warnings fail.
+
+After:
+
+> Gap and cost: The tide gauge stops recording during storms. Flag for the author: The draft does not state why the missing records matter.
+
+The failed flood warnings appear in the editor's summary, not in the draft. The correction removes that invented consequence from the notes.
+
+**Edit 3.** Imagine the authors propose the lid and report that it halves evaporation in the tested tank. Before:
+
+> Core claim: We propose and test a lid.
+
+After:
+
+> Core claim: The lid halves evaporation in the tested tank.

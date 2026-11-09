@@ -8,20 +8,26 @@ Read the title on its own, as readers see it in search results. A short, establi
 
 ## Examples
 
-**Edit 1.** The study examines the use of sound to detect cracks in ceramic cups.
+**Edit 1.** Suppose the study examines the use of sound to detect cracks in ceramic cups. Propose this title to the author. Before:
 
-> **Before.** A new approach to testing ceramics
->
-> **After.** Detecting cracks in ceramic cups with sound
+> A new approach to testing ceramics
 
-**Edit 2.** The birds carry cameras, and the draft uses radio tags to locate them.
+After:
 
-> **Before.** Tracking birds with cameras
->
-> **After.** Tracking birds that carry cameras
+> Detecting cracks in ceramic cups with sound
 
-**Edit 3.** Reduced leakage is reported only for the tested pipes.
+**Edit 2.** Imagine the birds carry cameras, and the draft uses radio tags to locate them. Suggest this title to the author. Before:
 
-> **Before.** Preventing all pipe leaks
->
-> **After.** Reducing leaks in the tested pipes
+> Tracking birds with cameras
+
+After:
+
+> Tracking birds that carry cameras
+
+**Edit 3.** If the draft reports reduced leakage only for the tested pipes, propose this title to the author. Before:
+
+> Preventing all pipe leaks
+
+After:
+
+> Reducing leaks in the tested pipes

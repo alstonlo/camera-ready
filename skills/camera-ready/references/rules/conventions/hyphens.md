@@ -8,14 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The pump is battery-powered.
->
-> **After.** The pump is battery powered.
+> The pump is battery-powered.
 
-**Edit 2.** Throughout the draft, "fluid mechanics" appears without a hyphen.
+After:
 
-> **Before.** We use a battery powered pump in the fluid mechanics laboratory.
->
-> **After.** We use a battery-powered pump in the fluid mechanics laboratory.
+> The pump is battery powered.
+
+**Edit 2.** Suppose the draft consistently writes "fluid mechanics" without a hyphen. Before:
+
+> We use a battery powered pump in the fluid mechanics laboratory.
+
+After:
+
+> We use a battery-powered pump in the fluid mechanics laboratory.
+
+Readers can recognize "fluid mechanics" as a field name without an added hyphen.

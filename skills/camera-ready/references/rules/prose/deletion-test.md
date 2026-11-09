@@ -8,32 +8,52 @@ Brevity alone does not justify an edit. Keep distinctions even when a simpler ph
 
 ## Examples
 
-**Edit 1.** In the draft's account, the nurse asks the patient to lift the weight.
+**Edit 1.** Suppose the draft says that the nurse asks the patient to lift the weight. Before:
 
-> **Before.** The nurse lifts the weight.
->
-> **After.** The nurse asks the patient to lift the weight.
+> The nurse lifts the weight.
 
-**Edit 2.** A score of exactly 60 counts as passing in the draft.
+After:
 
-> **Before.** A passing score exceeds 60.
->
-> **After.** A passing score is at least 60.
+> The nurse asks the patient to lift the weight.
 
-**Edit 3.** According to the draft, the lamp cannot turn on while the door is closed and may stay off while it is open.
+Before is an editor's shortening that assigns the lifting to the nurse. After restores the draft's account of who asks and who is asked to act.
 
-> **Before.** The lamp turns on if the door opens.
->
-> **After.** The lamp stays off unless the door opens.
+**Edit 2.** Say the draft counts a score of exactly 60 as passing. Before:
 
-**Edit 4.**
+> A passing score exceeds 60.
 
-> **Before.** We found that the scale that we used was faulty in nature.
->
-> **After.** We found that the scale that we used was faulty.
+After:
 
-**Edit 5.** The draft establishes that the latch can lock automatically but does not report that it does so.
+> A passing score is at least 60.
 
-> **Before.** The latch locks automatically.
->
-> **After.** The latch can lock automatically.
+Before is an editor's rewrite that excludes a score the draft counts as passing. After restores the intended threshold.
+
+**Edit 3.** Imagine the draft says the lamp cannot turn on while the door is closed and may stay off while it is open. Before:
+
+> The lamp turns on if the door opens.
+
+After:
+
+> The lamp stays off unless the door opens.
+
+Before is an editor's rewrite; After restores the draft. An open door does not guarantee that the lamp will turn on.
+
+**Edit 4.** Before:
+
+> We found that the scale that we used was faulty in nature.
+
+After:
+
+> We found that the scale that we used was faulty.
+
+The two instances of "that" keep the finding and the description of the scale easy to follow.
+
+**Edit 5.** Suppose the draft establishes that the latch can lock automatically but does not report that it does so. Before:
+
+> The latch locks automatically.
+
+After:
+
+> The latch can lock automatically.
+
+Before is an editor's shortening. After restores what the draft says the latch can do without claiming that it actually locks.

@@ -8,20 +8,26 @@ An opening condition can refer back to the preceding sentence while the main sub
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We examined a bicycle. A loose bolt held its front wheel.
->
-> **After.** We examined a bicycle. Its front wheel was held by a loose bolt.
+> We examined a bicycle. A loose bolt held its front wheel.
 
-**Edit 2.** The paragraph is about the fan; dust is a test condition.
+After:
 
-> **Before.** We tested the fan in dust. Dust coated the fan’s three blades.
->
-> **After.** We tested the fan in dust. The fan’s three blades were coated with dust.
+> We examined a bicycle. Its front wheel was held by a loose bolt.
 
-**Edit 3.** The preceding sentence introduces cold conditions; the paragraph discusses the sensor.
+**Edit 2.** Imagine a paragraph about the fan, with dust serving as a test condition. Before:
 
-> **Before.** A voltage of 5 V is required by the sensor in cold conditions.
->
-> **After.** In cold conditions, the sensor requires 5 V.
+> We tested the fan in dust. Dust coated the fan’s three blades.
+
+After:
+
+> We tested the fan in dust. The fan’s three blades were coated with dust.
+
+**Edit 3.** Suppose the preceding sentence introduces cold conditions and the paragraph discusses the sensor. Before:
+
+> A voltage of 5 V is required by the sensor in cold conditions.
+
+After:
+
+> In cold conditions, the sensor requires 5 V.

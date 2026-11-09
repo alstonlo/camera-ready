@@ -8,14 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Elsewhere, the draft says the tray can be transported without disassembly because it fits through the door.
+**Edit 1.** Say the draft explains elsewhere that the tray can be transported without disassembly because it fits through the door. Before:
 
-> **Before.** The tray fits through the door. This is an important result.
->
-> **After.** The tray fits through the door, so it can be transported without being taken apart.
+> The tray fits through the door. This is an important result.
 
-**Edit 2.**
+After:
 
-> **Before.** Surprisingly, the dry seeds sprout first. This is a surprising result.
->
-> **After.** Surprisingly, the dry seeds sprout first.
+> The tray fits through the door, so it can be transported without being taken apart.
+
+**Edit 2.** Before:
+
+> Surprisingly, the dry seeds sprout first. This is a surprising result.
+
+After:
+
+> Surprisingly, the dry seeds sprout first.
+
+The opening "Surprisingly" expresses the authors' reaction to the finding.

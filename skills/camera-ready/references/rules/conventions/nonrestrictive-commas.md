@@ -8,20 +8,28 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Every seedling is in the greenhouse.
+**Edit 1.** Suppose every seedling is in the greenhouse. Before:
 
-> **Before.** The seedlings which are in the greenhouse need water.
->
-> **After.** The seedlings, which are in the greenhouse, need water.
+> The seedlings which are in the greenhouse need water.
 
-**Edit 2.** The venue permits restrictive "which", and only seedlings with red tags need water.
+After:
 
-> **Before.** The seedlings, which have red tags, need water.
->
-> **After.** The seedlings which have red tags need water.
+> The seedlings, which are in the greenhouse, need water.
 
-**Edit 3.**
+**Edit 2.** Say the venue permits restrictive "which", and only seedlings with red tags need water. Before:
 
-> **Before.** A circle, $C$, encloses the triangle.
->
-> **After.** A circle $C$ encloses the triangle.
+> The seedlings, which have red tags, need water.
+
+After:
+
+> The seedlings which have red tags need water.
+
+The word "which" stays because the venue permits it to identify the seedlings that need water.
+
+**Edit 3.** Before:
+
+> A circle, $C$, encloses the triangle.
+
+After:
+
+> A circle $C$ encloses the triangle.

@@ -14,26 +14,36 @@ The following phrases after a comma need no added verb:
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The new tap is effective: it reduces water use by 18%.
->
-> **After.** The new tap reduces water use by 18%.
+> The new tap is effective: it reduces water use by 18%.
 
-**Edit 2.** In the draft, the absence of escaping water provides evidence that the seal works.
+After:
 
-> **Before.** The seal works; no water escapes during the pressure test.
->
-> **After.** The seal works, as shown by the fact that no water escapes during the pressure test.
+> The new tap reduces water use by 18%.
 
-**Edit 3.** The draft reports that the two events occur together without explaining why.
+**Edit 2.** Suppose the draft treats the absence of escaping water as evidence that the seal works. Before:
 
-> **Before.** The valve opens: the lamp turns green.
->
-> **After.** The valve opens; the lamp turns green.
+> The seal works; no water escapes during the pressure test.
 
-**Edit 4.**
+After:
 
-> **Before.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
->
-> **After.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, which is below the capacity of the tank.
+> The seal works, as shown by the fact that no water escapes during the pressure test.
+
+**Edit 3.** Say the draft reports that the valve opening and the lamp turning green occur together but does not explain why. Before:
+
+> The valve opens: the lamp turns green.
+
+After:
+
+> The valve opens; the lamp turns green.
+
+**Edit 4.** Before:
+
+> The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
+
+After:
+
+> The tank holds 5 L, the bottle 1 L. The test uses 2 L, which is below the capacity of the tank.
+
+The bottle phrase shares the verb "holds" with the tank phrase, so it already has the verb it needs.

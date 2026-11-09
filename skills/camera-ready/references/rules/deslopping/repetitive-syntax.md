@@ -8,14 +8,20 @@ Different sentence lengths can hide repeated grammatical patterns. Check sentenc
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The pump fills a tank. The tank supplies a fountain. The fountain drains into a pond.
->
-> **After.** The pump fills a tank that supplies a fountain. The fountain drains into a pond.
+> The pump fills a tank. The tank supplies a fountain. The fountain drains into a pond.
 
-**Edit 2.**
+After:
 
-> **Before.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber. The seal is 2 mm thick.
->
-> **After.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber and 2 mm thick.
+> The pump fills a tank that supplies a fountain. The fountain drains into a pond.
+
+**Edit 2.** Before:
+
+> At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber. The seal is 2 mm thick.
+
+After:
+
+> At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber and 2 mm thick.
+
+The matching temperature sentences stay because they help readers compare the two conditions.

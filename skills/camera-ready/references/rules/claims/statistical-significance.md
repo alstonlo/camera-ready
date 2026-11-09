@@ -10,32 +10,42 @@ Statistical power is the probability that a test detects an effect of a given si
 
 ## Examples
 
-**Edit 1.** The significance level is set at 0.05, and the draft tests for a difference in mean drying times.
+**Edit 1.** Suppose the draft sets the significance level at 0.05 and tests for a difference in mean drying times. Before:
 
-> **Before.** Mean drying times are equal for paints A and B (Welch's t-test, p = 0.18).
->
-> **After.** Mean drying times do not differ significantly between paints A and B (Welch's t-test, p = 0.18).
+> Mean drying times are equal for paints A and B (Welch's t-test, p = 0.18).
 
-**Edit 2.** A 2 min reduction in drying time is reported, but no statistical test is given.
+After:
 
-> **Before.** Paint A reduces drying time significantly.
->
-> **After.** Paint A reduces drying time by 2 min.
+> Mean drying times do not differ significantly between paints A and B (Welch's t-test, p = 0.18).
 
-**Edit 3.** Elsewhere, the draft gives an estimated difference of 2 min with a 95% confidence interval from −1 to 5 min.
+**Edit 2.** Say the draft reports a 2 min reduction in drying time but gives no statistical test. Before:
 
-> **Before.** The difference is not significant (Welch's t-test, p = 0.18).
->
-> **After.** The estimated difference is 2 min, with a 95% confidence interval from −1 to 5 min. The difference is not significant (Welch's t-test, p = 0.18).
+> Paint A reduces drying time significantly.
 
-**Edit 4.** For a test of equal mean masses, the draft reports p = 0.03.
+After:
 
-> **Before.** The probability that the equal-means null is true is 0.03.
->
-> **After.** If mean masses are equal and the test's assumptions hold, the probability of results at least as extreme as those observed is 0.03.
+> Paint A reduces drying time by 2 min.
 
-**Edit 5.** The draft establishes statistical significance without giving evidence of practical importance.
+**Edit 3.** Suppose the draft gives an estimated difference of 2 min with a 95% confidence interval from −1 to 5 min elsewhere. Before:
 
-> **Before.** The 0.1 s difference is practically important (Welch's t-test, p = 0.01).
->
-> **After.** The 0.1 s difference is statistically significant (Welch's t-test, p = 0.01).
+> The difference is not significant (Welch's t-test, p = 0.18).
+
+After:
+
+> The estimated difference is 2 min, with a 95% confidence interval from −1 to 5 min. The difference is not significant (Welch's t-test, p = 0.18).
+
+**Edit 4.** Imagine that the draft reports p = 0.03 for a test of equal mean masses. Before:
+
+> The probability that the equal-means null is true is 0.03.
+
+After:
+
+> If mean masses are equal and the test's assumptions hold, the probability of results at least as extreme as those observed is 0.03.
+
+**Edit 5.** Here the draft establishes statistical significance but gives no evidence of practical importance. Before:
+
+> The 0.1 s difference is practically important (Welch's t-test, p = 0.01).
+
+After:
+
+> The 0.1 s difference is statistically significant (Welch's t-test, p = 0.01).

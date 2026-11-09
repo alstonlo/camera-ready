@@ -8,20 +8,28 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We spreadsheet the readings.
->
-> **After.** We enter the readings in a spreadsheet.
+> We spreadsheet the readings.
 
-**Edit 2.**
+After:
 
-> **Before.** We show the samples we heat expand.
->
-> **After.** We show that the samples we heat expand.
+> We enter the readings in a spreadsheet.
 
-**Edit 3.** "Heat flux sensor" is an established technical term in the draft.
+**Edit 2.** Before:
 
-> **Before.** The heat flux sensor calibration procedure is documented.
->
-> **After.** The procedure for calibrating the heat flux sensor is documented.
+> We show the samples we heat expand.
+
+After:
+
+> We show that the samples we heat expand.
+
+**Edit 3.** Suppose "heat flux sensor" is an established technical term in the draft. Before:
+
+> The heat flux sensor calibration procedure is documented.
+
+After:
+
+> The procedure for calibrating the heat flux sensor is documented.
+
+The words "heat flux sensor" name the device, so they stay together.

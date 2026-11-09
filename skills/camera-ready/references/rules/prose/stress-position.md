@@ -8,26 +8,36 @@ The stress position is where a sentence or independent clause becomes grammatica
 
 ## Examples
 
-**Edit 1.** The paragraph gives equal importance to both findings.
+**Edit 1.** Suppose the paragraph gives both findings equal weight. Before:
 
-> **Before.** In these tests, the shield reduces heat loss and noise.
->
-> **After.** In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
+> In these tests, the shield reduces heat loss and noise.
 
-**Edit 2.** The leak and the faster flow are equally important in the draft.
+After:
 
-> **Before.** Although the joint leaks, it allows faster flow.
->
-> **After.** The joint leaks, but it allows faster flow.
+> In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
 
-**Edit 3.**
+Both findings are limited to these tests; the second sentence must not read as a general claim.
 
-> **Before.** The sensor works (only below 40 °C).
->
-> **After.** The sensor works only below 40 °C.
+**Edit 2.** Say the draft gives the leak and the faster flow equal importance. Before:
 
-**Edit 4.** This paragraph develops the finding about boiling time.
+> Although the joint leaks, it allows faster flow.
 
-> **Before.** The kettle (model K2) boils water in 90 s in this test.
->
-> **After.** In this test, the kettle (model K2) boils water in 90 s.
+After:
+
+> The joint leaks, but it allows faster flow.
+
+**Edit 3.** Before:
+
+> The sensor works (only below 40 °C).
+
+After:
+
+> The sensor works only below 40 °C.
+
+**Edit 4.** Say this paragraph develops the finding about boiling time. Before:
+
+> The kettle (model K2) boils water in 90 s in this test.
+
+After:
+
+> In this test, the kettle (model K2) boils water in 90 s.

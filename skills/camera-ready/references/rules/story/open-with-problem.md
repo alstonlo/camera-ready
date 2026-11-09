@@ -8,14 +8,20 @@ Check that the opening describes the same problem, at the same scope, as the res
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** An ice lens is a layer of ice within soil. Soil science is a growing field. Ice lenses lift the tested road surface during freezing.
->
-> **After.** An ice lens is a layer of ice within soil. Ice lenses lift the tested road surface during freezing.
+> An ice lens is a layer of ice within soil. Soil science is a growing field. Ice lenses lift the tested road surface during freezing.
 
-**Edit 2.** The study covers only leaks in household water pipes.
+After:
 
-> **Before.** Urban water loss is difficult to prevent.
->
-> **After.** Leaks in household water pipes are difficult to prevent.
+> An ice lens is a layer of ice within soil. Ice lenses lift the tested road surface during freezing.
+
+The definition stays before the problem because readers need to know what an ice lens is to understand the road damage.
+
+**Edit 2.** Suppose the study covers only leaks in household water pipes. Before:
+
+> Urban water loss is difficult to prevent.
+
+After:
+
+> Leaks in household water pipes are difficult to prevent.

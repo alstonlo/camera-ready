@@ -8,20 +8,30 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The probe serves as a temperature monitor.
->
-> **After.** The probe monitors temperature.
+> The probe serves as a temperature monitor.
 
-**Edit 2.**
+After:
 
-> **Before.** The tray boasts two compartments and acts as a lid during transport.
->
-> **After.** The tray has two compartments and acts as a lid during transport.
+> The probe monitors temperature.
 
-**Edit 3.**
+**Edit 2.** Before:
 
-> **Before.** The symbol represents pressure, and the plot boasts two axes.
->
-> **After.** The symbol represents pressure, and the plot has two axes.
+> The tray boasts two compartments and acts as a lid during transport.
+
+After:
+
+> The tray has two compartments and acts as a lid during transport.
+
+The tray takes on the role of a lid during transport. Calling it a lid would obscure the difference between what it is and how it is used.
+
+**Edit 3.** Before:
+
+> The symbol represents pressure, and the plot boasts two axes.
+
+After:
+
+> The symbol represents pressure, and the plot has two axes.
+
+The symbol stands for pressure; it is not pressure itself. The verb "represents" expresses that distinction.

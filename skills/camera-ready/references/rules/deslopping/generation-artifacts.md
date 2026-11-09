@@ -8,14 +8,20 @@ Also check for unfilled author fields, such as "[Author name here]", and for cit
 
 ## Examples
 
-**Edit 1.** No source for the opening date appears in the draft; the editor flags the missing source separately.
+**Edit 1.** Suppose the draft gives no source for the opening date and the editor flags the missing source separately. Before:
 
-> **Before.** The bridge opened in 1986. citeturn0search0
->
-> **After.** The bridge opened in 1986.
+> The bridge opened in 1986. citeturn0search0
 
-**Edit 2.** In the editor's flag to the author, After is a proposal. The draft's URL remains unchanged.
+After:
 
-> **Before.** Data are at https://example.org/data?utm_source=chatgpt.com.
->
-> **After.** Data are at https://example.org/data.
+> The bridge opened in 1986.
+
+**Edit 2.** Say an editor flags this URL for the author. After shows the proposed replacement; the URL in the draft stays unchanged. Before:
+
+> Data are at https://example.org/data?utm_source=chatgpt.com.
+
+After:
+
+> Data are at https://example.org/data.
+
+Showing the suggested URL in the flag lets the author see the requested change while preserving the draft's link.

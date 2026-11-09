@@ -10,14 +10,22 @@ Keep mathematical setup such as "Let X be", the steps of a proof, and any substa
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** Let us think step by step. Let n be an even integer. Then n = 2k for some integer k.
->
-> **After.** Let n be an even integer. Then n = 2k for some integer k.
+> Let us think step by step. Let n be an even integer. Then n = 2k for some integer k.
 
-**Edit 2.** The authors analyze the quoted model output in the draft.
+After:
 
-> **Before.** Let us think step by step. The model output begins "First, I should compare the load and the limit."
->
-> **After.** The model output begins "First, I should compare the load and the limit."
+> Let n be an even integer. Then n = 2k for some integer k.
+
+The remaining sentences establish a fact about n. Removing them would remove the reasoning itself.
+
+**Edit 2.** Suppose the authors analyze the quoted model output in the draft. Before:
+
+> Let us think step by step. The model output begins "First, I should compare the load and the limit."
+
+After:
+
+> The model output begins "First, I should compare the load and the limit."
+
+The thinking described inside the quotation is evidence the paper studies. Editing it out would change that evidence.

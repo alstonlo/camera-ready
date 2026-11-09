@@ -8,20 +8,28 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** For the fan, the draft specifies a power limit of 15 W.
+**Edit 1.** Suppose the draft gives the fan a power limit of 15 W. Before:
 
-> **Before.** The fan uses 12 W, highlighting its importance.
->
-> **After.** The fan uses 12 W, staying below the 15 W limit.
+> The fan uses 12 W, highlighting its importance.
 
-**Edit 2.**
+After:
 
-> **Before.** The fan turns, drawing air through the filter and highlighting its importance.
->
-> **After.** The fan turns, drawing air through the filter.
+> The fan uses 12 W, staying below the 15 W limit.
 
-**Edit 3.** According to the draft, the fan spins at 600 rpm.
+**Edit 2.** Before:
 
-> **Before.** We photograph the fan beside the filter, spinning at 600 rpm.
->
-> **After.** We photograph the fan beside the filter while the fan spins at 600 rpm.
+> The fan turns, drawing air through the filter and highlighting its importance.
+
+After:
+
+> The fan turns, drawing air through the filter.
+
+The phrase about drawing air stays because it tells readers what the fan does.
+
+**Edit 3.** Say the draft identifies the fan as the object spinning at 600 rpm. Before:
+
+> We photograph the fan beside the filter, spinning at 600 rpm.
+
+After:
+
+> We photograph the fan beside the filter while the fan spins at 600 rpm.

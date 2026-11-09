@@ -8,20 +8,26 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The new bus route stops at the hospital every 10 minutes. The future of public transit looks bright.
->
-> **After.** The new bus route stops at the hospital every 10 minutes.
+> The new bus route stops at the hospital every 10 minutes. The future of public transit looks bright.
 
-**Edit 2.** Dark roofs absorb sunlight and heat the rooms below, as stated elsewhere in the draft.
+After:
 
-> **Before.** Roof paint has attracted much attention. We test white paint.
->
-> **After.** Dark roofs absorb sunlight and heat the rooms below. We test white paint.
+> The new bus route stops at the hospital every 10 minutes.
 
-**Edit 3.**
+**Edit 2.** Say the draft states elsewhere that dark roofs absorb sunlight and heat the rooms below. Before:
 
-> **Before.** Gardening is an exciting field. Dormancy is a period without growth. We test whether cold ends dormancy.
->
-> **After.** Dormancy is a period without growth. We test whether cold ends dormancy.
+> Roof paint has attracted much attention. We test white paint.
+
+After:
+
+> Dark roofs absorb sunlight and heat the rooms below. We test white paint.
+
+**Edit 3.** Before:
+
+> Gardening is an exciting field. Dormancy is a period without growth. We test whether cold ends dormancy.
+
+After:
+
+> Dormancy is a period without growth. We test whether cold ends dormancy.

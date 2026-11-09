@@ -8,14 +8,18 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We use $v=d/t$. This equation converts each runner's distance and elapsed time into average speed.
->
-> **After.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
+> We use $v=d/t$. This equation converts each runner's distance and elapsed time into average speed.
 
-**Edit 2.** In another section, the draft explains that the equation converts each runner's distance and elapsed time into average speed. After is a proposal to the author.
+After:
 
-> **Before.** We use $v=d/t$.
->
-> **After.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
+> To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
+
+**Edit 2.** Suppose the draft explains in another section that the equation converts each runner's distance and elapsed time into average speed. The change below is a proposal to the author. Before:
+
+> We use $v=d/t$.
+
+After:
+
+> To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.

@@ -8,20 +8,28 @@ A reference to a nearby equation needs no added description if readers can tell 
 
 ## Examples
 
-**Edit 1.** This passage appears in Section 5; Section 2 defines $r$ as the rainfall rate.
+**Edit 1.** Suppose this passage appears in Section 5, and Section 2 defines $r$ as the rainfall rate. Before:
 
-> **Before.** Let $r$ denote the rainfall rate. We compare $r$ across sites.
->
-> **After.** Recall that $r$ denotes the rainfall rate. We compare $r$ across sites.
+> Let $r$ denote the rainfall rate. We compare $r$ across sites.
 
-**Edit 2.** The draft discusses both evaporation and infiltration rates; it says that the evaporation rate increases in summer.
+After:
 
-> **Before.** The rate increases in summer.
->
-> **After.** The evaporation rate increases in summer.
+> Recall that $r$ denotes the rainfall rate. We compare $r$ across sites.
 
-**Edit 3.** Several pages before this passage, the draft names equation (9) as the energy balance.
+**Edit 2.** Say the draft discusses both evaporation and infiltration rates and says that the evaporation rate increases in summer. Before:
 
-> **Before.** Equation (3) gives the heat loss. We evaluate (3), then apply (9).
->
-> **After.** Equation (3) gives the heat loss. We evaluate (3), then apply the energy balance (9).
+> The rate increases in summer.
+
+After:
+
+> The evaporation rate increases in summer.
+
+**Edit 3.** Suppose the draft names equation (9) as the energy balance several pages before this passage. Before:
+
+> Equation (3) gives the heat loss. We evaluate (3), then apply (9).
+
+After:
+
+> Equation (3) gives the heat loss. We evaluate (3), then apply the energy balance (9).
+
+Readers have just been told what equation (3) does, so its second mention needs no reminder.

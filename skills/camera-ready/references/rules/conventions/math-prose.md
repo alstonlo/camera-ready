@@ -12,26 +12,36 @@ In LaTeX source, a blank line starts a new paragraph. Do not put blank lines aro
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The area of a circle of radius $r$ is: \[\pi r^2.\]
->
-> **After.** The area of a circle of radius $r$ is \[\pi r^2.\]
+> The area of a circle of radius $r$ is: \[\pi r^2.\]
 
-**Edit 2.** In this paper on logic, the passage explains the universal quantifier.
+After:
 
-> **Before.** $P$ is the predicate in $\forall x\,P(x)$.
->
-> **After.** The symbol $P$ is the predicate in $\forall x\,P(x)$.
+> The area of a circle of radius $r$ is \[\pi r^2.\]
 
-**Edit 3.**
+**Edit 2.** Imagine a paper on logic in which this passage explains the universal quantifier. Before:
 
-> **Before.** The value of $q$ is positive, where $q$ denotes net inflow.
->
-> **After.** Let $q$ denote net inflow. The value of $q$ is positive.
+> $P$ is the predicate in $\forall x\,P(x)$.
 
-**Edit 4.** The symbols $a$ and $b$ have already been defined in the draft. A newline is marked here by `\n`.
+After:
 
-> **Before.** `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
->
-> **After.** `The total is\n\[s=a+b.\]\nWe compare it with the limit.`
+> The symbol $P$ is the predicate in $\forall x\,P(x)$.
+
+The quantifier stays in symbols because the passage discusses the notation itself.
+
+**Edit 3.** Before:
+
+> The value of $q$ is positive, where $q$ denotes net inflow.
+
+After:
+
+> Let $q$ denote net inflow. The value of $q$ is positive.
+
+**Edit 4.** Suppose the draft has already defined $a$ and $b$. Here `\n` marks a newline. Before:
+
+> `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
+
+After:
+
+> `The total is\n\[s=a+b.\]\nWe compare it with the limit.`

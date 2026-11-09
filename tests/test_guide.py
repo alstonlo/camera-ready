@@ -1,10 +1,8 @@
 import make_guide
 import pytest
 
-PAIR = (
-    "> **Before.** We perform an evaluation of the model.\n>\n> **After.** We evaluate the model."
-)
-LABEL = "**Edit 1.**\n\n"
+PAIR = "> We perform an evaluation of the model.\n\nAfter:\n\n> We evaluate the model."
+LABEL = "**Edit 1.** Before:\n\n"
 EX1 = LABEL + PAIR
 
 
@@ -26,8 +24,9 @@ def test_guide_is_up_to_date():
             "## Details",
             "More cases.",
             "## Examples",
-            "**Edit 1.** In a Methods section.\n\n" + PAIR,
-            "**Edit 2.**\n\n" + PAIR,
+            "**Edit 1.** Suppose this is a Methods section. Before:\n\n" + PAIR,
+            "A verb names the action directly.",
+            "**Edit 2.** Before:\n\n" + PAIR,
         ),
     ],
 )
@@ -46,68 +45,32 @@ def test_valid_pages_render_only_title_and_summary(text: str):
         page("## Details", "More cases."),
         page("## Examples", "## Details", "More cases."),
         page("## Details", "", "## Examples", EX1),
-        page(
-            "## Details",
-            "More cases.",
-            "## Examples",
-            LABEL + "> **Before.** We perform an evaluation.",
-        ),
-        page(
-            "## Details",
-            "More cases.",
-            "## Examples",
-            LABEL + "> **After.** We evaluate.\n>\n> **Before.** We perform an evaluation.",
-        ),
-        page(
-            "## Details",
-            "More cases.",
-            "## Examples",
-            LABEL + "> **Before.** A.\n>\n> **Before.** B.\n>\n> **After.** C.",
-        ),
-        page(
-            "## Details",
-            "More cases.",
-            "## Examples",
-            LABEL + "> **Before.** A.\n\nContext.\n\n> **After.** B.",
-        ),
+        page("## Details", "More cases.", "## Examples", LABEL + "> We perform an evaluation."),
         page("## Details", "More cases.", "## Examples", PAIR),
-        page("## Details", "More cases.", "## Examples", "In a Methods section.", PAIR),
+        page("## Details", "More cases.", "## Examples", "**Edit 1.**\n\n" + PAIR),
+        page("## Details", "More cases.", "## Examples", "**Edit 2.** Before:\n\n" + PAIR),
+        page("## Details", "More cases.", "## Examples", "**Example 1.** Before:\n\n" + PAIR),
         page("## Details", "More cases.", "## Examples", EX1, "**Edit 2.** Trailing."),
+        page("## Details", "More cases.", "## Examples", EX1, "Why.", "More why."),
+        page("## Details", "More cases.", "## Examples", EX1, "> A stray quote."),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "**Edit 2.**\n\n" + PAIR,
-        ),
-        page(
-            "## Details",
-            "More cases.",
-            "## Examples",
-            "**Example 1.** In a Methods section.\n\n" + PAIR,
+            LABEL + "> A.\n\nBefore:\n\n> B.",
         ),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "> **Edit 1.** In a Methods section.\n>\n" + PAIR,
+            LABEL + "> A.\n> B.\n\nAfter:\n\n> C.",
         ),
+        page("## Details", "More cases.", "## Examples", LABEL + "> Same.\n\nAfter:\n\n> Same."),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            LABEL + "> Before caption: A.\n>\n> After caption: B.",
-        ),
-        page(
-            "## Details",
-            "More cases.",
-            "## Examples",
-            LABEL + "> **Before.** Same.\n>\n> **After.** Same.",
-        ),
-        page(
-            "## Details", "More cases.", "## Examples", LABEL + "- **Before.** A.\n- **After.** B."
-        ),
-        page(
-            "## Details", "More cases.", "## Examples", LABEL + "> **Before.** A.\n> **After.** B."
+            "> **Before.** A.\n>\n> **After.** B.",
         ),
     ],
 )

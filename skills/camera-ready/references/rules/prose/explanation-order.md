@@ -8,14 +8,18 @@ To test the order, cover everything after a sentence and check whether readers h
 
 ## Examples
 
-**Edit 1.** Before this passage, the draft has not defined settling time.
+**Edit 1.** Suppose the draft has not defined settling time before this passage. Before:
 
-> **Before.** We measured the settling time for each mixture. Settling time is the time needed for solid particles in a liquid to sink to the bottom.
->
-> **After.** Settling time is the time needed for solid particles in a liquid to sink to the bottom. We measured the settling time for each mixture.
+> We measured the settling time for each mixture. Settling time is the time needed for solid particles in a liquid to sink to the bottom.
 
-**Edit 2.**
+After:
 
-> **Before.** All six wet boards sagged; none of the dry boards did. Only wet boards sagged, suggesting that moisture weakens them.
->
-> **After.** Only wet boards sagged, suggesting that moisture weakens them. All six wet boards sagged; none of the dry boards did.
+> Settling time is the time needed for solid particles in a liquid to sink to the bottom. We measured the settling time for each mixture.
+
+**Edit 2.** Before:
+
+> All six wet boards sagged; none of the dry boards did. Only wet boards sagged, suggesting that moisture weakens them.
+
+After:
+
+> Only wet boards sagged, suggesting that moisture weakens them. All six wet boards sagged; none of the dry boards did.

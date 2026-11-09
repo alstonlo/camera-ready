@@ -8,20 +8,28 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The filter removes 90% of the dust and paves the way for a new era of air filtration.
->
-> **After.** The filter removes 90% of the dust.
+> The filter removes 90% of the dust and paves the way for a new era of air filtration.
 
-**Edit 2.** The smaller filter fits inside the tested bottles, as the draft establishes.
+After:
 
-> **Before.** The smaller filter ushers in a new era of water treatment.
->
-> **After.** The smaller filter fits inside the tested bottles.
+> The filter removes 90% of the dust.
 
-**Edit 3.** No safety tests are described in the draft.
+**Edit 2.** Suppose the draft establishes that the smaller filter fits inside the tested bottles. Before:
 
-> **Before.** The filter makes river water safe to drink, marking a historic turning point.
->
-> **After.** The filter makes river water safe to drink. Flag for the author: What safety tests support this claim?
+> The smaller filter ushers in a new era of water treatment.
+
+After:
+
+> The smaller filter fits inside the tested bottles.
+
+**Edit 3.** Imagine the draft describes no safety tests. Before:
+
+> The filter makes river water safe to drink, marking a historic turning point.
+
+After:
+
+> The filter makes river water safe to drink. Flag for the author: What safety tests support this claim?
+
+The drinking-water claim needs evidence. Treating it as empty praise would discard a substantive claim.

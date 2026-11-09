@@ -14,26 +14,38 @@ To check an analogy, list which familiar object stands for each technical object
 
 ## Examples
 
-**Edit 1.** A foam pad provides the support, according to the draft.
+**Edit 1.** Suppose the draft identifies a foam pad as the support. Before:
 
-> **Before.** Our support strategy holds the vial upright.
->
-> **After.** A foam pad holds the vial upright.
+> Our support strategy holds the vial upright.
 
-**Edit 2.** The preceding sentence defines "the framework" as the steel frame around the tank.
+After:
 
-> **Before.** We utilize the framework to support the tank.
->
-> **After.** We use the framework to support the tank.
+> A foam pad holds the vial upright.
 
-**Edit 3.**
+**Edit 2.** Say the preceding sentence defines "the framework" as the steel frame around the tank. Before:
 
-> **Before.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
->
-> **After.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
+> We utilize the framework to support the tank.
 
-**Edit 4.** The spring closes the lid, as stated in the draft.
+After:
 
-> **Before.** The spring is the lid’s tireless guardian.
->
-> **After.** The spring closes the lid.
+> We use the framework to support the tank.
+
+The preceding definition already tells readers which object "the framework" names.
+
+**Edit 3.** Before:
+
+> Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
+
+After:
+
+> Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
+
+The sieve explains which particles the mesh retains, so the comparison helps readers understand the operation.
+
+**Edit 4.** Imagine the draft states that the spring closes the lid. Before:
+
+> The spring is the lid’s tireless guardian.
+
+After:
+
+> The spring closes the lid.

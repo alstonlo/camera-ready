@@ -13,11 +13,15 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 ## Examples
 
-**Edit 1.** {{ Optional context: only the facts about the draft that a reader needs to understand the edit. }}
+**Edit 1.** {{ Optional context, phrased as a hypothetical: "Suppose the draft ..." }} Before:
 
-> **Before.** {{ A passage that breaks the rule. }}
->
-> **After.** {{ The same passage, corrected under this rule alone. }}
+> {{ A passage that breaks the rule. }}
+
+After:
+
+> {{ The same passage, corrected under this rule alone. }}
+
+{{ Optional explanation of the edit, when it is not obvious. }}
 ```
 
 The guide below reproduces each rule's heading and summary, and each rule page adds `Details` and at least one example. Read the full page when a rule applies to your text but the summary does not show which edit to make, or when the summary refers to a case on the page. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.

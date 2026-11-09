@@ -8,26 +8,34 @@ Place each section reminder according to [paragraph opening order](../prose/para
 
 ## Examples
 
-**Edit 1.** Results opens with this sentence; Methods defines the schedules as feeding once or three times a day.
+**Edit 1.** Suppose this sentence opens Results, and Methods defines the schedules as feeding once or three times a day. Before:
 
-> **Before.** We compare fish growth under the two feeding schedules.
->
-> **After.** We compare fish growth under the two feeding schedules: once or three times a day.
+> We compare fish growth under the two feeding schedules.
 
-**Edit 2.** Cooling time is identified as the production limit in the preceding section, and this section tests a fan to shorten that time.
+After:
 
-> **Before.** We test a fan.
->
-> **After.** To shorten the cooling time that limits production, we test a fan.
+> We compare fish growth under the two feeding schedules: once or three times a day.
 
-**Edit 3.** The seal first appears in the introduction here; the abstract defines it as a rubber ring.
+**Edit 2.** Imagine the preceding section identifies cooling time as the production limit, and this section tests a fan to shorten that time. Before:
 
-> **Before.** The seal prevents leaks at the pipe joint.
->
-> **After.** The seal, a rubber ring, prevents leaks at the pipe joint.
+> We test a fan.
 
-**Edit 4.** Methods opens with these sentences.
+After:
 
-> **Before.** We attach a fan to the lid. We use airflow to shorten cooling time.
->
-> **After.** We use airflow to shorten cooling time. We attach a fan to the lid.
+> To shorten the cooling time that limits production, we test a fan.
+
+**Edit 3.** Say this is the seal's first mention in the introduction, and the abstract defines it as a rubber ring. Before:
+
+> The seal prevents leaks at the pipe joint.
+
+After:
+
+> The seal, a rubber ring, prevents leaks at the pipe joint.
+
+**Edit 4.** Imagine these sentences open Methods. Before:
+
+> We attach a fan to the lid. We use airflow to shorten cooling time.
+
+After:
+
+> We use airflow to shorten cooling time. We attach a fan to the lid.

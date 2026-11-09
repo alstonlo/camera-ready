@@ -8,14 +8,18 @@ You may write the question as a statement rather than a direct question. Do not 
 
 ## Examples
 
-**Edit 1.** Later in this section, the draft reports that the lid halves water loss during boiling.
+**Edit 1.** Suppose the draft reports later in this section that the lid halves water loss during boiling. Before:
 
-> **Before.** We test whether a lid reduces water loss during boiling.
->
-> **After.** We test whether a lid reduces water loss during boiling. The lid halves water loss.
+> We test whether a lid reduces water loss during boiling.
 
-**Edit 2.** Methods explains how the lid returns condensed water to the tank to prevent evaporation.
+After:
 
-> **Before.** We describe how the lid prevents evaporation.
->
-> **After.** The lid prevents evaporation by returning condensed water to the tank.
+> We test whether a lid reduces water loss during boiling. The lid halves water loss.
+
+**Edit 2.** Imagine the Methods section explains how the lid returns condensed water to the tank to prevent evaporation. Before:
+
+> We describe how the lid prevents evaporation.
+
+After:
+
+> The lid prevents evaporation by returning condensed water to the tank.

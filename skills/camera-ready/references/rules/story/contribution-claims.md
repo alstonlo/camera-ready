@@ -8,26 +8,36 @@ If a major result supports no contribution, check how it relates to the paper's 
 
 ## Examples
 
-**Edit 1.** Section 4 establishes rust prevention in the saltwater test. After proposes a contribution claim for the author.
+**Edit 1.** Suppose Section 4 establishes that the coating prevents rust in the saltwater test. The revision below is a proposed contribution claim for the author. Before:
 
-> **Before.** We test the coating in saltwater (Section 4).
->
-> **After.** We show that the coating prevents rust in the saltwater test (Section 4).
+> We test the coating in saltwater (Section 4).
 
-**Edit 2.** The evidence for this claim appears in Section 3.
+After:
 
-> **Before.** The screen blocks all flies in our trial.
->
-> **After.** The screen blocks all flies in our trial (Section 3).
+> We show that the coating prevents rust in the saltwater test (Section 4).
 
-**Edit 3.**
+**Edit 2.** Say the evidence for this claim appears in Section 3. Before:
 
-> **Before.** The coating prevents rust in the saltwater test (Section 4). Section 4 presents the results.
->
-> **After.** The coating prevents rust in the saltwater test (Section 4).
+> The screen blocks all flies in our trial.
 
-**Edit 4.** No measurements or analysis in the draft support the power-use claim.
+After:
 
-> **Before.** Our controller uses less power than the baseline.
->
-> **After.** Our controller uses less power than the baseline. Flag for the author: Which evidence supports this contribution?
+> The screen blocks all flies in our trial (Section 3).
+
+**Edit 3.** Before:
+
+> The coating prevents rust in the saltwater test (Section 4). Section 4 presents the results.
+
+After:
+
+> The coating prevents rust in the saltwater test (Section 4).
+
+**Edit 4.** Suppose no measurements or analysis in the draft support the power-use claim. Before:
+
+> Our controller uses less power than the baseline.
+
+After:
+
+> Our controller uses less power than the baseline. Flag for the author: Which evidence supports this contribution?
+
+The claim stays so the author can supply evidence or reconsider the contribution.

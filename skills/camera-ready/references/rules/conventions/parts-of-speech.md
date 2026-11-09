@@ -8,8 +8,12 @@ When replacing a verb, keep [technical names](term-consistency.md) unchanged. If
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** We model growth. The model fits the observations. We test the test's accuracy.
->
-> **After.** We model growth. The model fits the observations. We assess the test's accuracy.
+> We model growth. The model fits the observations. We test the test's accuracy.
+
+After:
+
+> We model growth. The model fits the observations. We assess the test's accuracy.
+
+The two uses of "model" are easy to distinguish in separate sentences, so they need no revision.

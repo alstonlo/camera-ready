@@ -10,20 +10,28 @@ A sentence such as "No work had studied X before Lee" describes only the gap tha
 
 ## Examples
 
-**Edit 1.** Past tense is used for this experiment in the rest of the draft.
+**Edit 1.** Suppose the rest of the draft describes this experiment in the past tense. Before:
 
-> **Before.** We rinsed the seeds and dry them.
->
-> **After.** We rinsed the seeds and dried them.
+> We rinsed the seeds and dry them.
 
-**Edit 2.** The second pilot is still planned, and Section 3 is already written.
+After:
 
-> **Before.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
->
-> **After.** Section 3 describes the pilot. We will repeat the pilot at a second site.
+> We rinsed the seeds and dried them.
 
-**Edit 3.** Both the model and the freezing-point relation are presented in the draft as established knowledge that still applies.
+**Edit 2.** Imagine Section 3 is already written, but the second pilot is still planned. Before:
 
-> **Before.** Ortiz's model described how salt lowered the freezing point.
->
-> **After.** Ortiz's model describes how salt lowers the freezing point.
+> Section 3 will describe the pilot. We will repeat the pilot at a second site.
+
+After:
+
+> Section 3 describes the pilot. We will repeat the pilot at a second site.
+
+The future tense stays for the second pilot because that work has yet to be done.
+
+**Edit 3.** Say the draft presents both the model and the freezing-point relation as established knowledge that still applies. Before:
+
+> Ortiz's model described how salt lowered the freezing point.
+
+After:
+
+> Ortiz's model describes how salt lowers the freezing point.

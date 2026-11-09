@@ -8,20 +8,30 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** The author asked for polish only. Before proposes cutting the draft's explanation that the scale sometimes drifts.
+**Edit 1.** Imagine the author asks only for polish and an editor proposes cutting the draft's explanation that the scale sometimes drifts. Before:
 
-> **Before.** We weigh each sample twice.
->
-> **After.** We weigh each sample twice because the scale sometimes drifts.
+> We weigh each sample twice.
 
-**Edit 2.** The sundial has no bearing on the paper's claims, and the author has asked for a shorter paper.
+After:
 
-> **Before.** The test measures soil acidity. The garden also has a sundial.
->
-> **After.** The test measures soil acidity.
+> We weigh each sample twice because the scale sometimes drifts.
 
-**Edit 3.** The draft specifies drying at 30 °C, and the author's request was limited to polish. Before proposes moving that detail from the main text to Appendix A.
+Before shows the editor's proposed cut. Without the draft's explanation, readers lose the reason for weighing each sample twice.
 
-> **Before.** We dry the seeds overnight; see Appendix A for the procedure.
->
-> **After.** We dry the seeds overnight at 30 °C.
+**Edit 2.** Suppose the sundial has no bearing on the paper's claims, and the author asks for a shorter paper. Before:
+
+> The test measures soil acidity. The garden also has a sundial.
+
+After:
+
+> The test measures soil acidity.
+
+**Edit 3.** Say the author asks only for polish and an editor proposes moving the draft's 30 °C drying temperature from the main text to Appendix A. Before:
+
+> We dry the seeds overnight; see Appendix A for the procedure.
+
+After:
+
+> We dry the seeds overnight at 30 °C.
+
+Before is the editor's proposal. After restores a method detail that the author has not asked to move.

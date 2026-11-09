@@ -10,32 +10,48 @@ Keep established technical verbs with inanimate subjects, such as an enzyme reco
 
 ## Examples
 
-**Edit 1.**
+**Edit 1.** Before:
 
-> **Before.** The technician’s inspection of the seal precedes the technician’s replacement of it.
->
-> **After.** The technician inspects the seal before replacing it.
+> The technician’s inspection of the seal precedes the technician’s replacement of it.
 
-**Edit 2.**
+After:
 
-> **Before.** We perform an evaluation of quantization.
->
-> **After.** We evaluate quantization.
+> The technician inspects the seal before replacing it.
 
-**Edit 3.** The authors detect the signals, according to the draft.
+**Edit 2.** Before:
 
-> **Before.** Noise fell after filtering. This reduction in noise permits the detection of faint signals.
->
-> **After.** Noise fell after filtering. This reduction in noise permits us to detect faint signals.
+> We perform an evaluation of quantization.
 
-**Edit 4.** Elsewhere, the draft says that the recorder deletes the readings.
+After:
 
-> **Before.** The recorder forgets readings after an hour.
->
-> **After.** The recorder deletes readings after an hour.
+> We evaluate quantization.
 
-**Edit 5.**
+Quantization names the technique being evaluated, so making it a verb would describe a different action.
 
-> **Before.** The results suggest that the coating causes a reduction in heat loss.
->
-> **After.** The results suggest that the coating reduces heat loss.
+**Edit 3.** Suppose the draft identifies the authors as the people who detect the signals. Before:
+
+> Noise fell after filtering. This reduction in noise permits the detection of faint signals.
+
+After:
+
+> Noise fell after filtering. This reduction in noise permits us to detect faint signals.
+
+"This reduction in noise" stays because it connects the second sentence to the first.
+
+**Edit 4.** Say the draft states elsewhere that the recorder deletes the readings. Before:
+
+> The recorder forgets readings after an hour.
+
+After:
+
+> The recorder deletes readings after an hour.
+
+**Edit 5.** Before:
+
+> The results suggest that the coating causes a reduction in heat loss.
+
+After:
+
+> The results suggest that the coating reduces heat loss.
+
+Results can support an inference, so "The results suggest" does not assign them a human thought or feeling.

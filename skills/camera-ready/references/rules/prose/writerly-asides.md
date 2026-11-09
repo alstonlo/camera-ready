@@ -8,14 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Elsewhere, the draft says that the second trial tests the seal under pressure.
+**Edit 1.** Suppose the draft says elsewhere that the second trial tests the seal under pressure. Before:
 
-> **Before.** Do not overlook the second trial.
->
-> **After.** The second trial matters because it tests the seal under pressure.
+> Do not overlook the second trial.
 
-**Edit 2.**
+After:
 
-> **Before.** Neither pump moves water. Regrettably, that is the long and short of it.
->
-> **After.** Regrettably, neither pump moves water.
+> The second trial matters because it tests the seal under pressure.
+
+**Edit 2.** Before:
+
+> Neither pump moves water. Regrettably, that is the long and short of it.
+
+After:
+
+> Regrettably, neither pump moves water.
+
+"Regrettably" preserves the author's judgment about the result without asking readers to interpret an idiom.
