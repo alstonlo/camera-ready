@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft gives the fan's power limit as 15 W.
+**Edit 1.** The draft gives the fan's power limit as 15 W. The edit replaces "highlighting its importance" with "staying below the 15 W limit" so that the trailing phrase makes a checkable comparison supported by the draft.
 
-> **Bad.** The fan uses 12 W, highlighting its importance.
+> **Before.** The fan uses 12 W, highlighting its importance.
 >
-> **Good.** The fan uses 12 W, staying below the 15 W limit.
+> **After.** The fan uses 12 W, staying below the 15 W limit.
 
-**Example 2.** Good keeps the description of airflow because it states what the fan does.
+**Edit 2.** The edit deletes "and highlighting its importance" because it adds no checkable claim, while keeping "drawing air through the filter" because it states what the fan does.
 
-> **Bad.** The fan turns, drawing air through the filter and highlighting its importance.
+> **Before.** The fan turns, drawing air through the filter and highlighting its importance.
 >
-> **Good.** The fan turns, drawing air through the filter.
+> **After.** The fan turns, drawing air through the filter.
 
-**Example 3.** The draft identifies the fan as the object spinning at 600 rpm.
+**Edit 3.** The draft identifies the fan as the object spinning at 600 rpm. The edit replaces "spinning at 600 rpm" with "while the fan spins at 600 rpm" so that readers know the fan is spinning, not the filter or the photographers.
 
-> **Bad.** We photograph the fan beside the filter, spinning at 600 rpm.
+> **Before.** We photograph the fan beside the filter, spinning at 600 rpm.
 >
-> **Good.** We photograph the fan beside the filter while the fan spins at 600 rpm.
+> **After.** We photograph the fan beside the filter while the fan spins at 600 rpm.

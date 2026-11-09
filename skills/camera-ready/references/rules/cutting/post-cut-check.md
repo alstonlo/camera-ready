@@ -8,32 +8,32 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** An editor moves the recovery experiment to Appendix D to shorten the main text.
+**Edit 1.** An editor moves the recovery experiment to Appendix D to shorten the main text. The edit replaces "Section 5" with "Appendix D" so that the reference points to the experiment's new location.
 
-> **Bad.** The recovery experiment is described in Section 5.
+> **Before.** The recovery experiment is described in Section 5.
 >
-> **Good.** The recovery experiment is described in Appendix D.
+> **After.** The recovery experiment is described in Appendix D.
 
-**Example 2.** The draft establishes the claim, and an editor moves the full supporting test to Appendix B. Good restores the original confidence because moving the evidence does not weaken it.
+**Edit 2.** The draft establishes the claim, and an editor moves the full supporting test to Appendix B. The edit replaces "may prevent" with "prevents" to restore the original confidence while keeping the Appendix B reference, because moving the evidence does not weaken it.
 
-> **Bad.** The coating may prevent rust in fresh water (Appendix B).
+> **Before.** The coating may prevent rust in fresh water (Appendix B).
 >
-> **Good.** The coating prevents rust in fresh water (Appendix B).
+> **After.** The coating prevents rust in fresh water (Appendix B).
 
-**Example 3.** With the author's permission, an editor cuts the only test of the metal lid. The remaining evidence supports the claim about the glass lid.
+**Edit 3.** With the author's permission, an editor cuts the only test of the metal lid, leaving evidence that supports the claim about the glass lid. The edit replaces "Both lids reduce" with "The glass lid reduces" so that the claim covers only the lid whose supporting test remains.
 
-> **Bad.** Both lids reduce evaporation.
+> **Before.** Both lids reduce evaporation.
 >
-> **Good.** The glass lid reduces evaporation.
+> **After.** The glass lid reduces evaporation.
 
-**Example 4.** An editor cuts the statement about soil acidity. Good restores it because measuring acidity alone does not explain the decision to add lime.
+**Edit 4.** An editor cuts the statement about soil acidity. The edit restores "The soil is too acidic for beans" between the measurement and the decision to add lime, because measuring acidity alone does not explain that decision.
 
-> **Bad.** We measure acidity. We therefore add lime.
+> **Before.** We measure acidity. We therefore add lime.
 >
-> **Good.** We measure acidity. The soil is too acidic for beans. We therefore add lime.
+> **After.** We measure acidity. The soil is too acidic for beans. We therefore add lime.
 
-**Example 5.** The draft gives slow drainage as a tentative explanation, but an editor cuts the hedge.
+**Edit 5.** The draft gives slow drainage as a tentative explanation, but an editor cuts the hedge. The edit replaces "reflects" with "may reflect" to restore the uncertainty in the draft's explanation.
 
-> **Bad.** The delay reflects slow drainage.
+> **Before.** The delay reflects slow drainage.
 >
-> **Good.** The delay may reflect slow drainage.
+> **After.** The delay may reflect slow drainage.

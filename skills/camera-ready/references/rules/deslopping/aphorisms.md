@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft explains how the valve works.
+**Edit 1.** The draft explains how the valve works. The edit replaces "the guardian of the tank" with the explanation that the valve releases gas above the pressure limit, so that readers learn the mechanism rather than an analogy.
 
-> **Bad.** The safety valve is the guardian of the tank.
+> **Before.** The safety valve is the guardian of the tank.
 >
-> **Good.** The safety valve releases gas when the pressure rises above the limit.
+> **After.** The safety valve releases gas when the pressure rises above the limit.
 
-**Example 2.** Good keeps the gatekeeper analogy because it makes a substantive claim whose mechanism the draft does not explain; the editor flags that gap separately.
+**Edit 2.** The draft does not explain how the membrane admits only water; the editor flags that gap separately. The edit deletes "It is the hero of the filter" as empty praise, while keeping the gatekeeper analogy because it makes a substantive claim about what passes through the membrane.
 
-> **Bad.** The membrane is the gatekeeper that admits only water. It is the hero of the filter.
+> **Before.** The membrane is the gatekeeper that admits only water. It is the hero of the filter.
 >
-> **Good.** The membrane is the gatekeeper that admits only water.
+> **After.** The membrane is the gatekeeper that admits only water.

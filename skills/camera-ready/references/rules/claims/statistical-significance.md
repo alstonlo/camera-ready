@@ -10,32 +10,32 @@ Statistical power is the probability that a test detects an effect of a given si
 
 ## Examples
 
-**Example 1.** The draft sets the significance level at 0.05 and tests for a difference in mean drying times. Good avoids claiming equality, which a nonsignificant result does not establish.
+**Edit 1.** The draft sets the significance level at 0.05 and tests for a difference in mean drying times. The edit replaces "are equal for" with "do not differ significantly between" while keeping the test and p-value, because a nonsignificant result does not establish equality.
 
-> **Bad.** Mean drying times are equal for paints A and B (Welch's t-test, p = 0.18).
+> **Before.** Mean drying times are equal for paints A and B (Welch's t-test, p = 0.18).
 >
-> **Good.** Mean drying times do not differ significantly between paints A and B (Welch's t-test, p = 0.18).
+> **After.** Mean drying times do not differ significantly between paints A and B (Welch's t-test, p = 0.18).
 
-**Example 2.** The draft reports the reduction but no statistical test.
+**Edit 2.** The draft reports the reduction but no statistical test. The edit replaces "significantly" with "by 2 min" so that the sentence gives the measured reduction without implying a statistical test.
 
-> **Bad.** Paint A reduces drying time significantly.
+> **Before.** Paint A reduces drying time significantly.
 >
-> **Good.** Paint A reduces drying time by 2 min.
+> **After.** Paint A reduces drying time by 2 min.
 
-**Example 3.** The draft reports the estimate and confidence interval elsewhere. Good retains the size and uncertainty of the estimated difference even though the test is not significant.
+**Edit 3.** The draft reports the estimate and confidence interval elsewhere. The edit adds the estimated difference of 2 min and its 95% confidence interval from −1 to 5 min before the unchanged test result, so that readers can see the effect's size and uncertainty even though it is not significant.
 
-> **Bad.** The difference is not significant (Welch's t-test, p = 0.18).
+> **Before.** The difference is not significant (Welch's t-test, p = 0.18).
 >
-> **Good.** The estimated difference is 2 min, with a 95% confidence interval from −1 to 5 min. The difference is not significant (Welch's t-test, p = 0.18).
+> **After.** The estimated difference is 2 min, with a 95% confidence interval from −1 to 5 min. The difference is not significant (Welch's t-test, p = 0.18).
 
-**Example 4.** The draft reports p = 0.03 for a test of equal mean masses. Good describes the probability of test results under that assumption, not the probability that the assumption is true.
+**Edit 4.** The draft reports p = 0.03 for a test of equal mean masses. The edit replaces the probability that the null hypothesis is true with the probability of results at least as extreme as those observed, conditional on equal mean masses and the test's assumptions, so that 0.03 has its correct meaning as a p-value.
 
-> **Bad.** The probability that the equal-means null is true is 0.03.
+> **Before.** The probability that the equal-means null is true is 0.03.
 >
-> **Good.** If mean masses are equal and the test's assumptions hold, the probability of results at least as extreme as those observed is 0.03.
+> **After.** If mean masses are equal and the test's assumptions hold, the probability of results at least as extreme as those observed is 0.03.
 
-**Example 5.** The draft establishes statistical significance but gives no evidence of practical importance.
+**Edit 5.** The draft establishes statistical significance but gives no evidence of practical importance. The edit replaces "practically important" with "statistically significant" while keeping the difference, test, and p-value, so that the claim stays within the evidence.
 
-> **Bad.** The 0.1 s difference is practically important (Welch's t-test, p = 0.01).
+> **Before.** The 0.1 s difference is practically important (Welch's t-test, p = 0.01).
 >
-> **Good.** The 0.1 s difference is statistically significant (Welch's t-test, p = 0.01).
+> **After.** The 0.1 s difference is statistically significant (Welch's t-test, p = 0.01).

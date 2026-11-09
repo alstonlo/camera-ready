@@ -8,20 +8,20 @@ When a question assumes that readers agree with a claim ("Does this not prove...
 
 ## Examples
 
-**Example 1.** The experiment tests whether salt delays germination. Good keeps that research question because it defines what the study tests.
+**Edit 1.** The experiment tests whether salt delays germination. The edit deletes "What should we ask next?", so that the paragraph opens with the research question that defines what the study tests and keeps its answer immediately after it.
 
-> **Bad.** What should we ask next? Does salt delay germination? In our tests, it delays germination by 2 days.
+> **Before.** What should we ask next? Does salt delay germination? In our tests, it delays germination by 2 days.
 >
-> **Good.** Does salt delay germination? In our tests, it delays germination by 2 days.
+> **After.** Does salt delay germination? In our tests, it delays germination by 2 days.
 
-**Example 2.** Good keeps the question about wilting because it turns the conflicting observations into a puzzle that the next sentence resolves.
+**Edit 2.** The edit deletes "What do we learn?", so that the paragraph opens with the observations instead of a question used only to introduce them. It keeps "Why can these occur together?" because that question turns the conflicting observations into a puzzle that the next sentence resolves.
 
-> **Bad.** What do we learn? The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
+> **Before.** What do we learn? The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 >
-> **Good.** The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
+> **After.** The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 
-**Example 3.** The draft's measurements support reduced water loss in these tests. Good states that finding directly without asking readers to accept the stronger claim that water loss is prevented.
+**Edit 3.** The draft's measurements support reduced water loss in these tests. The edit turns the question beginning "Do these tests not prove" into a statement, replaces "prevents" with "reduces", and limits the finding to "these tests", so that it reports the supported result without presuming agreement with a stronger claim.
 
-> **Bad.** Do these tests not prove that the mulch prevents water loss?
+> **Before.** Do these tests not prove that the mulch prevents water loss?
 >
-> **Good.** The mulch reduces water loss in these tests.
+> **After.** The mulch reduces water loss in these tests.

@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft explains elsewhere why fitting through the door matters for transport. Good uses that stated consequence to replace the bare label of importance.
+**Edit 1.** The draft explains elsewhere why fitting through the door matters for transport. The edit replaces "This is an important result" with a clause explaining that the tray can be transported without being taken apart, joined to the finding with "so" to state why it matters.
 
-> **Bad.** The tray fits through the door. This is an important result.
+> **Before.** The tray fits through the door. This is an important result.
 >
-> **Good.** The tray fits through the door, so it can be transported without being taken apart.
+> **After.** The tray fits through the door, so it can be transported without being taken apart.
 
-**Example 2.** Good keeps the authors' reaction where it introduces the finding; the following sentence adds only a second expression of that reaction.
+**Edit 2.** The edit deletes "This is a surprising result" because it only repeats the authors' reaction, and keeps "Surprisingly," where that reaction introduces the finding.
 
-> **Bad.** Surprisingly, the dry seeds sprout first. This is a surprising result.
+> **Before.** Surprisingly, the dry seeds sprout first. This is a surprising result.
 >
-> **Good.** Surprisingly, the dry seeds sprout first.
+> **After.** Surprisingly, the dry seeds sprout first.

@@ -8,26 +8,26 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft identifies both steps as the authors' actions and otherwise uses "we" consistently.
+**Edit 1.** The draft identifies both steps as the authors' actions and otherwise uses "we" consistently. The edit replaces "The method heats it" with "We heat it", so both steps name the authors as the actor and use the draft's consistent voice.
 
-> **Bad.** We filter the water. The method heats it.
+> **Before.** We filter the water. The method heats it.
 >
-> **Good.** We filter the water. We heat it.
+> **After.** We filter the water. We heat it.
 
-**Example 2.** The draft identifies the vessel material as a choice made by the authors.
+**Edit 2.** The draft identifies the vessel material as a choice made by the authors. The edit replaces "The method chooses" with "We choose", so the design decision is attributed to the authors who made it.
 
-> **Bad.** The method chooses a glass vessel to avoid corrosion.
+> **Before.** The method chooses a glass vessel to avoid corrosion.
 >
-> **Good.** We choose a glass vessel to avoid corrosion.
+> **After.** We choose a glass vessel to avoid corrosion.
 
-**Example 3.** The sentence describes a convention shared by researchers generally.
+**Edit 3.** The sentence describes a convention shared by researchers generally. The edit replaces "We" with "Researchers", so the subject names the wider group whose convention is being described.
 
-> **Bad.** We conventionally measure angles in degrees.
+> **Before.** We conventionally measure angles in degrees.
 >
-> **Good.** Researchers conventionally measure angles in degrees.
+> **After.** Researchers conventionally measure angles in degrees.
 
-**Example 4.** The draft does not identify who removed the label. Good keeps the first passive because changing it to "we" would assign the removal to the authors without evidence.
+**Edit 4.** The draft does not identify who removed the label. The edit replaces "The jar is weighed by us" with "We weigh the jar" to state the authors' action in active voice. It keeps "The label was removed" because assigning that action to the authors would invent an actor.
 
-> **Bad.** The label was removed before delivery. The jar is weighed by us.
+> **Before.** The label was removed before delivery. The jar is weighed by us.
 >
-> **Good.** The label was removed before delivery. We weigh the jar.
+> **After.** The label was removed before delivery. We weigh the jar.

@@ -12,26 +12,26 @@ In LaTeX source, a blank line starts a new paragraph. Do not put blank lines aro
 
 ## Examples
 
-**Example 1.** Good removes the colon because the words before the display do not form a complete clause.
+**Edit 1.** The edit removes the colon after "is" because the words before the display do not form a complete clause; the formula completes the sentence.
 
-> **Bad.** The area of a circle of radius $r$ is: \[\pi r^2.\]
+> **Before.** The area of a circle of radius $r$ is: \[\pi r^2.\]
 >
-> **Good.** The area of a circle of radius $r$ is \[\pi r^2.\]
+> **After.** The area of a circle of radius $r$ is \[\pi r^2.\]
 
-**Example 2.** This passage explains the universal quantifier in a logic paper. Good keeps the symbolic quantifier because the notation itself is under discussion.
+**Edit 2.** This passage explains the universal quantifier in a logic paper. The edit adds "The symbol" before $P$ so the sentence starts with words, and keeps the symbolic quantifier because the notation itself is under discussion.
 
-> **Bad.** $P$ is the predicate in $\forall x\,P(x)$.
+> **Before.** $P$ is the predicate in $\forall x\,P(x)$.
 >
-> **Good.** The symbol $P$ is the predicate in $\forall x\,P(x)$.
+> **After.** The symbol $P$ is the predicate in $\forall x\,P(x)$.
 
-**Example 3.**
+**Edit 3.** The edit moves the definition of $q$ from the trailing "where" clause into a separate sentence before the positivity claim, so readers know what $q$ means before reading the claim.
 
-> **Bad.** The value of $q$ is positive, where $q$ denotes net inflow.
+> **Before.** The value of $q$ is positive, where $q$ denotes net inflow.
 >
-> **Good.** Let $q$ denote net inflow. The value of $q$ is positive.
+> **After.** Let $q$ denote net inflow. The value of $q$ is positive.
 
-**Example 4.** The draft defines $a$ and $b$ earlier. Here, `\n` denotes a newline. Good removes the blank line so LaTeX keeps the formula in the paragraph it completes.
+**Edit 4.** The draft defines $a$ and $b$ earlier; here, `\n` denotes a newline. The edit removes the blank line between "The total is" and the display, so LaTeX keeps the formula in the paragraph it completes.
 
-> **Bad.** `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
+> **Before.** `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
 >
-> **Good.** `The total is\n\[s=a+b.\]\nWe compare it with the limit.`
+> **After.** `The total is\n\[s=a+b.\]\nWe compare it with the limit.`

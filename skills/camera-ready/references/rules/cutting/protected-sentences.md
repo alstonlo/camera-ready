@@ -13,26 +13,26 @@ Readers may need a sentence even when it adds no new facts. Details needed to re
 
 ## Examples
 
-**Example 1.** Bad shows a proposed cut from the draft. Good keeps the dry-soil result because it shows a condition in which the treatment has the opposite effect.
+**Edit 1.** Before shows a proposed cut from the draft. The edit restores "It reduces growth in dry soil", so that the passage keeps the condition in which the treatment has the opposite effect.
 
-> **Bad.** The fertilizer increases growth in wet soil.
+> **Before.** The fertilizer increases growth in wet soil.
 >
-> **Good.** The fertilizer increases growth in wet soil. It reduces growth in dry soil.
+> **After.** The fertilizer increases growth in wet soil. It reduces growth in dry soil.
 
-**Example 2.** Bad shows a proposed cut from a figure caption. Good keeps the credit and permission statement because the caption must acknowledge the adapted material on its own.
+**Edit 2.** Before shows a proposed cut from a figure caption. The edit restores "Adapted from Rao et al. (2022), with permission", so that the caption acknowledges the adapted material and its permission on its own.
 
-> **Bad.** The roots (brown) spread wider than the leaves (green).
+> **Before.** The roots (brown) spread wider than the leaves (green).
 >
-> **Good.** The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
+> **After.** The roots (brown) spread wider than the leaves (green). Adapted from Rao et al. (2022), with permission.
 
-**Example 3.** Bad shows a proposed cut of the paragraph's opening sentence. Good keeps the sentence because it tells readers what the measurements show, even though it adds no new data.
+**Edit 3.** Before shows a proposed cut of the paragraph's opening sentence. The edit restores "Thicker walls keep the jar cooler" before the measurements, so that readers know what the measurements show even though the opening adds no new data.
 
-> **Bad.** At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
+> **Before.** At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 >
-> **Good.** Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
+> **After.** Thicker walls keep the jar cooler. At noon, the thick jar reads 24 °C and the thin jar reads 29 °C.
 
-**Example 4.** The author has requested cuts, and the triage order has reached repeated limitations.
+**Edit 4.** The author has requested cuts, and the triage order has reached repeated limitations. The edit deletes the second "The results cannot establish effects in children" while keeping the first statement and its reason, so that the authorized cut removes repetition without losing the limitation.
 
-> **Bad.** Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
+> **Before.** Only adults participate, so the results cannot establish effects in children. The results cannot establish effects in children.
 >
-> **Good.** Only adults participate, so the results cannot establish effects in children.
+> **After.** Only adults participate, so the results cannot establish effects in children.

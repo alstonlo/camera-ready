@@ -8,26 +8,26 @@ State the type of each object, as in "the linear operator $A$". Keep every assum
 
 ## Examples
 
-**Example 1.** Good completes the clause before the colon; "We prove that" still needs the statement of what is proved.
+**Edit 1.** The edit replaces "We prove that" with "We prove the following result", so that the colon follows a complete clause rather than a clause still missing what is proved.
 
-> **Bad.** We prove that: Theorem 1. Every square is a rectangle.
+> **Before.** We prove that: Theorem 1. Every square is a rectangle.
 >
-> **Good.** We prove the following result: Theorem 1. Every square is a rectangle.
+> **After.** We prove the following result: Theorem 1. Every square is a rectangle.
 
-**Example 2.** The draft defines the angles before the theorem. Good repeats the definition inside the theorem so that readers can understand the statement on its own.
+**Edit 2.** The draft defines the angles before the theorem. The edit defines $a$, $b$, and $c$ as the interior angles of a Euclidean triangle inside the theorem and refers to "Their sum", so that the symbols are defined before use and the statement can be understood on its own.
 
-> **Bad.** Theorem 2. The sum of $a$, $b$, and $c$ is 180°.
+> **Before.** Theorem 2. The sum of $a$, $b$, and $c$ is 180°.
 >
-> **Good.** Theorem 2. Let $a$, $b$, and $c$ be the interior angles of a Euclidean triangle. Their sum is 180°.
+> **After.** Theorem 2. Let $a$, $b$, and $c$ be the interior angles of a Euclidean triangle. Their sum is 180°.
 
-**Example 3.** The draft defines $n$ as the number of items and $s$ as storage. Good moves the explanation of the bound's purpose outside the theorem but keeps $n>0$, which restricts when the bound holds.
+**Edit 3.** The draft defines $n$ as the number of items and $s$ as storage. The edit moves "The following bound gives an upper limit on storage" before "Theorem 3", so that the explanation of purpose sits outside the formal statement while the condition $n>0$ remains part of the claim.
 
-> **Bad.** Theorem 3. The following bound gives an upper limit on storage. If $n>0$, then $s(n)\leq 2n$.
+> **Before.** Theorem 3. The following bound gives an upper limit on storage. If $n>0$, then $s(n)\leq 2n$.
 >
-> **Good.** The following bound gives an upper limit on storage. Theorem 3. If $n>0$, then $s(n)\leq 2n$.
+> **After.** The following bound gives an upper limit on storage. Theorem 3. If $n>0$, then $s(n)\leq 2n$.
 
-**Example 4.** The theorem's assumptions take several lines in the draft. Good proposes a named assumption to shorten the statement while retaining every restriction.
+**Edit 4.** The theorem's assumptions take several lines in the draft. The edit, a proposal to the author, moves $a<b$ and the continuity and differentiability conditions into "Assumption 1 (regularity)" before the theorem and uses "Under Assumption 1" in the theorem, so that the statement is shorter while retaining every restriction.
 
-> **Bad.** Theorem 4. If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, where $a<b$, then $f$ satisfies the mean value theorem.
+> **Before.** Theorem 4. If $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$, where $a<b$, then $f$ satisfies the mean value theorem.
 >
-> **Good.** Assumption 1 (regularity): Let $a<b$, and let $f$ be continuous on $[a,b]$ and differentiable on $(a,b)$. Theorem 4. Under Assumption 1, $f$ satisfies the mean value theorem.
+> **After.** Assumption 1 (regularity): Let $a<b$, and let $f$ be continuous on $[a,b]$ and differentiable on $(a,b)$. Theorem 4. Under Assumption 1, $f$ satisfies the mean value theorem.

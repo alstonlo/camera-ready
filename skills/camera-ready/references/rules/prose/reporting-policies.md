@@ -8,8 +8,8 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft supplies the drying-time result. Good keeps the first sentence because it explains how the trials are combined, which readers need to interpret the mean.
+**Edit 1.** The draft supplies the drying-time result. The edit replaces "we report the drying time" with the mean drying time of 3 hours, so that the sentence gives the result rather than a reporting policy. It keeps the first sentence because readers need to know how the five trials are combined to interpret the mean.
 
-> **Bad.** We report means over five trials. For cotton, we report the drying time.
+> **Before.** We report means over five trials. For cotton, we report the drying time.
 >
-> **Good.** We report means over five trials. For cotton, the mean drying time is 3 h.
+> **After.** We report means over five trials. For cotton, the mean drying time is 3 h.

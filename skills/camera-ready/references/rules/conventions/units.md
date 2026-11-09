@@ -12,26 +12,26 @@ For durations, use the draft's convention to distinguish a decimal number from a
 
 ## Examples
 
-**Example 1.** In LaTeX, the tilde keeps the number and unit together on one line.
+**Edit 1.** The edit inserts a tilde between "30" and "s" to create a non-breaking space in LaTeX, separating the number from its unit while keeping them together on one line.
 
-> **Bad.** We stir the solution for 30s.
+> **Before.** We stir the solution for 30s.
 >
-> **Good.** We stir the solution for 30~s.
+> **After.** We stir the solution for 30~s.
 
-**Example 2.** The draft specifies a mass ratio.
+**Edit 2.** The draft specifies a mass ratio. The edit adds "by mass" after "ppm" so that readers know which basis the concentration uses.
 
-> **Bad.** The concentration is 6 ppm.
+> **Before.** The concentration is 6 ppm.
 >
-> **Good.** The concentration is 6 ppm by mass.
+> **After.** The concentration is 6 ppm by mass.
 
-**Example 3.** The draft defines one capacity unit as 1,048,576 bytes. Good corrects the prefix to match that binary unit without converting the value.
+**Edit 3.** The draft defines one capacity unit as 1,048,576 bytes. The edit replaces "MB" with "MiB" to identify that binary unit while leaving the numerical value of 2 unchanged.
 
-> **Bad.** The capacity is 2 MB.
+> **Before.** The capacity is 2 MB.
 >
-> **Good.** The capacity is 2 MiB.
+> **After.** The capacity is 2 MiB.
 
-**Example 4.** The draft uses a period to separate minutes from seconds.
+**Edit 4.** The draft uses a period to separate minutes from seconds. The edit writes "1.30" as "1 min 30 s", with non-breaking spaces before the units, so that readers see minutes and seconds rather than a decimal value.
 
-> **Bad.** The duration is 1.30.
+> **Before.** The duration is 1.30.
 >
-> **Good.** The duration is 1 min 30 s.
+> **After.** The duration is 1 min 30 s.

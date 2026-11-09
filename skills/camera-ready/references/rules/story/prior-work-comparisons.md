@@ -12,26 +12,26 @@ For proprietary products, distinguish what documentation says the product can do
 
 ## Examples
 
-**Example 1.** Lee et al. deliberately limited their study to summer rainfall. Good describes that scope without implying that excluding winter was a failure.
+**Edit 1.** Lee et al. deliberately limited their study to summer rainfall. The edit replaces "ignore winter rainfall" with "examine only summer rainfall" so that the comparison states the scope difference without treating Lee et al.'s choice as a failure.
 
-> **Bad.** Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
+> **Before.** Lee et al. ignore winter rainfall; we examine rainfall in both summer and winter.
 >
-> **Good.** Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
+> **After.** Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
 
-**Example 2.** The draft reports that Lee concedes that the coating costs too much. The authors do not endorse that judgment, so Good attributes the concession to Lee.
+**Edit 2.** The draft reports that Lee concedes that the coating costs too much, and the authors do not endorse that judgment. The edit inserts "Lee concedes that" after "Although" so that the cost judgment belongs to Lee rather than to the paper's authors.
 
-> **Bad.** Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
+> **Before.** Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
 >
-> **Good.** Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
+> **After.** Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
 
-**Example 3.** This is a survey, and the draft confirms both studies' scope. Good closes with the gap they share without claiming a discovery by the survey's authors.
+**Edit 3.** This is a survey, and the draft confirms both studies' scope. The edit adds "Both studies leave winter rainfall unmeasured" so that the discussion closes with their shared gap without claiming a discovery by the survey's authors.
 
-> **Bad.** Lee measures summer rainfall. Rao also measures summer rainfall.
+> **Before.** Lee measures summer rainfall. Rao also measures summer rainfall.
 >
-> **Good.** Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
+> **After.** Lee measures summer rainfall. Rao also measures summer rainfall. Both studies leave winter rainfall unmeasured.
 
-**Example 4.** The draft states that the commercial filter removes salt and that its internal design is undisclosed.
+**Edit 4.** The draft states that the commercial filter removes salt and that its internal design is undisclosed. The edit replaces "with the same membrane as ours" with ", but its internal design is undisclosed" so that the comparison distinguishes known function from undisclosed design without inventing a shared membrane. It keeps the statement that the authors' membrane design is public.
 
-> **Bad.** The commercial filter removes salt with the same membrane as ours; our membrane design is public.
+> **Before.** The commercial filter removes salt with the same membrane as ours; our membrane design is public.
 >
-> **Good.** The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.
+> **After.** The commercial filter removes salt, but its internal design is undisclosed; our membrane design is public.

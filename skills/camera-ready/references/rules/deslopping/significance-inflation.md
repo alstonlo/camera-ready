@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit deletes "and paves the way for a new era of air filtration", so the sentence reports the measured dust removal without an empty claim of historical importance.
 
-> **Bad.** The filter removes 90% of the dust and paves the way for a new era of air filtration.
+> **Before.** The filter removes 90% of the dust and paves the way for a new era of air filtration.
 >
-> **Good.** The filter removes 90% of the dust.
+> **After.** The filter removes 90% of the dust.
 
-**Example 2.** The draft supports a claim about fit in the tested bottles.
+**Edit 2.** The draft supports a claim about fit in the tested bottles. The edit replaces "ushers in a new era of water treatment" with "fits inside the tested bottles", so the sentence states a supported implication within the tested conditions.
 
-> **Bad.** The smaller filter ushers in a new era of water treatment.
+> **Before.** The smaller filter ushers in a new era of water treatment.
 >
-> **Good.** The smaller filter fits inside the tested bottles.
+> **After.** The smaller filter fits inside the tested bottles.
 
-**Example 3.** The draft reports no safety tests. Good flags the drinking-water claim because it makes a substantive assertion that cannot be discarded as empty praise.
+**Edit 3.** The draft reports no safety tests. The edit deletes "marking a historic turning point" as empty praise, but keeps the drinking-water claim and adds a flag asking for supporting safety tests. The safety claim is a substantive assertion, so the editor must flag its missing support rather than discard it as praise.
 
-> **Bad.** The filter makes river water safe to drink, marking a historic turning point.
+> **Before.** The filter makes river water safe to drink, marking a historic turning point.
 >
-> **Good.** The filter makes river water safe to drink. Flag for the author: What safety tests support this claim?
+> **After.** The filter makes river water safe to drink. Flag for the author: What safety tests support this claim?

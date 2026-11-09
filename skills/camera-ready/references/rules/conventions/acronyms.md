@@ -8,26 +8,26 @@ Treat an acronym in the title as unfamiliar if readers in the field outside the 
 
 ## Examples
 
-**Example 1.** In this draft, ETR means "electron transport rate", and this passage begins its repeated use in the body.
+**Edit 1.** In this draft, ETR means "electron transport rate", and this passage begins its repeated use in the body. The edit replaces the first "ETR" with "electron transport rate (ETR)" and keeps the second "ETR" so that readers learn the acronym where its repeated use begins.
 
-> **Bad.** We measure ETR at noon. ETR rises with light intensity.
+> **Before.** We measure ETR at noon. ETR rises with light intensity.
 >
-> **Good.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
+> **After.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
 
-**Example 2.** The draft defines ETR as "electron transport rate", but readers outside the subfield would not recognize it in the title. Good proposes spelling it out; the editor flags the unfamiliar acronym and leaves the title unchanged.
+**Edit 2.** The draft defines ETR as "electron transport rate", but readers outside the subfield would not recognize it in the title. The edit, a proposal to the author, replaces "ETR" with "Electron transport rate" so that those readers can understand the title. The editor flags the unfamiliar acronym and leaves the actual title unchanged pending review.
 
-> **Bad.** ETR in shaded leaves
+> **Before.** ETR in shaded leaves
 >
-> **Good.** Electron transport rate in shaded leaves
+> **After.** Electron transport rate in shaded leaves
 
-**Example 3.** The draft defines AR as "annual rainfall" and uses it only here and in a figure. Good proposes expanding the isolated prose use; the editor flags the change so the author can coordinate it with the figure.
+**Edit 3.** The draft defines AR as "annual rainfall" and uses it only here and in a figure. The edit, a proposal to the author, replaces "AR" with "Annual rainfall" so that this isolated prose use needs no acronym. The editor flags the change so the author can coordinate it with the figure.
 
-> **Bad.** AR varies by site.
+> **Before.** AR varies by site.
 >
-> **Good.** Annual rainfall varies by site.
+> **After.** Annual rainfall varies by site.
 
-**Example 4.** The draft defines TS as "time step"; DNA is standard terminology for the intended readers. Good expands TS because saying the letters saves no syllables, while keeping the familiar acronym.
+**Edit 4.** The draft defines TS as "time step"; DNA is standard terminology for the intended readers. The edit replaces "TS" with "time step" because saying the letters saves no syllables, and keeps the familiar acronym "DNA".
 
-> **Bad.** DNA is measured at each TS.
+> **Before.** DNA is measured at each TS.
 >
-> **Good.** DNA is measured at each time step.
+> **After.** DNA is measured at each time step.

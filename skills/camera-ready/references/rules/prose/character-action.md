@@ -10,32 +10,32 @@ Keep established technical verbs with inanimate subjects, such as an enzyme reco
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit makes "The technician" the subject, turns "inspection" and "replacement" into "inspects" and "replacing", and replaces "precedes" with "before". This names the actor and expresses both actions as verbs while preserving their order.
 
-> **Bad.** The technician’s inspection of the seal precedes the technician’s replacement of it.
+> **Before.** The technician’s inspection of the seal precedes the technician’s replacement of it.
 >
-> **Good.** The technician inspects the seal before replacing it.
+> **After.** The technician inspects the seal before replacing it.
 
-**Example 2.** Good keeps "quantization" because it names the technique being evaluated; turning that noun into a verb would change the action described.
+**Edit 2.** The edit replaces "perform an evaluation of" with "evaluate" so that the verb directly names the authors' action. It keeps "quantization" because that noun names the technique being evaluated; turning it into a verb would change the action described.
 
-> **Bad.** We perform an evaluation of quantization.
+> **Before.** We perform an evaluation of quantization.
 >
-> **Good.** We evaluate quantization.
+> **After.** We evaluate quantization.
 
-**Example 3.** The draft identifies the authors as the people who detect the signals. Good keeps "This reduction in noise" because it connects the two sentences, while giving the detection an actor and a verb.
+**Edit 3.** The draft identifies the authors as the people who detect the signals. The edit replaces "the detection of" with "us to detect" so that the sentence names who detects the signals and expresses the action as a verb. It keeps "This reduction in noise" because that phrase connects the two sentences.
 
-> **Bad.** Noise fell after filtering. This reduction in noise permits the detection of faint signals.
+> **Before.** Noise fell after filtering. This reduction in noise permits the detection of faint signals.
 >
-> **Good.** Noise fell after filtering. This reduction in noise permits us to detect faint signals.
+> **After.** Noise fell after filtering. This reduction in noise permits us to detect faint signals.
 
-**Example 4.** The draft states elsewhere that the recorder deletes the readings.
+**Edit 4.** The draft states elsewhere that the recorder deletes the readings. The edit replaces "forgets" with "deletes" so that the sentence states the recorder's actual operation without attributing human memory to it.
 
-> **Bad.** The recorder forgets readings after an hour.
+> **Before.** The recorder forgets readings after an hour.
 >
-> **Good.** The recorder deletes readings after an hour.
+> **After.** The recorder deletes readings after an hour.
 
-**Example 5.** Good keeps "The results suggest" because results can support an inference without being treated as thinking agents.
+**Edit 5.** The edit replaces "causes a reduction in" with "reduces" so that the verb directly states the coating's effect on heat loss. It keeps "The results suggest" because results can support an inference without being treated as thinking agents.
 
-> **Bad.** The results suggest that the coating causes a reduction in heat loss.
+> **Before.** The results suggest that the coating causes a reduction in heat loss.
 >
-> **Good.** The results suggest that the coating reduces heat loss.
+> **After.** The results suggest that the coating reduces heat loss.

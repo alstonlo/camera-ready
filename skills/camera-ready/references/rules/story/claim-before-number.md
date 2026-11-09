@@ -8,8 +8,8 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit moves "the new brakes shorten stopping distance" to a separate opening sentence and removes "showing that", so that readers encounter the finding before the supporting decrease from 18 to 12 meters.
 
-> **Bad.** The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
+> **Before.** The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
 >
-> **Good.** The new brakes shorten stopping distance. The average stopping distance falls from 18 m to 12 m.
+> **After.** The new brakes shorten stopping distance. The average stopping distance falls from 18 m to 12 m.

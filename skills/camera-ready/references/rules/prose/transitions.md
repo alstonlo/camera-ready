@@ -8,26 +8,26 @@ When choosing a word to express contrast, distinguish a comparison, an exception
 
 ## Examples
 
-**Example 1.** Good uses "when" because the draft establishes timing but no cause.
+**Edit 1.** The draft establishes timing but no cause. The edit replaces "As" with "When" so that the connection clearly expresses timing without implying causation.
 
-> **Bad.** As the pump stops, the lamp flashes.
+> **Before.** As the pump stops, the lamp flashes.
 >
-> **Good.** When the pump stops, the lamp flashes.
+> **After.** When the pump stops, the lamp flashes.
 
-**Example 2.**
+**Edit 2.** The edit removes "Conversely" and its comma because wool retaining heat does not reverse the statement that glass transmits light.
 
-> **Bad.** Glass transmits light. Conversely, wool retains heat.
+> **Before.** Glass transmits light. Conversely, wool retains heat.
 >
-> **Good.** Glass transmits light. Wool retains heat.
+> **After.** Glass transmits light. Wool retains heat.
 
-**Example 3.**
+**Edit 3.** The edit removes "therefore" because "Because" already expresses the causal relation between the cracked gasket and the leak.
 
-> **Bad.** Because the gasket is cracked, therefore the lid leaks.
+> **Before.** Because the gasket is cracked, therefore the lid leaks.
 >
-> **Good.** Because the gasket is cracked, the lid leaks.
+> **After.** Because the gasket is cracked, the lid leaks.
 
-**Example 4.** The draft states the general rule elsewhere. Good proposes restoring that premise when flagging the missing step that supports "therefore".
+**Edit 4.** The draft states the general rule elsewhere. The edit, a proposal to the author when flagging the missing premise, restores "Every cracked jar leaks" before the statement about this jar so that the conclusion introduced by "Therefore" has its supporting premise.
 
-> **Bad.** This jar is cracked. Therefore, it leaks.
+> **Before.** This jar is cracked. Therefore, it leaks.
 >
-> **Good.** Every cracked jar leaks. This jar is cracked. Therefore, it leaks.
+> **After.** Every cracked jar leaks. This jar is cracked. Therefore, it leaks.

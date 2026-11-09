@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit removes "impervious to water" because it repeats "waterproof", leaving the two distinct properties of being lockable and waterproof.
 
-> **Bad.** The case is lockable, waterproof, and impervious to water.
+> **Before.** The case is lockable, waterproof, and impervious to water.
 >
-> **Good.** The case is lockable and waterproof.
+> **After.** The case is lockable and waterproof.
 
-**Example 2.**
+**Edit 2.** The edit deletes the clause calling the kit "remarkable, outstanding, and extraordinary" because it adds only praise, and keeps the three distinct items that the kit contains.
 
-> **Bad.** The kit contains a ruler, a brush, and a tray; the kit is remarkable, outstanding, and extraordinary.
+> **Before.** The kit contains a ruler, a brush, and a tray; the kit is remarkable, outstanding, and extraordinary.
 >
-> **Good.** The kit contains a ruler, a brush, and a tray.
+> **After.** The kit contains a ruler, a brush, and a tray.
 
-**Example 3.** The draft supports "waterproof" but reports no fire test. Good keeps "fireproof" as a substantive claim; the editor separately flags its missing support.
+**Edit 3.** The draft supports "waterproof" but reports no fire test; the editor separately flags the missing support for "fireproof". The edit removes "remarkable" as empty praise and keeps "waterproof" and "fireproof" because both describe substantive properties, even though one lacks support.
 
-> **Bad.** The case is waterproof, fireproof, and remarkable.
+> **Before.** The case is waterproof, fireproof, and remarkable.
 >
-> **Good.** The case is waterproof and fireproof.
+> **After.** The case is waterproof and fireproof.

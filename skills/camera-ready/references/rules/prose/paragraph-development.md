@@ -10,26 +10,26 @@ Judge a paragraph by whether its sentences develop one point and connect to each
 
 ## Examples
 
-**Example 1.** This is the opening of a results paragraph about a freezing test.
+**Edit 1.** This is the opening of a results paragraph about a freezing test. The edit replaces "We compared two pot materials" with "Only the clay pots cracked", so the paragraph opens with its finding before giving the counts that support it.
 
-> **Bad.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
+> **Before.** We compared two pot materials. All six clay pots cracked, and all six steel pots remained intact.
 >
-> **Good.** Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
+> **After.** Only the clay pots cracked. All six clay pots cracked, and all six steel pots remained intact.
 
-**Example 2.** Good keeps the opening question because it states what the experiment tests.
+**Edit 2.** The edit moves "Salt lowered the freezing point" immediately after the opening question, so readers get the answer before the temperature measurements that support it. It keeps the question because it states what the experiment tests.
 
-> **Bad.** Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
+> **Before.** Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
 >
-> **Good.** Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
+> **After.** Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
 
-**Example 3.** The symbol ¶ marks a paragraph break.
+**Edit 3.** The symbol ¶ marks a paragraph break. The edit starts a new paragraph at "The roof drains through two gutters", so the paragraph about the door's automatic lock ends before the unrelated roof topic begins.
 
-> **Bad.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
+> **Before.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
 >
-> **Good.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
+> **After.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
 
-**Example 4.** The symbol ¶ marks a paragraph break. Good keeps the contrasting outcomes together because they make one comparison under the same conditions.
+**Edit 4.** The symbol ¶ marks a paragraph break. The edit removes the break between the glass and clay jar outcomes, so the contrasting results stay together as one comparison under the same conditions.
 
-> **Bad.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
+> **Before.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
 >
-> **Good.** The glass jar survives freezing. The clay jar cracks under the same conditions.
+> **After.** The glass jar survives freezing. The clay jar cracks under the same conditions.

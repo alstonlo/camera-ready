@@ -8,26 +8,26 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** Good keeps "pivotal quantity" because the draft uses it as a technical term in statistics.
+**Edit 1.** The draft uses "pivotal quantity" as a technical term in statistics. The edit replaces "delve into" with the plain verb "study" while keeping "pivotal quantity" because it has a precise technical meaning.
 
-> **Bad.** We delve into a pivotal quantity for the mean.
+> **Before.** We delve into a pivotal quantity for the mean.
 >
-> **Good.** We study a pivotal quantity for the mean.
+> **After.** We study a pivotal quantity for the mean.
 
-**Example 2.**
+**Edit 2.** The edit replaces "perform the collection and measurement of" with "collect and measure" so that the verbs state the authors' actions directly.
 
-> **Bad.** We perform the collection and measurement of the seeds.
+> **Before.** We perform the collection and measurement of the seeds.
 >
-> **Good.** We collect and measure the seeds.
+> **After.** We collect and measure the seeds.
 
-**Example 3.** The draft supplies both observations.
+**Edit 3.** The draft supplies both observations. The edit replaces the count and promise to discuss the observations later with "The leaves curl, and the stems bend" so that readers learn the observations immediately.
 
-> **Bad.** We make two observations, which we discuss later.
+> **Before.** We make two observations, which we discuss later.
 >
-> **Good.** The leaves curl, and the stems bend.
+> **After.** The leaves curl, and the stems bend.
 
-**Example 4.** A slash separates the two bullets in Bad. Good combines them into a sentence because they form one causal argument rather than independent list items.
+**Edit 4.** A slash separates the two bullets in Before. The edit combines the bullets into one sentence joined by "so" and removes the repeated statement that the seal leaks, preserving the causal link without presenting its steps as independent list items.
 
-> **Bad.** - The seal leaks. / - Water reaches the contacts because the seal leaks.
+> **Before.** - The seal leaks. / - Water reaches the contacts because the seal leaks.
 >
-> **Good.** The seal leaks, so water reaches the contacts.
+> **After.** The seal leaks, so water reaches the contacts.

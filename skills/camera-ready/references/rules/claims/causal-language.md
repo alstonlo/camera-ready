@@ -14,26 +14,26 @@ A suitable controlled comparison can isolate the effect of a factor such as a de
 
 ## Examples
 
-**Example 1.** The draft reports only a correlation from a household survey. Flag the unsupported causal claim and propose Good to the author.
+**Edit 1.** The draft reports only a correlation from a household survey. The edit, a proposal to the author after flagging the unsupported causal claim, replaces "caused" with "was associated with" so that the claim matches the survey evidence.
 
-> **Bad.** In the surveyed households, owning more houseplants caused fewer colds.
+> **Before.** In the surveyed households, owning more houseplants caused fewer colds.
 >
-> **Good.** In the surveyed households, owning more houseplants was associated with fewer colds.
+> **After.** In the surveyed households, owning more houseplants was associated with fewer colds.
 
-**Example 2.** The draft's controlled comparison adds mulch and shade together without testing either alone. Flag the attribution to mulch alone and propose Good, which names the tested combination.
+**Edit 2.** The draft's controlled comparison adds mulch and shade together without testing either alone. The edit, a proposal to the author after flagging the attribution to mulch alone, replaces "Mulch reduces" with "Mulch and shade together reduce" so that the claim attributes the effect to the tested combination.
 
-> **Bad.** Mulch reduces water loss.
+> **Before.** Mulch reduces water loss.
 >
-> **Good.** Mulch and shade together reduce water loss.
+> **After.** Mulch and shade together reduce water loss.
 
-**Example 3.** The draft identifies lubrication as a contributing factor but reports failures despite it. Flag the unsupported guarantee and propose Good to the author: lubrication contributes to prevention but does not guarantee it.
+**Edit 3.** The draft identifies lubrication as a contributing factor but reports failures despite it. The edit, a proposal to the author after flagging the unsupported guarantee, replaces "is sufficient to prevent" with "contributes to preventing" so that lubrication helps prevent wear without guaranteeing prevention.
 
-> **Bad.** Lubrication is sufficient to prevent wear.
+> **Before.** Lubrication is sufficient to prevent wear.
 >
-> **Good.** Lubrication contributes to preventing wear.
+> **After.** Lubrication contributes to preventing wear.
 
-**Example 4.** The draft establishes the coating's effect but does not test its explanation.
+**Edit 4.** The draft establishes the coating's effect but does not test its explanation. The edit separates the reduction in corrosion from the oxygen-blocking explanation and introduces the latter with "We conjecture", so that the established effect remains a claim and the untested mechanism is marked as speculation.
 
-> **Bad.** The coating reduces corrosion because it blocks oxygen.
+> **Before.** The coating reduces corrosion because it blocks oxygen.
 >
-> **Good.** The coating reduces corrosion. We conjecture that it does so by blocking oxygen.
+> **After.** The coating reduces corrosion. We conjecture that it does so by blocking oxygen.

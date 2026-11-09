@@ -8,14 +8,14 @@ If readers dispute a principle used to connect evidence to a claim, that princip
 
 ## Examples
 
-**Example 1.** The draft explains when the indicator lights. Good adds that connection; the time comparison needs no explanation because readers can compare the two durations directly.
+**Edit 1.** The draft explains when the indicator lights. The edit adds "The indicator lights only when the lid is sealed" so that readers can see why the green indicator supports the sealing claim. It keeps the time comparison unchanged because readers can compare the two durations directly.
 
-> **Bad.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator is green, so the lid is sealed.
+> **Before.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator is green, so the lid is sealed.
 >
-> **Good.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator lights only when the lid is sealed. The indicator is green, so the lid is sealed.
+> **After.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator lights only when the lid is sealed. The indicator is green, so the lid is sealed.
 
-**Example 2.** Readers dispute whether this dye turns red only in acid; the draft cites Lee's calibration as support. Good includes that evidence because restating the disputed connection would not justify the conclusion.
+**Edit 2.** Readers dispute whether this dye turns red only in acid; the draft cites Lee's calibration as support. The edit adds the finding from Lee's calibration before the conclusion so that the disputed connection has evidence, rather than merely restating it as a reason to call the liquid acidic.
 
-> **Bad.** The dye turns red, so the liquid is acidic.
+> **Before.** The dye turns red, so the liquid is acidic.
 >
-> **Good.** Lee's calibration shows that this dye turns red only in acid. The dye turns red, so the liquid is acidic.
+> **After.** Lee's calibration shows that this dye turns red only in acid. The dye turns red, so the liquid is acidic.

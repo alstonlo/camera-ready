@@ -10,32 +10,32 @@ Propose a simpler mathematical condition only when the draft shows that the two 
 
 ## Examples
 
-**Example 1.** The draft reports only a simulation, with no measurements of the actual bridge.
+**Edit 1.** The draft reports only a simulation, with no measurements of the actual bridge. The edit adds "simulated" before "bridge", so that the reported bending describes the model rather than the actual bridge.
 
-> **Bad.** Under the tested load, the bridge bends by 2 cm.
+> **Before.** Under the tested load, the bridge bends by 2 cm.
 >
-> **Good.** Under the tested load, the simulated bridge bends by 2 cm.
+> **After.** Under the tested load, the simulated bridge bends by 2 cm.
 
-**Example 2.** The draft proves the stated result in Theorem 2.
+**Edit 2.** The draft proves the stated result in Theorem 2. The edit adds "When stiffness is positive" and attributes the guarantee to Theorem 2, so that the uniqueness claim names both its supporting proof and its condition.
 
-> **Bad.** The equilibrium is unique.
+> **Before.** The equilibrium is unique.
 >
-> **Good.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
+> **After.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
 
-**Example 3.** Theorem 1 assumes independent errors. The sensors violate that assumption, so their errors limit where the theorem applies without disproving it.
+**Edit 3.** Theorem 1 assumes independent errors, which these sensors violate without disproving the theorem. The edit replaces "make Theorem 1 false" with a statement that the theorem does not apply because the errors are correlated, so that an unmet assumption is not mistaken for a false theorem.
 
-> **Bad.** The correlated errors in these sensors make Theorem 1 false.
+> **Before.** The correlated errors in these sensors make Theorem 1 false.
 >
-> **Good.** Theorem 1 does not apply to these sensors because their errors are correlated.
+> **After.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
-**Example 4.** The draft establishes that positivity implies the nonzero condition and that the latter adds no useful information.
+**Edit 4.** The draft establishes that positivity implies the nonzero condition and that the latter adds no useful information. The edit, a proposal to the author, removes "nonzero" while keeping "positive", so that the condition is simpler but covers exactly the same values of x.
 
-> **Bad.** For positive, nonzero x, the bound holds.
+> **Before.** For positive, nonzero x, the bound holds.
 >
-> **Good.** For positive x, the bound holds.
+> **After.** For positive x, the bound holds.
 
-**Example 5.** The draft reports observations from only five tested mixtures.
+**Edit 5.** The draft reports observations from only five tested mixtures. The edit replaces "Every mixture" with "Each of the five tested mixtures", so that the claim describes the observations without promising the same outcome for untested mixtures.
 
-> **Bad.** Every mixture settles within an hour.
+> **Before.** Every mixture settles within an hour.
 >
-> **Good.** Each of the five tested mixtures settles within an hour.
+> **After.** Each of the five tested mixtures settles within an hour.

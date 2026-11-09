@@ -8,14 +8,14 @@ When a comparison treats each property, such as weight or cost, as a topic, disc
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit moves "The east door locks automatically" before the roof sentence so that both facts about the door appear together before the passage starts another topic.
 
-> **Bad.** The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
+> **Before.** The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
 >
-> **Good.** The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
+> **After.** The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
 
-**Example 2.** Good keeps each property as the topic because the passage compares the carts by weight and cost; grouping all facts about each cart would disrupt that comparison.
+**Edit 2.** The edit moves "Cart B weighs 4 kg more" directly after the weight comparison so that each property is discussed fully before the next begins. It keeps weight and cost as the topics because grouping all facts about each cart would disrupt the comparison by property.
 
-> **Bad.** For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
+> **Before.** For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
 >
-> **Good.** For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.
+> **After.** For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.

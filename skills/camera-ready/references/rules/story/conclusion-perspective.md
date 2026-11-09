@@ -8,26 +8,26 @@ Distinguish a new question that the findings raise from a question that the stud
 
 ## Examples
 
-**Example 1.** The draft already raises the question of whether the gain holds across accents. Good explains what further evaluation would establish without inventing a research plan.
+**Edit 1.** The draft already raises the question of whether the gain holds across accents. The edit replaces "Future work will extend the evaluation" with a sentence explaining that evaluating other accents would test whether the gain holds across accents, so that future work has a stated purpose without an invented research plan.
 
-> **Bad.** Recognition improves for the tested accent. Future work will extend the evaluation.
+> **Before.** Recognition improves for the tested accent. Future work will extend the evaluation.
 >
-> **Good.** Recognition improves for the tested accent. Evaluating other accents would establish whether this gain holds across accents.
+> **After.** Recognition improves for the tested accent. Evaluating other accents would establish whether this gain holds across accents.
 
-**Example 2.** Bad repeats the abstract's finding; the discussion already explains its consequence for drinking water. Good brings that implication into the conclusion.
+**Edit 2.** Before repeats the abstract's finding; the discussion already explains its consequence for drinking water. The edit keeps the sand-removal finding and adds that dissolved salt remains and prevents the filter alone from making the water drinkable, so that the conclusion states the finding's implication.
 
-> **Bad.** The tested filter removes sand.
+> **Before.** The tested filter removes sand.
 >
-> **Good.** The tested filter removes sand. Dissolved salt remains, so the filter alone cannot make the water drinkable.
+> **After.** The tested filter removes sand. Dissolved salt remains, so the filter alone cannot make the water drinkable.
 
-**Example 3.** The draft promised a test in rain but reports only dry-weather tests. Good identifies an unmet promise, which belongs among the study's limitations even if later work could address it.
+**Edit 3.** The draft promised a test in rain but reports only dry-weather tests. The edit replaces the sentence calling rain detection "a new question for future work" with "The promised test in rain remains incomplete" so that the conclusion identifies an unmet promise as a limitation even if later work could address it.
 
-> **Bad.** The sensor detects smoke in dry weather. Whether it detects smoke in rain is a new question for future work.
+> **Before.** The sensor detects smoke in dry weather. Whether it detects smoke in rain is a new question for future work.
 >
-> **Good.** The sensor detects smoke in dry weather. The promised test in rain remains incomplete.
+> **After.** The sensor detects smoke in dry weather. The promised test in rain remains incomplete.
 
-**Example 4.** The draft attributes rain shedding to the outer layer. Good names that layer because "the latter" cannot identify one of two layers that have not been named separately.
+**Edit 4.** The draft attributes rain shedding to the outer layer. The edit replaces "The latter" with "The outer layer" so that readers can identify which layer sheds rain, since the preceding sentence does not name the two layers separately.
 
-> **Bad.** Two insulation layers lower heat loss. The latter also sheds rain.
+> **Before.** Two insulation layers lower heat loss. The latter also sheds rain.
 >
-> **Good.** Two insulation layers lower heat loss. The outer layer also sheds rain.
+> **After.** Two insulation layers lower heat loss. The outer layer also sheds rain.

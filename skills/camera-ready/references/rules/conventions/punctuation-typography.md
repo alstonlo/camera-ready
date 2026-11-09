@@ -10,26 +10,26 @@ When the draft states what an unendorsed term in quotation marks refers to, keep
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit removes italics from "constant" because they add only decorative emphasis, and keeps italics on "clearance" because they introduce a definition.
 
-> **Bad.** We call the gap between lid and jar the *clearance*. The clearance remains *constant*.
+> **Before.** We call the gap between lid and jar the *clearance*. The clearance remains *constant*.
 >
-> **Good.** We call the gap between lid and jar the *clearance*. The clearance remains constant.
+> **After.** We call the gap between lid and jar the *clearance*. The clearance remains constant.
 
-**Example 2.** The draft does not say what contrasts with the lid. Good keeps the italics because removing them could change what the sentence denies; the editor flags the unclear contrast.
+**Edit 2.** The draft does not say what contrasts with the lid. The edit expands "don't" to "do not" to avoid a contraction and keeps the italics on "lid" because removing them could change what the sentence denies. The editor flags the unclear contrast.
 
-> **Bad.** We don't heat the *lid*.
+> **Before.** We don't heat the *lid*.
 >
-> **Good.** We do not heat the *lid*.
+> **After.** We do not heat the *lid*.
 
-**Example 3.** Elsewhere, the draft defines the cell's "decision" without attributing conscious choice. Good puts that definition beside the term and keeps the quotation marks to avoid implying that the cell chooses consciously.
+**Edit 3.** Elsewhere, the draft defines the cell's "decision" without attributing conscious choice. The edit adds "its change in swimming direction" beside "decision" and keeps the term's quotation marks so that readers understand what it means without an implication of conscious choice.
 
-> **Bad.** We record the cell's "decision".
+> **Before.** We record the cell's "decision".
 >
-> **Good.** We record the cell's "decision", its change in swimming direction.
+> **After.** We record the cell's "decision", its change in swimming direction.
 
-**Example 4.** The draft's script uses the command shown in Good. Good is a proposed correction for the author to review because changing quote characters can change a command's behavior.
+**Edit 4.** The draft's script uses the command shown in After. The edit, a proposal to the author, replaces the curly quotes around "ready" with straight quotes to match the script; author review is needed because changing quote characters can change a command's behavior.
 
-> **Bad.** The command is `echo “ready”`.
+> **Before.** The command is `echo “ready”`.
 >
-> **Good.** The command is `echo "ready"`.
+> **After.** The command is `echo "ready"`.

@@ -14,26 +14,26 @@ The following phrases after a comma need no added verb:
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit removes "is effective:" and makes "The new tap" the subject of "reduces water use by 18%", so the sentence states the measured effect directly instead of prefacing it with vague praise.
 
-> **Bad.** The new tap is effective: it reduces water use by 18%.
+> **Before.** The new tap is effective: it reduces water use by 18%.
 >
-> **Good.** The new tap reduces water use by 18%.
+> **After.** The new tap reduces water use by 18%.
 
-**Example 2.** The draft presents the absence of escaping water as evidence that the seal works.
+**Edit 2.** The draft presents the absence of escaping water as evidence that the seal works. The edit replaces the semicolon with ", as shown by the fact that", so words explicitly connect the claim to its evidence.
 
-> **Bad.** The seal works; no water escapes during the pressure test.
+> **Before.** The seal works; no water escapes during the pressure test.
 >
-> **Good.** The seal works, as shown by the fact that no water escapes during the pressure test.
+> **After.** The seal works, as shown by the fact that no water escapes during the pressure test.
 
-**Example 3.** The draft reports that the events occur together without explaining why. Good uses a semicolon because the colon suggests an explanation the draft does not support.
+**Edit 3.** The draft reports that the events occur together without explaining why. The edit replaces the colon with a semicolon, so the two facts are related without suggesting an explanation the draft does not support.
 
-> **Bad.** The valve opens: the lamp turns green.
+> **Before.** The valve opens: the lamp turns green.
 >
-> **Good.** The valve opens; the lamp turns green.
+> **After.** The valve opens; the lamp turns green.
 
-**Example 4.** Good leaves out the repeated verb "holds" in the tank and bottle comparison; the capacity comparison needs its own verb.
+**Edit 4.** The edit adds "which is" before "below the capacity of the tank", so the capacity comparison has its own verb. It leaves "the bottle 1 L" unchanged because that parallel phrase shares the earlier verb "holds".
 
-> **Bad.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
+> **Before.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
 >
-> **Good.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, which is below the capacity of the tank.
+> **After.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, which is below the capacity of the tank.

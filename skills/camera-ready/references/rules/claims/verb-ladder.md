@@ -21,38 +21,38 @@ When describing cited work, do not write "notes in passing" if the source presen
 
 ## Examples
 
-**Example 1.** The draft reports measured temperatures.
+**Edit 1.** The draft reports measured temperatures. The edit replaces "prove" with "find" so that the verb reports a measured result rather than claiming a mathematical proof.
 
-> **Bad.** We prove that the insulated bottle kept water warmer than the plain bottle in the test.
+> **Before.** We prove that the insulated bottle kept water warmer than the plain bottle in the test.
 >
-> **Good.** We find that the insulated bottle kept water warmer than the plain bottle in the test.
+> **After.** We find that the insulated bottle kept water warmer than the plain bottle in the test.
 
-**Example 2.** The draft supplies a complete proof under the stated assumption.
+**Edit 2.** The draft supplies a complete proof under the stated assumption. The edit replaces "conjecture" with "prove" to reflect that support while keeping strict convexity as the condition for uniqueness.
 
-> **Bad.** We conjecture that the minimum is unique when the function is strictly convex.
+> **Before.** We conjecture that the minimum is unique when the function is strictly convex.
 >
-> **Good.** We prove that the minimum is unique when the function is strictly convex.
+> **After.** We prove that the minimum is unique when the function is strictly convex.
 
-**Example 3.** The test neither detects nor rules out the effect. The editor flags the claimed disproof and proposes Good to the author, distinguishing failure to detect an effect from evidence against it.
+**Edit 3.** The test neither detects nor rules out the effect, and the editor flags the claimed disproof. The edit, a proposal to the author, replaces "disproves" with "does not detect" so that failure to detect the effect is not presented as evidence against it.
 
-> **Bad.** The test disproves the proposed effect.
+> **Before.** The test disproves the proposed effect.
 >
-> **Good.** The test does not detect the proposed effect.
+> **After.** The test does not detect the proposed effect.
 
-**Example 4.** Lee's cited work establishes this premise.
+**Edit 4.** Lee's cited work establishes this premise. The edit replaces "assumes" with "establishes" so that the sentence credits Lee with supporting the premise rather than merely taking it as given.
 
-> **Bad.** Lee assumes that the errors are independent.
+> **Before.** Lee assumes that the errors are independent.
 >
-> **Good.** Lee establishes that the errors are independent.
+> **After.** Lee establishes that the errors are independent.
 
-**Example 5.** The Results section treats slower diffusion as a tentative interpretation.
+**Edit 5.** The Results section treats slower diffusion as a tentative interpretation. The edit replaces "establish" with "suggest" so that the conclusion keeps the interpretation tentative.
 
-> **Bad.** Conclusion: The measurements establish slower diffusion.
+> **Before.** Conclusion: The measurements establish slower diffusion.
 >
-> **Good.** Conclusion: The measurements suggest slower diffusion.
+> **After.** Conclusion: The measurements suggest slower diffusion.
 
-**Example 6.** Section 4 reports this temperature result.
+**Edit 6.** Section 4 reports this temperature result. The edit replaces "the result reported in Section 4" with the finding that the coating lowers temperature in the tests, so that the abstract states the result without referring readers to the body.
 
-> **Bad.** Abstract: We find the result reported in Section 4.
+> **Before.** Abstract: We find the result reported in Section 4.
 >
-> **Good.** Abstract: We find that the coating lowers temperature in the tests.
+> **After.** Abstract: We find that the coating lowers temperature in the tests.

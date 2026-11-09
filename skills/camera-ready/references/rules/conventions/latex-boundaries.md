@@ -10,14 +10,14 @@ For blank lines around equations displayed on their own lines, follow the rule o
 
 ## Examples
 
-**Example 1.** The original source has one paragraph, and `\n` denotes a line break. Good removes the blank line because it would start a new paragraph in LaTeX.
+**Edit 1.** The original source has one paragraph, and `\n` denotes a line break. The edit replaces the two line breaks after "jars." with one, removing the blank line so that LaTeX keeps both sentences in the original paragraph.
 
-> **Bad.** `We rinse the jars.\n\nWe leave them to dry.`
+> **Before.** `We rinse the jars.\n\nWe leave them to dry.`
 >
-> **Good.** `We rinse the jars.\nWe leave them to dry.`
+> **After.** `We rinse the jars.\nWe leave them to dry.`
 
-**Example 2.** The original source places the sentence after the comment, and `\n` denotes a line break. Good restores the line break so that the comment does not hide the sentence.
+**Edit 2.** The original source places the sentence after the comment, and `\n` denotes a line break. The edit restores the line break after "% check label" so that "We weigh the jar." falls outside the comment and appears in the document.
 
-> **Bad.** `% check label We weigh the jar.`
+> **Before.** `% check label We weigh the jar.`
 >
-> **Good.** `% check label\nWe weigh the jar.`
+> **After.** `% check label\nWe weigh the jar.`

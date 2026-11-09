@@ -8,26 +8,26 @@ When you propose a heading, keep the claim strength and conditions from the body
 
 ## Examples
 
-**Example 1.** The body text supports the stated effect of shade. Good proposes a finding as the heading because the experiment's name alone does not tell readers what it establishes.
+**Edit 1.** The body text supports the stated effect of shade. The edit, a proposal to the author, replaces "Fern experiment" with "Shade reduces water loss in the tested ferns" so that the heading states the supported finding and its tested scope instead of merely naming the experiment.
 
-> **Bad.** Fern experiment
+> **Before.** Fern experiment
 >
-> **Good.** Shade reduces water loss in the tested ferns
+> **After.** Shade reduces water loss in the tested ferns
 
-**Example 2.** The draft identifies fewer refills as its contribution and states that the trial tests that aim. Good connects the question to the contribution, since reduced water loss alone may not reduce refill frequency.
+**Edit 2.** The draft identifies fewer refills as its contribution and states that the trial tests that aim. The edit adds "enough to reduce refill frequency" so that the question connects reduced water loss to the claimed contribution, since less water loss alone may not mean fewer refills.
 
-> **Bad.** We test whether the lid reduces water loss.
+> **Before.** We test whether the lid reduces water loss.
 >
-> **Good.** We test whether the lid reduces water loss enough to reduce refill frequency.
+> **After.** We test whether the lid reduces water loss enough to reduce refill frequency.
 
-**Example 3.** Good proposes placing the first result before the second method so readers see why the second experiment was needed. The editor must flag this reordering for the author.
+**Edit 3.** The edit, a proposal to the author, moves the single-coat result and its interpretation before the double-coat method so that readers see why the second experiment was needed. The editor must flag this reordering for the author.
 
-> **Bad.** Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
+> **Before.** Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
 >
-> **Good.** Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
+> **After.** Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
 
-**Example 4.** The draft identifies the pressure test as the source of Section 4's leakage measurements.
+**Edit 4.** The draft identifies the pressure test as the source of Section 4's leakage measurements. The edit adds "to measure the leakage reported in Section 4" so that readers can connect the test to its reported result.
 
-> **Bad.** We also perform a pressure test.
+> **Before.** We also perform a pressure test.
 >
-> **Good.** We also perform a pressure test to measure the leakage reported in Section 4.
+> **After.** We also perform a pressure test to measure the leakage reported in Section 4.

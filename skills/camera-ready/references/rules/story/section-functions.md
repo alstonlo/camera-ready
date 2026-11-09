@@ -12,26 +12,26 @@ The five parts of the argument in the abstract are the problem, the gap, the ide
 
 ## Examples
 
-**Example 1.** The venue places Methods last, and that section supplies the procedure added here. Good gives enough of the procedure in Results to explain how depth was measured and points to the full account.
+**Edit 1.** The venue places Methods last, and that section supplies the procedure added here. The edit adds "We obtain depth from calibrated echo times (Methods)" before the depth result so that readers of Results know how depth was measured and where to find the full procedure.
 
-> **Bad.** The lake is 12 m deep at the sampling point.
+> **Before.** The lake is 12 m deep at the sampling point.
 >
-> **Good.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
+> **After.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
 
-**Example 2.** The central result first appears in Results, after the paper's first quarter. Good is a proposed addition to the introduction; the editor flags the delay because readers need the contribution earlier.
+**Edit 2.** The central result first appears in Results, after the paper's first quarter. The edit, a proposal to the author, adds "The lid halves water loss in the tested tank" to the introduction so that readers encounter the contribution earlier. The editor flags the delayed result.
 
-> **Bad.** We test a lid to reduce water loss.
+> **Before.** We test a lid to reduce water loss.
 >
-> **Good.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
+> **After.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
 
-**Example 3.** This abstract omits a result established in the body. Good proposes stating it so readers can understand the finding without following a section reference; the editor flags the missing result.
+**Edit 3.** This abstract omits a result established in the body. The edit, a proposal to the author, replaces the reference to Section 5 with the finding that the filter removes all visible sand from the tested samples, so that readers can understand the result from the abstract alone. The editor flags the missing result.
 
-> **Bad.** The filter's result appears in Section 5.
+> **Before.** The filter's result appears in Section 5.
 >
-> **Good.** The filter removes all visible sand from the tested samples.
+> **After.** The filter removes all visible sand from the tested samples.
 
-**Example 4.** The drying procedure is substantial, while the calibration result only validates the procedure beside it. Good proposes moving the misplaced procedure while keeping the small validation result in Methods; the editor flags the move for the author.
+**Edit 4.** The drying procedure is substantial, while the calibration result only validates the procedure beside it. The edit, a proposal to the author, moves the drying procedure from Results to Methods, because a substantial procedure belongs in Methods, and leaves the small calibration result next to its procedure. The editor flags the move for the author.
 
-> **Bad.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
+> **Before.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
 >
-> **Good.** Methods: temperature calibration and validation; drying procedure. Results: drying results.
+> **After.** Methods: temperature calibration and validation; drying procedure. Results: drying results.

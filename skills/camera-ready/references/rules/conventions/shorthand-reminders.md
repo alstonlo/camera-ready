@@ -8,20 +8,20 @@ A reference to a nearby equation needs no added description if readers can tell 
 
 ## Examples
 
-**Example 1.** The symbol was defined in Section 2; this passage appears in Section 5.
+**Edit 1.** The symbol was defined in Section 2; this passage appears in Section 5. The edit replaces "Let $r$ denote" with "Recall that $r$ denotes", so the rainfall-rate definition reads as a reminder after the section gap rather than a new definition.
 
-> **Bad.** Let $r$ denote the rainfall rate. We compare $r$ across sites.
+> **Before.** Let $r$ denote the rainfall rate. We compare $r$ across sites.
 >
-> **Good.** Recall that $r$ denotes the rainfall rate. We compare $r$ across sites.
+> **After.** Recall that $r$ denotes the rainfall rate. We compare $r$ across sites.
 
-**Example 2.** The draft discusses evaporation and infiltration and attributes the summer increase to evaporation.
+**Edit 2.** The draft discusses evaporation and infiltration and attributes the summer increase to evaporation. The edit replaces "The rate" with "The evaporation rate", so readers can tell which of the two rates increases.
 
-> **Bad.** The rate increases in summer.
+> **Before.** The rate increases in summer.
 >
-> **Good.** The evaporation rate increases in summer.
+> **After.** The evaporation rate increases in summer.
 
-**Example 3.** The draft calls equation (9) the energy balance several pages earlier. Good leaves the nearby reference to (3) brief because the preceding sentence identifies it.
+**Edit 3.** The draft calls equation (9) the energy balance several pages earlier. The edit adds "the energy balance" before "(9)" to remind readers what the distant equation does, and leaves "(3)" brief because the preceding sentence identifies it.
 
-> **Bad.** Equation (3) gives the heat loss. We evaluate (3), then apply (9).
+> **Before.** Equation (3) gives the heat loss. We evaluate (3), then apply (9).
 >
-> **Good.** Equation (3) gives the heat loss. We evaluate (3), then apply the energy balance (9).
+> **After.** Equation (3) gives the heat loss. We evaluate (3), then apply the energy balance (9).

@@ -15,32 +15,32 @@ If the venue permits footnotes, you may move secondary comments into footnotes. 
 
 ## Examples
 
-**Example 1.** An editor cuts the preceding sentence about why the blue dye was chosen.
+**Edit 1.** An editor cuts the preceding sentence about why the blue dye was chosen. The edit adds "Because the blue dye was easiest to see" so that "it" has a named referent and the reason for choosing the dye survives the cut.
 
-> **Bad.** We use it for all remaining experiments.
+> **Before.** We use it for all remaining experiments.
 >
-> **Good.** Because the blue dye was easiest to see, we use it for all remaining experiments.
+> **After.** Because the blue dye was easiest to see, we use it for all remaining experiments.
 
-**Example 2.** The author permits moving the protocol to the existing supplement, where it appears in Section S2.
+**Edit 2.** The author permits moving the protocol to the existing supplement, where it appears in Section S2. The edit replaces "the supplement" with "Supplement Section S2" so that readers can find the specific protocol after it moves.
 
-> **Bad.** We dry each sample at 30 °C using the protocol in the supplement.
+> **Before.** We dry each sample at 30 °C using the protocol in the supplement.
 >
-> **Good.** We dry each sample at 30 °C using the protocol in Supplement Section S2.
+> **After.** We dry each sample at 30 °C using the protocol in Supplement Section S2.
 
-**Example 3.** An editor replaces the calibration settings with an appendix reference, but the draft has no appendix. Good keeps the settings in the main text so readers can still reproduce the calibration.
+**Edit 3.** An editor replaces the calibration settings with an appendix reference, but the draft has no appendix. The edit replaces the reference to Appendix A with the calibration temperatures of 0 °C and 20 °C, restoring the settings to the main text so that readers can reproduce the calibration.
 
-> **Bad.** The calibration settings appear in Appendix A.
+> **Before.** The calibration settings appear in Appendix A.
 >
-> **Good.** We calibrate at 0 °C and 20 °C.
+> **After.** We calibrate at 0 °C and 20 °C.
 
-**Example 4.** The author permits moving content. Good puts the required preparation in the main explanation so parentheses do not make it look optional.
+**Edit 4.** The author permits moving content. The edit moves "first removing the cap" out of parentheses and states cap removal before heating in the main clause, so that the required preparation does not look optional and the order stays clear.
 
-> **Bad.** We heat the sample (first removing the cap).
+> **Before.** We heat the sample (first removing the cap).
 >
-> **Good.** We remove the cap before heating the sample.
+> **After.** We remove the cap before heating the sample.
 
-**Example 5.** An editor cuts the draft's only definition of R, which later sections still use. Good restores the definition, because without it R is undefined everywhere it appears.
+**Edit 5.** An editor cuts the draft's only definition of R, which later sections still use. The edit restores the sentence defining recovery time R as the time to return to 20 °C, so that the symbol has a meaning wherever it appears.
 
-> **Bad.** We record R after each trial.
+> **Before.** We record R after each trial.
 >
-> **Good.** Recovery time R is the time to return to 20 °C. We record R after each trial.
+> **After.** Recovery time R is the time to return to 20 °C. We record R after each trial.

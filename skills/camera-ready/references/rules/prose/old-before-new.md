@@ -8,20 +8,20 @@ An opening condition can refer back to the preceding sentence while the main sub
 
 ## Examples
 
-**Example 1.** Readers can infer a front wheel from the bicycle, so Good starts there before introducing the loose bolt.
+**Edit 1.** Readers can infer a front wheel from the bicycle. The edit changes "A loose bolt held its front wheel" to "Its front wheel was held by a loose bolt" so that the second sentence starts with an inferable part of the bicycle before introducing the bolt.
 
-> **Bad.** We examined a bicycle. A loose bolt held its front wheel.
+> **Before.** We examined a bicycle. A loose bolt held its front wheel.
 >
-> **Good.** We examined a bicycle. Its front wheel was held by a loose bolt.
+> **After.** We examined a bicycle. Its front wheel was held by a loose bolt.
 
-**Example 2.** The paragraph is about the fan. Good opens with its blades because the dust is only a test condition, even though it was mentioned more recently.
+**Edit 2.** The paragraph is about the fan; dust is only a test condition, even though it was mentioned more recently. The edit makes "The fan’s three blades" the subject of the second sentence and moves "dust" to the end using the passive "were coated with", so that the opening stays with the paragraph's topic.
 
-> **Bad.** We tested the fan in dust. Dust coated the fan’s three blades.
+> **Before.** We tested the fan in dust. Dust coated the fan’s three blades.
 >
-> **Good.** We tested the fan in dust. The fan’s three blades were coated with dust.
+> **After.** We tested the fan in dust. The fan’s three blades were coated with dust.
 
-**Example 3.** The paragraph is about a sensor, and the preceding sentence introduces cold conditions. Good uses the condition to connect the sentences while keeping the sensor as the main subject.
+**Edit 3.** The paragraph is about a sensor, and the preceding sentence introduces cold conditions. The edit moves "In cold conditions" to the opening and replaces "A voltage of 5 V is required by the sensor" with "the sensor requires 5 V" so that the condition connects the sentences and the sensor becomes the main subject.
 
-> **Bad.** A voltage of 5 V is required by the sensor in cold conditions.
+> **Before.** A voltage of 5 V is required by the sensor in cold conditions.
 >
-> **Good.** In cold conditions, the sensor requires 5 V.
+> **After.** In cold conditions, the sensor requires 5 V.

@@ -8,26 +8,26 @@ For percentages and differences in percentage points, follow the rule on [variab
 
 ## Examples
 
-**Example 1.** Good spells out the small count but keeps the numeral for the measurement with a unit.
+**Edit 1.** The edit replaces "4 jars" with "four jars" to spell out the small count, while keeping "200 mL" in numerals because it is a measurement with a unit.
 
-> **Bad.** The tray holds 4 jars, each containing 200 mL of water.
+> **Before.** The tray holds 4 jars, each containing 200 mL of water.
 >
-> **Good.** The tray holds four jars, each containing 200 mL of water.
+> **After.** The tray holds four jars, each containing 200 mL of water.
 
-**Example 2.** The draft spells out counts below ten. Good keeps the numeral for cycles because it specifies a protocol setting.
+**Edit 2.** The draft spells out counts below ten. The edit replaces "2 trays" with "two trays" to follow that cutoff, while keeping "3 cycles" in numerals because it specifies a protocol setting.
 
-> **Bad.** We use 2 trays and run 3 cycles.
+> **Before.** We use 2 trays and run 3 cycles.
 >
-> **Good.** We use two trays and run 3 cycles.
+> **After.** We use two trays and run 3 cycles.
 
-**Example 3.**
+**Edit 3.** The edit replaces "800,000" with "0.8M" so that both counts use the same form for comparison, without rounding either value.
 
-> **Bad.** The counts are 2.4M and 800,000.
+> **Before.** The counts are 2.4M and 800,000.
 >
-> **Good.** The counts are 2.4M and 0.8M.
+> **After.** The counts are 2.4M and 0.8M.
 
-**Example 4.** The draft uses this rounded count elsewhere. Good is a proposal to flag for the author because matching the forms here also discards precision.
+**Edit 4.** The draft uses this rounded count elsewhere. The edit, a proposal to flag for the author, replaces "812,345" with "0.8M" to match "2.4M"; it requires review because rounding discards precision.
 
-> **Bad.** The counts are 2.4M and 812,345.
+> **Before.** The counts are 2.4M and 812,345.
 >
-> **Good.** The counts are 2.4M and 0.8M.
+> **After.** The counts are 2.4M and 0.8M.

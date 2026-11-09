@@ -22,44 +22,44 @@ For a claim that an iterative method converges, meaning that its successive esti
 
 ## Examples
 
-**Example 1.** The draft compares both modes on the same photographs and reports both outcomes.
+**Edit 1.** The draft compares both modes on the same photographs and reports both outcomes. The edit adds "but loses more image detail", so that the comparison states the loss in image quality alongside the reduction in file size.
 
-> **Bad.** Mode A produces smaller files than mode B.
+> **Before.** Mode A produces smaller files than mode B.
 >
-> **Good.** Mode A produces smaller files than mode B but loses more image detail.
+> **After.** Mode A produces smaller files than mode B but loses more image detail.
 
-**Example 2.** The draft describes independently prepared batches and supplies the batch count, averaging procedure, and meaning of ±.
+**Edit 2.** The draft describes independently prepared batches and supplies the batch count, averaging procedure, and meaning of ±. The edit identifies six independently prepared batches, labels the yield as a mean, and defines ± as standard deviation, so that readers know what was repeated and how the results were summarized.
 
-> **Bad.** The yield is 72 ± 3%.
+> **Before.** The yield is 72 ± 3%.
 >
-> **Good.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
+> **After.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
 
-**Example 3.** The draft gives the test conditions for both sets of tiles. Good withdraws the ranking because the wet and dry tests do not establish a fair comparison.
+**Edit 3.** The draft gives the test conditions for both sets of tiles. The edit names the wet and dry conditions and replaces the strength ranking with "These tests do not establish whether", because the different conditions do not establish a fair comparison.
 
-> **Bad.** Our tiles are stronger than Lee's tiles.
+> **Before.** Our tiles are stronger than Lee's tiles.
 >
-> **Good.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
+> **After.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
 
-**Example 4.** The draft identifies the photographs used at each stage. Good removes the claim of independent confirmation because the evaluation uses data that influenced the selection.
+**Edit 4.** The draft identifies the photographs used at each stage. The edit replaces "independently confirm" with a statement that accuracy is measured on the same photographs used for selection, because data that influenced the choice cannot independently confirm it.
 
-> **Bad.** The photographs independently confirm the selected filter's accuracy.
+> **Before.** The photographs independently confirm the selected filter's accuracy.
 >
-> **Good.** The selected filter's accuracy is measured on the same photographs used to select it.
+> **After.** The selected filter's accuracy is measured on the same photographs used to select it.
 
-**Example 5.** The draft describes separate, independently sampled plots for selection and testing. Good corrects the claim of reuse because coming from one farm does not make the plots the same data.
+**Edit 5.** The draft describes separate, independently sampled plots for selection and testing. The edit replaces "reuses the selection plots" with "uses separate held-out plots", because coming from one farm does not make the plots the same data.
 
-> **Bad.** The test reuses the selection plots from the farm.
+> **Before.** The test reuses the selection plots from the farm.
 >
-> **Good.** The test uses separate held-out plots from the farm.
+> **After.** The test uses separate held-out plots from the farm.
 
-**Example 6.** The draft leaves a known calibration error uncorrected. Good limits the conclusion to repeatability because closely agreeing measurements can share the same error.
+**Edit 6.** The draft leaves a known calibration error uncorrected. The edit replaces "rules out measurement error" with "shows little variation across repeats", because closely agreeing measurements can share the same error.
 
-> **Bad.** The small spread rules out measurement error.
+> **Before.** The small spread rules out measurement error.
 >
-> **Good.** The small spread shows little variation across repeats.
+> **After.** The small spread shows little variation across repeats.
 
-**Example 7.** The draft defines the increase as four percentage points. Good names the unit because "4%" would mean an increase relative to the starting rate.
+**Edit 7.** The draft defines the increase as four percentage points. The edit replaces "4%" with "4 percentage points", so that the increase is stated as the difference between rates rather than a percentage of the starting rate.
 
-> **Bad.** The attendance rate increases by 4%.
+> **Before.** The attendance rate increases by 4%.
 >
-> **Good.** The attendance rate increases by 4 percentage points.
+> **After.** The attendance rate increases by 4 percentage points.

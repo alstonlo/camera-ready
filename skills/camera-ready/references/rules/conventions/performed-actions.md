@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The authors weigh individual seeds but never whole plants. Good keeps "can" for the unused capability so that the edit does not imply the authors weighed whole plants.
+**Edit 1.** The authors weigh individual seeds but never whole plants. The edit changes "We can weigh" to "We weigh" to state the performed action directly, while keeping "can" for the scale's unused capability so that it does not imply the authors weighed whole plants.
 
-> **Bad.** The scale can weigh whole plants. We can weigh each seed separately.
+> **Before.** The scale can weigh whole plants. We can weigh each seed separately.
 >
-> **Good.** The scale can weigh whole plants. We weigh each seed separately.
+> **After.** The scale can weigh whole plants. We weigh each seed separately.
 
-**Example 2.** The authors sort these seeds by hand, but automated sorting remains an unreached goal. Good removes "can" from the performed action and keeps "aim to" for the goal.
+**Edit 2.** The authors sort these seeds by hand, but automated sorting remains an unreached goal. The edit changes "We can sort" to "We sort" to state the performed action directly, while keeping "aim to" so that automation remains a goal rather than an accomplishment.
 
-> **Bad.** We aim to automate sorting. We can sort these seeds by hand.
+> **Before.** We aim to automate sorting. We can sort these seeds by hand.
 >
-> **Good.** We aim to automate sorting. We sort these seeds by hand.
+> **After.** We aim to automate sorting. We sort these seeds by hand.

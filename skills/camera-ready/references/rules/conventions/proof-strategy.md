@@ -10,26 +10,26 @@ Separate the construction of an object from its use. At the transition, state th
 
 ## Examples
 
-**Example 1.** The proof later derives a contradiction by adding one to $n$.
+**Edit 1.** The proof later derives a contradiction by adding one to $n$. The edit adds "We argue by contradiction" before the assumption so that readers know the proof's strategy from the start.
 
-> **Bad.** Let $n$ be the largest integer.
+> **Before.** Let $n$ be the largest integer.
 >
-> **Good.** We argue by contradiction. Let $n$ be the largest integer.
+> **After.** We argue by contradiction. Let $n$ be the largest integer.
 
-**Example 2.** The draft treats evenness as an assumption for this case.
+**Edit 2.** The draft treats evenness as an assumption for this case. The edit adds "Assume that" before "the integer $n$ is even" so that readers recognize an assumption rather than an established fact.
 
-> **Bad.** The integer $n$ is even. Write $n=2k$.
+> **Before.** The integer $n$ is even. Write $n=2k$.
 >
-> **Good.** Assume that the integer $n$ is even. Write $n=2k$.
+> **After.** Assume that the integer $n$ is even. Write $n=2k$.
 
-**Example 3.** The draft establishes that the dry case needs the bound proved in the wet case.
+**Edit 3.** The draft establishes that the dry case needs the bound proved in the wet case. The edit adds the reason for beginning with the wet case, explaining why the proof departs from the announced order.
 
-> **Bad.** We treat the dry case, then the wet case. We begin with the wet case.
+> **Before.** We treat the dry case, then the wet case. We begin with the wet case.
 >
-> **Good.** We treat the dry case, then the wet case. We begin with the wet case because the proof of the dry case uses the bound from the wet case.
+> **After.** We treat the dry case, then the wet case. We begin with the wet case because the proof of the dry case uses the bound from the wet case.
 
-**Example 4.** The draft has just constructed $S$ and proved it finite, and Lemma 2 applies to finite sets.
+**Edit 4.** The draft has just constructed $S$ and proved it finite, and Lemma 2 applies to finite sets. The edit adds "We have constructed a finite set $S$" to mark the completed construction and identify the property that permits applying the lemma.
 
-> **Bad.** We now apply Lemma 2 to $S$.
+> **Before.** We now apply Lemma 2 to $S$.
 >
-> **Good.** We have constructed a finite set $S$. We now apply Lemma 2 to $S$.
+> **After.** We have constructed a finite set $S$. We now apply Lemma 2 to $S$.

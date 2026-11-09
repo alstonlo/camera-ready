@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit replaces "spreadsheet the readings" with "enter the readings in a spreadsheet" so that the sentence states the action directly instead of using the tool's name as an unfamiliar verb.
 
-> **Bad.** We spreadsheet the readings.
+> **Before.** We spreadsheet the readings.
 >
-> **Good.** We enter the readings in a spreadsheet.
+> **After.** We enter the readings in a spreadsheet.
 
-**Example 2.** Good adds "that" so readers do not initially read "show the samples" as displaying the samples.
+**Edit 2.** The edit adds "that" after "show" so that readers do not initially read "show the samples" as displaying the samples.
 
-> **Bad.** We show the samples we heat expand.
+> **Before.** We show the samples we heat expand.
 >
-> **Good.** We show that the samples we heat expand.
+> **After.** We show that the samples we heat expand.
 
-**Example 3.** The draft uses "heat flux sensor" as an established technical term. Good preserves that name while separating it from the words describing the procedure.
+**Edit 3.** The draft uses "heat flux sensor" as an established technical term. The edit replaces "heat flux sensor calibration procedure" with "procedure for calibrating the heat flux sensor" to make the relationship between the procedure and the sensor clear while preserving the technical name.
 
-> **Bad.** The heat flux sensor calibration procedure is documented.
+> **Before.** The heat flux sensor calibration procedure is documented.
 >
-> **Good.** The procedure for calibrating the heat flux sensor is documented.
+> **After.** The procedure for calibrating the heat flux sensor is documented.

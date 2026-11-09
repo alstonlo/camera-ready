@@ -10,14 +10,14 @@ The words "Some may argue" alone do not make an objection explicitly hypothetica
 
 ## Examples
 
-**Example 1.** The draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself. Good names the cited authors instead of unnamed experts as the source of the expectation.
+**Edit 1.** The draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself. The edit replaces "Experts believe" and the trailing citation with "Zhao et al. (2023) expect" so that the forecast belongs explicitly to the cited authors.
 
-> **Bad.** Experts believe that most new city roofs will be white by 2040 (Zhao et al., 2023).
+> **Before.** Experts believe that most new city roofs will be white by 2040 (Zhao et al., 2023).
 >
-> **Good.** Zhao et al. (2023) expect that most new city roofs will be white by 2040.
+> **After.** Zhao et al. (2023) expect that most new city roofs will be white by 2040.
 
-**Example 2.** The draft cites Lin (2021) for the germination claim. Good leaves the objection unattributed because the paper poses and answers it as a hypothetical question.
+**Edit 2.** The draft cites Lin (2021) for the germination claim. The edit replaces "Studies show" with "Lin (2021) reports" so that the claim has a named source. It leaves the objection unattributed because the paper explicitly poses and answers it as a hypothetical question.
 
-> **Bad.** Studies show that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
+> **Before.** Studies show that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 >
-> **Good.** Lin (2021) reports that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
+> **After.** Lin (2021) reports that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.

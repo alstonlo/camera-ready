@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit moves the explanation of converting distance and elapsed time into average speed before "$v=d/t$" and combines the two sentences, so that readers know the equation's purpose before seeing it.
 
-> **Bad.** We use $v=d/t$. This equation converts each runner's distance and elapsed time into average speed.
+> **Before.** We use $v=d/t$. This equation converts each runner's distance and elapsed time into average speed.
 >
-> **Good.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
+> **After.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
 
-**Example 2.** The draft explains the equation's purpose in another section. Good is a proposed move for the author, because moving material between sections must be flagged.
+**Edit 2.** The draft explains the equation's purpose in another section. The edit, a proposal to the author, moves that explanation before "$v=d/t$" so that readers know it converts distance and elapsed time into average speed. The move must be flagged because it transfers material between sections.
 
-> **Bad.** We use $v=d/t$.
+> **Before.** We use $v=d/t$.
 >
-> **Good.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
+> **After.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.

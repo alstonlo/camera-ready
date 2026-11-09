@@ -8,20 +8,20 @@ State the specific gap in what is known or can be done, and state its cost: what
 
 ## Examples
 
-**Example 1.** The draft explains elsewhere why the load limit is needed.
+**Edit 1.** The draft explains elsewhere why the load limit is needed. The edit adds "so we cannot determine whether the bridge can carry the new buses" so that the unknown load limit has a specific consequence for readers.
 
-> **Bad.** The bridge's maximum safe load is unknown.
+> **Before.** The bridge's maximum safe load is unknown.
 >
-> **Good.** The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
+> **After.** The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
 
-**Example 2.** The draft identifies the specific unknown elsewhere.
+**Edit 2.** The draft identifies the specific unknown elsewhere. The edit replaces "Little is known about these seeds" with "It is unknown whether these seeds can sprout after a winter freeze" so that readers know exactly what remains unknown and why autumn sowing is uncertain.
 
-> **Bad.** Little is known about these seeds, so the viability of autumn sowing is unclear.
+> **Before.** Little is known about these seeds, so the viability of autumn sowing is unclear.
 >
-> **Good.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
+> **After.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
 
-**Example 3.** The draft says the measurements are intended to help design a water filter; the study does not build one. Good proposes correcting the stated objective to reflect that distinction.
+**Edit 3.** The draft says the measurements are intended to help design a water filter; the study does not build one. The edit, a proposal to the author, replaces "to build a water filter in this study" with "because we need that information to design a water filter" so that the objective describes gathering needed information without claiming to build the filter.
 
-> **Bad.** We measure whether the membrane passes salt to build a water filter in this study.
+> **Before.** We measure whether the membrane passes salt to build a water filter in this study.
 >
-> **Good.** We measure whether the membrane passes salt because we need that information to design a water filter.
+> **After.** We measure whether the membrane passes salt because we need that information to design a water filter.

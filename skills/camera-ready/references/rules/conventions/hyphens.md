@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit removes the hyphen from "battery-powered", because the modifier follows the noun "pump".
 
-> **Bad.** The pump is battery-powered.
+> **Before.** The pump is battery-powered.
 >
-> **Good.** The pump is battery powered.
+> **After.** The pump is battery powered.
 
-**Example 2.** The draft consistently writes "fluid mechanics" without a hyphen. Good preserves this established term even though it appears before a noun.
+**Edit 2.** The draft consistently writes "fluid mechanics" without a hyphen. The edit hyphenates "battery-powered" because it modifies the following noun "pump", but keeps the established term "fluid mechanics" unhyphenated before "laboratory" to preserve the draft's consistent usage.
 
-> **Bad.** We use a battery powered pump in the fluid mechanics laboratory.
+> **Before.** We use a battery powered pump in the fluid mechanics laboratory.
 >
-> **Good.** We use a battery-powered pump in the fluid mechanics laboratory.
+> **After.** We use a battery-powered pump in the fluid mechanics laboratory.

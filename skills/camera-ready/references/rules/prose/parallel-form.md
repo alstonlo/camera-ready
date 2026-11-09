@@ -8,26 +8,26 @@ Preserve real differences and qualifications between parallel items. If the draf
 
 ## Examples
 
-**Example 1.** Good keeps the condition on the width measurement because matching grammatical forms does not require identical measurement conditions.
+**Edit 1.** The edit replaces "how much the box weighed" with "the weight of the box" so that all three measurements use the same grammatical form. It keeps "with the lid open" on the width measurement because parallel wording does not require identical measurement conditions.
 
-> **Bad.** We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
+> **Before.** We measured the length of the box, the width of the box with the lid open, and how much the box weighed.
 >
-> **Good.** We measured the length of the box, the width of the box with the lid open, and the weight of the box.
+> **After.** We measured the length of the box, the width of the box with the lid open, and the weight of the box.
 
-**Example 2.** The draft says hot water is used only for washing.
+**Edit 2.** The draft says hot water is used only for washing. The edit moves "with hot water" next to "wash the jars" and changes the drying phrase to "dry them" so that hot water clearly applies only to washing.
 
-> **Bad.** We wash and dry the jars with hot water.
+> **Before.** We wash and dry the jars with hot water.
 >
-> **Good.** We wash the jars with hot water and dry them.
+> **After.** We wash the jars with hot water and dry them.
 
-**Example 3.**
+**Edit 3.** The edit adds "the mass of" before "the wooden ball" so that the sentence compares one mass with another rather than a mass with an object.
 
-> **Bad.** The mass of the steel ball exceeds the wooden ball.
+> **Before.** The mass of the steel ball exceeds the wooden ball.
 >
-> **Good.** The mass of the steel ball exceeds the mass of the wooden ball.
+> **After.** The mass of the steel ball exceeds the mass of the wooden ball.
 
-**Example 4.** The draft establishes that freezing caused the split.
+**Edit 4.** The draft establishes that freezing caused the split. The edit replaces "froze and split" with "split because it froze" so that the sentence states the supported causal relationship instead of merely joining two events.
 
-> **Bad.** The pipe froze and split.
+> **Before.** The pipe froze and split.
 >
-> **Good.** The pipe split because it froze.
+> **After.** The pipe split because it froze.

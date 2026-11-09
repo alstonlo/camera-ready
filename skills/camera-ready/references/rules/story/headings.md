@@ -8,26 +8,26 @@ When headings under the same parent mix objects, operations, and findings, check
 
 ## Examples
 
-**Example 1.** The user study covers only screen-reader navigation. Good proposes removing the lone subsection heading because it adds no distinction.
+**Edit 1.** The user study covers only screen-reader navigation. The edit, a proposal to the author, removes "3.1 Screen-reader navigation" and incorporates its topic into "3 User study of screen-reader navigation", so that the scope stays explicit without a subsection heading that adds no distinction.
 
-> **Bad.** 3 User study; 3.1 Screen-reader navigation
+> **Before.** 3 User study; 3.1 Screen-reader navigation
 >
-> **Good.** 3 User study of screen-reader navigation
+> **After.** 3 User study of screen-reader navigation
 
-**Example 2.**
+**Edit 2.** The edit replaces the parent heading "Drying" with "Sample preparation" so that it describes both drying and weighing, while keeping the two subsection headings.
 
-> **Bad.** 2 Drying; 2.1 Drying samples; 2.2 Weighing samples
+> **Before.** 2 Drying; 2.1 Drying samples; 2.2 Weighing samples
 >
-> **Good.** 2 Sample preparation; 2.1 Drying samples; 2.2 Weighing samples
+> **After.** 2 Sample preparation; 2.1 Drying samples; 2.2 Weighing samples
 
-**Example 3.**
+**Edit 3.** The edit replaces "The solution is cooled" with "Cooling the solution" so that the two headings name operations in parallel form.
 
-> **Bad.** 2.1 Mixing the solution; 2.2 The solution is cooled
+> **Before.** 2.1 Mixing the solution; 2.2 The solution is cooled
 >
-> **Good.** 2.1 Mixing the solution; 2.2 Cooling the solution
+> **After.** 2.1 Mixing the solution; 2.2 Cooling the solution
 
-**Example 4.** The section supports the stated finding only for the tested ferns. Good proposes a finding as the heading while keeping that limit on the claim.
+**Edit 4.** The section supports the stated finding only for the tested ferns. The edit, a proposal to the author, replaces "Water loss" with "Shade reduces water loss in the tested ferns" so that the heading states the finding while keeping its limit to the tested ferns.
 
-> **Bad.** Water loss
+> **Before.** Water loss
 >
-> **Good.** Shade reduces water loss in the tested ferns
+> **After.** Shade reduces water loss in the tested ferns

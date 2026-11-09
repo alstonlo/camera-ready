@@ -19,32 +19,32 @@ Distinguish an upper bound on one algorithm's cost from a lower bound that every
 
 ## Examples
 
-**Example 1.** The draft gives the reagent cost and exclusions elsewhere.
+**Edit 1.** The draft gives the reagent cost and exclusions elsewhere. The edit adds "for reagents, excluding sample preparation" so that readers know which costs the $4 includes and excludes.
 
-> **Bad.** The assay costs $4 per sample.
+> **Before.** The assay costs $4 per sample.
 >
-> **Good.** The assay costs $4 per sample for reagents, excluding sample preparation.
+> **After.** The assay costs $4 per sample for reagents, excluding sample preparation.
 
-**Example 2.** The draft defines the efficiency calculation elsewhere.
+**Edit 2.** The draft defines the efficiency calculation elsewhere. The edit replaces "efficiency is 80%" with the fraction of supplied electrical energy delivered as heat to the water, so that readers know what the percentage measures.
 
-> **Bad.** The heater's efficiency is 80%.
+> **Before.** The heater's efficiency is 80%.
 >
-> **Good.** The heater delivers 80% of the supplied electrical energy as heat to the water.
+> **After.** The heater delivers 80% of the supplied electrical energy as heat to the water.
 
-**Example 3.** The draft contains a mathematical comparison but no measured times. Good limits the claim to how time grows with input size, because slower growth does not establish shorter elapsed time.
+**Edit 3.** The draft contains a mathematical comparison but no measured times. The edit replaces "lower elapsed time" with time that "grows asymptotically more slowly", because slower growth with input size does not establish shorter elapsed time.
 
-> **Bad.** Method A has lower elapsed time than method B.
+> **Before.** Method A has lower elapsed time than method B.
 >
-> **Good.** Method A's time grows asymptotically more slowly than method B's.
+> **After.** Method A's time grows asymptotically more slowly than method B's.
 
-**Example 4.** The draft proves an upper bound for one algorithm. Good states a limit on that algorithm's cost, because its upper bound does not establish a minimum cost for every algorithm.
+**Edit 4.** The draft proves an upper bound for one algorithm. The edit replaces "Every algorithm for the problem" with "This algorithm" and adds "at most", because an upper limit on one algorithm's cost does not establish a minimum cost for every algorithm.
 
-> **Bad.** Every algorithm for the problem requires quadratic time.
+> **Before.** Every algorithm for the problem requires quadratic time.
 >
-> **Good.** This algorithm requires at most quadratic time.
+> **After.** This algorithm requires at most quadratic time.
 
-**Example 5.** The draft reports higher total energy use when production increases, despite a saving per item.
+**Edit 5.** The draft reports higher total energy use when production increases, despite a saving per item. The edit adds "per item" so that the claim describes the saving for each item without implying lower total energy use.
 
-> **Bad.** The new process uses less energy.
+> **Before.** The new process uses less energy.
 >
-> **Good.** The new process uses less energy per item.
+> **After.** The new process uses less energy per item.

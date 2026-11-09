@@ -8,26 +8,26 @@ If a major result supports no contribution, check how it relates to the paper's 
 
 ## Examples
 
-**Example 1.** Section 4 establishes the rust-prevention result. Good is a proposed contribution claim for the author to review.
+**Edit 1.** Section 4 establishes the rust-prevention result. The edit, a proposal to the author, replaces "We test the coating in saltwater" with "We show that the coating prevents rust in the saltwater test", so the contribution states a checkable finding rather than an activity while retaining the supporting section reference.
 
-> **Bad.** We test the coating in saltwater (Section 4).
+> **Before.** We test the coating in saltwater (Section 4).
 >
-> **Good.** We show that the coating prevents rust in the saltwater test (Section 4).
+> **After.** We show that the coating prevents rust in the saltwater test (Section 4).
 
-**Example 2.** Section 3 provides evidence for this claim.
+**Edit 2.** Section 3 provides evidence for this claim. The edit adds "(Section 3)", so readers know where to find support for the claim that the screen blocks all flies in the trial.
 
-> **Bad.** The screen blocks all flies in our trial.
+> **Before.** The screen blocks all flies in our trial.
 >
-> **Good.** The screen blocks all flies in our trial (Section 3).
+> **After.** The screen blocks all flies in our trial (Section 3).
 
-**Example 3.** Section 4 supports the contribution.
+**Edit 3.** Section 4 supports the contribution. The edit deletes "Section 4 presents the results", because the contribution already names its supporting section and the roadmap sentence adds no content.
 
-> **Bad.** The coating prevents rust in the saltwater test (Section 4). Section 4 presents the results.
+> **Before.** The coating prevents rust in the saltwater test (Section 4). Section 4 presents the results.
 >
-> **Good.** The coating prevents rust in the saltwater test (Section 4).
+> **After.** The coating prevents rust in the saltwater test (Section 4).
 
-**Example 4.** The draft provides no measurements or analysis to support the power-use claim.
+**Edit 4.** The draft provides no measurements or analysis to support the power-use claim. The edit keeps the claim and adds a flag asking which evidence supports it, so the author can supply support without the editor inventing evidence or deleting the contribution.
 
-> **Bad.** Our controller uses less power than the baseline.
+> **Before.** Our controller uses less power than the baseline.
 >
-> **Good.** Our controller uses less power than the baseline. Flag for the author: Which evidence supports this contribution?
+> **After.** Our controller uses less power than the baseline. Flag for the author: Which evidence supports this contribution?

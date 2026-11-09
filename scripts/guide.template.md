@@ -13,11 +13,11 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 ## Examples
 
-**Example 1.** {{ Optional context for the example. If not obvious, what the Good passage changes and why, in one or two sentences. }}
+**Edit 1.** {{ Optional context for the example. Then what the edit changes and why, in one or two sentences. }}
 
-> **Bad.** {{ A passage that breaks the rule. }}
+> **Before.** {{ A passage that breaks the rule. }}
 >
-> **Good.** {{ The same passage, corrected under this rule alone. }}
+> **After.** {{ The same passage, corrected under this rule alone. }}
 ```
 
 The guide below reproduces each rule's heading and summary, and each rule page adds `Details` and at least one example. Read the full page when a rule applies to your text but the summary does not show which edit to make, or when the summary refers to a case on the page. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.

@@ -10,20 +10,20 @@ Keep existing `\label` commands unchanged. Flag any numbering change that requir
 
 ## Examples
 
-**Example 1.** The draft identifies this equation as its central model. Good proposes numbering it; changing the protected display environment must be flagged.
+**Edit 1.** The draft identifies this equation as its central model. The edit, a proposal to the author, changes the "equation*" environment to "equation" so that the central model receives a number. The change must be flagged because the display environment is protected.
 
-> **Bad.** \begin{equation*} h(t)=h(0)+rt. \end{equation*}
+> **Before.** \begin{equation*} h(t)=h(0)+rt. \end{equation*}
 >
-> **Good.** \begin{equation} h(t)=h(0)+rt. \end{equation}
+> **After.** \begin{equation} h(t)=h(0)+rt. \end{equation}
 
-**Example 2.** The draft later refers to this display by its label. Good proposes numbering it; changing the protected display environment must be flagged.
+**Edit 2.** The draft later refers to this display by its label. The edit, a proposal to the author, changes the "equation*" environment to "equation" while keeping the existing label, so that the referenced display receives a number. The change must be flagged because the display environment is protected.
 
-> **Bad.** \begin{equation*}\label{eq:sum} s=a+b. \end{equation*}
+> **Before.** \begin{equation*}\label{eq:sum} s=a+b. \end{equation*}
 >
-> **Good.** \begin{equation}\label{eq:sum} s=a+b. \end{equation}
+> **After.** \begin{equation}\label{eq:sum} s=a+b. \end{equation}
 
-**Example 3.** The draft uses this equation only as an intermediate step and never refers to it. Good proposes removing its number; changing the protected display environment must be flagged.
+**Edit 3.** The draft uses this equation only as an intermediate step and never refers to it. The edit, a proposal to the author, changes the "equation" environment to "equation*" so that this unreferenced intermediate step has no number. The change must be flagged because the display environment is protected.
 
-> **Bad.** \begin{equation} 2+3=5. \end{equation}
+> **Before.** \begin{equation} 2+3=5. \end{equation}
 >
-> **Good.** \begin{equation*} 2+3=5. \end{equation*}
+> **After.** \begin{equation*} 2+3=5. \end{equation*}

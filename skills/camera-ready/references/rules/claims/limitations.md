@@ -8,32 +8,32 @@ When a later claim depends on a limitation, keep the brief reminder of the limit
 
 ## Examples
 
-**Example 1.** The draft reports that the battery tests cover only room temperature.
+**Edit 1.** The draft reports that the battery tests cover only room temperature. The edit adds this limitation before the freezing tests proposed as future work, so readers know which gap those tests would address.
 
-> **Bad.** Future work will test the battery in freezing conditions.
+> **Before.** Future work will test the battery in freezing conditions.
 >
-> **Good.** The battery tests cover only room temperature. Future work will test the battery in freezing conditions.
+> **After.** The battery tests cover only room temperature. Future work will test the battery in freezing conditions.
 
-**Example 2.** The draft specifies that observations cover only weekdays.
+**Edit 2.** The draft specifies that observations cover only weekdays. The edit removes "Unfortunately" and replaces "have limited coverage" with "cover only weekdays", so the limitation is precise and stated without apology.
 
-> **Bad.** Unfortunately, the observations have limited coverage.
+> **Before.** Unfortunately, the observations have limited coverage.
 >
-> **Good.** The observations cover only weekdays.
+> **After.** The observations cover only weekdays.
 
-**Example 3.** Elsewhere, the draft explains which conclusions the missing readings prevent and which remain valid.
+**Edit 3.** Elsewhere, the draft explains which conclusions the missing readings prevent and which remain valid. The edit adds that daily totals cannot be estimated but the weekday daytime comparison remains valid, so readers see both the limitation's effect and the conclusion it still permits.
 
-> **Bad.** Night readings are missing.
+> **Before.** Night readings are missing.
 >
-> **Good.** Night readings are missing, so daily totals cannot be estimated. The weekday daytime comparison remains valid.
+> **After.** Night readings are missing, so daily totals cannot be estimated. The weekday daytime comparison remains valid.
 
-**Example 4.** The calibration problem and its effect on absolute masses are documented elsewhere in the draft. Good proposes a revision for the author that includes this larger weakness so the slow display does not stand in for the full account of limitations.
+**Edit 4.** The calibration problem and its effect on absolute masses are documented elsewhere in the draft. The edit, a proposal to the author, replaces "The only limitation" with "One limitation" and adds that the uncalibrated scale prevents interpreting absolute masses, so the slow display does not conceal the larger weakness.
 
-> **Bad.** The only limitation is the slow display.
+> **Before.** The only limitation is the slow display.
 >
-> **Good.** One limitation is the slow display. Another limitation is that the scale was not calibrated, so absolute masses cannot be interpreted.
+> **After.** One limitation is the slow display. Another limitation is that the scale was not calibrated, so absolute masses cannot be interpreted.
 
-**Example 5.** The author asks for cuts, and the triage order has reached repeated full statements of limitations; an earlier passage in this section gives the full limitation. Good keeps the daytime restriction because the observations do not establish a peak across the whole day.
+**Edit 5.** The author asks for cuts, and the triage order has reached repeated full statements of limitations; an earlier passage in this section gives the full limitation. The edit removes the repeated full limitation and adds "During the monitored daytime hours" to the peak claim, because the observations do not establish a peak across the whole day.
 
-> **Bad.** Demand peaks at noon. The tests exclude nights, so daily totals cannot be estimated.
+> **Before.** Demand peaks at noon. The tests exclude nights, so daily totals cannot be estimated.
 >
-> **Good.** During the monitored daytime hours, demand peaks at noon.
+> **After.** During the monitored daytime hours, demand peaks at noon.

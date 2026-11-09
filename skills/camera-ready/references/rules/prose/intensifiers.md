@@ -8,32 +8,32 @@ When "highly", "remarkably", or "exceptionally" adds only emphasis, cut it or re
 
 ## Examples
 
-**Example 1.** The draft supplies the cable's measured length.
+**Edit 1.** The draft supplies the cable's measured length. The edit replaces "extremely" with "40 m" so that the sentence gives the measured length instead of merely emphasizing it.
 
-> **Bad.** The cable is extremely long.
+> **Before.** The cable is extremely long.
 >
-> **Good.** The cable is 40 m long.
+> **After.** The cable is 40 m long.
 
-**Example 2.** Good keeps "largely" because removing it would claim that the coating prevents all rust.
+**Edit 2.** The edit deletes "Note that" because the prompt adds no needed clarification, while keeping "largely" because removing it would claim that the coating prevents all rust.
 
-> **Bad.** Note that the coating largely prevents rust.
+> **Before.** Note that the coating largely prevents rust.
 >
-> **Good.** The coating largely prevents rust.
+> **After.** The coating largely prevents rust.
 
-**Example 3.** The preceding sentence defines a zero score as no detected damage. Good keeps "Note that" to guard against reading that score as proof of no damage; "very" adds only emphasis.
+**Edit 3.** The preceding sentence defines a zero score as no detected damage. The edit deletes "very" from "very useful" because it adds only emphasis, while keeping "Note that" to guard against reading the score as proof of no damage.
 
-> **Bad.** Note that a zero score does not rule out damage. The test is very useful.
+> **Before.** Note that a zero score does not rule out damage. The test is very useful.
 >
-> **Good.** Note that a zero score does not rule out damage. The test is useful.
+> **After.** Note that a zero score does not rule out damage. The test is useful.
 
-**Example 4.** The draft's proof establishes that the last term is zero. Good keeps "Clearly" because adding zero is a routine step even for readers outside the subfield.
+**Edit 4.** The draft's proof establishes that the last term is zero. The edit deletes "very" from "very safely" because it adds only emphasis, while keeping "Clearly" because adding zero is a routine step even for readers outside the subfield.
 
-> **Bad.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
+> **Before.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
 >
-> **Good.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
+> **After.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
 
-**Example 5.**
+**Edit 5.** The edit deletes "clearly" because it adds only emphasis to an empirical claim, leaving the finding about earlier sprouting intact.
 
-> **Bad.** The treated seeds clearly sprout sooner.
+> **Before.** The treated seeds clearly sprout sooner.
 >
-> **Good.** The treated seeds sprout sooner.
+> **After.** The treated seeds sprout sooner.

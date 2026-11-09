@@ -8,20 +8,20 @@ Read the title on its own, as readers see it in search results. A short, establi
 
 ## Examples
 
-**Example 1.** The draft studies detecting cracks in ceramic cups with sound. Good is a suggested title for the author's review, as are the revisions in Examples 2 and 3.
+**Edit 1.** The draft studies detecting cracks in ceramic cups with sound. The edit, a proposal to the author as in Examples 2 and 3, replaces "A new approach to testing ceramics" with "Detecting cracks in ceramic cups with sound", so that the title names the task, objects, and method instead of hiding them behind a generic claim of novelty.
 
-> **Bad.** A new approach to testing ceramics
+> **Before.** A new approach to testing ceramics
 >
-> **Good.** Detecting cracks in ceramic cups with sound
+> **After.** Detecting cracks in ceramic cups with sound
 
-**Example 2.** The draft uses radio tags to locate birds carrying cameras. The suggested title removes the reading that cameras do the tracking.
+**Edit 2.** The draft uses radio tags to locate birds carrying cameras. The edit, a proposal to the author, replaces "with cameras" with "that carry cameras", so that the title no longer suggests that cameras do the tracking.
 
-> **Bad.** Tracking birds with cameras
+> **Before.** Tracking birds with cameras
 >
-> **Good.** Tracking birds that carry cameras
+> **After.** Tracking birds that carry cameras
 
-**Example 3.** The draft reports reduced leakage only in the tested pipes.
+**Edit 3.** The draft reports reduced leakage only in the tested pipes. The edit, a proposal to the author, replaces "Preventing all pipe leaks" with "Reducing leaks in the tested pipes", so that the title claims reduction rather than prevention and limits the claim to the tested pipes.
 
-> **Bad.** Preventing all pipe leaks
+> **Before.** Preventing all pipe leaks
 >
-> **Good.** Reducing leaks in the tested pipes
+> **After.** Reducing leaks in the tested pipes

@@ -10,26 +10,26 @@ Comparing two approaches does not imply that they are the only options, as an ex
 
 ## Examples
 
-**Example 1.** Elsewhere, the draft states that the lamp works in dry conditions but not in rain. Good proposes stating those conditions in both passages to explain the apparent conflict.
+**Edit 1.** Elsewhere, the draft states that the lamp works in dry conditions but not in rain. The edit, a proposal to the author, adds "In dry conditions" to the abstract and "In rain" to Results so that the passages state the conditions that explain the apparent conflict.
 
-> **Bad.** Abstract: The lamp works. Results: The lamp does not work.
+> **Before.** Abstract: The lamp works. Results: The lamp does not work.
 >
-> **Good.** Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
+> **After.** Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
 
-**Example 2.** The draft also allows responses through an online form. Good proposes including that option because the requirement otherwise excludes a permitted response.
+**Edit 2.** The draft also allows responses through an online form. The edit, a proposal to the author, adds "or through an online form" to the response options so that the requirement no longer excludes a permitted response.
 
-> **Bad.** Participants must respond by phone or by mail.
+> **Before.** Participants must respond by phone or by mail.
 >
-> **Good.** Participants must respond by phone, by mail, or through an online form.
+> **After.** Participants must respond by phone, by mail, or through an online form.
 
-**Example 3.** The draft reports that two students use both forms of transport. Good proposes stating that overlap, which explains why the category counts exceed the total.
+**Edit 3.** The draft reports that two students use both forms of transport. The edit, a proposal to the author, replaces "with no overlap" with "with two using both" so that the stated overlap explains why the bus and train counts add up to more than twelve students.
 
-> **Bad.** Twelve students commute: eight by bus and six by train, with no overlap.
+> **Before.** Twelve students commute: eight by bus and six by train, with no overlap.
 >
-> **Good.** Twelve students commute: eight by bus and six by train, with two using both.
+> **After.** Twelve students commute: eight by bus and six by train, with two using both.
 
-**Example 4.** The draft gives no explanation for the conflicting trial counts shown in Good. Bad silently chooses one count; Good preserves both because the draft does not establish which is correct.
+**Edit 4.** The draft gives no explanation for its conflicting trial counts and does not establish which is correct; Before silently chooses one count. The edit restores the abstract's count of 12, keeps Results' count of 14, and adds a flag naming both counts so that the author can resolve the conflict.
 
-> **Bad.** Abstract: We ran 14 trials. Results: We ran 14 trials.
+> **Before.** Abstract: We ran 14 trials. Results: We ran 14 trials.
 >
-> **Good.** Abstract: We ran 12 trials. Results: We ran 14 trials. Flag for the author: The abstract reports 12 trials, but Results reports 14.
+> **After.** Abstract: We ran 12 trials. Results: We ran 14 trials. Flag for the author: The abstract reports 12 trials, but Results reports 14.

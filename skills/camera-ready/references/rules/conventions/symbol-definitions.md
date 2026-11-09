@@ -16,26 +16,26 @@ Suggest notation changes to the author rather than rewriting equations yourself:
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit moves the definition of "$h$" before "We compare" so that readers know what the symbol means when it is first used.
 
-> **Bad.** We compare $h$ across plants. The symbol $h$ denotes plant height.
+> **Before.** We compare $h$ across plants. The symbol $h$ denotes plant height.
 >
-> **Good.** The symbol $h$ denotes plant height. We compare $h$ across plants.
+> **After.** The symbol $h$ denotes plant height. We compare $h$ across plants.
 
-**Example 2.** The tables use $w$ for moisture content. Good is a proposed correction because resolving the conflict changes a symbol.
+**Edit 2.** The tables use $w$ for moisture content. The edit, a proposal to the author because it changes a symbol, replaces "$m$" with "$w$" for moisture content so that "$m$" means only mass and the definition agrees with the tables.
 
-> **Bad.** Let $m$ denote mass and $m$ denote moisture content.
+> **Before.** Let $m$ denote mass and $m$ denote moisture content.
 >
-> **Good.** Let $m$ denote mass and $w$ denote moisture content.
+> **After.** Let $m$ denote mass and $w$ denote moisture content.
 
-**Example 3.** Both symbols are used throughout the paper. Good proposes collecting their definitions in the existing Notation section because the request does not authorize the move.
+**Edit 3.** Both symbols are used throughout the paper, and the request does not authorize moving their definitions. The edit, a proposal to the author, moves the definition of "$w$" from Methods into the existing Notation section so that both definitions appear together.
 
-> **Bad.** Notation: Let $h$ denote height. Methods: Let $w$ denote width.
+> **Before.** Notation: Let $h$ denote height. Methods: Let $w$ denote width.
 >
-> **Good.** Notation: Let $h$ denote height. Let $w$ denote width. Methods:
+> **After.** Notation: Let $h$ denote height. Let $w$ denote width. Methods:
 
-**Example 4.** The draft defines all four symbols. Good proposes naming the repeated expression; introducing notation is for the author to decide.
+**Edit 4.** The draft defines all four symbols. The edit, a proposal to the author because introducing notation is the author's decision, defines "$R=(a+b)/(c+d)$" and replaces both later occurrences of the expression with "$R$" so that readers can recognize the repeated quantity by a short name.
 
-> **Bad.** We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
+> **Before.** We compare $(a+b)/(c+d)$ across sites and plot $(a+b)/(c+d)$ over time.
 >
-> **Good.** Let $R=(a+b)/(c+d)$. We compare $R$ across sites and plot $R$ over time.
+> **After.** Let $R=(a+b)/(c+d)$. We compare $R$ across sites and plot $R$ over time.

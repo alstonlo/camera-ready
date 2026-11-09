@@ -14,26 +14,26 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The author asks to shorten the draft.
+**Edit 1.** The author asks to shorten the draft. The edit deletes "In both jars, less water evaporates with the lid", because it repeats the first sentence without adding information.
 
-> **Bad.** The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
+> **Before.** The lid reduces evaporation in both jars. In both jars, less water evaporates with the lid.
 >
-> **Good.** The lid reduces evaporation in both jars.
+> **After.** The lid reduces evaporation in both jars.
 
-**Example 2.** An editor proposes cutting the closing restatement. Good retains it because readers need the intervening explanation of gas expansion to understand the opening claim.
+**Edit 2.** An editor proposes cutting the closing restatement. The edit restores "The vent thus prevents pressure buildup", because readers need the intervening explanation of gas expansion to understand the opening claim and the closing sentence connects that explanation back to the claim.
 
-> **Bad.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
+> **Before.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent.
 >
-> **Good.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
+> **After.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
 
-**Example 3.** The draft still exceeds the length limit after redundant restatements are cut. Good removes the roadmap but keeps the reference that tells readers where to find the proof.
+**Edit 3.** The draft still exceeds the length limit after redundant restatements are cut. The edit deletes the sentence announcing Sections 2 and 3 but keeps the reference to Appendix A, so that it cuts the roadmap while preserving directions to the proof.
 
-> **Bad.** Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
+> **Before.** Section 2 presents the design, and Section 3 presents the tests. Appendix A proves the stability bound.
 >
-> **Good.** Appendix A proves the stability bound.
+> **After.** Appendix A proves the stability bound.
 
-**Example 4.** The draft still exceeds the length limit after Tiers 1–3, and Appendix B already contains the pressure checks. Good replaces the secondary test details with a reference but keeps the leak because it limits the claim that the seal works.
+**Edit 4.** The draft still exceeds the length limit after Tiers 1–3, and Appendix B already contains the pressure checks. The edit replaces the sentence about repeating each test at three pressures with a reference to Appendix B, so that readers can find those secondary details while the main text keeps the leak that limits the seal's success.
 
-> **Bad.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
+> **Before.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. We repeat each temperature test at three pressures.
 >
-> **Good.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. Appendix B gives the pressure checks.
+> **After.** The seal holds at 10 °C and 20 °C but leaks at 30 °C. Appendix B gives the pressure checks.

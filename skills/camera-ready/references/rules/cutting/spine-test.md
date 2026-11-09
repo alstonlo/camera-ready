@@ -10,26 +10,26 @@ Writing a short title for a section tests whether the section develops one coher
 
 ## Examples
 
-**Example 1.** The author asks to shorten a paper about erosion. Good cuts the aquarium detail because it supports none of the paper's claims.
+**Edit 1.** The author asks to shorten a paper about erosion. The edit deletes "Gravel also decorates aquariums" because that detail supports none of the paper's claims, while keeping the tested erosion finding.
 
-> **Bad.** Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
+> **Before.** Gravel reduces soil erosion in our tests. Gravel also decorates aquariums.
 >
-> **Good.** Gravel reduces soil erosion in our tests.
+> **After.** Gravel reduces soil erosion in our tests.
 
-**Example 2.** The author asks to shorten a paper whose core claim concerns leaf entry. Good shortens the secondary point about grit because particle size is not needed to evaluate that claim.
+**Edit 2.** The author asks to shorten a paper whose core claim concerns leaf entry. The edit deletes "grit particles are smaller than leaves" and ends the preceding clause with a period, shortening the secondary point about grit because particle size is not needed to evaluate the core claim.
 
-> **Bad.** The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
+> **Before.** The mesh prevents leaf entry. A finer mesh might also block grit; grit particles are smaller than leaves.
 >
-> **Good.** The mesh prevents leaf entry. A finer mesh might also block grit.
+> **After.** The mesh prevents leaf entry. A finer mesh might also block grit.
 
-**Example 3.** The author asks to shorten a study of whether a mesh excludes debris. Good restores the sand finding because it limits the claim about what the mesh blocks.
+**Edit 3.** The author asks to shorten a study of whether a mesh excludes debris. The edit restores "but lets sand through" because the sand finding limits the claim about what the mesh blocks and must survive shortening.
 
-> **Bad.** The mesh blocks leaves.
+> **Before.** The mesh blocks leaves.
 >
-> **Good.** The mesh blocks leaves but lets sand through.
+> **After.** The mesh blocks leaves but lets sand through.
 
-**Example 4.** The author asks to shorten a section about leaf blockage and pump power. Good retains both findings while the editor flags the competing topics: the lack of a common point does not establish which finding can be cut.
+**Edit 4.** The author asks to shorten a section about leaf blockage and pump power. The edit restores "The pump draws 5 W" alongside the leaf-blockage finding while the editor flags the competing topics, because the lack of a common point does not establish which finding can be cut.
 
-> **Bad.** The mesh blocks leaves.
+> **Before.** The mesh blocks leaves.
 >
-> **Good.** The mesh blocks leaves. The pump draws 5 W.
+> **After.** The mesh blocks leaves. The pump draws 5 W.

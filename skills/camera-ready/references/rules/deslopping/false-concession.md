@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft reports both findings about the glue.
+**Edit 1.** The draft reports both findings about the glue. The edit replaces "progress is substantial" with "the glue holds on wood" and "problems persist" with "it fails on glass", so that both sides of the concession state specific findings.
 
-> **Bad.** Although progress is substantial, problems persist.
+> **Before.** Although progress is substantial, problems persist.
 >
-> **Good.** Although the glue holds on wood, it fails on glass.
+> **After.** Although the glue holds on wood, it fails on glass.
 
-**Example 2.** The draft supports both findings in the first sentence. Good keeps that concrete concession and cuts the second sentence because it adds no finding.
+**Edit 2.** The draft supports both findings in the first sentence. The edit keeps the concrete concession about wood and glass and deletes "Although progress is substantial, problems persist" because the second sentence adds no finding.
 
-> **Bad.** Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
+> **Before.** Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
 >
-> **Good.** Although the glue holds on wood, it fails on glass.
+> **After.** Although the glue holds on wood, it fails on glass.

@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** Oranges and kiwis are examples, not a definition of all fruits rich in vitamin C.
+**Edit 1.** Oranges and kiwis are examples, not a definition of all fruits rich in vitamin C. The edit replaces "i.e." with "e.g." so that the abbreviation introduces examples rather than a definition.
 
-> **Bad.** Some fruits are rich in vitamin C, i.e., oranges and kiwis.
+> **Before.** Some fruits are rich in vitamin C, i.e., oranges and kiwis.
 >
-> **Good.** Some fruits are rich in vitamin C, e.g., oranges and kiwis.
+> **After.** Some fruits are rich in vitamin C, e.g., oranges and kiwis.
 
-**Example 2.** The reference directs readers to the protocol without asking them to compare it with anything.
+**Edit 2.** The reference directs readers to the protocol without asking them to compare it with anything. The edit replaces "cf." with "see" so that the reference asks readers to consult Section 2 rather than make a comparison.
 
-> **Bad.** For the full protocol, cf. Section 2.
+> **Before.** For the full protocol, cf. Section 2.
 >
-> **Good.** For the full protocol, see Section 2.
+> **After.** For the full protocol, see Section 2.

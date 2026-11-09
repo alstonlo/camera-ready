@@ -8,20 +8,20 @@ Confusion in a passage usually means that a step is missing, not that the passag
 
 ## Examples
 
-**Example 1.** An earlier cut removed the draft's seedling count.
+**Edit 1.** An earlier cut removed the draft's seedling count. The edit restores "We have eighteen seedlings" so that readers can see why six seedlings per tray requires three trays.
 
-> **Bad.** Each tray holds six seedlings. We therefore need three trays.
+> **Before.** Each tray holds six seedlings. We therefore need three trays.
 >
-> **Good.** Each tray holds six seedlings. We have eighteen seedlings and therefore need three trays.
+> **After.** Each tray holds six seedlings. We have eighteen seedlings and therefore need three trays.
 
-**Example 2.** An earlier cut left these adjacent paragraphs; a slash marks the paragraph break. Good merges them because they make the same point.
+**Edit 2.** An earlier cut left these adjacent paragraphs; a slash marks the paragraph break. The edit removes the paragraph break and keeps both sentences together because they make the same point about reduced water loss.
 
-> **Bad.** The lid reduces evaporation. / Less water is lost overnight.
+> **Before.** The lid reduces evaporation. / Less water is lost overnight.
 >
-> **Good.** The lid reduces evaporation. Less water is lost overnight.
+> **After.** The lid reduces evaporation. Less water is lost overnight.
 
-**Example 3.** The draft already contains \smallskip, and an editor adds negative \vspace to meet the length limit. Good removes the added command but keeps the draft's own spacing; if no authorized cut keeps the text clear, the editor reports the remaining excess instead.
+**Edit 3.** The draft already contains \smallskip, and an editor adds negative \vspace to meet the length limit. The edit removes "\vspace{-4mm}" but keeps "\smallskip", because the rule forbids adding layout changes to force the paper to fit. If no authorized cut keeps the text clear, the editor reports the remaining excess instead.
 
-> **Bad.** \smallskip The sample remains dry. \vspace{-4mm}
+> **Before.** \smallskip The sample remains dry. \vspace{-4mm}
 >
-> **Good.** \smallskip The sample remains dry.
+> **After.** \smallskip The sample remains dry.

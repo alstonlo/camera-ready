@@ -8,32 +8,32 @@ A hedge marks a claim as uncertain, so deleting the only hedge on a claim makes 
 
 ## Examples
 
-**Example 1.** The draft reports this value as a measurement.
+**Edit 1.** The draft reports this value as a measurement. The edit replaces "may be" with "is" to state the measured mass directly while keeping its reported standard error.
 
-> **Bad.** The mean mass may be 5.0 ± 0.2 g (standard error).
+> **Before.** The mean mass may be 5.0 ± 0.2 g (standard error).
 >
-> **Good.** The mean mass is 5.0 ± 0.2 g (standard error).
+> **After.** The mean mass is 5.0 ± 0.2 g (standard error).
 
-**Example 2.** The draft confirms that cooling was performed but leaves its effect on decay untested.
+**Edit 2.** The draft confirms that cooling was performed but leaves its effect on decay untested. The edit replaces "may have cooled" with "cooled" to state the performed procedure directly, while keeping "may prevent" for its uncertain effect.
 
-> **Bad.** We may have cooled the samples because cooling may prevent decay.
+> **Before.** We may have cooled the samples because cooling may prevent decay.
 >
-> **Good.** We cooled the samples because cooling may prevent decay.
+> **After.** We cooled the samples because cooling may prevent decay.
 
-**Example 3.** Good keeps the second hedge because the draft treats water entry as a separate uncertain claim.
+**Edit 3.** The draft treats water entry as a separate uncertain claim. The edit removes "possibly" from "may possibly loosen" so that one hedge marks the uncertain loosening, and keeps "may allow" to preserve the separate uncertainty about water entry.
 
-> **Bad.** Heat may possibly loosen the seal, which may allow water to enter.
+> **Before.** Heat may possibly loosen the seal, which may allow water to enter.
 >
-> **Good.** Heat may loosen the seal, which may allow water to enter.
+> **After.** Heat may loosen the seal, which may allow water to enter.
 
-**Example 4.** The draft supplies the measured difference elsewhere.
+**Edit 4.** The draft supplies the measured difference elsewhere. The edit replaces "somewhat less" with "8% less" so that readers know the measured size of the difference.
 
-> **Bad.** The treated cloth absorbs somewhat less water than untreated cloth.
+> **Before.** The treated cloth absorbs somewhat less water than untreated cloth.
 >
-> **Good.** The treated cloth absorbs 8% less water than untreated cloth.
+> **After.** The treated cloth absorbs 8% less water than untreated cloth.
 
-**Example 5.** The Results section presents the frost explanation as tentative.
+**Edit 5.** The Results section presents the frost explanation as tentative. The edit replaces "explains" with "may explain" so that the abstract preserves the uncertainty stated in Results.
 
-> **Bad.** Abstract: Frost explains the cracks.
+> **Before.** Abstract: Frost explains the cracks.
 >
-> **Good.** Abstract: Frost may explain the cracks.
+> **After.** Abstract: Frost may explain the cracks.

@@ -10,20 +10,20 @@ A roadmap previews the sections or items that follow. For each roadmap you keep,
 
 ## Examples
 
-**Example 1.** Good keeps the location as a reference in parentheses and deletes the sentence that only announces the topic.
+**Edit 1.** The edit deletes "Section 4 describes the filter" and inserts "(Section 4)" after "The filter" in the remaining sentence so that readers get the filter's function and location without a separate topic announcement.
 
-> **Bad.** Section 4 describes the filter. The filter traps particles larger than 5 micrometers.
+> **Before.** Section 4 describes the filter. The filter traps particles larger than 5 micrometers.
 >
-> **Good.** The filter (Section 4) traps particles larger than 5 micrometers.
+> **After.** The filter (Section 4) traps particles larger than 5 micrometers.
 
-**Example 2.** This roadmap closes the introduction; the headings place drying in Section 2 and weighing in Section 3. Good corrects the roadmap to match the existing section order.
+**Edit 2.** This roadmap closes the introduction; the headings place drying in Section 2 and weighing in Section 3. The edit swaps "weighing" and "drying" in the roadmap so that it matches the existing section order.
 
-> **Bad.** Section 2 describes weighing; Section 3 describes drying.
+> **Before.** Section 2 describes weighing; Section 3 describes drying.
 >
-> **Good.** Section 2 describes drying; Section 3 describes weighing.
+> **After.** Section 2 describes drying; Section 3 describes weighing.
 
-**Example 3.** Good keeps the reference that locates the proof and removes the announcement that the next sentence already fulfills.
+**Edit 3.** The edit deletes "The next section presents the measurements" because the next sentence already gives the measurement, and keeps "as proved in Appendix A" so that readers can locate the proof of the heat-loss bound.
 
-> **Bad.** Heat loss is at most 5 W, as proved in Appendix A. The next section presents the measurements. Measured heat loss is 4 W.
+> **Before.** Heat loss is at most 5 W, as proved in Appendix A. The next section presents the measurements. Measured heat loss is 4 W.
 >
-> **Good.** Heat loss is at most 5 W, as proved in Appendix A. Measured heat loss is 4 W.
+> **After.** Heat loss is at most 5 W, as proved in Appendix A. Measured heat loss is 4 W.

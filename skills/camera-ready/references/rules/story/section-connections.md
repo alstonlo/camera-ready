@@ -8,26 +8,26 @@ Place each section reminder according to [paragraph opening order](../prose/para
 
 ## Examples
 
-**Example 1.** This sentence opens Results; Methods already defines the schedules. Good repeats the essential comparison so that readers can start at Results.
+**Edit 1.** This sentence opens Results; Methods already defines the schedules. The edit adds "once or three times a day" after "the two feeding schedules" so that readers starting at Results know the essential comparison.
 
-> **Bad.** We compare fish growth under the two feeding schedules.
+> **Before.** We compare fish growth under the two feeding schedules.
 >
-> **Good.** We compare fish growth under the two feeding schedules: once or three times a day.
+> **After.** We compare fish growth under the two feeding schedules: once or three times a day.
 
-**Example 2.** The preceding section identifies cooling time as the production limit, and the current section tests a fan to shorten that time. Good makes this connection explicit.
+**Edit 2.** The preceding section identifies cooling time as the production limit, and the current section tests a fan to shorten that time. The edit adds "To shorten the cooling time that limits production" before the test, connecting its purpose to the problem in the preceding section.
 
-> **Bad.** We test a fan.
+> **Before.** We test a fan.
 >
-> **Good.** To shorten the cooling time that limits production, we test a fan.
+> **After.** To shorten the cooling time that limits production, we test a fan.
 
-**Example 3.** The abstract defines the seal as a rubber ring, and this sentence is the seal's first mention in the introduction. Good repeats the definition because the introduction must make sense without the abstract.
+**Edit 3.** The abstract defines the seal as a rubber ring, and this sentence is the seal's first mention in the introduction. The edit adds "a rubber ring" after "The seal" so that the introduction supplies the definition without requiring readers to consult the abstract.
 
-> **Bad.** The seal prevents leaks at the pipe joint.
+> **Before.** The seal prevents leaks at the pipe joint.
 >
-> **Good.** The seal, a rubber ring, prevents leaks at the pipe joint.
+> **After.** The seal, a rubber ring, prevents leaks at the pipe joint.
 
-**Example 4.** These sentences open Methods.
+**Edit 4.** These sentences open Methods. The edit moves the sentence about using airflow to shorten cooling time before the sentence about attaching the fan, so that the section presents the key idea before the implementation step.
 
-> **Bad.** We attach a fan to the lid. We use airflow to shorten cooling time.
+> **Before.** We attach a fan to the lid. We use airflow to shorten cooling time.
 >
-> **Good.** We use airflow to shorten cooling time. We attach a fan to the lid.
+> **After.** We use airflow to shorten cooling time. We attach a fan to the lid.

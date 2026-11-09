@@ -10,26 +10,26 @@ Check that the paragraph's opening and ending fit what the paragraph contributes
 
 ## Examples
 
-**Example 1.** The draft states elsewhere that the lid keeps rain out. Good supplies the missing reason the tools stay dry; adding a connecting word alone would leave that reason unstated.
+**Edit 1.** The draft states elsewhere that the lid keeps rain out. The edit adds "that prevents rain from entering" after "lid", supplying the missing reason the tools stay dry; a connecting word alone would leave that reason unstated.
 
-> **Bad.** The box has a lid. The tools stay dry.
+> **Before.** The box has a lid. The tools stay dry.
 >
-> **Good.** The box has a lid that prevents rain from entering. The tools stay dry.
+> **After.** The box has a lid that prevents rain from entering. The tools stay dry.
 
-**Example 2.** Good keeps the jar as the topic of all three sentences; the mention of salt does not require the next sentence to discuss salt.
+**Edit 2.** The edit changes "A tight seal keeps the jar dry" to "The jar stays dry because of a tight seal", so that the jar remains the topic of all three sentences. The mention of salt does not require the next sentence to discuss salt.
 
-> **Bad.** The jar holds salt. A tight seal keeps the jar dry. The jar fits on the shelf.
+> **Before.** The jar holds salt. A tight seal keeps the jar dry. The jar fits on the shelf.
 >
-> **Good.** The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
+> **After.** The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
 
-**Example 3.** The draft describes a box; ¶ marks a paragraph break. Good adds an overview to explain why the two independent descriptions belong together.
+**Edit 3.** The draft describes a box; ¶ marks a paragraph break. The edit adds an opening paragraph naming the gasket in the lid and the drain in the base as the box's two features, so that readers know why the two independent descriptions belong together.
 
-> **Bad.** The lid has a gasket. ¶ The base has a drain.
+> **Before.** The lid has a gasket. ¶ The base has a drain.
 >
-> **Good.** The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
+> **After.** The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
 
-**Example 4.** The draft states that draining must finish before drying begins; ¶ marks a paragraph break. Good makes this dependency explicit so the paragraphs cannot be read as interchangeable steps.
+**Edit 4.** The draft states that draining must finish before drying begins; ¶ marks a paragraph break. The edit adds "After draining" at the start of the drying paragraph, so that the required order is explicit and the paragraphs cannot be read as interchangeable steps.
 
-> **Bad.** We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
+> **Before.** We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
 >
-> **Good.** We open the valve to drain the tank. ¶ After draining, we dry the empty tank with warm air.
+> **After.** We open the valve to drain the tank. ¶ After draining, we dry the empty tank with warm air.

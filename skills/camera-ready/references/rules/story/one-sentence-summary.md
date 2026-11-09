@@ -8,14 +8,14 @@ Build this sentence from the five-line summary of the problem, the gap and its c
 
 ## Examples
 
-**Example 1.** The draft identifies the failure of existing screens elsewhere.
+**Edit 1.** The draft identifies the failure of existing screens elsewhere. The edit adds "but existing window screens let small flies through" between the problem's importance and the proposed screen so that the summary states the gap the proposal addresses.
 
-> **Bad.** Keeping flies out protects stored food; we propose a finer window screen that blocks all flies in our trial.
+> **Before.** Keeping flies out protects stored food; we propose a finer window screen that blocks all flies in our trial.
 >
-> **Good.** Keeping flies out protects stored food, but existing window screens let small flies through; we propose a finer window screen that blocks all flies in our trial.
+> **After.** Keeping flies out protects stored food, but existing window screens let small flies through; we propose a finer window screen that blocks all flies in our trial.
 
-**Example 2.** The draft does not connect the two problems. Good flags the competing focuses because choosing one or inventing a link would change the argument.
+**Edit 2.** The draft does not connect the two problems. The edit replaces the summary with a flag to the author identifying small flies and overheating roofs as competing focuses, because choosing one or inventing a link would change the argument.
 
-> **Bad.** Small flies and overheating make homes uncomfortable, so we propose a finer window screen and a reflective roof paint.
+> **Before.** Small flies and overheating make homes uncomfortable, so we propose a finer window screen and a reflective roof paint.
 >
-> **Good.** Flag for the author: The summary can be written only by naming two unrelated problems, small flies and overheating roofs, so the draft has two competing focuses.
+> **After.** Flag for the author: The summary can be written only by naming two unrelated problems, small flies and overheating roofs, so the draft has two competing focuses.

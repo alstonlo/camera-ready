@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft has introduced the crane but has not mentioned the beam.
+**Edit 1.** The draft has introduced the crane but has not mentioned the beam. The edit changes "A steel beam is lifted by the crane" to "The crane lifts a steel beam", so that the familiar crane comes before the new beam.
 
-> **Bad.** A steel beam is lifted by the crane.
+> **Before.** A steel beam is lifted by the crane.
 >
-> **Good.** The crane lifts a steel beam.
+> **After.** The crane lifts a steel beam.
 
-**Example 2.** The draft has introduced the gate but not the padlock or bush. Good keeps the passive in the second sentence because it places the familiar gate before the new padlock.
+**Edit 2.** The draft has introduced the gate but not the padlock or bush. The edit changes "Beside a thorny bush stands the gate" to "The gate stands beside a thorny bush", so that the first sentence starts with the familiar gate. It keeps the passive in the second sentence because that sentence already places the gate before the new padlock.
 
-> **Bad.** Beside a thorny bush stands the gate. The gate is secured by a padlock.
+> **Before.** Beside a thorny bush stands the gate. The gate is secured by a padlock.
 >
-> **Good.** The gate stands beside a thorny bush. The gate is secured by a padlock.
+> **After.** The gate stands beside a thorny bush. The gate is secured by a padlock.
 
-**Example 3.** This is a standalone description. Good can introduce the room as the subject in ordinary word order; there is no familiar location to justify the inversion.
+**Edit 3.** This is a standalone description. The edit changes "Behind a heavy curtain lies a small room" to "A small room lies behind a heavy curtain", using ordinary subject-verb order to introduce the room because there is no familiar location to justify the inversion.
 
-> **Bad.** Behind a heavy curtain lies a small room. Lamps light the room.
+> **Before.** Behind a heavy curtain lies a small room. Lamps light the room.
 >
-> **Good.** A small room lies behind a heavy curtain. Lamps light the room.
+> **After.** A small room lies behind a heavy curtain. Lamps light the room.

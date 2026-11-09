@@ -10,26 +10,26 @@ To disprove a claim that one property implies another, a counterexample must hav
 
 ## Examples
 
-**Example 1.** The draft supports the reduction in cracking but supplies no evidence about moisture absorption.
+**Edit 1.** The draft supports the reduction in cracking but supplies no evidence about moisture absorption. The edit states the reduction separately and introduces the moisture explanation with "We conjecture that", so that the observed result remains a fact and its proposed cause is marked as untested.
 
-> **Bad.** The treated boards cracked less often because they absorbed less moisture.
+> **Before.** The treated boards cracked less often because they absorbed less moisture.
 >
-> **Good.** The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
+> **After.** The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
 
-**Example 2.** The draft supports the explanation involving reduced flow but never defines "bottleneck effect". Good replaces the undefined term without treating a supported explanation as speculation.
+**Edit 2.** The draft supports the explanation involving reduced flow but never defines "bottleneck effect". The edit replaces "The bottleneck effect" with "Reduced flow through the narrowed outlet", so that the explanation names the supported mechanism without treating it as speculation.
 
-> **Bad.** The bottleneck effect explains the delay.
+> **Before.** The bottleneck effect explains the delay.
 >
-> **Good.** Reduced flow through the narrowed outlet explains the delay.
+> **After.** Reduced flow through the narrowed outlet explains the delay.
 
-**Example 3.** The draft supplies this rectangle as a counterexample.
+**Edit 3.** The draft supplies this rectangle as a counterexample. The edit adds the rectangle with sides 2 cm and 3 cm, so that the claim is supported by a shape with four right angles but unequal sides.
 
-> **Bad.** Four right angles do not imply four equal sides.
+> **Before.** Four right angles do not imply four equal sides.
 >
-> **Good.** Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
+> **After.** Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
 
-**Example 4.** The draft reports only the three failed solvent tests. Good is a proposed revision for the author after flagging the unsupported impossibility claim.
+**Edit 4.** The draft reports only the three failed solvent tests. The edit, a proposal to the author after flagging the unsupported impossibility claim, replaces "cannot be dissolved" with "did not dissolve in the three tested solvents", so that the claim describes the tested failures without ruling out success under other conditions.
 
-> **Bad.** The coating cannot be dissolved.
+> **Before.** The coating cannot be dissolved.
 >
-> **Good.** The coating did not dissolve in the three tested solvents.
+> **After.** The coating did not dissolve in the three tested solvents.

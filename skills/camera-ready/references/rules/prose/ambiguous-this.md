@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft says the conjecture motivates the next test. Good identifies that reason without presenting the untested explanation as a finding.
+**Edit 1.** The draft says the conjecture motivates the next test. The edit adds "conjecture" after "This" so that the reason for the test is explicit and the untested explanation is not presented as a finding.
 
-> **Bad.** We conjecture that salt weakens the seal; the lid also bends. This motivates the next test.
+> **Before.** We conjecture that salt weakens the seal; the lid also bends. This motivates the next test.
 >
-> **Good.** We conjecture that salt weakens the seal; the lid also bends. This conjecture motivates the next test.
+> **After.** We conjecture that salt weakens the seal; the lid also bends. This conjecture motivates the next test.
 
-**Example 2.** The draft does not say whether higher pressure helps. Good names the change without assigning it an unsupported benefit.
+**Edit 2.** The draft does not say whether higher pressure helps. The edit replaces "This improvement" with "This rise in pressure" so that the sentence names the change that triggered the alarm without assigning it an unsupported benefit.
 
-> **Bad.** We replaced the valve, and the pressure rose. This improvement triggered the alarm.
+> **Before.** We replaced the valve, and the pressure rose. This improvement triggered the alarm.
 >
-> **Good.** We replaced the valve, and the pressure rose. This rise in pressure triggered the alarm.
+> **After.** We replaced the valve, and the pressure rose. This rise in pressure triggered the alarm.
 
-**Example 3.** The draft identifies the warm-room dish as the one that froze. Good names that dish but keeps "This suggests" because the interpretation follows one unambiguous event.
+**Edit 3.** The draft identifies the warm-room dish as the one that froze. The edit replaces "It" with "The dish in the warm room" to identify which dish froze, while keeping "This suggests" because the interpretation follows one unambiguous event.
 
-> **Bad.** We left one dish of water in a cold room and one in a warm room. It froze overnight. This suggests that the heating failed.
+> **Before.** We left one dish of water in a cold room and one in a warm room. It froze overnight. This suggests that the heating failed.
 >
-> **Good.** We left one dish of water in a cold room and one in a warm room. The dish in the warm room froze overnight. This suggests that the heating failed.
+> **After.** We left one dish of water in a cold room and one in a warm room. The dish in the warm room froze overnight. This suggests that the heating failed.

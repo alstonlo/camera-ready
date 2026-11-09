@@ -8,26 +8,26 @@ In LaTeX, `--` produces an en dash. Keep an en dash in numeric ranges and in nam
 
 ## Examples
 
-**Example 1.** Good removes the pause while keeping the hyphen in the compound word and the en dashes in the name and range.
+**Edit 1.** The edit replaces the em dash before "over steps 3–5" with a space so that the sentence reads without a pause, while keeping the hyphen in "two-stage" and the en dashes in "Kullback–Leibler" and "3–5" for their distinct uses.
 
-> **Bad.** The two-stage test uses the Kullback–Leibler divergence—over steps 3–5.
+> **Before.** The two-stage test uses the Kullback–Leibler divergence—over steps 3–5.
 >
-> **Good.** The two-stage test uses the Kullback–Leibler divergence over steps 3–5.
+> **After.** The two-stage test uses the Kullback–Leibler divergence over steps 3–5.
 
-**Example 2.**
+**Edit 2.** The edit replaces the em dash with a colon so that the complete clause "The tray holds two tools" introduces the list of those tools.
 
-> **Bad.** The tray holds two tools—a ruler and a brush.
+> **Before.** The tray holds two tools—a ruler and a brush.
 >
-> **Good.** The tray holds two tools: a ruler and a brush.
+> **After.** The tray holds two tools: a ruler and a brush.
 
-**Example 3.** Good keeps the temperature limit in the main clause because it determines when the claim holds.
+**Edit 3.** The edit replaces the em dash with ", but" so that the temperature limit stays in the main clause as an essential condition on the claim.
 
-> **Bad.** The seal holds—only below 30 °C.
+> **Before.** The seal holds—only below 30 °C.
 >
-> **Good.** The seal holds, but only below 30 °C.
+> **After.** The seal holds, but only below 30 °C.
 
-**Example 4.** The purchase date is optional background, so Good puts it in parentheses.
+**Edit 4.** The purchase date is optional background. The edit replaces the em dashes around "purchased in May" with parentheses so that the date remains an aside without interrupting the main claim with dashes.
 
-> **Bad.** The tray—purchased in May—holds six vials.
+> **Before.** The tray—purchased in May—holds six vials.
 >
-> **Good.** The tray (purchased in May) holds six vials.
+> **After.** The tray (purchased in May) holds six vials.

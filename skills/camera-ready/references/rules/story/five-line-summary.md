@@ -8,20 +8,20 @@ The five lines are your notes for checking the argument. Do not insert them into
 
 ## Examples
 
-**Example 1.** The draft states both the recording gap and its effect on knowledge of peak water levels.
+**Edit 1.** The draft states both the recording gap and its effect on knowledge of peak water levels. The edit adds "and leaves peak water levels unknown" to the summary's gap-and-cost line, so that the notes include the draft's stated cost as well as its gap.
 
-> **Bad.** Gap and cost: The tide gauge stops recording during storms.
+> **Before.** Gap and cost: The tide gauge stops recording during storms.
 >
-> **Good.** Gap and cost: The tide gauge stops recording during storms and leaves peak water levels unknown.
+> **After.** Gap and cost: The tide gauge stops recording during storms and leaves peak water levels unknown.
 
-**Example 2.** The draft reports the recording gap but gives no reason it matters.
+**Edit 2.** The draft reports the recording gap but gives no reason it matters. The edit removes "so flood warnings fail" and adds a flag identifying the missing reason, so that the summary keeps the stated gap without inventing its cost.
 
-> **Bad.** Gap and cost: The tide gauge stops recording during storms, so flood warnings fail.
+> **Before.** Gap and cost: The tide gauge stops recording during storms, so flood warnings fail.
 >
-> **Good.** Gap and cost: The tide gauge stops recording during storms. Flag for the author: The draft does not state why the missing records matter.
+> **After.** Gap and cost: The tide gauge stops recording during storms. Flag for the author: The draft does not state why the missing records matter.
 
-**Example 3.** The summary's idea line proposes the lid, and its evidence line reports the measured reduction. Good combines them into a result that paragraphs can support, rather than a list of research activities.
+**Edit 3.** The summary's idea line proposes the lid, and its evidence line reports the measured reduction. The edit replaces "We propose and test a lid" with "The lid halves evaporation in the tested tank", combining the idea and evidence into a result that paragraphs can support rather than a list of research activities.
 
-> **Bad.** Core claim: We propose and test a lid.
+> **Before.** Core claim: We propose and test a lid.
 >
-> **Good.** Core claim: The lid halves evaporation in the tested tank.
+> **After.** Core claim: The lid halves evaporation in the tested tank.

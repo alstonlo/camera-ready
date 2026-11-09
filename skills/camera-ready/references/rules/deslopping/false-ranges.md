@@ -8,14 +8,14 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit replaces "materials ranging from brick through wood to metal" with "brick, wood, and metal", keeping all three tested materials without implying that they lie on an ordered scale.
 
-> **Bad.** We test materials ranging from brick through wood to metal.
+> **Before.** We test materials ranging from brick through wood to metal.
 >
-> **Good.** We test brick, wood, and metal.
+> **After.** We test brick, wood, and metal.
 
-**Example 2.** The draft reports tests on brick and metal only. Good keeps the temperature range because temperatures, unlike these material types, lie on an ordered scale.
+**Edit 2.** The draft reports tests on brick and metal only. The edit replaces "surfaces ranging from brick to metal" with "brick and metal" so that the sentence names only the tested materials. It keeps the temperature range and increments because temperatures, unlike these material types, lie on an ordered scale.
 
-> **Bad.** We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
+> **Before.** We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
 >
-> **Good.** We test brick and metal at 10–30 °C in 10 °C increments.
+> **After.** We test brick and metal at 10–30 °C in 10 °C increments.

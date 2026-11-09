@@ -8,30 +8,30 @@ In a table, a blank cell or dash can mean that a value is unavailable, unsupport
 
 For claims about a relationship estimated by fitting a model to data, follow [statistical significance](../claims/statistical-significance.md).
 
-In the examples for Tables 3 through 5 and Figures 8 through 12, each Good line proposes a revision to the author rather than making the edit directly.
+In the edits for Table 3 and Figures 8 and 10, each After line proposes a revision to the author rather than making the edit directly.
 
 ## Examples
 
-**Example 1.** The paragraph citing Figure 2 supplies the measurements, units, and finding added here.
+**Edit 1.** The paragraph citing Figure 2 supplies the measurements, units, and finding added here. The edit replaces "Plant growth" with the mean plant height, the four-week measurement time, the units in centimeters, and the finding that fertilized plants were taller than untreated plants, so that the caption explains the measurement and result on its own.
 
-> **Bad.** Figure 2: Plant growth.
+> **Before.** Figure 2: Plant growth.
 >
-> **Good.** Figure 2: Mean plant height after four weeks, in centimeters. Plants given fertilizer were taller than untreated plants.
+> **After.** Figure 2: Mean plant height after four weeks, in centimeters. Plants given fertilizer were taller than untreated plants.
 
-**Example 2.** The draft defines the dashes in Table 3 as missing measurements.
+**Edit 2.** The draft defines the dashes in Table 3 as missing measurements. The edit, a proposal to the author, adds "A dash marks a missing measurement" so that readers can interpret the dashes without assuming they mean zero.
 
-> **Bad.** Table 3: Daily air temperature at each site, in degrees Celsius.
+> **Before.** Table 3: Daily air temperature at each site, in degrees Celsius.
 >
-> **Good.** Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
+> **After.** Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
 
-**Example 3.** The vertical axis starts at 9 cm. Good uses the reported heights because the displayed bar lengths do not show the ratio of plant heights.
+**Edit 3.** The vertical axis starts at 9 cm, so the displayed bar lengths do not show the ratio of plant heights. The edit, a proposal to the author, replaces "twice as tall" with the reported heights of 11 cm for treated plants and 10 cm for controls, so that the caption compares the measurements accurately.
 
-> **Bad.** Figure 8: The treated plants are twice as tall as the controls.
+> **Before.** Figure 8: The treated plants are twice as tall as the controls.
 >
-> **Good.** Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
+> **After.** Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
 
-**Example 4.** Measurements end at day 20; a fitted curve supplies the value at day 30.
+**Edit 4.** Measurements end at day 20; a fitted curve supplies the value at day 30. The edit, a proposal to the author, replaces "measured" with "predicted" so that the caption does not present a value beyond the measured time range as an observation.
 
-> **Bad.** Figure 10: The measured height at day 30 is 18 cm.
+> **Before.** Figure 10: The measured height at day 30 is 18 cm.
 >
-> **Good.** Figure 10: The predicted height at day 30 is 18 cm.
+> **After.** Figure 10: The predicted height at day 30 is 18 cm.

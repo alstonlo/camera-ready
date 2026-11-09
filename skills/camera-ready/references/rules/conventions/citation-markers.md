@@ -12,32 +12,32 @@ When a passage moves from reporting a cited source's claims to presenting the pa
 
 ## Examples
 
-**Example 1.** The draft uses natbib and cites ortiz2025, a paper by one author. Good makes the author's name the subject because a parenthetical citation cannot serve as the subject.
+**Edit 1.** The draft uses natbib and cites ortiz2025, a paper by one author. The edit replaces "\citep{ortiz2025}" with "\citet{ortiz2025}", keeping the key while making the author's name the subject because a parenthetical citation cannot serve as one.
 
-> **Bad.** \citep{ortiz2025} compares two methods for measuring rainfall.
+> **Before.** \citep{ortiz2025} compares two methods for measuring rainfall.
 >
-> **Good.** \citet{ortiz2025} compares two methods for measuring rainfall.
+> **After.** \citet{ortiz2025} compares two methods for measuring rainfall.
 
-**Example 2.** The draft uses natbib and treats the salt's solubility as established. Good states the result directly because the paper accepts it rather than merely reporting another author's claim.
+**Edit 2.** The draft uses natbib and treats the salt's solubility as established. The edit removes "In a recent study" and the report that Ortiz "showed" the result, states the result directly, and places "~\citep{ortiz2025}" after it, so that the sentence asserts the accepted fact with its source.
 
-> **Bad.** In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
+> **Before.** In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
 >
-> **Good.** This salt dissolves in water~\citep{ortiz2025}.
+> **After.** This salt dissolves in water~\citep{ortiz2025}.
 
-**Example 3.** The draft cites ortiz2025 for the shell's shrinkage and patel2024 for slower decay.
+**Edit 3.** The draft cites ortiz2025 for the shell's shrinkage and patel2024 for slower decay. The edit splits the trailing citation cluster and places each citation beside its clause, so that readers can tell which source supports each claim.
 
-> **Bad.** Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
+> **Before.** Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
 >
-> **Good.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
+> **After.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
 
-**Example 4.** Elsewhere, the draft attributes the cooling hypothesis to its own authors. Good proposes a correction for the author after flagging the unclear attribution, so readers do not attribute the hypothesis to Ortiz.
+**Edit 4.** Elsewhere, the draft attributes the cooling hypothesis to its own authors. The edit, a proposal to the author after flagging the unclear attribution, adds "We hypothesize that" before the cooling claim, so that readers attribute the hypothesis to the paper's authors rather than Ortiz.
 
-> **Bad.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
+> **Before.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
 >
-> **Good.** Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
+> **After.** Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
 
-**Example 5.** The draft uses natbib, and the authors extend Ortiz's method. Good names the method as the object, because a parenthetical citation cannot be an object and \citet alone would say that the authors extend a person.
+**Edit 5.** The draft uses natbib, and the authors extend Ortiz's method. The edit replaces "\citep{ortiz2025}" with "the method of \citet{ortiz2025}", so that the object names what the authors extend; a parenthetical citation cannot be an object, and "\citet" alone would name a person.
 
-> **Bad.** We extend \citep{ortiz2025}.
+> **Before.** We extend \citep{ortiz2025}.
 >
-> **Good.** We extend the method of \citet{ortiz2025}.
+> **After.** We extend the method of \citet{ortiz2025}.

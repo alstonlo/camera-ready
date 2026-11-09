@@ -8,14 +8,14 @@ Different sentence lengths can hide repeated grammatical patterns. Check sentenc
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit joins the first two sentences with "a tank that supplies a fountain" so that the shared tank connects the ideas and breaks the repeated sentence pattern, while keeping the fountain's drainage in a separate sentence.
 
-> **Bad.** The pump fills a tank. The tank supplies a fountain. The fountain drains into a pond.
+> **Before.** The pump fills a tank. The tank supplies a fountain. The fountain drains into a pond.
 >
-> **Good.** The pump fills a tank that supplies a fountain. The fountain drains into a pond.
+> **After.** The pump fills a tank that supplies a fountain. The fountain drains into a pond.
 
-**Example 2.** Good joins the material and thickness descriptions but keeps the repeated temperature openings because they make the two conditions easy to compare.
+**Edit 2.** The edit joins "The seal is rubber" and "The seal is 2 mm thick" with "and" to describe the same seal without repeating the opening, while keeping the parallel temperature sentences because they make the two conditions easy to compare.
 
-> **Bad.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber. The seal is 2 mm thick.
+> **Before.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber. The seal is 2 mm thick.
 >
-> **Good.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber and 2 mm thick.
+> **After.** At 10 °C, the seal holds. At 20 °C, the seal leaks. The seal is rubber and 2 mm thick.

@@ -8,26 +8,26 @@ The stress position is where a sentence or independent clause becomes grammatica
 
 ## Examples
 
-**Example 1.** The paragraph gives equal weight to both findings. Good repeats the test restriction because it limits both claims.
+**Edit 1.** The paragraph gives equal weight to both findings. The edit splits the heat-loss and noise findings into two sentences, so each has its own ending, and repeats "In these tests" because the restriction limits both claims.
 
-> **Bad.** In these tests, the shield reduces heat loss and noise.
+> **Before.** In these tests, the shield reduces heat loss and noise.
 >
-> **Good.** In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
+> **After.** In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
 
-**Example 2.** The draft gives the leak and the faster flow equal weight. Good makes both clauses independent so the leak is not presented as a lesser concern.
+**Edit 2.** The draft gives the leak and the faster flow equal weight. The edit removes "Although" and joins the clauses with "but", so both clauses are independent and the leak is not presented as a lesser concern.
 
-> **Bad.** Although the joint leaks, it allows faster flow.
+> **Before.** Although the joint leaks, it allows faster flow.
 >
-> **Good.** The joint leaks, but it allows faster flow.
+> **After.** The joint leaks, but it allows faster flow.
 
-**Example 3.**
+**Edit 3.** The edit removes the parentheses around "only below 40 °C", so the sensor's operating limit reads as an essential qualification rather than an optional aside.
 
-> **Bad.** The sensor works (only below 40 °C).
+> **Before.** The sensor works (only below 40 °C).
 >
-> **Good.** The sensor works only below 40 °C.
+> **After.** The sensor works only below 40 °C.
 
-**Example 4.** The paragraph develops the finding about boiling time.
+**Edit 4.** The paragraph develops the finding about boiling time. The edit moves "in this test" to the beginning, so the sentence ends on "90 s" while keeping the condition that limits the finding.
 
-> **Bad.** The kettle (model K2) boils water in 90 s in this test.
+> **Before.** The kettle (model K2) boils water in 90 s in this test.
 >
-> **Good.** In this test, the kettle (model K2) boils water in 90 s.
+> **After.** In this test, the kettle (model K2) boils water in 90 s.

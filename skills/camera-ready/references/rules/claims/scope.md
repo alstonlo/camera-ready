@@ -26,26 +26,26 @@ When the draft recommends practical use, check the requirements it documents, su
 
 ## Examples
 
-**Example 1.** The draft reports that 99 of 100 tested bulbs lit within a second and calls that timing typical.
+**Edit 1.** The draft reports that 99 of 100 tested bulbs lit within a second and calls that timing typical. The edit replaces "always" with "usually" so that the claim describes the observed tendency without claiming that every tested bulb met it.
 
-> **Bad.** The tested bulbs always lit within a second.
+> **Before.** The tested bulbs always lit within a second.
 >
-> **Good.** The tested bulbs usually lit within a second.
+> **After.** The tested bulbs usually lit within a second.
 
-**Example 2.** The draft reports one photographed crack and no survey of other tiles. Good proposes a narrower claim to the author because the photograph cannot establish how common cracks are.
+**Edit 2.** The draft reports one photographed crack and no survey of other tiles. The edit, a proposal to the author, replaces the claim that cracks are common with a statement that the photographed tile has a crack, because one photograph cannot establish how common cracks are.
 
-> **Bad.** Cracks are common in these tiles.
+> **Before.** Cracks are common in these tiles.
 >
-> **Good.** The photographed tile has a crack.
+> **After.** The photographed tile has a crack.
 
-**Example 3.** The draft gives comfort scores of 8 for chair A and 4 for chair B. Good proposes a correction to the author because the draft does not establish that doubling the score means doubling comfort.
+**Edit 3.** The draft gives comfort scores of 8 for chair A and 4 for chair B but does not establish that doubling the score means doubling comfort. The edit, a proposal to the author, replaces "is twice as comfortable" with "scores twice as high" and names the comfort scale so that the comparison concerns the scores rather than comfort itself.
 
-> **Bad.** Chair A is twice as comfortable as chair B.
+> **Before.** Chair A is twice as comfortable as chair B.
 >
-> **Good.** Chair A scores twice as high as chair B on the comfort scale.
+> **After.** Chair A scores twice as high as chair B on the comfort scale.
 
-**Example 4.** The coating was tested only on aluminum. Good keeps the possible bridge application because the draft explicitly presents it as untested.
+**Edit 4.** The coating was tested only on aluminum, and the draft explicitly presents the possible bridge application as untested. The edit replaces "on all metals" with "on aluminum in the tests" to limit the corrosion claim to the evidence, while keeping "may be useful on bridges" as a tentative application.
 
-> **Bad.** The coating resists corrosion on all metals and may be useful on bridges.
+> **Before.** The coating resists corrosion on all metals and may be useful on bridges.
 >
-> **Good.** The coating resists corrosion on aluminum in the tests and may be useful on bridges.
+> **After.** The coating resists corrosion on aluminum in the tests and may be useful on bridges.

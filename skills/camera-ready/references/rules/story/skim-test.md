@@ -8,14 +8,14 @@ The five parts of the argument are the problem, the gap in existing work, the id
 
 ## Examples
 
-**Example 1.** The body reports this finding, but all passages used in the skim test omit it.
+**Edit 1.** The body reports this finding, but all passages used in the skim test omit it. The edit adds that the tested batteries last twice as long at 20 °C as at 0 °C so that a reader skimming the caption learns the finding with its tested scope.
 
-> **Bad.** Figure 3: Battery life at 0 °C and 20 °C.
+> **Before.** Figure 3: Battery life at 0 °C and 20 °C.
 >
-> **Good.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
+> **After.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
 
-**Example 2.** The body reports indoor tests only. Good proposes a correction for the author because narrowing the caption changes the claim.
+**Edit 2.** The body reports indoor tests only. The edit, a proposal to the author, deletes "and outdoors" to limit the caption to the tested setting; the author must review this correction because it narrows the claim.
 
-> **Bad.** Figure 2: The cover halves water loss indoors and outdoors.
+> **Before.** Figure 2: The cover halves water loss indoors and outdoors.
 >
-> **Good.** Figure 2: The cover halves water loss indoors.
+> **After.** Figure 2: The cover halves water loss indoors.

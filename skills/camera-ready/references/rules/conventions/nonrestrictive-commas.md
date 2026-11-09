@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** All the seedlings are in the greenhouse. Good adds commas because the clause describes the whole group rather than selecting some seedlings from it.
+**Edit 1.** All the seedlings are in the greenhouse. The edit adds commas around "which are in the greenhouse" so that the clause describes the whole group rather than selecting only some seedlings.
 
-> **Bad.** The seedlings which are in the greenhouse need water.
+> **Before.** The seedlings which are in the greenhouse need water.
 >
-> **Good.** The seedlings, which are in the greenhouse, need water.
+> **After.** The seedlings, which are in the greenhouse, need water.
 
-**Example 2.** Only seedlings with red tags need water, and the venue permits restrictive "which". Good removes the commas so the clause selects the seedlings that need water.
+**Edit 2.** Only seedlings with red tags need water, and the venue permits restrictive "which". The edit removes the commas around "which have red tags" and keeps "which", so that the clause selects the seedlings that need water without an unnecessary word change.
 
-> **Bad.** The seedlings, which have red tags, need water.
+> **Before.** The seedlings, which have red tags, need water.
 >
-> **Good.** The seedlings which have red tags need water.
+> **After.** The seedlings which have red tags need water.
 
-**Example 3.**
+**Edit 3.** The edit removes the commas around "$C$" because the symbol names the circle and should not be set off from the noun it names.
 
-> **Bad.** A circle, $C$, encloses the triangle.
+> **Before.** A circle, $C$, encloses the triangle.
 >
-> **Good.** A circle $C$ encloses the triangle.
+> **After.** A circle $C$ encloses the triangle.

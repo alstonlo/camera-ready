@@ -8,14 +8,14 @@ Comparable prominence does not require equal word counts for successes and failu
 
 ## Examples
 
-**Example 1.** The results table reports failure in salt water.
+**Edit 1.** The results table reports failure in salt water. The edit replaces "with results in salt water that leave room for further study" with "but fails in salt water" so that the reported failure is as explicit as the success in fresh water.
 
-> **Bad.** The coating prevents rust in fresh water, with results in salt water that leave room for further study.
+> **Before.** The coating prevents rust in fresh water, with results in salt water that leave room for further study.
 >
-> **Good.** The coating prevents rust in fresh water but fails in salt water.
+> **After.** The coating prevents rust in fresh water but fails in salt water.
 
-**Example 2.** The draft reports no tests of prolonged use. The caveat was added only to make the tone seem cautious, so Good removes it.
+**Edit 2.** The draft reports no tests of prolonged use, and the caveat was added only to make the tone seem cautious. The edit deletes "though it may fail after prolonged use" and the preceding comma so that the supported finding stands without an invented caveat.
 
-> **Bad.** The seal holds at 10 °C, though it may fail after prolonged use.
+> **Before.** The seal holds at 10 °C, though it may fail after prolonged use.
 >
-> **Good.** The seal holds at 10 °C.
+> **After.** The seal holds at 10 °C.

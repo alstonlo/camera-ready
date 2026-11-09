@@ -8,20 +8,20 @@ List the names that the draft uses for each recurring concept to detect unintent
 
 ## Examples
 
-**Example 1.** Although "this device" is unambiguous, Good repeats the equipment's specific name to keep the terminology consistent.
+**Edit 1.** Although "this device" is unambiguous, the rule requires the equipment's specific name. The edit replaces "This device" with "The drying cabinet" so that both sentences use the same name for the equipment.
 
-> **Bad.** The drying cabinet holds the samples. This device stays warm.
+> **Before.** The drying cabinet holds the samples. This device stays warm.
 >
-> **Good.** The drying cabinet holds the samples. The drying cabinet stays warm.
+> **After.** The drying cabinet holds the samples. The drying cabinet stays warm.
 
-**Example 2.** The draft uses "drying cabinet" and "chamber" for the same equipment. Good keeps "it" because a clear pronoun does not introduce a competing name.
+**Edit 2.** The draft uses "drying cabinet" and "chamber" for the same equipment. The edit replaces "The chamber" with "The drying cabinet" to keep one name for the equipment, while retaining "It" because the clear pronoun introduces no competing name.
 
-> **Bad.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
+> **Before.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
 >
-> **Good.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
+> **After.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
 
-**Example 3.** This figure label names equipment called a "drying cabinet" in the body text. Good is a proposed label for the author, because changing the prose alone would leave the figure inconsistent.
+**Edit 3.** This figure label names equipment called a "drying cabinet" in the body text. The edit, a proposal to the author, replaces "Chamber" with "Drying cabinet" so that the figure uses the same equipment name as the body text. Changing the prose alone would leave the figure inconsistent, so the label change must be flagged.
 
-> **Bad.** Chamber temperature (°C)
+> **Before.** Chamber temperature (°C)
 >
-> **Good.** Drying cabinet temperature (°C)
+> **After.** Drying cabinet temperature (°C)

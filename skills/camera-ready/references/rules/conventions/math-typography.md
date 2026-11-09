@@ -19,26 +19,26 @@ Check for these problems, and propose a clearer form only when the draft establi
 
 ## Examples
 
-**Example 1.** The draft defines the operation as a logarithm.
+**Edit 1.** The draft defines the operation as a logarithm. The edit replaces "log" with "\log" so that LaTeX typesets the logarithm as an upright operator rather than italic variables.
 
-> **Bad.** We evaluate $log(x)$.
+> **Before.** We evaluate $log(x)$.
 >
-> **Good.** We evaluate $\log(x)$.
+> **After.** We evaluate $\log(x)$.
 
-**Example 2.** The draft defines $i$ as a sample index and "cool" as a label for cooling time. Good leaves the index italic because it is a variable, not a word label.
+**Edit 2.** The draft defines $i$ as a sample index and "cool" as a label for cooling time. The edit puts "cool" inside "\text{...}" to make the word label upright while leaving the variable index $i$ italic.
 
-> **Bad.** We compare $t_i$ with $t_{cool}$.
+> **Before.** We compare $t_i$ with $t_{cool}$.
 >
-> **Good.** We compare $t_i$ with $t_{\text{cool}}$.
+> **After.** We compare $t_i$ with $t_{\text{cool}}$.
 
-**Example 3.**
+**Edit 3.** The edit replaces the asterisk in "$a * b$" with "\times" so that mathematical multiplication uses the multiplication sign, while preserving the code syntax "a*b".
 
-> **Bad.** The code `a*b` computes $a * b$.
+> **Before.** The code `a*b` computes $a * b$.
 >
-> **Good.** The code `a*b` computes $a \times b$.
+> **After.** The code `a*b` computes $a \times b$.
 
-**Example 4.** The draft defines the denominator as $b+c$. Good proposes the correction to the author because grouping these terms changes the mathematical meaning, not just the type.
+**Edit 4.** The draft defines the denominator as $b+c$. The edit, a proposal to the author, replaces "$a/b+c$" with "$\frac{a}{b+c}$" to put both terms in the denominator. This requires the author's review because grouping the terms changes the mathematical meaning, not just the type.
 
-> **Bad.** The ratio is $a/b+c$.
+> **Before.** The ratio is $a/b+c$.
 >
-> **Good.** The ratio is $\frac{a}{b+c}$.
+> **After.** The ratio is $\frac{a}{b+c}$.

@@ -10,20 +10,20 @@ A sentence such as "No work had studied X before Lee" describes only the gap tha
 
 ## Examples
 
-**Example 1.** The draft consistently describes the experiment in the past tense.
+**Edit 1.** The draft consistently describes the experiment in the past tense. The edit replaces "dry" with "dried" so that both actions use the draft's consistent past tense.
 
-> **Bad.** We rinsed the seeds and dry them.
+> **Before.** We rinsed the seeds and dry them.
 >
-> **Good.** We rinsed the seeds and dried them.
+> **After.** We rinsed the seeds and dried them.
 
-**Example 2.** The second pilot is still planned. Good separates a section that already exists from work that has yet to be done.
+**Edit 2.** The second pilot is still planned. The edit replaces "will describe" with "describes" because Section 3 already exists, while keeping "will repeat" for work that has yet to be done.
 
-> **Bad.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
+> **Before.** Section 3 will describe the pilot. We will repeat the pilot at a second site.
 >
-> **Good.** Section 3 describes the pilot. We will repeat the pilot at a second site.
+> **After.** Section 3 describes the pilot. We will repeat the pilot at a second site.
 
-**Example 3.** The draft treats the model and the freezing-point relation as established knowledge. Good uses present tense because both still apply, even though the model comes from prior work.
+**Edit 3.** The draft treats the model and the freezing-point relation as established knowledge. The edit replaces "described" with "describes" and "lowered" with "lowers" because both the model and the relation still apply, even though the model comes from prior work.
 
-> **Bad.** Ortiz's model described how salt lowered the freezing point.
+> **Before.** Ortiz's model described how salt lowered the freezing point.
 >
-> **Good.** Ortiz's model describes how salt lowers the freezing point.
+> **After.** Ortiz's model describes how salt lowers the freezing point.

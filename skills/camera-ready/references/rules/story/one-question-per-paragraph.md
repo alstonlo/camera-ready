@@ -8,20 +8,20 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit inserts a paragraph break before "Shade reduces water loss", so the effects of soaking on sprouting time and of shade on water loss each have a paragraph with one answer and its evidence.
 
-> **Bad.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking. Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
+> **Before.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking. Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
 >
-> **Good.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.<br><br>Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
+> **After.** Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.<br><br>Shade reduces water loss. Shaded pots lose 2 g and unshaded pots lose 5 g per day.
 
-**Example 2.** Good keeps the opening question because it states what the experiment tests.
+**Edit 2.** The edit moves "Soaking shortens sprouting time" immediately after the opening question, so the answer comes before the sprouting-time measurements that support it. It keeps the question because it states what the experiment tests.
 
-> **Bad.** Does soaking shorten sprouting time? Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens sprouting time.
+> **Before.** Does soaking shorten sprouting time? Seeds sprout in 4 days after soaking and 7 days without soaking. Soaking shortens sprouting time.
 >
-> **Good.** Does soaking shorten sprouting time? Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.
+> **After.** Does soaking shorten sprouting time? Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.
 
-**Example 3.** This is a results paragraph.
+**Edit 3.** This is a results paragraph. The edit keeps the tray descriptions and adds a flag asking which research question the paragraph answers, because the descriptions alone provide no answer and the editor must not invent one.
 
-> **Bad.** Trays were red, blue, or green. Each tray held 12 pots.
+> **Before.** Trays were red, blue, or green. Each tray held 12 pots.
 >
-> **Good.** Trays were red, blue, or green. Each tray held 12 pots. Flag for the author: Which research question does this paragraph answer?
+> **After.** Trays were red, blue, or green. Each tray held 12 pots. Flag for the author: Which research question does this paragraph answer?

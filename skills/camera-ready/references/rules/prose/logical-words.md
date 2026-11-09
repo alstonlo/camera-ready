@@ -14,38 +14,38 @@ When you replace a slash, check whether it separates alternatives, joint require
 
 ## Examples
 
-**Example 1.**
+**Edit 1.** The edit replaces "not less than 60" with "at least 60" to state the same threshold positively while still including a score of exactly 60.
 
-> **Bad.** The score is not less than 60.
+> **Before.** The score is not less than 60.
 >
-> **Good.** The score is at least 60.
+> **After.** The score is at least 60.
 
-**Example 2.** The draft requires only one valid reading to retain a run. Good keeps the negated claim about the rate because a rate that is not always increasing need not be always decreasing.
+**Edit 2.** The draft requires only one valid reading to retain a run. The edit replaces "any" with "at least one" to make that requirement explicit. It keeps "not increasing monotonically" because a rate that is not always increasing need not be always decreasing.
 
-> **Bad.** The rate is not increasing monotonically. Retain the run if any reading is valid.
+> **Before.** The rate is not increasing monotonically. Retain the run if any reading is valid.
 >
-> **Good.** The rate is not increasing monotonically. Retain the run if at least one reading is valid.
+> **After.** The rate is not increasing monotonically. Retain the run if at least one reading is valid.
 
-**Example 3.** The draft says gloves are optional.
+**Edit 3.** The draft says gloves are optional. The edit replaces "should not" with "need not" so that the sentence removes an obligation to wear gloves rather than advising against wearing them.
 
-> **Bad.** You should not wear gloves.
+> **Before.** You should not wear gloves.
 >
-> **Good.** You need not wear gloves.
+> **After.** You need not wear gloves.
 
-**Example 4.** The draft requires both measurements. Good expands the slash between them but keeps the standard abbreviation S/N for signal-to-noise ratio.
+**Edit 4.** The draft requires both measurements. The edit replaces "mass/volume" with "mass and volume" so that readers know to record both, while keeping the standard abbreviation S/N for signal-to-noise ratio.
 
-> **Bad.** Record S/N, then mass/volume.
+> **Before.** Record S/N, then mass/volume.
 >
-> **Good.** Record S/N, then mass and volume.
+> **After.** Record S/N, then mass and volume.
 
-**Example 5.** The draft does not say whether other materials are present. Good removes the inference that another material must exist, since "includes" does not establish whether the list is complete.
+**Edit 5.** The draft does not say whether other materials are present. The edit deletes "so it must contain another material" because "includes" does not establish whether steel and glass are the complete list.
 
-> **Bad.** The kit includes steel and glass, so it must contain another material.
+> **Before.** The kit includes steel and glass, so it must contain another material.
 >
-> **Good.** The kit includes steel and glass.
+> **After.** The kit includes steel and glass.
 
-**Example 6.** The draft proves the bound without conditions. Good separates its use in a comparison from the claim itself, which holds whether or not the designs are compared.
+**Edit 6.** The draft proves the bound without conditions. The edit moves the comparison from the opening "If" clause to "which we use to compare the two designs", so that the bound is stated independently of its use and holds whether or not the designs are compared.
 
-> **Bad.** If we compare the two designs, the theorem gives a 5 W bound.
+> **Before.** If we compare the two designs, the theorem gives a 5 W bound.
 >
-> **Good.** The theorem gives a 5 W bound, which we use to compare the two designs.
+> **After.** The theorem gives a 5 W bound, which we use to compare the two designs.
