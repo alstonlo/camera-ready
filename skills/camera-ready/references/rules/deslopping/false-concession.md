@@ -8,26 +8,26 @@ This rule has no further details.
 
 ## Examples
 
-> **Context.** Elsewhere, the draft reports that the glue holds on wood but fails on glass.
->
+**Example 1.** Elsewhere, the draft reports that the glue holds on wood but fails on glass.
+
 > **Bad.** Although the glue has improved, it does not hold on glass.
 >
 > **Good.** Although the glue holds on wood, it does not hold on glass.
 
-> **Context.** The draft states that the glue fails on glass.
->
+**Example 2.** The draft states that the glue fails on glass.
+
 > **Bad.** Although the glue holds on wood, difficulties remain.
 >
 > **Good.** Although the glue holds on wood, it fails on glass.
 
-> **Context.** The draft reports that the glue holds on wood but fails on glass.
->
+**Example 3.** The draft reports that the glue holds on wood but fails on glass.
+
 > **Bad.** Although progress is substantial, problems persist.
 >
 > **Good.** Although the glue holds on wood, it fails on glass.
 
-> **Context.** The draft supports both findings in the first sentence. The second sentence repeats them vaguely and adds no finding.
->
+**Example 4.** The draft supports both findings in the first sentence. The second sentence repeats them vaguely and adds no finding.
+
 > **Bad.** Although the glue holds on wood, it fails on glass. Although progress is substantial, problems persist.
 >
 > **Good.** Although the glue holds on wood, it fails on glass.

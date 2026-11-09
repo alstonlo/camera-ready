@@ -12,32 +12,32 @@ When a table would help readers compare several objects on the same properties, 
 
 ## Examples
 
-> **Context.** In this example, the draft explains that the scale cannot weigh the sack because the sack is heavier than the scale's 5 kg limit.
->
+**Example 1.** In this example, the draft explains that the scale cannot weigh the sack because the sack is heavier than the scale's 5 kg limit.
+
 > **Bad.** • The scale reads only up to 5 kg. • The scale cannot weigh the 8 kg sack.
 >
 > **Good.** The scale reads only up to 5 kg, so it cannot weigh the 8 kg sack.
 
-> **Context.** In this example, the symbol ↵ marks a line break.
->
+**Example 2.** In this example, the symbol ↵ marks a line break.
+
 > **Bad.** First, close the valve; second, disconnect the hose; third, remove the filter.
 >
 > **Good.** 1. Close the valve. ↵ 2. Disconnect the hose. ↵ 3. Remove the filter.
 
-> **Context.** In this example, the draft gives the requirements equal priority and never refers to their numbers. The symbol ↵ marks a line break.
->
+**Example 3.** In this example, the draft gives the requirements equal priority and never refers to their numbers. The symbol ↵ marks a line break.
+
 > **Bad.** 1. The lid must seal. ↵ 2. The handle must fold.
 >
 > **Good.** • The lid must seal. ↵ • The handle must fold.
 
-> **Context.** In this example, the draft groups its objectives into measurement and prediction. Because the list states objectives, Good shows a regrouping to propose to the author rather than an edit to make directly. The symbol ↵ marks a line break.
->
+**Example 4.** In this example, the draft groups its objectives into measurement and prediction. Because the list states objectives, Good shows a regrouping to propose to the author rather than an edit to make directly. The symbol ↵ marks a line break.
+
 > **Bad.** Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
 >
 > **Good.** Our objectives are: ↵ • Measurement: record pressure and temperature. ↵ • Prediction: forecast rainfall.
 
-> **Context.** In this example, the symbol ↵ marks a line break.
->
+**Example 5.** In this example, the symbol ↵ marks a line break.
+
 > **Bad.** We store tools such as: ↵ • hammers; ↵ • pliers.
 >
 > **Good.** We store tools such as hammers and pliers.

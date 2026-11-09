@@ -8,26 +8,26 @@ Apply the same rule to "influences", "impacts", "contributes", and "facilitates"
 
 ## Examples
 
-> **Context.** The draft reports that stirring reduces the sugar's dissolving time from 12 min to 7 min.
->
+**Example 1.** The draft reports that stirring reduces the sugar's dissolving time from 12 min to 7 min.
+
 > **Bad.** Stirring affects the sugar's dissolving time.
 >
 > **Good.** Stirring reduces the sugar's dissolving time from 12 min to 7 min.
 
-> **Context.** The draft states that the latch retracts a pin so that the lid can open.
->
+**Example 2.** The draft states that the latch retracts a pin so that the lid can open.
+
 > **Bad.** The latch allows the lid to open.
 >
 > **Good.** The latch allows the lid to open by retracting a pin.
 
-> **Context.** In the draft, the authors propose that the coating reduces heat loss, but they explicitly mark the hypothesis as untested.
->
+**Example 3.** In the draft, the authors propose that the coating reduces heat loss, but they explicitly mark the hypothesis as untested.
+
 > **Bad.** We hypothesize that the coating affects heat loss.
 >
 > **Good.** We hypothesize that the coating reduces heat loss.
 
-> **Context.** The draft reports that the vent lowers pressure by 5 kPa.
->
+**Example 4.** The draft reports that the vent lowers pressure by 5 kPa.
+
 > **Bad.** The latch allows the lid to open by retracting a pin. The vent affects pressure.
 >
 > **Good.** The latch allows the lid to open by retracting a pin. The vent lowers pressure by 5 kPa.

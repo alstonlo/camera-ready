@@ -8,36 +8,38 @@ The stress position is where a sentence or independent clause becomes grammatica
 
 ## Examples
 
-> **Context.** The draft's paragraph reports the kettle's boiling time.
->
+**Example 1.** The draft's paragraph reports the kettle's boiling time.
+
 > **Bad.** The kettle boiled the water in 90 s with the lid on and the stove at full heat.
 >
 > **Good.** With the lid on and the stove at full heat, the kettle boiled the water in 90 s.
 
-> **Context.** The draft's paragraph gives equal weight to heat loss and noise.
->
+**Example 2.** The draft's paragraph gives equal weight to heat loss and noise.
+
 > **Bad.** In these tests, the shield reduces heat loss and noise.
 >
 > **Good.** In these tests, the shield reduces heat loss. In these tests, it also reduces noise.
 
-> **Context.** The draft explains the lid's safety catch in the rest of the paragraph.
->
+**Example 3.** The draft explains the lid's safety catch in the rest of the paragraph.
+
 > **Bad.** The safety catch is part of the lid. The catch prevents the lid from opening under pressure.
 >
 > **Good.** The lid includes a safety catch. The catch prevents the lid from opening under pressure.
 
-> **Context.** The draft treats the leak as a limitation that matters as much as the faster flow.
->
+**Example 4.** The draft treats the leak as a limitation that matters as much as the faster flow.
+
 > **Bad.** Although the joint leaks, it allows faster flow.
 >
 > **Good.** The joint leaks, but it allows faster flow.
+
+**Example 5.**
 
 > **Bad.** The sensor works (only below 40 °C).
 >
 > **Good.** The sensor works only below 40 °C.
 
-> **Context.** The draft's paragraph is about boiling time. The model number is incidental.
->
+**Example 6.** The draft's paragraph is about boiling time. The model number is incidental.
+
 > **Bad.** The kettle (model K2) boils water in 90 s in this test.
 >
 > **Good.** In this test, the kettle (model K2) boils water in 90 s.

@@ -8,38 +8,38 @@ When headings under the same parent mix objects, operations, and findings, check
 
 ## Examples
 
-> **Context.** The draft's user study covers only screen-reader navigation and has one subsection. Good is the heading to propose to the author.
->
+**Example 1.** The draft's user study covers only screen-reader navigation and has one subsection. Good is the heading to propose to the author.
+
 > **Bad.** 3 User study; 3.1 Screen-reader navigation
 >
 > **Good.** 3 User study of screen-reader navigation
 
-> **Context.** The draft groups drying and weighing under a parent heading that names only drying. Good is the revision to propose to the author.
->
+**Example 2.** The draft groups drying and weighing under a parent heading that names only drying. Good is the revision to propose to the author.
+
 > **Bad.** 2 Drying; 2.1 Drying samples; 2.2 Weighing samples
 >
 > **Good.** 2 Sample preparation; 2.1 Drying samples; 2.2 Weighing samples
 
-> **Context.** In the draft, two subsections under the same parent heading describe the operations of mixing and cooling.
->
+**Example 3.** In the draft, two subsections under the same parent heading describe the operations of mixing and cooling.
+
 > **Bad.** 2.1 Mixing the solution; 2.2 The solution is cooled
 >
 > **Good.** 2.1 Mixing the solution; 2.2 Cooling the solution
 
-> **Context.** The draft reports that shade reduces water loss only in the tested ferns. Good is the heading to propose to the author.
->
+**Example 4.** The draft reports that shade reduces water loss only in the tested ferns. Good is the heading to propose to the author.
+
 > **Bad.** Water loss
 >
 > **Good.** Shade reduces water loss in the tested ferns
 
-> **Context.** The draft puts a one-sentence timing instruction under its own fourth-level heading, even though the sentence fits directly under the parent heading. Good is the revision to propose to the author.
->
+**Example 5.** The draft puts a one-sentence timing instruction under its own fourth-level heading, even though the sentence fits directly under the parent heading. Good is the revision to propose to the author.
+
 > **Bad.** 2.1.1 Heating; 2.1.1.1 Duration; Heat for 5 minutes.
 >
 > **Good.** 2.1.1 Heating; Heat for 5 minutes.
 
-> **Context.** The draft gives the temperature and the duration of one heating step in two adjacent one-sentence sections. Good is the revision to propose to the author.
->
+**Example 6.** The draft gives the temperature and the duration of one heating step in two adjacent one-sentence sections. Good is the revision to propose to the author.
+
 > **Bad.** 2 Heating temperature; Heat at 60 °C. 3 Heating duration; Heat for 5 minutes.
 >
 > **Good.** 2 Heating; Heat at 60 °C. Heat for 5 minutes.

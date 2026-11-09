@@ -2,6 +2,8 @@ import make_guide
 import pytest
 
 PAIR = "> **Bad.** We perform an evaluation of the model.\n>\n> **Good.** We evaluate the model."
+LABEL = "**Example 1.**\n\n"
+EX1 = LABEL + PAIR
 
 
 def page(*sections: str) -> str:
@@ -17,13 +19,13 @@ def test_guide_is_up_to_date():
 @pytest.mark.parametrize(
     "text",
     [
-        page("## Details", "More cases.", "## Examples", PAIR),
+        page("## Details", "More cases.", "## Examples", EX1),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "> **Context.** In a Methods section.\n>\n" + PAIR,
-            PAIR,
+            "**Example 1.** In a Methods section.\n\n" + PAIR,
+            "**Example 2.**\n\n" + PAIR,
         ),
     ],
 )
@@ -38,37 +40,58 @@ def test_valid_pages_render_only_title_and_summary(text: str):
     "text",
     [
         page(),
-        page("## Examples", PAIR),
+        page("## Examples", EX1),
         page("## Details", "More cases."),
         page("## Examples", "## Details", "More cases."),
-        page("## Details", "", "## Examples", PAIR),
-        page("## Details", "More cases.", "## Examples", "> **Bad.** We perform an evaluation."),
+        page("## Details", "", "## Examples", EX1),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "> **Good.** We evaluate.\n>\n> **Bad.** We perform an evaluation.",
+            LABEL + "> **Bad.** We perform an evaluation.",
         ),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "> **Bad.** A.\n>\n> **Bad.** B.\n>\n> **Good.** C.",
+            LABEL + "> **Good.** We evaluate.\n>\n> **Bad.** We perform an evaluation.",
         ),
         page(
             "## Details",
             "More cases.",
             "## Examples",
-            "> **Bad.** A.\n\nContext.\n\n> **Good.** B.",
+            LABEL + "> **Bad.** A.\n>\n> **Bad.** B.\n>\n> **Good.** C.",
         ),
+        page(
+            "## Details",
+            "More cases.",
+            "## Examples",
+            LABEL + "> **Bad.** A.\n\nContext.\n\n> **Good.** B.",
+        ),
+        page("## Details", "More cases.", "## Examples", PAIR),
         page("## Details", "More cases.", "## Examples", "In a Methods section.", PAIR),
-        page("## Details", "More cases.", "## Examples", PAIR, "> **Context.** Trailing."),
+        page("## Details", "More cases.", "## Examples", EX1, "**Example 2.** Trailing."),
+        page("## Details", "More cases.", "## Examples", "**Example 2.**\n\n" + PAIR),
         page(
-            "## Details", "More cases.", "## Examples", "> Bad caption: A.\n>\n> Good caption: B."
+            "## Details",
+            "More cases.",
+            "## Examples",
+            "> **Example 1.** In a Methods section.\n>\n" + PAIR,
         ),
-        page("## Details", "More cases.", "## Examples", "> **Bad.** Same.\n>\n> **Good.** Same."),
-        page("## Details", "More cases.", "## Examples", "- **Bad.** A.\n- **Good.** B."),
-        page("## Details", "More cases.", "## Examples", "> **Bad.** A.\n> **Good.** B."),
+        page(
+            "## Details",
+            "More cases.",
+            "## Examples",
+            LABEL + "> Bad caption: A.\n>\n> Good caption: B.",
+        ),
+        page(
+            "## Details",
+            "More cases.",
+            "## Examples",
+            LABEL + "> **Bad.** Same.\n>\n> **Good.** Same.",
+        ),
+        page("## Details", "More cases.", "## Examples", LABEL + "- **Bad.** A.\n- **Good.** B."),
+        page("## Details", "More cases.", "## Examples", LABEL + "> **Bad.** A.\n> **Good.** B."),
     ],
 )
 def test_invalid_pages_fail(text: str):

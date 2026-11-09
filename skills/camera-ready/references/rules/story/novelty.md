@@ -8,32 +8,32 @@ State additions and credit using only what the draft says. Do not describe the a
 
 ## Examples
 
-> **Context.** The draft states that the authors have already published the rain gauge and are adding an overflow alarm.
->
+**Example 1.** The draft states that the authors have already published the rain gauge and are adding an overflow alarm.
+
 > **Bad.** We introduce the rain gauge and its overflow alarm.
 >
 > **Good.** We introduce the overflow alarm for our published rain gauge.
 
-> **Context.** The draft states that the authors use Lee's published sieve and add a handle.
->
+**Example 2.** The draft states that the authors use Lee's published sieve and add a handle.
+
 > **Bad.** We introduce the sieve and handle.
 >
 > **Good.** We introduce a handle for Lee's published sieve.
 
-> **Context.** The draft identifies the earlier trial as the authors' own and states that both reports use the same measurements.
->
+**Example 3.** The draft identifies the earlier trial as the authors' own and states that both reports use the same measurements.
+
 > **Bad.** An independent study confirms the effect.
 >
 > **Good.** Our earlier report describes the effect using the same measurements.
 
-> **Context.** The draft identifies Lee et al. (2024) as the authors' earlier design. The venue requires anonymity, so the editor flags the wording and proposes the revision below.
->
+**Example 4.** The draft identifies Lee et al. (2024) as the authors' earlier design. The venue requires anonymity, so the editor flags the wording and proposes the revision below.
+
 > **Bad.** We add an alarm to our earlier design (Lee et al., 2024).
 >
 > **Good.** We add an alarm to the design of Lee et al. (2024).
 
-> **Context.** The draft identifies the glass jar used to hold samples as standard equipment.
->
+**Example 5.** The draft identifies the glass jar used to hold samples as standard equipment.
+
 > **Bad.** We introduce a glass jar to hold the samples.
 >
 > **Good.** We use a standard glass jar to hold the samples.

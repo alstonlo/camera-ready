@@ -8,24 +8,32 @@ Also delete an assistant's offers to continue, disclaimers about its status, and
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** Certainly! The freezer holds twelve trays.
 >
 > **Good.** The freezer holds twelve trays.
+
+**Example 2.**
 
 > **Bad.** The freezer holds twelve trays. Let me know if you need more details.
 >
 > **Good.** The freezer holds twelve trays.
 
+**Example 3.**
+
 > **Bad.** Here is the paragraph you requested. The freezer holds twelve trays.
 >
 > **Good.** The freezer holds twelve trays.
+
+**Example 4.**
 
 > **Bad.** As an AI assistant, I cannot visit the lab. The freezer holds twelve trays.
 >
 > **Good.** The freezer holds twelve trays.
 
-> **Context.** In this draft, the authors analyze responses to the quoted prompt.
->
+**Example 5.** In this draft, the authors analyze responses to the quoted prompt.
+
 > **Bad.** Certainly! The test prompt is "Great question!".
 >
 > **Good.** The test prompt is "Great question!".

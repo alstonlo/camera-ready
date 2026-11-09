@@ -19,48 +19,56 @@ Check for these problems, and propose a clearer form only when the draft establi
 
 ## Examples
 
-> **Context.** The draft defines $x$ as a positive concentration ratio and $\log$ as the logarithm.
->
+**Example 1.** The draft defines $x$ as a positive concentration ratio and $\log$ as the logarithm.
+
 > **Bad.** We evaluate $log(x)$.
 >
 > **Good.** We evaluate $\log(x)$.
 
-> **Context.** The draft defines $i$ as a sample index and "cool" as the label for cooling time.
->
+**Example 2.** The draft defines $i$ as a sample index and "cool" as the label for cooling time.
+
 > **Bad.** We compare $t_i$ with $t_{cool}$.
 >
 > **Good.** We compare $t_i$ with $t_{\text{cool}}$.
+
+**Example 3.**
 
 > **Bad.** The area is $3 * 4=12$.
 >
 > **Good.** The area is $3 \times 4=12$.
 
+**Example 4.**
+
 > **Bad.** The yield is 3x the baseline yield.
 >
 > **Good.** The yield is 3× the baseline yield.
+
+**Example 5.**
 
 > **Bad.** The reading is -5.
 >
 > **Good.** The reading is −5.
 
+**Example 6.**
+
 > **Bad.** The code `a*b` computes $a * b$.
 >
 > **Good.** The code `a*b` computes $a \times b$.
 
-> **Context.** The draft states that the denominator is $b+c$. The Good line suggests a clearer fraction to the author.
->
+**Example 7.** The draft states that the denominator is $b+c$. The Good line suggests a clearer fraction to the author.
+
 > **Bad.** The ratio is $a/b+c$.
 >
 > **Good.** The ratio is $\frac{a}{b+c}$.
 
-> **Context.** The draft specifies an exponent of one half. The Good line suggests a form that is easier to read.
->
+**Example 8.** The draft specifies an exponent of one half. The Good line suggests a form that is easier to read.
+
 > **Bad.** The factor is $e^{\frac{1}{2}}$.
 >
 > **Good.** The factor is $e^{1/2}$.
 
-> **Context.** The draft encloses the entire sum in parentheses. The Good line suggests smaller delimiters to the author.
->
+**Example 9.** The draft encloses the entire sum in parentheses. The Good line suggests smaller delimiters to the author.
+
 > **Bad.** The total is $\left(\frac{a}{b}+c\right)$.
 >
 > **Good.** The total is $(\frac{a}{b}+c)$.

@@ -8,52 +8,56 @@ Brevity alone does not justify an edit. Keep distinctions even when a simpler ph
 
 ## Examples
 
-> **Context.** The draft states that the sensor works only below 40 °C; a proposed edit removes this temperature limit.
->
+**Example 1.** The draft states that the sensor works only below 40 °C; a proposed edit removes this temperature limit.
+
 > **Bad.** The sensor works.
 >
 > **Good.** The sensor works only below 40 °C.
+
+**Example 2.**
 
 > **Bad.** We repeated the test again.
 >
 > **Good.** We repeated the test.
 
-> **Context.** The draft states that the nurse asks the patient to lift the weight; a proposed edit drops the request and changes who lifts the weight.
->
+**Example 3.** The draft states that the nurse asks the patient to lift the weight; a proposed edit drops the request and changes who lifts the weight.
+
 > **Bad.** The nurse lifts the weight.
 >
 > **Good.** The nurse asks the patient to lift the weight.
 
-> **Context.** The draft states that the latch can lock automatically; a proposed edit turns this capability into a performed action.
->
+**Example 4.** The draft states that the latch can lock automatically; a proposed edit turns this capability into a performed action.
+
 > **Bad.** The latch locks automatically.
 >
 > **Good.** The latch can lock automatically.
 
-> **Context.** The draft defines a passing score as at least 60; a proposed edit replaces "at least" with "exceeds" and excludes 60.
->
+**Example 5.** The draft defines a passing score as at least 60; a proposed edit replaces "at least" with "exceeds" and excludes 60.
+
 > **Bad.** A passing score exceeds 60.
 >
 > **Good.** A passing score is at least 60.
 
-> **Context.** The draft states that the lamp stays off unless the door opens; a proposed edit treats opening the door as sufficient to turn the lamp on.
->
+**Example 6.** The draft states that the lamp stays off unless the door opens; a proposed edit treats opening the door as sufficient to turn the lamp on.
+
 > **Bad.** The lamp turns on if the door opens.
 >
 > **Good.** The lamp stays off unless the door opens.
 
-> **Context.** The draft reports the authors' surprise that the thin coating lasted longer than the thick one; a proposed edit drops this authorial stance.
->
+**Example 7.** The draft reports the authors' surprise that the thin coating lasted longer than the thick one; a proposed edit drops this authorial stance.
+
 > **Bad.** The thin coating lasted longer than the thick one.
 >
 > **Good.** Surprisingly, the thin coating lasted longer than the thick one.
+
+**Example 8.**
 
 > **Bad.** We found that the scale that we used was faulty in nature.
 >
 > **Good.** We found that the scale that we used was faulty.
 
-> **Context.** The draft states that half the planted seeds sprouted; a proposed edit drops "planted" and changes the denominator of the fraction.
->
+**Example 9.** The draft states that half the planted seeds sprouted; a proposed edit drops "planted" and changes the denominator of the fraction.
+
 > **Bad.** Half the seeds sprouted.
 >
 > **Good.** Half the planted seeds sprouted.

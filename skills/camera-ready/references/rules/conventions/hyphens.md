@@ -8,16 +8,20 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** We use a battery powered pump.
 >
 > **Good.** We use a battery-powered pump.
+
+**Example 2.**
 
 > **Bad.** The pump is battery-powered.
 >
 > **Good.** The pump is battery powered.
 
-> **Context.** The draft consistently writes the established field term "fluid mechanics" without a hyphen.
->
+**Example 3.** The draft consistently writes the established field term "fluid mechanics" without a hyphen.
+
 > **Bad.** We use a battery powered pump in the fluid mechanics laboratory.
 >
 > **Good.** We use a battery-powered pump in the fluid mechanics laboratory.

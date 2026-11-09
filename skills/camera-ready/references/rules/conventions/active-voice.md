@@ -8,51 +8,55 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The interview prompts are selected by us.
 >
 > **Good.** We select the interview prompts.
 
-> **Context.** The draft consistently uses "we" and identifies filtering and heating as actions the authors perform.
->
+**Example 2.** The draft consistently uses "we" and identifies filtering and heating as actions the authors perform.
+
 > **Bad.** We filter the water. The method heats it.
 >
 > **Good.** We filter the water. We heat it.
 
-> **Context.** The draft identifies the vessel material as the authors' design choice.
->
+**Example 3.** The draft identifies the vessel material as the authors' design choice.
+
 > **Bad.** The method chooses a glass vessel to avoid corrosion.
 >
 > **Good.** We choose a glass vessel to avoid corrosion.
 
-> **Context.** The draft describes a convention shared by researchers in general.
->
+**Example 4.** The draft describes a convention shared by researchers in general.
+
 > **Bad.** We conventionally measure angles in degrees.
 >
 > **Good.** Researchers conventionally measure angles in degrees.
 
-> **Context.** A single author consistently uses "I" elsewhere in the draft.
->
+**Example 5.** A single author consistently uses "I" elsewhere in the draft.
+
 > **Bad.** The sites are chosen by me.
 >
 > **Good.** I choose the sites.
 
-> **Context.** The draft does not state who removed the label.
->
+**Example 6.** The draft does not state who removed the label.
+
 > **Bad.** The label was removed before delivery. The jar is weighed by us.
 >
 > **Good.** The label was removed before delivery. We weigh the jar.
 
-> **Context.** The passage describes how the jar is assembled, and who attached the lid is irrelevant.
->
+**Example 7.** The passage describes how the jar is assembled, and who attached the lid is irrelevant.
+
 > **Bad.** The lid is attached to the jar. The seal is checked by us.
 >
 > **Good.** The lid is attached to the jar. We check the seal.
 
-> **Context.** The preceding sentence introduces the samples, but the technicians are new information.
->
+**Example 8.** The preceding sentence introduces the samples, but the technicians are new information.
+
 > **Bad.** The samples are washed by technicians wearing sterile gloves and protective sleeves. The mass is recorded by us.
 >
 > **Good.** The samples are washed by technicians wearing sterile gloves and protective sleeves. We record the mass.
+
+**Example 9.**
 
 > **Bad.** The samples selected by technicians are weighed by us.
 >

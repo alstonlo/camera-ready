@@ -8,18 +8,20 @@ Check that the opening describes the same problem, at the same scope, as the res
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** Transportation plays an important role in modern society. Buses cannot pass each other on the village's narrow bridge.
 >
 > **Good.** Buses cannot pass each other on the village's narrow bridge.
 
-> **Context.** In this draft, readers need a definition of "ice lens" to understand the problem.
->
+**Example 2.** In this draft, readers need a definition of "ice lens" to understand the problem.
+
 > **Bad.** An ice lens is a layer of ice within soil. Soil science is a growing field. Ice lenses lift the tested road surface during freezing.
 >
 > **Good.** An ice lens is a layer of ice within soil. Ice lenses lift the tested road surface during freezing.
 
-> **Context.** The draft clearly limits its study to leaks in household water pipes, not all water lost in cities. The editor proposes the narrower opening to the author.
->
+**Example 3.** The draft clearly limits its study to leaks in household water pipes, not all water lost in cities. The editor proposes the narrower opening to the author.
+
 > **Bad.** Urban water loss is difficult to prevent.
 >
 > **Good.** Leaks in household water pipes are difficult to prevent.

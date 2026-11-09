@@ -8,18 +8,20 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The filter removes 90% of the dust and paves the way for a new era of air filtration.
 >
 > **Good.** The filter removes 90% of the dust.
 
-> **Context.** The draft states that the smaller filter fits inside the tested bottles.
->
+**Example 2.** The draft states that the smaller filter fits inside the tested bottles.
+
 > **Bad.** The smaller filter ushers in a new era of water treatment.
 >
 > **Good.** The smaller filter fits inside the tested bottles.
 
-> **Context.** The draft claims that the filter makes water safe to drink but reports no safety tests. The proposed revision keeps the claim and flags the missing support.
->
+**Example 3.** The draft claims that the filter makes water safe to drink but reports no safety tests. The proposed revision keeps the claim and flags the missing support.
+
 > **Bad.** The filter makes river water safe to drink, marking a historic turning point.
 >
 > **Good.** The filter makes river water safe to drink.

@@ -8,41 +8,49 @@ Write `Figure~\ref{...}` with a non-breaking space between "Figure" and the refe
 
 ## Examples
 
-> **Context.** The draft identifies the lower plot as Figure 4(b).
->
+**Example 1.** The draft identifies the lower plot as Figure 4(b).
+
 > **Bad.** The water level falls during summer, as shown in the plot below.
 >
 > **Good.** The water level falls during summer, as shown in Figure 4(b).
+
+**Example 2.**
 
 > **Bad.** Figure 2 shows the results. Water loss increases with temperature.
 >
 > **Good.** Water loss increases with temperature (Figure 2).
 
-> **Context.** The draft identifies the comparison as open jars versus sealed jars.
->
+**Example 3.** The draft identifies the comparison as open jars versus sealed jars.
+
 > **Bad.** Water loss is greater (Figure 3).
 >
 > **Good.** Water loss is greater in open jars than in sealed jars (Figure 3).
 
-> **Context.** The draft reports a water level of 5.2 cm, which readers cannot determine from the plot alone.
->
+**Example 4.** The draft reports a water level of 5.2 cm, which readers cannot determine from the plot alone.
+
 > **Bad.** The water level exceeds the 5 cm limit (Figure 4).
 >
 > **Good.** The water level is 5.2 cm, which exceeds the 5 cm limit (Figure 4).
 
-> **Context.** The draft identifies Figure 4 as the plot supporting the claim. The Good line proposes replacing the unresolved marker for the author.
->
+**Example 5.** The draft identifies Figure 4 as the plot supporting the claim. The Good line proposes replacing the unresolved marker for the author.
+
 > **Bad.** The water level falls during summer (Figure ??).
 >
 > **Good.** The water level falls during summer (Figure 4).
+
+**Example 6.**
 
 > **Bad.** The water level falls during summer (figure 4).
 >
 > **Good.** The water level falls during summer (Figure 4).
 
+**Example 7.**
+
 > **Bad.** The water level falls during summer (Figure \ref{fig:level}).
 >
 > **Good.** The water level falls during summer (Figure~\ref{fig:level}).
+
+**Example 8.**
 
 > **Bad.** \label{fig:level}\caption{Water level falls during summer.}
 >

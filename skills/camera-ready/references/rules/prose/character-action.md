@@ -10,33 +10,43 @@ Keep established technical verbs with inanimate subjects, such as an enzyme reco
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The technician performs the weighing of each sample.
 >
 > **Good.** The technician weighs each sample.
+
+**Example 2.**
 
 > **Bad.** The technician’s inspection of the seal precedes the technician’s replacement of it.
 >
 > **Good.** The technician inspects the seal before replacing it.
 
+**Example 3.**
+
 > **Bad.** We perform an evaluation of quantization.
 >
 > **Good.** We evaluate quantization.
 
-> **Context.** In this example, the draft identifies the authors as the people who detect faint signals.
->
+**Example 4.** In this example, the draft identifies the authors as the people who detect faint signals.
+
 > **Bad.** Noise fell after filtering. This reduction in noise permits the detection of faint signals.
 >
 > **Good.** Noise fell after filtering. This reduction in noise permits us to detect faint signals.
+
+**Example 5.**
 
 > **Bad.** The fact that the seal leaked delayed the test.
 >
 > **Good.** The leak in the seal delayed the test.
 
-> **Context.** The draft states that the recorder deletes readings after an hour.
->
+**Example 6.** The draft states that the recorder deletes readings after an hour.
+
 > **Bad.** The recorder forgets readings after an hour.
 >
 > **Good.** The recorder deletes readings after an hour.
+
+**Example 7.**
 
 > **Bad.** The results suggest that the coating causes a reduction in heat loss.
 >

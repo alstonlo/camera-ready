@@ -10,26 +10,26 @@ A dataset, instrument, protocol, software tool, or other resource or artifact ca
 
 ## Examples
 
-> **Context.** The draft lists the passage below as a contribution. Section 4 reports that thicker wool samples retained more heat in the tests.
->
+**Example 1.** The draft lists the passage below as a contribution. Section 4 reports that thicker wool samples retained more heat in the tests.
+
 > **Bad.** We investigate whether thicker wool samples retain more heat in the tests (Section 4).
 >
 > **Good.** We find that thicker wool samples retain more heat in the tests (Section 4).
 
-> **Context.** The draft reports direct measurements of a 2 cm gap in every tested panel.
->
+**Example 2.** The draft reports direct measurements of a 2 cm gap in every tested panel.
+
 > **Bad.** We may have found a 2 cm gap in every tested panel.
 >
 > **Good.** We found a 2 cm gap in every tested panel.
 
-> **Context.** In Section 3, the draft presents a catalog of 200 labeled leaf images as a contribution.
->
+**Example 3.** In Section 3, the draft presents a catalog of 200 labeled leaf images as a contribution.
+
 > **Bad.** We explore leaf images (Section 3).
 >
 > **Good.** We present a catalog of 200 labeled leaf images (Section 3).
 
-> **Context.** The draft establishes the stated result in Section 4.
->
+**Example 4.** The draft establishes the stated result in Section 4.
+
 > **Bad.** We find that the coating reduces water uptake in the tests.
 >
 > **Good.** We find that the coating reduces water uptake in the tests (Section 4).

@@ -8,24 +8,26 @@ This rule has no further details.
 
 ## Examples
 
-> **Context.** The draft states that all the seedlings are in the greenhouse.
->
+**Example 1.** The draft states that all the seedlings are in the greenhouse.
+
 > **Bad.** The seedlings which are in the greenhouse need water.
 >
 > **Good.** The seedlings, which are in the greenhouse, need water.
 
-> **Context.** The draft states that only seedlings with red tags need water. The venue permits restrictive "which".
->
+**Example 2.** The draft states that only seedlings with red tags need water. The venue permits restrictive "which".
+
 > **Bad.** The seedlings, which have red tags, need water.
 >
 > **Good.** The seedlings which have red tags need water.
+
+**Example 3.**
 
 > **Bad.** A circle, $C$, encloses the triangle.
 >
 > **Good.** A circle $C$ encloses the triangle.
 
-> **Context.** The draft states that only the tagged seedlings need water. The venue requires restrictive "that".
->
+**Example 4.** The draft states that only the tagged seedlings need water. The venue requires restrictive "that".
+
 > **Bad.** The seedlings which have red tags need water.
 >
 > **Good.** The seedlings that have red tags need water.

@@ -10,34 +10,38 @@ Check that the paragraph's opening and ending fit what the paragraph contributes
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The library lends musical instruments. A padded case protects each instrument. A shoulder strap makes each case easy to carry.
 >
 > **Good.** The library lends musical instruments. Each instrument is protected by a padded case. Each case has a shoulder strap that makes it easy to carry.
 
-> **Context.** In this example, the draft states elsewhere that the lid keeps rain out. Good shows the revision to propose.
->
+**Example 2.** In this example, the draft states elsewhere that the lid keeps rain out. Good shows the revision to propose.
+
 > **Bad.** The box has a lid. The tools stay dry.
 >
 > **Good.** The box has a lid that prevents rain from entering. The tools stay dry.
+
+**Example 3.**
 
 > **Bad.** The jar holds salt. A tight seal keeps the jar dry. The jar fits on the shelf.
 >
 > **Good.** The jar holds salt. The jar stays dry because of a tight seal. The jar fits on the shelf.
 
-> **Context.** In this example, the draft describes the room's light and sound, mentioning the trees only to locate the room.
->
+**Example 4.** In this example, the draft describes the room's light and sound, mentioning the trees only to locate the room.
+
 > **Bad.** The room faces the trees. Noise is blocked by the room’s thick walls.
 >
 > **Good.** The room faces the trees. The room’s thick walls block noise.
 
-> **Context.** In this example, the draft describes a box. The symbol ¶ marks a paragraph break.
->
+**Example 5.** In this example, the draft describes a box. The symbol ¶ marks a paragraph break.
+
 > **Bad.** The lid has a gasket. ¶ The base has a drain.
 >
 > **Good.** The box has two features: a gasket in the lid and a drain in the base. ¶ The lid has a gasket. ¶ The base has a drain.
 
-> **Context.** In this example, the draft states that the tank must drain before being dried. The symbol ¶ marks a paragraph break.
->
+**Example 6.** In this example, the draft states that the tank must drain before being dried. The symbol ¶ marks a paragraph break.
+
 > **Bad.** We open the valve to drain the tank. ¶ We dry the empty tank with warm air.
 >
 > **Good.** We open the valve to drain the tank. ¶ After draining, we dry the empty tank with warm air.

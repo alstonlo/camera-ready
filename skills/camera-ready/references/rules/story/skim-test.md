@@ -8,20 +8,20 @@ The five parts of the argument are the problem, the gap in existing work, the id
 
 ## Examples
 
-> **Context.** The draft reports that the tested batteries last twice as long at 20 °C as at 0 °C. The passages read during the skim test, including this caption, omit that finding.
->
+**Example 1.** The draft reports that the tested batteries last twice as long at 20 °C as at 0 °C. The passages read during the skim test, including this caption, omit that finding.
+
 > **Bad.** Figure 3: Battery life at 0 °C and 20 °C.
 >
 > **Good.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
 
-> **Context.** This sentence is in the first paragraph of Discussion and states the measured gain in battery life. A later paragraph of Discussion explains that the gain allows hourly sampling, but the passages read during the skim test omit that implication.
->
+**Example 2.** This sentence is in the first paragraph of Discussion and states the measured gain in battery life. A later paragraph of Discussion explains that the gain allows hourly sampling, but the passages read during the skim test omit that implication.
+
 > **Bad.** The larger battery lasts twice as long in the tested sensor.
 >
 > **Good.** The larger battery lasts twice as long in the tested sensor. The longer battery life allows hourly sampling.
 
-> **Context.** The draft reports the result for indoor tests only. The skim test shows that the caption claims more than the body reports, so the editor flags the caption and proposes a correction to the author.
->
+**Example 3.** The draft reports the result for indoor tests only. The skim test shows that the caption claims more than the body reports, so the editor flags the caption and proposes a correction to the author.
+
 > **Bad.** Figure 2: The cover halves water loss indoors and outdoors.
 >
 > **Good.** Figure 2: The cover halves water loss indoors.

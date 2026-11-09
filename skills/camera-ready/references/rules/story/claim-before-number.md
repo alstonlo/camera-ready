@@ -8,6 +8,8 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The average stopping distance falls from 18 m to 12 m, showing that the new brakes shorten stopping distance.
 >
 > **Good.** The new brakes shorten stopping distance. The average stopping distance falls from 18 m to 12 m.

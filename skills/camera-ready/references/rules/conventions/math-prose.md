@@ -12,70 +12,80 @@ In LaTeX source, a blank line starts a new paragraph. Do not put blank lines aro
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The area of a circle of radius $r$ is: \[\pi r^2.\]
 >
 > **Good.** The area of a circle of radius $r$ is \[\pi r^2.\]
 
-> **Context.** The draft defines $r$ as the radius of a circle.
->
+**Example 2.** The draft defines $r$ as the radius of a circle.
+
 > **Bad.** The circumference $2\pi r$.
 >
 > **Good.** The circumference is $2\pi r$.
+
+**Example 3.**
 
 > **Bad.** $r$ denotes the radius.
 >
 > **Good.** The symbol $r$ denotes the radius.
 
+**Example 4.**
+
 > **Bad.** 12 jars remain sealed.
 >
 > **Good.** Twelve jars remain sealed.
 
-> **Context.** The draft defines $a$ and $b$ as lengths.
->
+**Example 5.** The draft defines $a$ and $b$ as lengths.
+
 > **Bad.** We compare $a$ $b$.
 >
 > **Good.** We compare $a$ with $b$.
 
-> **Context.** The draft defines $a$ as the observed length.
->
+**Example 6.** The draft defines $a$ as the observed length.
+
 > **Bad.** We measure $a$. $b$ denotes the predicted length.
 >
 > **Good.** We measure $a$. The symbol $b$ denotes the predicted length.
 
-> **Context.** The passage states a bound on sample size in a paper outside mathematical logic.
->
+**Example 7.** The passage states a bound on sample size in a paper outside mathematical logic.
+
 > **Bad.** The bound holds $\forall n$.
 >
 > **Good.** The bound holds for all $n$.
+
+**Example 8.**
 
 > **Bad.** The error is $\leq 0.2$.
 >
 > **Good.** The error is at most 0.2.
 
-> **Context.** In a paper on logic, the passage explains the universal quantifier.
->
+**Example 9.** In a paper on logic, the passage explains the universal quantifier.
+
 > **Bad.** $P$ is the predicate in $\forall x\,P(x)$.
 >
 > **Good.** The symbol $P$ is the predicate in $\forall x\,P(x)$.
 
-> **Context.** The draft defines $a$ and $b$ as two component masses.
->
+**Example 10.** The draft defines $a$ and $b$ as two component masses.
+
 > **Bad.** The total is \[s=a+b\]
 >
 > **Good.** The total is \[s=a+b.\]
 
-> **Context.** The draft defines $a$ and $b$ earlier as component masses and introduces $s$ here.
->
+**Example 11.** The draft defines $a$ and $b$ earlier as component masses and introduces $s$ here.
+
 > **Bad.** The total is \[s=a+b\] where $s$ denotes total mass.
 >
 > **Good.** The total is \[s=a+b,\] where $s$ denotes total mass.
+
+**Example 12.**
 
 > **Bad.** The value of $q$ is positive, where $q$ denotes net inflow.
 >
 > **Good.** Let $q$ denote net inflow. The value of $q$ is positive.
 
-> **Context.** The draft defines $a$ and $b$ earlier, and the displayed formula belongs to the surrounding paragraph. Here, `\n` denotes a newline.
->
+**Example 13.** The draft defines $a$ and $b$ earlier, and the displayed formula belongs to the surrounding paragraph. Here, `\n` denotes a newline.
+
 > **Bad.** `The total is\n\n\[s=a+b.\]\nWe compare it with the limit.`
 >
 > **Good.** `The total is\n\[s=a+b.\]\nWe compare it with the limit.`

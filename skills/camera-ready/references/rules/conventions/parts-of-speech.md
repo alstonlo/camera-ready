@@ -8,9 +8,13 @@ When replacing a verb, keep [technical names](term-consistency.md) unchanged. If
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** We test the test's accuracy.
 >
 > **Good.** We assess the test's accuracy.
+
+**Example 2.**
 
 > **Bad.** We model growth. The model fits the observations. We test the test's accuracy.
 >

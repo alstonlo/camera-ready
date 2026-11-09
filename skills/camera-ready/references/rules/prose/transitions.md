@@ -8,38 +8,44 @@ When choosing a word to express contrast, distinguish a comparison, an exception
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The lid prevents spills. However, the handle makes the jug easy to carry.
 >
 > **Good.** The lid prevents spills. The handle makes the jug easy to carry.
 
-> **Context.** In this example, the draft reports when the lamp flashes, without claiming a cause.
->
+**Example 2.** In this example, the draft reports when the lamp flashes, without claiming a cause.
+
 > **Bad.** As the pump stops, the lamp flashes.
 >
 > **Good.** When the pump stops, the lamp flashes.
 
-> **Context.** In this example, the draft gives evidence that the crack causes the leak.
->
+**Example 3.** In this example, the draft gives evidence that the crack causes the leak.
+
 > **Bad.** Since the seal is cracked, the jar leaks.
 >
 > **Good.** Because the seal is cracked, the jar leaks.
 
-> **Context.** In this example, the draft compares the materials' properties rather than the timing of events.
->
+**Example 4.** In this example, the draft compares the materials' properties rather than the timing of events.
+
 > **Bad.** While wax repels water, paper absorbs it.
 >
 > **Good.** Whereas wax repels water, paper absorbs it.
+
+**Example 5.**
 
 > **Bad.** Glass transmits light. Conversely, wool retains heat.
 >
 > **Good.** Glass transmits light. Wool retains heat.
 
+**Example 6.**
+
 > **Bad.** Because the gasket is cracked, therefore the lid leaks.
 >
 > **Good.** Because the gasket is cracked, the lid leaks.
 
-> **Context.** In this example, the draft states elsewhere that every cracked jar leaks. Good shows the revision to propose when flagging the missing step in the reasoning.
->
+**Example 7.** In this example, the draft states elsewhere that every cracked jar leaks. Good shows the revision to propose when flagging the missing step in the reasoning.
+
 > **Bad.** This jar is cracked. Therefore, it leaks.
 >
 > **Good.** Every cracked jar leaks. This jar is cracked. Therefore, it leaks.

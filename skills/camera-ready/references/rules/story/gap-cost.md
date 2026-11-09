@@ -8,32 +8,32 @@ State the specific gap in what is known or can be done, and state its cost: what
 
 ## Examples
 
-> **Context.** The draft says that the bridge's load limit is needed to determine whether it can carry the new buses. The editor proposes the revision to the author.
->
+**Example 1.** The draft says that the bridge's load limit is needed to determine whether it can carry the new buses. The editor proposes the revision to the author.
+
 > **Bad.** The bridge's maximum safe load is unknown.
 >
 > **Good.** The bridge's maximum safe load is unknown, so we cannot determine whether the bridge can carry the new buses.
 
-> **Context.** The draft says autumn sowing depends on whether the seeds can sprout after a winter freeze. The editor proposes the revision to the author.
->
+**Example 2.** The draft says autumn sowing depends on whether the seeds can sprout after a winter freeze. The editor proposes the revision to the author.
+
 > **Bad.** Little is known about these seeds, so the viability of autumn sowing is unclear.
 >
 > **Good.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
 
-> **Context.** The draft says earlier work measures nesting dates on the coast but leaves inland dates unknown. The editor proposes the revision to the author.
->
+**Example 3.** The draft says earlier work measures nesting dates on the coast but leaves inland dates unknown. The editor proposes the revision to the author.
+
 > **Bad.** No nesting dates are known, so inland nesting time remains unknown.
 >
 > **Good.** Nesting dates are known on the coast but not inland, so inland nesting time remains unknown.
 
-> **Context.** In this draft, the authors measure whether a membrane passes salt to help design a water filter. They do not build a filter. The editor proposes the revision to the author.
->
+**Example 4.** In this draft, the authors measure whether a membrane passes salt to help design a water filter. They do not build a filter. The editor proposes the revision to the author.
+
 > **Bad.** We measure whether the membrane passes salt to build a water filter in this study.
 >
 > **Good.** We measure whether the membrane passes salt because we need that information to design a water filter.
 
-> **Context.** The draft proposes using the missing soil measurements to plan irrigation but does not demonstrate a benefit. The editor proposes the revision to the author.
->
+**Example 5.** The draft proposes using the missing soil measurements to plan irrigation but does not demonstrate a benefit. The editor proposes the revision to the author.
+
 > **Bad.** The missing soil measurements will improve irrigation planning.
 >
 > **Good.** The missing soil measurements may improve irrigation planning.

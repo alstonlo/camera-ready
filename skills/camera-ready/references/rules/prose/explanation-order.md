@@ -8,13 +8,19 @@ To test the order, cover everything after a sentence and check whether readers h
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** We measured the settling time for each mixture. Settling time is the time needed for solid particles in a liquid to sink to the bottom.
 >
 > **Good.** Settling time is the time needed for solid particles in a liquid to sink to the bottom. We measured the settling time for each mixture.
 
+**Example 2.**
+
 > **Bad.** A spring pushes the lid against a rubber ring. The lid seals the jar.
 >
 > **Good.** The lid seals the jar. A spring pushes the lid against a rubber ring.
+
+**Example 3.**
 
 > **Bad.** All six wet boards sagged; none of the dry boards did. Only wet boards sagged, suggesting that moisture weakens them.
 >

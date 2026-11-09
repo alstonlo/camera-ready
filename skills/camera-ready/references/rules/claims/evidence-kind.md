@@ -10,44 +10,44 @@ Propose a simpler mathematical condition only when the draft shows that the two 
 
 ## Examples
 
-> **Context.** The draft reports only a simulation of the bridge, with no measurements of the actual bridge. Propose the revision to the author.
->
+**Example 1.** The draft reports only a simulation of the bridge, with no measurements of the actual bridge. Propose the revision to the author.
+
 > **Bad.** Under the tested load, the bridge bends by 2 cm.
 >
 > **Good.** Under the tested load, the simulated bridge bends by 2 cm.
 
-> **Context.** The draft's Theorem 2 proves that the equilibrium is unique when stiffness is positive.
->
+**Example 2.** The draft's Theorem 2 proves that the equilibrium is unique when stiffness is positive.
+
 > **Bad.** The equilibrium is unique.
 >
 > **Good.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
 
-> **Context.** The draft reports only that five tested mixtures settled within an hour.
->
+**Example 3.** The draft reports only that five tested mixtures settled within an hour.
+
 > **Bad.** Every mixture settles within an hour.
 >
 > **Good.** Each of the five tested mixtures settles within an hour.
 
-> **Context.** The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors. Propose the revision to the author.
->
+**Example 4.** The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors. Propose the revision to the author.
+
 > **Bad.** The correlated errors in these sensors make Theorem 1 false.
 >
 > **Good.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
-> **Context.** The draft proves the convergence result only for positive step sizes.
->
+**Example 5.** The draft proves the convergence result only for positive step sizes.
+
 > **Bad.** Theorem 3 guarantees convergence for any step size.
 >
 > **Good.** Theorem 3 guarantees convergence for any positive step size.
 
-> **Context.** The draft calculates the load from a static model and reports no simulation. Propose the revision to the author.
->
+**Example 6.** The draft calculates the load from a static model and reports no simulation. Propose the revision to the author.
+
 > **Bad.** The simulation gives a load of 6 N.
 >
 > **Good.** The load calculated from the model is 6 N.
 
-> **Context.** The draft establishes that requiring x to be positive makes the nonzero condition unnecessary for this bound. Propose the revision to the author.
->
+**Example 7.** The draft establishes that requiring x to be positive makes the nonzero condition unnecessary for this bound. Propose the revision to the author.
+
 > **Bad.** For positive, nonzero x, the bound holds.
 >
 > **Good.** For positive x, the bound holds.

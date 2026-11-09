@@ -8,32 +8,32 @@ Read the title on its own, as readers see it in search results. A short, establi
 
 ## Examples
 
-> **Context.** The draft describes how to detect cracks in ceramic cups with sound. The editor proposes a title for the author to review.
->
+**Example 1.** The draft describes how to detect cracks in ceramic cups with sound. The editor proposes a title for the author to review.
+
 > **Bad.** A new approach to testing ceramics
 >
 > **Good.** Detecting cracks in ceramic cups with sound
 
-> **Context.** The draft reports using radio tags to locate birds that carry cameras. The editor proposes a title for the author to review.
->
+**Example 2.** The draft reports using radio tags to locate birds that carry cameras. The editor proposes a title for the author to review.
+
 > **Bad.** Tracking birds with cameras
 >
 > **Good.** Tracking birds that carry cameras
 
-> **Context.** The draft reports less leakage only in the tested pipes. The editor proposes a title for the author to review.
->
+**Example 3.** The draft reports less leakage only in the tested pipes. The editor proposes a title for the author to review.
+
 > **Bad.** Preventing all pipe leaks
 >
 > **Good.** Reducing leaks in the tested pipes
 
-> **Context.** The draft uses WLD for water-loss detection. Readers outside the subfield would not know the acronym, so the editor proposes a title that spells it out.
->
+**Example 4.** The draft uses WLD for water-loss detection. Readers outside the subfield would not know the acronym, so the editor proposes a title that spells it out.
+
 > **Bad.** WLD in clay pots
 >
 > **Good.** Water-loss detection in clay pots
 
-> **Context.** The draft reports that a lid halves evaporation in the tested tank. The editor proposes a title and subtitle, as the venue requires.
->
+**Example 5.** The draft reports that a lid halves evaporation in the tested tank. The editor proposes a title and subtitle, as the venue requires.
+
 > **Bad.** A lid for a tank: A study
 >
 > **Good.** A lid for a tank: Halving evaporation in the tested tank

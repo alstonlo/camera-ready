@@ -10,50 +10,50 @@ To disprove a claim that one property implies another, a counterexample must hav
 
 ## Examples
 
-> **Context.** The draft reports that the treated boards cracked less often but supplies no evidence about moisture absorption.
->
+**Example 1.** The draft reports that the treated boards cracked less often but supplies no evidence about moisture absorption.
+
 > **Bad.** The treated boards cracked less often because they absorbed less moisture.
 >
 > **Good.** The treated boards cracked less often. We conjecture that they cracked less often because they absorbed less moisture.
 
-> **Context.** The draft proposes two mechanisms but gives no test or argument to support either one.
->
+**Example 2.** The draft proposes two mechanisms but gives no test or argument to support either one.
+
 > **Bad.** Heat loosens the seal. Moisture weakens the glue.
 >
 > **Good.** Speculative explanations: Heat loosens the seal. Moisture weakens the glue.
 
-> **Context.** The draft cites a proof of the expansion mechanism but gives no test of the color-change mechanism.
->
+**Example 3.** The draft cites a proof of the expansion mechanism but gives no test of the color-change mechanism.
+
 > **Bad.** The cited result establishes the expansion mechanism and the color-change mechanism.
 >
 > **Good.** The cited result establishes the expansion mechanism. The color-change mechanism remains a conjecture.
 
-> **Context.** The draft never defines "bottleneck effect", but elsewhere it gives evidence that reduced flow through the narrowed outlet explains the delay. The Good line is a proposed revision for the author.
->
+**Example 4.** The draft never defines "bottleneck effect", but elsewhere it gives evidence that reduced flow through the narrowed outlet explains the delay. The Good line is a proposed revision for the author.
+
 > **Bad.** The bottleneck effect explains the delay.
 >
 > **Good.** Reduced flow through the narrowed outlet explains the delay.
 
-> **Context.** Elsewhere, the draft establishes that measured water absorption explains the swelling. The Good line is a proposed revision for the author.
->
+**Example 5.** Elsewhere, the draft establishes that measured water absorption explains the swelling. The Good line is a proposed revision for the author.
+
 > **Bad.** The swelling follows from the measured change.
 >
 > **Good.** The swelling follows from the measured water absorption.
 
-> **Context.** The draft gives a rectangle with sides 2 cm and 3 cm as a counterexample. The Good line is a proposed revision for the author.
->
+**Example 6.** The draft gives a rectangle with sides 2 cm and 3 cm as a counterexample. The Good line is a proposed revision for the author.
+
 > **Bad.** Four right angles do not imply four equal sides.
 >
 > **Good.** Four right angles do not imply four equal sides. A rectangle with sides 2 cm and 3 cm has four right angles but unequal sides.
 
-> **Context.** The draft explicitly says that it is unknown whether the surface pattern implies a crack beneath it. The Good line is a proposed revision for the author.
->
+**Example 7.** The draft explicitly says that it is unknown whether the surface pattern implies a crack beneath it. The Good line is a proposed revision for the author.
+
 > **Bad.** The surface pattern does not imply a crack beneath it.
 >
 > **Good.** Whether the surface pattern implies a crack beneath it remains open.
 
-> **Context.** The draft reports only that three tested solvents failed to dissolve the coating. The Good line is a proposed revision for the author.
->
+**Example 8.** The draft reports only that three tested solvents failed to dissolve the coating. The Good line is a proposed revision for the author.
+
 > **Bad.** The coating cannot be dissolved.
 >
 > **Good.** The coating did not dissolve in the three tested solvents.

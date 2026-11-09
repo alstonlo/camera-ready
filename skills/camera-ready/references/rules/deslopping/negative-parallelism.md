@@ -8,19 +8,25 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The lid is not only removable but also washable.
 >
 > **Good.** The lid is removable and washable.
+
+**Example 2.**
 
 > **Bad.** The lid is not just a cover; it reduces evaporation by 20%.
 >
 > **Good.** The lid reduces evaporation by 20%.
 
-> **Context.** The draft states that the lid reduces evaporation by 20%.
->
+**Example 3.** The draft states that the lid reduces evaporation by 20%.
+
 > **Bad.** The headline is not the lid. The real story is the 20% reduction in evaporation.
 >
 > **Good.** The lid reduces evaporation by 20%.
+
+**Example 4.**
 
 > **Bad.** We measure mass, not volume, and record not only the mass but also the temperature.
 >

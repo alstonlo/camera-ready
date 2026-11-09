@@ -8,26 +8,26 @@ Discuss related minor objections together so that repeating them does not make t
 
 ## Examples
 
-> **Context.** The draft describes independent rainfall and wind measurements. The editor proposes a section order for the author to review.
->
+**Example 1.** The draft describes independent rainfall and wind measurements. The editor proposes a section order for the author to review.
+
 > **Bad.** 2 Measuring rainfall; 3 Measuring wind; 4 Correcting rainfall measurements
 >
 > **Good.** 2 Measuring rainfall; 3 Correcting rainfall measurements; 4 Measuring wind
 
-> **Context.** Both sentences are in one paragraph about the rigid seal, a rejected approach that the draft keeps as a negative result.
->
+**Example 2.** Both sentences are in one paragraph about the rigid seal, a rejected approach that the draft keeps as a negative result.
+
 > **Bad.** We test the rigid seal on pipes bent to five angles. The rigid seal cracks at every angle.
 >
 > **Good.** The rigid seal cracks at every tested bend angle. We test the rigid seal on pipes bent to five angles.
 
-> **Context.** In the draft, the result of the leak test is the reason the authors develop and test a flexible seal. Both tests use the definition of temperature given in the draft. The editor proposes a section order for the author to review.
->
+**Example 3.** In the draft, the result of the leak test is the reason the authors develop and test a flexible seal. Both tests use the definition of temperature given in the draft. The editor proposes a section order for the author to review.
+
 > **Bad.** 2 Leak test; 3 Temperature definition; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 >
 > **Good.** 2 Temperature definition; 3 Leak test; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 
-> **Context.** The draft puts its central leakage result between two subsections on minor cost objections. The editor proposes grouping those objections for the author to review.
->
+**Example 4.** The draft puts its central leakage result between two subsections on minor cost objections. The editor proposes grouping those objections for the author to review.
+
 > **Bad.** 3 Packaging cost; 4 Leakage reduction; 5 Shipping cost
 >
 > **Good.** 3 Packaging and shipping costs; 4 Leakage reduction

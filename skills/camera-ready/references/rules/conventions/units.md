@@ -12,42 +12,44 @@ For durations, use the draft's convention to distinguish a decimal number from a
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** We stir the solution for 30s.
 >
 > **Good.** We stir the solution for 30~s.
 
-> **Context.** The draft gives the rod's length in centimeters.
->
+**Example 2.** The draft gives the rod's length in centimeters.
+
 > **Bad.** The rod is 15 long.
 >
 > **Good.** The rod is 15~cm long.
 
-> **Context.** The draft states that the plotted time axis is in seconds.
->
+**Example 3.** The draft states that the plotted time axis is in seconds.
+
 > **Bad.** Time
 >
 > **Good.** Time (s)
 
-> **Context.** The draft defines the concentration as parts per million by mass.
->
+**Example 4.** The draft defines the concentration as parts per million by mass.
+
 > **Bad.** The concentration is 6 ppm.
 >
 > **Good.** The concentration is 6 ppm by mass.
 
-> **Context.** The draft gives file sizes in megabytes.
->
+**Example 5.** The draft gives file sizes in megabytes.
+
 > **Bad.** Each file is 8 Mb.
 >
 > **Good.** Each file is 8 megabytes.
 
-> **Context.** The draft defines its capacity unit as 1,048,576 bytes, which is one mebibyte (MiB), so the value stays 2 and only the unit symbol changes.
->
+**Example 6.** The draft defines its capacity unit as 1,048,576 bytes, which is one mebibyte (MiB), so the value stays 2 and only the unit symbol changes.
+
 > **Bad.** The capacity is 2 MB.
 >
 > **Good.** The capacity is 2 MiB.
 
-> **Context.** The draft states that the period separates minutes from seconds rather than marking a decimal point.
->
+**Example 7.** The draft states that the period separates minutes from seconds rather than marking a decimal point.
+
 > **Bad.** The duration is 1.30.
 >
 > **Good.** The duration is 1 min 30 s.

@@ -10,74 +10,74 @@ Statistical power is the probability that a test detects an effect of a given si
 
 ## Examples
 
-> **Context.** The draft sets the significance level at 0.05 and tests whether mean drying times differ, not whether they are equivalent. The edit is a proposal for the author.
->
+**Example 1.** The draft sets the significance level at 0.05 and tests whether mean drying times differ, not whether they are equivalent. The edit is a proposal for the author.
+
 > **Bad.** Mean drying times are equal for paints A and B (Welch's t-test, p = 0.18).
 >
 > **Good.** Mean drying times do not differ significantly between paints A and B (Welch's t-test, p = 0.18).
 
-> **Context.** The draft reports a 2 min reduction in drying time and uses "significant" to mean large, without a statistical test.
->
+**Example 2.** The draft reports a 2 min reduction in drying time and uses "significant" to mean large, without a statistical test.
+
 > **Bad.** Paint A reduces drying time significantly.
 >
 > **Good.** Paint A reduces drying time by 2 min.
 
-> **Context.** The draft reports p = 0.02 from Welch's t-test for a difference in means in either direction. The edit is a proposal for the author.
->
+**Example 3.** The draft reports p = 0.02 from Welch's t-test for a difference in means in either direction. The edit is a proposal for the author.
+
 > **Bad.** Mean drying times differ significantly.
 >
 > **Good.** Mean drying times differ significantly (two-sided Welch's t-test, p = 0.02).
 
-> **Context.** The draft estimates the difference at 2 min, with a 95% confidence interval from −1 to 5 min. The edit is a proposal for the author.
->
+**Example 4.** The draft estimates the difference at 2 min, with a 95% confidence interval from −1 to 5 min. The edit is a proposal for the author.
+
 > **Bad.** The difference is not significant (Welch's t-test, p = 0.18).
 >
 > **Good.** The estimated difference is 2 min, with a 95% confidence interval from −1 to 5 min. The difference is not significant (Welch's t-test, p = 0.18).
 
-> **Context.** The draft tests the null hypothesis that mean masses are equal and reports p = 0.03. The edit is a proposal for the author.
->
+**Example 5.** The draft tests the null hypothesis that mean masses are equal and reports p = 0.03. The edit is a proposal for the author.
+
 > **Bad.** The probability that the equal-means null is true is 0.03.
 >
 > **Good.** If mean masses are equal and the test's assumptions hold, the probability of results at least as extreme as those observed is 0.03.
 
-> **Context.** The draft tests for lower mean wear only. The edit is a proposal for the author.
->
+**Example 6.** The draft tests for lower mean wear only. The edit is a proposal for the author.
+
 > **Bad.** The test assesses whether mean wear differs.
 >
 > **Good.** The test assesses whether mean wear is lower.
 
-> **Context.** The draft reports a statistically significant difference of 0.1 s but does not establish that it matters in practice. The edit is a proposal for the author.
->
+**Example 7.** The draft reports a statistically significant difference of 0.1 s but does not establish that it matters in practice. The edit is a proposal for the author.
+
 > **Bad.** The 0.1 s difference is practically important (Welch's t-test, p = 0.01).
 >
 > **Good.** The 0.1 s difference is statistically significant (Welch's t-test, p = 0.01).
 
-> **Context.** The draft reports overlapping intervals and states that the authors did not test the difference. The edit is a proposal for the author.
->
+**Example 8.** The draft reports overlapping intervals and states that the authors did not test the difference. The edit is a proposal for the author.
+
 > **Bad.** The overlapping intervals establish that paint A is not faster.
 >
 > **Good.** The overlapping intervals do not establish whether paint A is faster.
 
-> **Context.** The draft states that the outcome tests use the Holm correction for multiple comparisons. The edit is a proposal for the author.
->
+**Example 9.** The draft states that the outcome tests use the Holm correction for multiple comparisons. The edit is a proposal for the author.
+
 > **Bad.** We test differences across six outcomes at a significance level of 0.05.
 >
 > **Good.** We test differences across six outcomes at a significance level of 0.05 with the Holm correction for multiple comparisons.
 
-> **Context.** The draft reports p = 0.032 for this test.
->
+**Example 10.** The draft reports p = 0.032 for this test.
+
 > **Bad.** The difference is significant (Welch's t-test, p < 0.05).
 >
 > **Good.** The difference is significant (Welch's t-test, p = 0.032).
 
-> **Context.** For the drying-time test, the draft reports only p < 0.001.
->
+**Example 11.** For the drying-time test, the draft reports only p < 0.001.
+
 > **Bad.** Mean drying times differ significantly (Welch's t-test, p = 0.001).
 >
 > **Good.** Mean drying times differ significantly (Welch's t-test, p < 0.001).
 
-> **Context.** The draft reports p = 0.18 at a significance level of 0.05 but does not assess statistical power. The edit is a proposal for the author.
->
+**Example 12.** The draft reports p = 0.18 at a significance level of 0.05 but does not assess statistical power. The edit is a proposal for the author.
+
 > **Bad.** The non-significant result establishes inadequate power.
 >
 > **Good.** The result is not significant.

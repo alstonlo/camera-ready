@@ -8,21 +8,31 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The shelter blocks wind. Plus, it keeps rain out.
 >
 > **Good.** The shelter blocks wind, and it keeps rain out.
+
+**Example 2.**
 
 > **Bad.** The box is light. But it holds 20 kg.
 >
 > **Good.** The box is light. However, it holds 20 kg.
 
+**Example 3.**
+
 > **Bad.** The rain made the path unsafe. So we closed it.
 >
 > **Good.** The rain made the path unsafe, so we closed it.
 
+**Example 4.**
+
 > **Bad.** First, close the valve. Next, drain the tank. Moreover, dry the tank.
 >
 > **Good.** First, close the valve. Next, drain the tank. Finally, dry the tank.
+
+**Example 5.**
 
 > **Bad.** Lee favors glass jars. But Patel argues that glass jars break too easily.
 >

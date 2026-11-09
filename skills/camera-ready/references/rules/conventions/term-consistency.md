@@ -8,36 +8,38 @@ List the names that the draft uses for each recurring concept to detect unintent
 
 ## Examples
 
-> **Context.** In this draft, the authors refer to the same piece of equipment as both a "drying cabinet" and a "chamber".
->
+**Example 1.** In this draft, the authors refer to the same piece of equipment as both a "drying cabinet" and a "chamber".
+
 > **Bad.** The drying cabinet holds the samples. The chamber stays at 40 °C.
 >
 > **Good.** The drying cabinet holds the samples. The drying cabinet stays at 40 °C.
 
-> **Context.** In this draft, both sentences describe the same measurement taken at two times of day.
->
+**Example 2.** In this draft, both sentences describe the same measurement taken at two times of day.
+
 > **Bad.** We measure leaf width at noon. At dusk, we record the breadth of each leaf.
 >
 > **Good.** We measure leaf width at noon. At dusk, we measure leaf width.
+
+**Example 3.**
 
 > **Bad.** The drying cabinet holds the samples. This device stays warm.
 >
 > **Good.** The drying cabinet holds the samples. The drying cabinet stays warm.
 
-> **Context.** In this draft, the authors use "drying cabinet" and "chamber" for the same piece of equipment.
->
+**Example 4.** In this draft, the authors use "drying cabinet" and "chamber" for the same piece of equipment.
+
 > **Bad.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
 >
 > **Good.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
 
-> **Context.** In this draft, the authors use "seed weight" to mean seed mass, while reporting shell mass separately.
->
+**Example 5.** In this draft, the authors use "seed weight" to mean seed mass, while reporting shell mass separately.
+
 > **Bad.** We report seed mass and shell mass. Seed weight excludes the shell.
 >
 > **Good.** We report seed mass and shell mass. Seed mass excludes the shell.
 
-> **Context.** In this draft, the body text calls the equipment a "drying cabinet", but a figure label calls it the "chamber". The editor flags the mismatched label and proposes the wording below.
->
+**Example 6.** In this draft, the body text calls the equipment a "drying cabinet", but a figure label calls it the "chamber". The editor flags the mismatched label and proposes the wording below.
+
 > **Bad.** Chamber temperature (°C)
 >
 > **Good.** Drying cabinet temperature (°C)

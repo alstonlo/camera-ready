@@ -10,26 +10,26 @@ The words "Some may argue" alone do not make an objection explicitly hypothetica
 
 ## Examples
 
-> **Context.** The draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself.
->
+**Example 1.** The draft cites Zhao et al. (2023) for the forecast but does not make the forecast itself.
+
 > **Bad.** Experts believe that most new city roofs will be white by 2040 (Zhao et al., 2023).
 >
 > **Good.** Zhao et al. (2023) expect that most new city roofs will be white by 2040.
 
-> **Context.** The draft cites Patel (2022) for the result but does not assert the result itself.
->
+**Example 2.** The draft cites Patel (2022) for the result but does not assert the result itself.
+
 > **Bad.** The coating has been shown to resist salt water (Patel, 2022).
 >
 > **Good.** Patel (2022) reports that the coating resists salt water.
 
-> **Context.** The draft cites Lin (2021) for the claim about germination.
->
+**Example 3.** The draft cites Lin (2021) for the claim about germination.
+
 > **Bad.** Studies show that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 >
 > **Good.** Lin (2021) reports that salt delays germination. As a hypothetical objection, we ask whether the delay is due to low temperature; the trial holds temperature constant.
 
-> **Context.** The draft cites Vega (2024) for the objection about the seal.
->
+**Example 4.** The draft cites Vega (2024) for the objection about the seal.
+
 > **Bad.** Some may argue that the seal leaks in cold water.
 >
 > **Good.** Vega (2024) argues that the seal leaks in cold water.

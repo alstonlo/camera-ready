@@ -15,26 +15,26 @@ To decide whether a choice needs a reason, consider what a researcher in the fie
 
 ## Examples
 
-> **Context.** In this draft, the text states that amber bottles block light that breaks down the dye.
->
+**Example 1.** In this draft, the text states that amber bottles block light that breaks down the dye.
+
 > **Bad.** We use amber bottles for various reasons.
 >
 > **Good.** We use amber bottles because they block light that breaks down the dye.
 
-> **Context.** In this draft, the text identifies three factors that damage the film: heat, light, and moisture.
->
+**Example 2.** In this draft, the text identifies three factors that damage the film: heat, light, and moisture.
+
 > **Bad.** We protect the film from heat, light, etc.
 >
 > **Good.** We protect the film from heat, light, and moisture.
 
-> **Context.** In this draft, a stated claim depends on rinsing for 5 min, and text elsewhere explains that shorter rinses leave salt on the glass.
->
+**Example 3.** In this draft, a stated claim depends on rinsing for 5 min, and text elsewhere explains that shorter rinses leave salt on the glass.
+
 > **Bad.** We rinse each slide for 5 min.
 >
 > **Good.** We rinse each slide for 5 min because shorter rinses leave salt on the glass.
 
-> **Context.** In this draft, the text states that wrapping the jars in cloth prevents scratches.
->
+**Example 4.** In this draft, the text states that wrapping the jars in cloth prevents scratches.
+
 > **Bad.** We label the jars 1, 2, 3, etc., and wrap them in cloth for various reasons.
 >
 > **Good.** We label the jars 1, 2, 3, etc., and wrap them in cloth to prevent scratches.

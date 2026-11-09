@@ -14,7 +14,8 @@ LINK = re.compile(r"\]\(([^)\s]+)\)")
 ANCHOR_LINK = re.compile(r"guide\.md#([\w-]+)")
 RULE_LINK = re.compile(r"\brules/([a-z0-9-]+/[a-z0-9-]+)\.md\)")
 HEADS = ["## Details", "## Examples"]
-PAIR = re.compile(r"> \*\*(Context|Bad|Good)\.\*\* (\S.*)")
+EXAMPLE = re.compile(r"\*\*Example (\d+)\.\*\*(?: (\S.*))?")
+PAIR = re.compile(r"> \*\*Bad\.\*\* (\S.*)\n>\n> \*\*Good\.\*\* (\S.*)")
 
 
 def fail(msg: str):
@@ -22,18 +23,19 @@ def fail(msg: str):
 
 
 def check_examples(name: str, examples: str):
-    lines = [line for line in examples.splitlines() if line.strip()]
-    pairs = [PAIR.match(line) for line in lines]
-    kinds = "".join(m[1][0] if m else "s" if line == ">" else "x" for line, m in zip(lines, pairs))
-    if not re.fullmatch(r"((Cs)?BsG)+", kinds):
+    paras = examples.split("\n\n")
+    labels = [EXAMPLE.fullmatch(para) for para in paras[::2]]
+    pairs = [PAIR.fullmatch(para) for para in paras[1::2]]
+    if len(paras) % 2 or not all(labels) or not all(pairs):
         fail(
-            f"{name}.md: each example must be a quote of '> **Bad.** ...', '>', and "
-            "'> **Good.** ...' lines, optionally preceded by '> **Context.** ...' and '>'"
+            f"{name}.md: each example must be an '**Example N.**' line with optional context, "
+            "then a quote of '> **Bad.** ...', '>', and '> **Good.** ...'"
         )
 
-    for i in (m.start() for m in re.finditer("B", kinds)):
-        if pairs[i][2].strip() == pairs[i + 2][2].strip():
-            fail(f"{name}.md: an example's Good passage repeats its Bad passage")
+    if [m[1] for m in labels] != [str(i) for i in range(1, len(labels) + 1)]:
+        fail(f"{name}.md: examples must be numbered 1, 2, ... in order")
+    if any(m[1].strip() == m[2].strip() for m in pairs):
+        fail(f"{name}.md: an example's Good passage repeats its Bad passage")
 
 
 def read_rule(name: str, text: str) -> tuple[str, str]:

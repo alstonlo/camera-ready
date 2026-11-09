@@ -22,104 +22,104 @@ For a claim that an iterative method converges, meaning that its successive esti
 
 ## Examples
 
-> **Context.** The draft compares two modes on the same photographs and reports that mode A produces smaller files but loses more image detail.
->
+**Example 1.** The draft compares two modes on the same photographs and reports that mode A produces smaller files but loses more image detail.
+
 > **Bad.** Mode A produces smaller files than mode B.
 >
 > **Good.** Mode A produces smaller files than mode B but loses more image detail.
 
-> **Context.** The draft defines the increase as four percentage points.
->
+**Example 2.** The draft defines the increase as four percentage points.
+
 > **Bad.** The attendance rate increases by 4%.
 >
 > **Good.** The attendance rate increases by 4 percentage points.
 
-> **Context.** The draft reports a mean across six independently prepared batches and defines ± as the standard deviation. The edit is a proposal for the author.
->
+**Example 3.** The draft reports a mean across six independently prepared batches and defines ± as the standard deviation. The edit is a proposal for the author.
+
 > **Bad.** The yield is 72 ± 3%.
 >
 > **Good.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
 
-> **Context.** The draft reports mean drying times of 8 min for paint A and 9 min for paint B, and a best time of 6 min for paint A. The edit is a proposal for the author.
->
+**Example 4.** The draft reports mean drying times of 8 min for paint A and 9 min for paint B, and a best time of 6 min for paint A. The edit is a proposal for the author.
+
 > **Bad.** Paint A's best drying time is 6 min, compared with paint B's mean of 9 min.
 >
 > **Good.** Paint A's mean drying time is 8 min, compared with paint B's mean of 9 min.
 
-> **Context.** The draft states that Lee's tiles were tested dry and the authors' tiles were tested wet, so the tests do not establish which tiles are stronger. The edit is a proposal for the author.
->
+**Example 5.** The draft states that Lee's tiles were tested dry and the authors' tiles were tested wet, so the tests do not establish which tiles are stronger. The edit is a proposal for the author.
+
 > **Bad.** Our tiles are stronger than Lee's tiles.
 >
 > **Good.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
 
-> **Context.** The draft states that 40% refers to the seeds planted.
->
+**Example 6.** The draft states that 40% refers to the seeds planted.
+
 > **Bad.** Forty percent germinate.
 >
 > **Good.** Forty percent of the seeds planted germinate.
 
-> **Context.** The draft ranks the jars by sealed storage life only.
->
+**Example 7.** The draft ranks the jars by sealed storage life only.
+
 > **Bad.** Jar A ranks first.
 >
 > **Good.** Jar A ranks first for sealed storage life.
 
-> **Context.** The draft reports that filter A removes more dust but filter B removes more pollen. The edit is a proposal for the author.
->
+**Example 8.** The draft reports that filter A removes more dust but filter B removes more pollen. The edit is a proposal for the author.
+
 > **Bad.** Filter A outperforms filter B on particle removal.
 >
 > **Good.** Filter A removes more dust than filter B, but filter B removes more pollen.
 
-> **Context.** The draft describes using the same photographs to select and evaluate the filter. The edit is a proposal for the author.
->
+**Example 9.** The draft describes using the same photographs to select and evaluate the filter. The edit is a proposal for the author.
+
 > **Bad.** The photographs independently confirm the selected filter's accuracy.
 >
 > **Good.** The selected filter's accuracy is measured on the same photographs used to select it.
 
-> **Context.** The draft states that total mass and mass per item come from the same measurements, so they are not independent tests. The edit is a proposal for the author.
->
+**Example 10.** The draft states that total mass and mass per item come from the same measurements, so they are not independent tests. The edit is a proposal for the author.
+
 > **Bad.** Total mass and mass per item independently confirm the reduction.
 >
 > **Good.** Total mass and mass per item show the reduction, but both come from the same measurements.
 
-> **Context.** The draft describes reserving separate, independently sampled plots from one farm for selection and testing. The edit is a proposal for the author.
->
+**Example 11.** The draft describes reserving separate, independently sampled plots from one farm for selection and testing. The edit is a proposal for the author.
+
 > **Bad.** The test reuses the selection plots from the farm.
 >
 > **Good.** The test uses separate held-out plots from the farm.
 
-> **Context.** The draft describes an exploratory association found in the same data used to propose it. The edit is a proposal for the author.
->
+**Example 12.** The draft describes an exploratory association found in the same data used to propose it. The edit is a proposal for the author.
+
 > **Bad.** The data independently confirm the exploratory association.
 >
 > **Good.** The data suggest the exploratory association.
 
-> **Context.** The draft reports a mean wait of 12 min but says that a few long waits make the mean unrepresentative of a typical wait. The edit is a proposal for the author.
->
+**Example 13.** The draft reports a mean wait of 12 min but says that a few long waits make the mean unrepresentative of a typical wait. The edit is a proposal for the author.
+
 > **Bad.** A typical wait is 12 min.
 >
 > **Good.** The mean wait is 12 min.
 
-> **Context.** The draft reports little variation across repeats but leaves a known error in instrument calibration uncorrected. The edit is a proposal for the author.
->
+**Example 14.** The draft reports little variation across repeats but leaves a known error in instrument calibration uncorrected. The edit is a proposal for the author.
+
 > **Bad.** The small spread rules out measurement error.
 >
 > **Good.** The small spread shows little variation across repeats.
 
-> **Context.** The draft times method A with its data already in the cache and method B with an empty cache. It gives no timings of the two methods under matching conditions. The edit is a proposal for the author.
->
+**Example 15.** The draft times method A with its data already in the cache and method B with an empty cache. It gives no timings of the two methods under matching conditions. The edit is a proposal for the author.
+
 > **Bad.** Method A runs faster than method B.
 >
 > **Good.** Method A runs faster with data already in the cache than method B with an empty cache.
 
-> **Context.** The draft says that its convergence plot shows the magnitude of the difference from the exact solution. The edit is a proposal for the author.
->
+**Example 16.** The draft says that its convergence plot shows the magnitude of the difference from the exact solution. The edit is a proposal for the author.
+
 > **Bad.** The convergence plot shows successive solution values.
 >
 > **Good.** The convergence plot shows the magnitude of the difference from the exact solution.
 
-> **Context.** The draft defines normalized error as absolute error divided by the exact solution's magnitude. The edit is a proposal for the author.
->
+**Example 17.** The draft defines normalized error as absolute error divided by the exact solution's magnitude. The edit is a proposal for the author.
+
 > **Bad.** The normalized error falls below 0.01.
 >
 > **Good.** The normalized error is absolute error divided by the exact solution's magnitude. It falls below 0.01.

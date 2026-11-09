@@ -10,26 +10,26 @@ For blank lines around equations displayed on their own lines, follow the rule o
 
 ## Examples
 
-> **Context.** The original source puts both sentences in one paragraph. Here, `\n` represents a line break.
->
+**Example 1.** The original source puts both sentences in one paragraph. Here, `\n` represents a line break.
+
 > **Bad.** `We rinse the jars.\n\nWe leave them to dry.`
 >
 > **Good.** `We rinse the jars.\nWe leave them to dry.`
 
-> **Context.** The original source starts a new paragraph before the second sentence. Here, `\n` represents a line break.
->
+**Example 2.** The original source starts a new paragraph before the second sentence. Here, `\n` represents a line break.
+
 > **Bad.** `We rinse the jars.\nWe store them in a cool room.`
 >
 > **Good.** `We rinse the jars.\n\nWe store them in a cool room.`
 
-> **Context.** The original source puts the sentence on the line after the comment. Here, `\n` represents a line break.
->
+**Example 3.** The original source puts the sentence on the line after the comment. Here, `\n` represents a line break.
+
 > **Bad.** `% check label We weigh the jar.`
 >
 > **Good.** `% check label\nWe weigh the jar.`
 
-> **Context.** The original source keeps `% check label` on one line. Here, `\n` represents a line break.
->
+**Example 4.** The original source keeps `% check label` on one line. Here, `\n` represents a line break.
+
 > **Bad.** `% check\nlabel\nWe weigh the jar.`
 >
 > **Good.** `% check label\nWe weigh the jar.`

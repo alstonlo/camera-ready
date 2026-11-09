@@ -8,23 +8,31 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** Some fruits are rich in vitamin C, i.e., oranges and kiwis.
 >
 > **Good.** Some fruits are rich in vitamin C, e.g., oranges and kiwis.
+
+**Example 2.**
 
 > **Bad.** We test both states, e.g., open and closed.
 >
 > **Good.** We test both states, i.e., open and closed.
 
-> **Context.** The draft uses US style.
->
+**Example 3.** The draft uses US style.
+
 > **Bad.** We test porous materials, e.g. cork.
 >
 > **Good.** We test porous materials, e.g., cork.
 
+**Example 4.**
+
 > **Bad.** We test porous materials, *e.g.*, cork.
 >
 > **Good.** We test porous materials, e.g., cork.
+
+**Example 5.**
 
 > **Bad.** For the full protocol, cf. Section 2.
 >

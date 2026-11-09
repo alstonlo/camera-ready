@@ -8,32 +8,38 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** We leverage a ruler to measure the stem.
 >
 > **Good.** We use a ruler to measure the stem.
 
-> **Context.** The draft uses "pivotal quantity" as a technical term in statistics.
->
+**Example 2.** The draft uses "pivotal quantity" as a technical term in statistics.
+
 > **Bad.** We delve into a pivotal quantity for the mean.
 >
 > **Good.** We study a pivotal quantity for the mean.
+
+**Example 3.**
 
 > **Bad.** We perform the collection and measurement of the seeds.
 >
 > **Good.** We collect and measure the seeds.
 
-> **Context.** The draft reports that the leaves curl and the stems bend.
->
+**Example 4.** The draft reports that the leaves curl and the stems bend.
+
 > **Bad.** We make two observations, which we discuss later.
 >
 > **Good.** The leaves curl, and the stems bend.
+
+**Example 5.**
 
 > **Bad.** We showcase two findings: the leaves curl, and the stems bend.
 >
 > **Good.** We report two findings: the leaves curl, and the stems bend.
 
-> **Context.** The draft lists two bullets, separated here by a slash.
->
+**Example 6.** The draft lists two bullets, separated here by a slash.
+
 > **Bad.** - The seal leaks. / - Water reaches the contacts because the seal leaks.
 >
 > **Good.** The seal leaks, so water reaches the contacts.

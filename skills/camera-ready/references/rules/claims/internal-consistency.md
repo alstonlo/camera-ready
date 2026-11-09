@@ -10,26 +10,26 @@ Comparing two approaches does not imply that they are the only options, as an ex
 
 ## Examples
 
-> **Context.** The draft states that the lamp works in dry conditions but not in rain. The editor proposes the abstract and results revisions to the author.
->
+**Example 1.** The draft states that the lamp works in dry conditions but not in rain. The editor proposes the abstract and results revisions to the author.
+
 > **Bad.** Abstract: The lamp works. Results: The lamp does not work.
 >
 > **Good.** Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
 
-> **Context.** The draft lists an online form as a third way for participants to respond. The editor proposes the revision to the author.
->
+**Example 2.** The draft lists an online form as a third way for participants to respond. The editor proposes the revision to the author.
+
 > **Bad.** Participants must respond by phone or by mail.
 >
 > **Good.** Participants must respond by phone, by mail, or through an online form.
 
-> **Context.** The draft reports that eight of twelve students ride the bus, six ride the train, and two use both. The editor proposes the revision to the author.
->
+**Example 3.** The draft reports that eight of twelve students ride the bus, six ride the train, and two use both. The editor proposes the revision to the author.
+
 > **Bad.** Twelve students commute: eight by bus and six by train, with no overlap.
 >
 > **Good.** Twelve students commute: eight by bus and six by train, with two using both.
 
-> **Context.** The draft limits operating pressure to 5 bar but reports a startup pressure of 6 bar. The editor proposes the revision to the author.
->
+**Example 4.** The draft limits operating pressure to 5 bar but reports a startup pressure of 6 bar. The editor proposes the revision to the author.
+
 > **Bad.** Pressure never exceeds 5 bar. Startup pressure is 6 bar.
 >
 > **Good.** Operating pressure never exceeds 5 bar. Startup pressure is 6 bar.

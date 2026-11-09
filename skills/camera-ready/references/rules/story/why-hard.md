@@ -8,8 +8,8 @@ Without an explanation of why the obvious approach fails, readers cannot tell wh
 
 ## Examples
 
-> **Context.** The draft says the fallen tree is too heavy for the crane to lift in one piece. The editor proposes the revision to the author.
->
+**Example 1.** The draft says the fallen tree is too heavy for the crane to lift in one piece. The editor proposes the revision to the author.
+
 > **Bad.** Lifting the fallen tree in one piece is infeasible.
 >
 > **Good.** Lifting the fallen tree in one piece is infeasible because the tree is too heavy for the crane.

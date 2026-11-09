@@ -8,12 +8,14 @@ This rule has no further details.
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The observers recorded errors on the checklist that occurred during navigation.
 >
 > **Good.** The observers recorded errors that occurred during navigation. They recorded these errors on the checklist.
 
-> **Context.** The draft says the operator should rinse the jar instead of the lid.
->
+**Example 2.** The draft says the operator should rinse the jar instead of the lid.
+
 > **Bad.** The operator should rinse the jar.
 >
 > **Good.** The operator should rinse the jar rather than the lid.

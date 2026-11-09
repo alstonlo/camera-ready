@@ -17,8 +17,8 @@ Each rule page follows this format:
 
 ## Examples
 
-> **Context.** {{ Optional setup for the example. }}
->
+**Example 1.** {{ Optional setup for the example. }}
+
 > **Bad.** {{ A passage that breaks the rule. }}
 >
 > **Good.** {{ The same passage, corrected under this rule alone. }}

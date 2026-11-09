@@ -12,42 +12,44 @@ Do not treat a claim that the work is the first of its kind as verified merely b
 
 ## Examples
 
-> **Context.** The draft compares only how much water the fabrics absorb and reports that fabric A absorbs the most. The editor proposes the revision to the author.
->
+**Example 1.** The draft compares only how much water the fabrics absorb and reports that fabric A absorbs the most. The editor proposes the revision to the author.
+
 > **Bad.** Among the tested fabrics, fabric A is the best.
 >
 > **Good.** Among the tested fabrics, fabric A absorbs the most water.
+
+**Example 2.**
 
 > **Bad.** We use a novel tray to hold the seeds.
 >
 > **Good.** We use a tray to hold the seeds.
 
-> **Context.** The draft reports that the latch prevented opening in ten tests and supplies no guarantee.
->
+**Example 3.** The draft reports that the latch prevented opening in ten tests and supplies no guarantee.
+
 > **Bad.** The latch guarantees that the door stays shut.
 >
 > **Good.** The latch kept the door shut in ten tests.
 
-> **Context.** The draft compares the hole diameters of the tested sieves and finds that only sieve A has 1 mm holes. The editor proposes the revision to the author.
->
+**Example 4.** The draft compares the hole diameters of the tested sieves and finds that only sieve A has 1 mm holes. The editor proposes the revision to the author.
+
 > **Bad.** Sieve A is unique.
 >
 > **Good.** Among the tested sieves, only sieve A has 1 mm holes.
 
-> **Context.** The draft supports the claim only with five scratch tests and gives no theorem.
->
+**Example 5.** The draft supports the claim only with five scratch tests and gives no theorem.
+
 > **Bad.** The five tests prove that the coating resists scratches.
 >
 > **Good.** The five tests suggest that the coating resists scratches.
 
-> **Context.** The draft establishes that the open catalog is the first of its kind but gives no evidence that it is optimal.
->
+**Example 6.** The draft establishes that the open catalog is the first of its kind but gives no evidence that it is optimal.
+
 > **Bad.** We provide the first open catalog of these specimens, an optimal resource.
 >
 > **Good.** We provide the first open catalog of these specimens.
 
-> **Context.** The draft's claim of a record refers to water absorbed per gram among the ten tested fabrics. The editor proposes the revision to the author.
->
+**Example 7.** The draft's claim of a record refers to water absorbed per gram among the ten tested fabrics. The editor proposes the revision to the author.
+
 > **Bad.** Fabric A sets a record.
 >
 > **Good.** Fabric A absorbs the most water per gram among the ten tested fabrics.

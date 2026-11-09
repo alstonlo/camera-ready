@@ -8,9 +8,13 @@ When a comparison treats each property, such as weight or cost, as a topic, disc
 
 ## Examples
 
+**Example 1.**
+
 > **Bad.** The east door opens onto the garden. The roof is covered with slate. The east door locks automatically.
 >
 > **Good.** The east door opens onto the garden. The east door locks automatically. The roof is covered with slate.
+
+**Example 2.**
 
 > **Bad.** For weight, cart A is lighter than cart B. For cost, cart A is cheaper than cart B. Cart B weighs 4 kg more. Cart B costs $20 more.
 >

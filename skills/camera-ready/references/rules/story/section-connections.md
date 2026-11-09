@@ -8,38 +8,38 @@ Place each section reminder according to [paragraph opening order](../prose/para
 
 ## Examples
 
-> **Context.** This sentence opens the draft's Results section. Methods defines the two schedules as feeding the fish once or three times a day.
->
+**Example 1.** This sentence opens the draft's Results section. Methods defines the two schedules as feeding the fish once or three times a day.
+
 > **Bad.** We compare fish growth under the two feeding schedules.
 >
 > **Good.** We compare fish growth under the two feeding schedules: once or three times a day.
 
-> **Context.** The preceding section of the draft establishes that cooling time limits production. The current section tests a fan to shorten that time.
->
+**Example 2.** The preceding section of the draft establishes that cooling time limits production. The current section tests a fan to shorten that time.
+
 > **Bad.** We test a fan.
 >
 > **Good.** To shorten the cooling time that limits production, we test a fan.
 
-> **Context.** In the draft, the abstract defines the seal as a rubber ring, and this sentence is its first mention in the introduction.
->
+**Example 3.** In the draft, the abstract defines the seal as a rubber ring, and this sentence is its first mention in the introduction.
+
 > **Bad.** The seal prevents leaks at the pipe joint.
 >
 > **Good.** The seal, a rubber ring, prevents leaks at the pipe joint.
 
-> **Context.** These sentences open the draft's Methods section.
->
+**Example 4.** These sentences open the draft's Methods section.
+
 > **Bad.** We attach a fan to the lid. We use airflow to shorten cooling time.
 >
 > **Good.** We use airflow to shorten cooling time. We attach a fan to the lid.
 
-> **Context.** In the draft's Methods section, the two-jug example explains equal division.
->
+**Example 5.** In the draft's Methods section, the two-jug example explains equal division.
+
 > **Bad.** Divide the water equally among all jugs. For two jugs, pour half into each.
 >
 > **Good.** For two jugs, pour half into each. Divide the water equally among all jugs.
 
-> **Context.** The draft's supplement describes weighing the sample before and after drying. This sentence in Results is the main text's first mention of that measurement.
->
+**Example 6.** The draft's supplement describes weighing the sample before and after drying. This sentence in Results is the main text's first mention of that measurement.
+
 > **Bad.** Drying removes 3 g of water (Supplementary Methods).
 >
 > **Good.** We weigh the sample before and after drying (Supplementary Methods). Drying removes 3 g of water.

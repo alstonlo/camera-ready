@@ -26,122 +26,122 @@ When the draft recommends practical use, check the requirements it documents, su
 
 ## Examples
 
-> **Context.** The draft reports no leaks at the three tested pressures. It gives no evidence about other pressures.
->
+**Example 1.** The draft reports no leaks at the three tested pressures. It gives no evidence about other pressures.
+
 > **Bad.** The seal prevents leaks at all pressures.
 >
 > **Good.** The seal prevents leaks at the three tested pressures.
 
-> **Context.** The draft identifies the interaction as hypothetical.
->
+**Example 2.** The draft identifies the interaction as hypothetical.
+
 > **Bad.** In the interaction, the user dismisses the permission prompt.
 >
 > **Good.** In the hypothetical interaction, the user dismisses the permission prompt.
 
-> **Context.** The draft tests only four panel designs and reports cracking in all four.
->
+**Example 3.** The draft tests only four panel designs and reports cracking in all four.
+
 > **Bad.** Solar panels crack in dry heat.
 >
 > **Good.** The four tested solar panel designs crack in dry heat.
 
-> **Context.** The draft reports that 99 of 100 tested bulbs lit within a second and calls that timing typical.
->
+**Example 4.** The draft reports that 99 of 100 tested bulbs lit within a second and calls that timing typical.
+
 > **Bad.** The tested bulbs always lit within a second.
 >
 > **Good.** The tested bulbs usually lit within a second.
 
-> **Context.** The draft reports one photographed crack and no survey of other tiles.
->
+**Example 5.** The draft reports one photographed crack and no survey of other tiles.
+
 > **Bad.** Cracks are common in these tiles.
 >
 > **Good.** The photographed tile has a crack.
 
-> **Context.** The draft says that the pictured crystal was selected because it was the largest in the batch. The editor proposes the revision to the author.
->
+**Example 6.** The draft says that the pictured crystal was selected because it was the largest in the batch. The editor proposes the revision to the author.
+
 > **Bad.** The pictured crystal measures 8 mm.
 >
 > **Good.** The pictured crystal measures 8 mm and was selected because it was the largest in the batch.
 
-> **Context.** The draft reports a preference for evening hours among volunteers surveyed at one library. It supports no citywide estimate.
->
+**Example 7.** The draft reports a preference for evening hours among volunteers surveyed at one library. It supports no citywide estimate.
+
 > **Bad.** City residents prefer evening hours.
 >
 > **Good.** The surveyed library volunteers prefer evening hours.
 
-> **Context.** The draft measures only a reduction in spelling errors and explicitly says that overall writing quality was not tested. The editor proposes the revised conclusion to the author.
->
+**Example 8.** The draft measures only a reduction in spelling errors and explicitly says that overall writing quality was not tested. The editor proposes the revised conclusion to the author.
+
 > **Bad.** The course improves writing quality.
 >
 > **Good.** The course reduces spelling errors.
 
-> **Context.** The draft reports comfort scores of 8 for chair A and 4 for chair B but does not establish that twice the score means twice the comfort. The editor proposes the revision to the author.
->
+**Example 9.** The draft reports comfort scores of 8 for chair A and 4 for chair B but does not establish that twice the score means twice the comfort. The editor proposes the revision to the author.
+
 > **Bad.** Chair A is twice as comfortable as chair B.
 >
 > **Good.** Chair A scores twice as high as chair B on the comfort scale.
 
-> **Context.** The draft rates coats A, B, and C at 2, 3, and 4 for warmth but does not establish that equal score differences mean equal warmth differences. The editor proposes the revision to the author.
->
+**Example 10.** The draft rates coats A, B, and C at 2, 3, and 4 for warmth but does not establish that equal score differences mean equal warmth differences. The editor proposes the revision to the author.
+
 > **Bad.** The warmth gain from coat A to B equals that from coat B to C.
 >
 > **Good.** The increase in warmth rating from coat A to B equals that from coat B to C.
 
-> **Context.** The draft compares water absorption only with a 1990 pad design, which it identifies as a relevant baseline.
->
+**Example 11.** The draft compares water absorption only with a 1990 pad design, which it identifies as a relevant baseline.
+
 > **Bad.** The pad absorbs more water than every alternative.
 >
 > **Good.** The pad absorbs more water than the 1990 pad design.
 
-> **Context.** The draft shows that the sensor meets the accuracy target in laboratory tests but reports no field tests. The editor proposes the revision to the author.
->
+**Example 12.** The draft shows that the sensor meets the accuracy target in laboratory tests but reports no field tests. The editor proposes the revision to the author.
+
 > **Bad.** The sensor is ready for field use.
 >
 > **Good.** The sensor meets the accuracy target in laboratory tests.
 
-> **Context.** The draft reports tests of the coating only on aluminum. It explicitly proposes use on bridges as an untested application.
->
+**Example 13.** The draft reports tests of the coating only on aluminum. It explicitly proposes use on bridges as an untested application.
+
 > **Bad.** The coating resists corrosion on all metals and may be useful on bridges.
 >
 > **Good.** The coating resists corrosion on aluminum in the tests and may be useful on bridges.
 
-> **Context.** The draft reports that inspectors examined more tiles and found more cracked tiles each month. It claims only a higher count. The editor proposes the revision to the author.
->
+**Example 14.** The draft reports that inspectors examined more tiles and found more cracked tiles each month. It claims only a higher count. The editor proposes the revision to the author.
+
 > **Bad.** The proportion of cracked tiles increased each month.
 >
 > **Good.** The number of cracked tiles increased each month.
 
-> **Context.** The draft reports three failures this week and no earlier observations. The editor proposes the revision to the author.
->
+**Example 15.** The draft reports three failures this week and no earlier observations. The editor proposes the revision to the author.
+
 > **Bad.** Pump failures are increasing.
 >
 > **Good.** Three pump failures occurred this week.
 
-> **Context.** The draft reports one failure among five tested switches, with no population estimate.
->
+**Example 16.** The draft reports one failure among five tested switches, with no population estimate.
+
 > **Bad.** The probability of switch failure is 20%.
 >
 > **Good.** One of the five tested switches failed (20%).
 
-> **Context.** The draft gives one feasible solution to the routing problem. It does not show that this solution is unique, and it has not introduced the solution earlier.
->
+**Example 17.** The draft gives one feasible solution to the routing problem. It does not show that this solution is unique, and it has not introduced the solution earlier.
+
 > **Bad.** We give the solution to the routing problem.
 >
 > **Good.** We give a solution to the routing problem.
 
-> **Context.** The draft reports that calibration raises accuracy from 70% to 80%, with no earlier accuracy measurement.
->
+**Example 18.** The draft reports that calibration raises accuracy from 70% to 80%, with no earlier accuracy measurement.
+
 > **Bad.** Calibration restores accuracy to 80%.
 >
 > **Good.** Calibration raises accuracy to 80%.
 
-> **Context.** The draft constructs a mathematical example with two stable equilibria but reports no physical observation.
->
+**Example 19.** The draft constructs a mathematical example with two stable equilibria but reports no physical observation.
+
 > **Bad.** We observe a system with two stable equilibria.
 >
 > **Good.** We construct an example of a system with two stable equilibria.
 
-> **Context.** The draft supports classroom use below 30 °C and reports that the device fails above that temperature.
->
+**Example 20.** The draft supports classroom use below 30 °C and reports that the device fails above that temperature.
+
 > **Bad.** We recommend the device for classroom use.
 >
 > **Good.** We recommend the device for classroom use below 30 °C.
