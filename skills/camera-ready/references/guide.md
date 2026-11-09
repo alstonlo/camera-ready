@@ -1,10 +1,6 @@
 # Writing guide
 
-Each rule has a full page in the `rules/` folder next to this guide. This guide reproduces each rule's heading and summary, and the full page adds `Details` and at least one example.
-
-Read the full page when a rule applies to your text but the summary does not show which edit to make, or when the summary refers to a case on the page. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.
-
-Each rule page follows this format:
+This guide is generated from a collection of writing rules. Each rule has its own page in the `rules/` folder next to this guide and follows this format:
 
 ```markdown
 # {{ Name of the rule }}
@@ -23,6 +19,8 @@ Each rule page follows this format:
 >
 > **Good.** {{ The same passage, corrected under this rule alone. }}
 ```
+
+The guide below reproduces each rule's heading and summary, and each rule page adds `Details` and at least one example. Read the full page when a rule applies to your text but the summary does not show which edit to make, or when the summary refers to a case on the page. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.
 
 ## Table of contents
 
