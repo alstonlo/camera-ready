@@ -20,20 +20,8 @@ The five lines are your notes for checking the argument. Do not insert them into
 >
 > **Good.** Gap and cost: The tide gauge stops recording during storms. Flag for the author: The draft does not state why the missing records matter.
 
-**Example 3.** The draft says that the finer screen blocks small flies in the trial and keeps them out of the tested food store. The problem, gap, and idea lines of the summary are already written.
-
-> **Bad.** Evidence: The finer screen blocks small flies in the trial. Implication: Not recorded.
->
-> **Good.** Evidence: The finer screen blocks small flies in the trial. Implication: The finer screen keeps small flies out of the tested food store.
-
-**Example 4.** In the five-line summary, the idea line proposes a lid, and the evidence line states that the lid halves evaporation in the tested tank. The editor combines the two lines into a core claim for the spine test.
+**Example 3.** In the five-line summary, the idea line proposes a lid, and the evidence line states that the lid halves evaporation in the tested tank. The editor combines the two lines into a core claim for the spine test.
 
 > **Bad.** Core claim: We propose and test a lid.
 >
 > **Good.** Core claim: The lid halves evaporation in the tested tank.
-
-**Example 5.** The draft states that sediment clogs the village's drinking-water pipes.
-
-> **Bad.** Problem: Drinking water.
->
-> **Good.** Problem: Sediment clogs the village's drinking-water pipes.

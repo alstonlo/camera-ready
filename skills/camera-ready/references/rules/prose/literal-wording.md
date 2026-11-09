@@ -14,80 +14,26 @@ To check an analogy, list which familiar object stands for each technical object
 
 ## Examples
 
-**Example 1.**
-
-> **Bad.** We utilize a ruler to measure each leaf.
->
-> **Good.** We use a ruler to measure each leaf.
-
-**Example 2.** The draft identifies a foam pad as the support.
+**Example 1.** The draft identifies a foam pad as the support.
 
 > **Bad.** Our support strategy holds the vial upright.
 >
 > **Good.** A foam pad holds the vial upright.
 
-**Example 3.** In the draft, the preceding sentence defines “the framework” as the steel frame around the tank.
+**Example 2.** In the draft, the preceding sentence defines “the framework” as the steel frame around the tank.
 
 > **Bad.** We utilize the framework to support the tank.
 >
 > **Good.** We use the framework to support the tank.
 
-**Example 4.** The draft says the filter discards duplicate readings.
-
-> **Bad.** The filter swallows duplicate readings.
->
-> **Good.** The filter discards duplicate readings.
-
-**Example 5.**
-
-> **Bad.** We spreadsheet the readings.
->
-> **Good.** We enter the readings in a spreadsheet.
-
-**Example 6.** The draft calls the measurement uncertain because the scale drifts.
-
-> **Bad.** Scale drift makes the measurement epistemically slippery.
->
-> **Good.** Scale drift makes the measurement uncertain.
-
-**Example 7.**
-
-> **Bad.** We utilize centrifugation to pellet the cells.
->
-> **Good.** We use centrifugation to pellet the cells.
-
-**Example 8.** The draft defines emergence as the fraction of all planted seeds that produce a shoot above the soil.
-
-> **Bad.** Emergence captures the seeds’ breakthrough.
->
-> **Good.** Emergence is the fraction of all planted seeds that produce a shoot above the soil.
-
-**Example 9.** The draft says the controller gradually reduces heater power.
-
-> **Bad.** The controller dials back heater power.
->
-> **Good.** The controller gradually reduces heater power.
-
-**Example 10.**
+**Example 3.**
 
 > **Bad.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We utilize it to filter water.
 >
 > **Good.** Like a sieve retaining pebbles, the mesh retains particles larger than its holes. We use it to filter water.
 
-**Example 11.** The draft states that the spring closes the lid.
+**Example 4.** The draft states that the spring closes the lid.
 
 > **Bad.** The spring is the lid’s tireless guardian.
 >
 > **Good.** The spring closes the lid.
-
-**Example 12.** The draft states that the stones remain submerged throughout weighing.
-
-> **Bad.** We weigh the stones in water.
->
-> **Good.** We weigh the stones while they are submerged in water.
-
-**Example 13.** The draft says the steel pin is removed and a brass pin takes its place.
-
-> **Bad.** We substitute the steel and brass pins.
->
-> **Good.** We replace the steel pin with a brass pin.

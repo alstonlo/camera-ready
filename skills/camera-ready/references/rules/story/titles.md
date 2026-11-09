@@ -25,15 +25,3 @@ Read the title on its own, as readers see it in search results. A short, establi
 > **Bad.** Preventing all pipe leaks
 >
 > **Good.** Reducing leaks in the tested pipes
-
-**Example 4.** The draft uses WLD for water-loss detection. Readers outside the subfield would not know the acronym, so the editor proposes a title that spells it out.
-
-> **Bad.** WLD in clay pots
->
-> **Good.** Water-loss detection in clay pots
-
-**Example 5.** The draft reports that a lid halves evaporation in the tested tank. The editor proposes a title and subtitle, as the venue requires.
-
-> **Bad.** A lid for a tank: A study
->
-> **Good.** A lid for a tank: Halving evaporation in the tested tank

@@ -8,25 +8,13 @@ Also check for unfilled author fields, such as "[Author name here]", and for cit
 
 ## Examples
 
-**Example 1.** In this draft, the sentence gives an opening date without a citation. The editor removes the placeholder and flags the missing source.
-
-> **Bad.** The bridge opened in 1986. [Insert citation]
->
-> **Good.** The bridge opened in 1986.
-
-**Example 2.** In this draft, the sentence gives an opening date without a citation. The editor removes the stray citation code and flags the missing source.
+**Example 1.** In this draft, the sentence gives an opening date without a citation. The editor removes the stray citation code and flags the missing source.
 
 > **Bad.** The bridge opened in 1986. citeturn0search0
 >
 > **Good.** The bridge opened in 1986.
 
-**Example 3.** In this draft, the text reports the survey month but leaves an author placeholder. The editor removes the placeholder and flags the missing author name.
-
-> **Bad.** The survey was conducted in May. [Author name here]
->
-> **Good.** The survey was conducted in May.
-
-**Example 4.** In this draft, a URL includes an AI referrer parameter. The editor leaves the URL in place and flags the parameter for removal. The Good line shows the clean URL proposed in the flag.
+**Example 2.** In this draft, a URL includes an AI referrer parameter. The editor leaves the URL in place and flags the parameter for removal. The Good line shows the clean URL proposed in the flag.
 
 > **Bad.** Data are at https://example.org/data?utm_source=chatgpt.com.
 >

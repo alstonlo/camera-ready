@@ -20,37 +20,19 @@ A suitable controlled comparison can isolate the effect of a factor such as a de
 >
 > **Good.** In the surveyed households, owning more houseplants was associated with fewer colds.
 
-**Example 2.** The draft states that cooling causes condensation, not the reverse. Propose the revision to the author.
-
-> **Bad.** Condensation results in cooling.
->
-> **Good.** Condensation results from cooling.
-
-**Example 3.** The draft identifies poor drainage as one of several causes of root decay. Propose the revision to the author.
-
-> **Bad.** Poor drainage is the sole cause of root decay.
->
-> **Good.** Poor drainage contributes to root decay.
-
-**Example 4.** The draft isolates the effect of adding mulch and shade together but never tests either alone. Propose the revision to the author.
+**Example 2.** The draft isolates the effect of adding mulch and shade together but never tests either alone. Propose the revision to the author.
 
 > **Bad.** Mulch reduces water loss.
 >
 > **Good.** Mulch and shade together reduce water loss.
 
-**Example 5.** The draft shows that a cover and insulation together prevent freezing but does not test whether either is necessary. Propose the revision to the author.
-
-> **Bad.** A cover and insulation are each necessary to prevent freezing.
->
-> **Good.** A cover and insulation together prevent freezing.
-
-**Example 6.** The draft identifies lubrication as a contributing factor but reports failures despite lubrication. Propose the revision to the author.
+**Example 3.** The draft identifies lubrication as a contributing factor but reports failures despite lubrication. Propose the revision to the author.
 
 > **Bad.** Lubrication is sufficient to prevent wear.
 >
 > **Good.** Lubrication contributes to preventing wear.
 
-**Example 7.** The draft isolates the coating's effect on corrosion. It proposes that the coating blocks oxygen but does not test that explanation.
+**Example 4.** The draft isolates the coating's effect on corrosion. It proposes that the coating blocks oxygen but does not test that explanation.
 
 > **Bad.** The coating reduces corrosion because it blocks oxygen.
 >

@@ -24,74 +24,14 @@ In the examples for Tables 3 through 5 and Figures 8 through 12, each Good line 
 >
 > **Good.** Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
 
-**Example 3.** The draft identifies the vertical axis as height in centimeters and the horizontal axis as time in days.
-
-> **Bad.** Figure 3: Growth over time. The plants grow throughout the study.
->
-> **Good.** Figure 3: Plant height in centimeters (vertical axis) against time in days (horizontal axis). The plants grow throughout the study.
-
-**Example 4.** The draft identifies solid lines as fertilized plants and dotted lines as untreated plants. The axes already label height and its units.
-
-> **Bad.** Figure 4: Mean height after four weeks. Fertilized plants are taller.
->
-> **Good.** Figure 4: Mean height after four weeks. Solid lines show fertilized plants, and dotted lines show untreated plants. Fertilized plants are taller.
-
-**Example 5.** The draft states that the error bars are standard deviations across ten plants per condition.
-
-> **Bad.** Figure 5: Mean height after four weeks, in centimeters. Fertilized plants are taller.
->
-> **Good.** Figure 5: Mean height after four weeks, in centimeters. Error bars show standard deviations across ten plants per condition. Fertilized plants are taller.
-
-**Example 6.** The draft states that lower damage scores are better. The plot names the conditions and explains its symbols.
-
-> **Bad.** Figure 6: Mean root damage score. Treatment A has the lowest score.
->
-> **Good.** Figure 6: Mean root damage score. Lower scores are better. Treatment A has the lowest score.
-
-**Example 7.** The draft states that red denotes fertilized plants and blue denotes untreated plants.
-
-> **Bad.** Figure 7: Height after four weeks, in centimeters. Red exceeds blue.
->
-> **Good.** Figure 7: Height after four weeks, in centimeters. Fertilized plants are taller than untreated plants.
-
-**Example 8.** The draft states that every mass entry is in grams.
-
-> **Bad.** Table 4: Mean seed mass by site.
->
-> **Good.** Table 4: Mean seed mass by site, in grams.
-
-**Example 9.** The draft states that entries 1–4 are in centimeters and entries 5–8 are in millimeters.
-
-> **Bad.** Table 5: Rod lengths.
->
-> **Good.** Table 5: Rod lengths. Entries 1–4 are in centimeters, and entries 5–8 are in millimeters.
-
-**Example 10.** The draft reports heights of 11 cm and 10 cm. The vertical axis starts at 9 cm, making the bar for treated plants look twice as tall.
+**Example 3.** The draft reports heights of 11 cm and 10 cm. The vertical axis starts at 9 cm, making the bar for treated plants look twice as tall.
 
 > **Bad.** Figure 8: The treated plants are twice as tall as the controls.
 >
 > **Good.** Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
 
-**Example 11.** In the draft's plot, temperature and rainfall both rise on separate vertical axes with different units.
-
-> **Bad.** Figure 9: Temperature rises faster than rainfall.
->
-> **Good.** Figure 9: Temperature and rainfall both rise.
-
-**Example 12.** The draft reports measurements only through day 20 and identifies 18 cm at day 30 as a prediction from a fitted curve.
+**Example 4.** The draft reports measurements only through day 20 and identifies 18 cm at day 30 as a prediction from a fitted curve.
 
 > **Bad.** Figure 10: The measured height at day 30 is 18 cm.
 >
 > **Good.** Figure 10: The predicted height at day 30 is 18 cm.
-
-**Example 13.** The draft reports a 1 cm increase in each panel. Different vertical-axis ranges make the curve in panel A look steeper.
-
-> **Bad.** Figure 11: Height increases more in panel A than in panel B.
->
-> **Good.** Figure 11: Height increases by 1 cm in each panel.
-
-**Example 14.** The paragraph citing Figure 12 reports a 3 cm difference, and the plotted data agree.
-
-> **Bad.** Figure 12: Mean height after four weeks, in centimeters. Fertilized plants are 5 cm taller than untreated plants.
->
-> **Good.** Figure 12: Mean height after four weeks, in centimeters. Fertilized plants are 3 cm taller than untreated plants.

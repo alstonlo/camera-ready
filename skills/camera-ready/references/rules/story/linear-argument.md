@@ -25,9 +25,3 @@ Discuss related minor objections together so that repeating them does not make t
 > **Bad.** 2 Leak test; 3 Temperature definition; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 >
 > **Good.** 2 Temperature definition; 3 Leak test; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
-
-**Example 4.** The draft puts its central leakage result between two subsections on minor cost objections. The editor proposes grouping those objections for the author to review.
-
-> **Bad.** 3 Packaging cost; 4 Leakage reduction; 5 Shipping cost
->
-> **Good.** 3 Packaging and shipping costs; 4 Leakage reduction

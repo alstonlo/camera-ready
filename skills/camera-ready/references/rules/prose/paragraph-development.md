@@ -18,36 +18,18 @@ Judge a paragraph by whether its sentences develop one point and connect to each
 
 **Example 2.**
 
-> **Bad.** Here, a split means a crack through the wall. Four of the five glass jars split, and no clay jar did. Only glass jars split.
->
-> **Good.** Here, a split means a crack through the wall. Only glass jars split. Four of the five glass jars split, and no clay jar did.
-
-**Example 3.**
-
 > **Bad.** Does salt lower the freezing point of water? The salted water froze at −3 °C, and the plain water at 0 °C. Salt lowered the freezing point.
 >
 > **Good.** Does salt lower the freezing point of water? Salt lowered the freezing point. The salted water froze at −3 °C, and the plain water at 0 °C.
 
-**Example 4.**
-
-> **Bad.** We describe the washing procedure. Rinse the jar, then dry it.
->
-> **Good.** Rinse the jar, then dry it.
-
-**Example 5.** In this example, the symbol ¶ marks a paragraph break.
+**Example 3.** In this example, the symbol ¶ marks a paragraph break.
 
 > **Bad.** The door locks automatically. Its latch engages when the door closes. The roof drains through two gutters.
 >
 > **Good.** The door locks automatically. Its latch engages when the door closes. ¶ The roof drains through two gutters.
 
-**Example 6.** In this example, the symbol ¶ marks a paragraph break.
+**Example 4.** In this example, the symbol ¶ marks a paragraph break.
 
 > **Bad.** The glass jar survives freezing. ¶ The clay jar cracks under the same conditions.
 >
 > **Good.** The glass jar survives freezing. The clay jar cracks under the same conditions.
-
-**Example 7.**
-
-> **Bad.** The stand has three legs, each 40 cm long. In short, the stand has three legs.
->
-> **Good.** The stand has three legs, each 40 cm long.

@@ -31,15 +31,3 @@ Place each section reminder according to [paragraph opening order](../prose/para
 > **Bad.** We attach a fan to the lid. We use airflow to shorten cooling time.
 >
 > **Good.** We use airflow to shorten cooling time. We attach a fan to the lid.
-
-**Example 5.** In the draft's Methods section, the two-jug example explains equal division.
-
-> **Bad.** Divide the water equally among all jugs. For two jugs, pour half into each.
->
-> **Good.** For two jugs, pour half into each. Divide the water equally among all jugs.
-
-**Example 6.** The draft's supplement describes weighing the sample before and after drying. This sentence in Results is the main text's first mention of that measurement.
-
-> **Bad.** Drying removes 3 g of water (Supplementary Methods).
->
-> **Good.** We weigh the sample before and after drying (Supplementary Methods). Drying removes 3 g of water.

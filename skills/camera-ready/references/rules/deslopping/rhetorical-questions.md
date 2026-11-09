@@ -8,32 +8,20 @@ When a question assumes that readers agree with a claim ("Does this not prove...
 
 ## Examples
 
-**Example 1.** The preceding paragraph describes new window seals. In the drafted paragraph, the opening question only introduces the finding.
-
-> **Bad.** What do the seals mean in practice? With the seals, the room stays above 18 °C overnight.
->
-> **Good.** With the seals, the room stays above 18 °C overnight.
-
-**Example 2.** The draft describes an experiment testing whether salt delays germination. The first question only connects paragraphs.
+**Example 1.** The draft describes an experiment testing whether salt delays germination. The first question only connects paragraphs.
 
 > **Bad.** What should we ask next? Does salt delay germination? In our tests, it delays germination by 2 days.
 >
 > **Good.** Does salt delay germination? In our tests, it delays germination by 2 days.
 
-**Example 3.** The draft explains why blocked roots cause wilting. In the example, the first question only opens the paragraph, whereas the second question restates the two preceding observations as a puzzle.
+**Example 2.** The draft explains why blocked roots cause wilting. In the example, the first question only opens the paragraph, whereas the second question restates the two preceding observations as a puzzle.
 
 > **Bad.** What do we learn? The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 >
 > **Good.** The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 
-**Example 4.** The draft reports measurements showing that mulch reduces water loss in these tests, but asks a question that presumes agreement. The Good line shows the revision proposed to the author.
+**Example 3.** The draft reports measurements showing that mulch reduces water loss in these tests, but asks a question that presumes agreement. The Good line shows the revision proposed to the author.
 
 > **Bad.** Do these tests not prove that the mulch prevents water loss?
 >
 > **Good.** The mulch reduces water loss in these tests.
-
-**Example 5.** In this passage, the question only leads into the next trial and states no research question.
-
-> **Bad.** The lid stays dry. What does that tell us about the seal? The next trial uses a metal lid.
->
-> **Good.** The lid stays dry. The next trial uses a metal lid.

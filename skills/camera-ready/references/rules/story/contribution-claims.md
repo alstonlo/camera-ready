@@ -26,14 +26,8 @@ If a major result supports no contribution, check how it relates to the paper's 
 >
 > **Good.** The coating prevents rust in the saltwater test (Section 4).
 
-**Example 4.** Section 2 of the draft establishes that the released map locates every public well in the town. The editor proposes the contribution to the author.
+**Example 4.** The draft claims lower power use but reports no measurements or analysis supporting it.
 
-> **Bad.** We compile a map of public wells (Section 2).
+> **Bad.** Our controller uses less power than the baseline.
 >
-> **Good.** Our map locates every public well in the town (Section 2).
-
-**Example 5.** Section 5 of the draft reports no reduction in leaks in an independent repeat of the trial. The editor proposes the contribution to the author.
-
-> **Bad.** We repeat the seal test independently (Section 5).
->
-> **Good.** Our independent repeat trial finds no reduction in leaks (Section 5).
+> **Good.** Our controller uses less power than the baseline. Flag for the author: Which evidence supports this contribution?

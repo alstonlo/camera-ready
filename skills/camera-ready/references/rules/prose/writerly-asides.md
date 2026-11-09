@@ -8,19 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft reports that both routes take 25 min.
-
-> **Bad.** Call it a wash between the two routes.
->
-> **Good.** Both routes take 25 min.
-
-**Example 2.** The draft says the second trial matters because it tests the seal under pressure.
+**Example 1.** The draft says the second trial matters because it tests the seal under pressure.
 
 > **Bad.** Do not overlook the second trial.
 >
 > **Good.** The second trial matters because it tests the seal under pressure.
 
-**Example 3.** The draft reports that neither of the two pumps moves water.
+**Example 2.** The draft reports that neither of the two pumps moves water.
 
 > **Bad.** Neither pump moves water. Regrettably, that is the long and short of it.
 >

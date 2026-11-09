@@ -20,20 +20,8 @@ State the specific gap in what is known or can be done, and state its cost: what
 >
 > **Good.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
 
-**Example 3.** The draft says earlier work measures nesting dates on the coast but leaves inland dates unknown. The editor proposes the revision to the author.
-
-> **Bad.** No nesting dates are known, so inland nesting time remains unknown.
->
-> **Good.** Nesting dates are known on the coast but not inland, so inland nesting time remains unknown.
-
-**Example 4.** In this draft, the authors measure whether a membrane passes salt to help design a water filter. They do not build a filter. The editor proposes the revision to the author.
+**Example 3.** In this draft, the authors measure whether a membrane passes salt to help design a water filter. They do not build a filter. The editor proposes the revision to the author.
 
 > **Bad.** We measure whether the membrane passes salt to build a water filter in this study.
 >
 > **Good.** We measure whether the membrane passes salt because we need that information to design a water filter.
-
-**Example 5.** The draft proposes using the missing soil measurements to plan irrigation but does not demonstrate a benefit. The editor proposes the revision to the author.
-
-> **Bad.** The missing soil measurements will improve irrigation planning.
->
-> **Good.** The missing soil measurements may improve irrigation planning.

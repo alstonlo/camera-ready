@@ -10,31 +10,19 @@ In every example below, the Good line is a correction proposed to the author, no
 
 ## Examples
 
-**Example 1.** Elsewhere, the draft cites patel2025 for the seed-storage finding. This sentence omits the citation.
-
-> **Bad.** Dry storage extends the shelf life of these seeds.
->
-> **Good.** Dry storage extends the shelf life of these seeds~\citep{patel2025}.
-
-**Example 2.** The draft identifies ortiz2025 as the source, but the sentence cites ortiz2026, which is absent from the bibliography.
+**Example 1.** The draft identifies ortiz2025 as the source, but the sentence cites ortiz2026, which is absent from the bibliography.
 
 > **Bad.** Drying shrinks the shell~\citep{ortiz2026}.
 >
 > **Good.** Drying shrinks the shell~\citep{ortiz2025}.
 
-**Example 3.** The draft identifies chen2024 as the source of the cooling result, while Ortiz's result is cited secondhand through Patel.
+**Example 2.** The draft identifies chen2024 as the source of the cooling result, while Ortiz's result is cited secondhand through Patel.
 
 > **Bad.** Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay.
 >
 > **Good.** Ortiz, as cited in Patel, reports that dry storage extends shelf life. Cooling slows decay~\citep{chen2024}.
 
-**Example 4.** The draft identifies patel2025 as the source of the seed-storage finding. The first sentence states common knowledge.
-
-> **Bad.** A year has twelve months. Dry storage extends these seeds' shelf life.
->
-> **Good.** A year has twelve months. Dry storage extends these seeds' shelf life~\citep{patel2025}.
-
-**Example 5.** The draft supplies both references and identifies chen2024 as the source of the cooling result. The first sentence states common knowledge and already includes a citation.
+**Example 3.** The draft supplies both references and identifies chen2024 as the source of the cooling result. The first sentence states common knowledge and already includes a citation.
 
 > **Bad.** A year has twelve months~\citep{calendar2025}. Cooling slows decay.
 >

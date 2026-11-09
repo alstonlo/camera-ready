@@ -20,8 +20,8 @@ This rule has no further details.
 >
 > **Good.** The smaller filter fits inside the tested bottles.
 
-**Example 3.** The draft claims that the filter makes water safe to drink but reports no safety tests. The proposed revision keeps the claim and flags the missing support.
+**Example 3.** The draft claims that the filter makes water safe to drink but reports no safety tests. The Good line includes a flag for the closing report.
 
 > **Bad.** The filter makes river water safe to drink, marking a historic turning point.
 >
-> **Good.** The filter makes river water safe to drink.
+> **Good.** The filter makes river water safe to drink. Flag for the author: What safety tests support this claim?

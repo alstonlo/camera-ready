@@ -25,80 +25,26 @@ Distinguish an upper bound on one algorithm's cost from a lower bound that every
 >
 > **Good.** The assay costs $4 per sample for reagents, excluding sample preparation.
 
-**Example 2.** The draft analyzes the worst-case time to scan a table. It defines table size as the number of cells (rows times columns).
-
-> **Bad.** The worst-case time to scan the table is linear.
->
-> **Good.** The worst-case time to scan the table is linear in the number of cells.
-
-**Example 3.** The draft reports that the washer uses 3 liters of water per washed tray.
-
-> **Bad.** The washer uses 3 liters.
->
-> **Good.** The washer uses 3 liters of water per washed tray.
-
-**Example 4.** The draft measures the heater's energy use at an ambient temperature of 20 °C.
-
-> **Bad.** The heater uses 2 kWh per day.
->
-> **Good.** At an ambient temperature of 20 °C, the heater uses 2 kWh per day.
-
-**Example 5.** The draft compares the kiln's fuel use with that of the uninsulated kiln.
-
-> **Bad.** The kiln uses less fuel per batch.
->
-> **Good.** The kiln uses less fuel per batch than the uninsulated kiln.
-
-**Example 6.** The draft calculates the heater's 80% efficiency by dividing the heat delivered to the water by the electrical energy supplied.
+**Example 2.** The draft calculates the heater's 80% efficiency by dividing the heat delivered to the water by the electrical energy supplied.
 
 > **Bad.** The heater's efficiency is 80%.
 >
 > **Good.** The heater delivers 80% of the supplied electrical energy as heat to the water.
 
-**Example 7.** The draft calculates yield by dividing the amount of isolated product by the theoretical yield from ethanol, the limiting reagent.
-
-> **Bad.** The product yield is 60%.
->
-> **Good.** The isolated product yield is 60% of the theoretical yield from ethanol.
-
-**Example 8.** The draft reports that ten samples suffice to estimate the mean within 2 mg.
-
-> **Bad.** The procedure needs ten samples.
->
-> **Good.** The procedure needs ten samples to estimate the mean within 2 mg.
-
-**Example 9.** The draft gives an amortized bound for insertion time and defines n as the number of stored readings.
-
-> **Bad.** The time per insertion is O(1).
->
-> **Good.** The amortized time per insertion is O(1).
-
-**Example 10.** The draft excludes the time to build the index from its query bound. It defines n as the number of stored items.
-
-> **Bad.** Each query takes O(log n) time.
->
-> **Good.** After the index is built, each query takes O(log n) time.
-
-**Example 11.** The draft reports lower energy use per item but higher total energy use when more items are produced. Propose the revision to the author.
-
-> **Bad.** The new process uses less energy.
->
-> **Good.** The new process uses less energy per item.
-
-**Example 12.** The draft establishes that method A's time grows asymptotically more slowly than method B's, but reports no timing comparison. Propose the revision to the author.
+**Example 3.** The draft establishes that method A's time grows asymptotically more slowly than method B's, but reports no timing comparison. Propose the revision to the author.
 
 > **Bad.** Method A has lower elapsed time than method B.
 >
 > **Good.** Method A's time grows asymptotically more slowly than method B's.
 
-**Example 13.** The draft's analysis counts the time to scan an n-cell row as O(n), but this sentence calls the scan constant-time. Propose the revision to the author.
-
-> **Bad.** The algorithm performs a constant-time row scan.
->
-> **Good.** The algorithm performs a row scan whose time is linear in n.
-
-**Example 14.** The draft proves an upper bound for one algorithm and defines n as the number of entries. Propose the revision to the author.
+**Example 4.** The draft proves an upper bound for one algorithm and defines n as the number of entries. Propose the revision to the author.
 
 > **Bad.** Every algorithm for the problem requires quadratic time.
 >
 > **Good.** This algorithm requires at most quadratic time.
+
+**Example 5.** The draft reports lower energy use per item but higher total energy use when more items are produced. Propose the revision to the author.
+
+> **Bad.** The new process uses less energy.
+>
+> **Good.** The new process uses less energy per item.

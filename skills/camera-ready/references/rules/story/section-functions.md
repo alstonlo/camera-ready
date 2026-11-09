@@ -12,61 +12,25 @@ The five parts of the argument in the abstract are the problem, the gap, the ide
 
 ## Examples
 
-**Example 1.** This sentence is in the abstract, which already states the result that Section 5 supports.
-
-> **Bad.** The filter removes all visible sand from the tested water samples (see Section 5 for this result).
->
-> **Good.** The filter removes all visible sand from the tested water samples.
-
-**Example 2.** In this draft, readers need the depth calibration in Methods to understand Results. The editor proposes a section order for the author to review.
-
-> **Bad.** Introduction; Results using depth calibration; Methods defining depth calibration; Discussion
->
-> **Good.** Introduction; Methods defining depth calibration; Results using depth calibration; Discussion
-
-**Example 3.** In a draft for a venue that places Methods last, Methods explains how to obtain depths from calibrated echo times. The editor proposes an opening for Results.
+**Example 1.** In a draft for a venue that places Methods last, Methods explains how to obtain depths from calibrated echo times. The editor proposes an opening for Results.
 
 > **Bad.** The lake is 12 m deep at the sampling point.
 >
 > **Good.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
 
-**Example 4.** In this draft, the central result that the lid halves water loss first appears in Results, after the paper's first quarter. The editor flags the late result and proposes adding it to the introduction.
+**Example 2.** In this draft, the central result that the lid halves water loss first appears in Results, after the paper's first quarter. The editor flags the late result and proposes adding it to the introduction.
 
 > **Bad.** We test a lid to reduce water loss.
 >
 > **Good.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
 
-**Example 5.** The draft proposes an experiment to measure salt removal. The experiment has not been performed, so the editor proposes describing the planned measurement.
-
-> **Bad.** We establish how much salt the filter removes.
->
-> **Good.** We plan to measure how much salt the filter removes.
-
-**Example 6.** The draft reports that the filter removes all visible sand from the tested samples. The editor flags that the abstract only refers to a section and proposes stating the result.
+**Example 3.** The draft reports that the filter removes all visible sand from the tested samples. The editor flags that the abstract only refers to a section and proposes stating the result.
 
 > **Bad.** The filter's result appears in Section 5.
 >
 > **Good.** The filter removes all visible sand from the tested samples.
 
-**Example 7.** This sentence is in the abstract. The bibliography identifies [7] as Lee (2024), and the venue permits author-and-year citations in the abstract.
-
-> **Bad.** We test the filter introduced in [7].
->
-> **Good.** We test the filter introduced by Lee (2024).
-
-**Example 8.** The draft calls its ceramic water filter Pebble. The abstract names neither the system nor the technique.
-
-> **Bad.** Pebble removes sand from water.
->
-> **Good.** Pebble, a ceramic water filter, removes sand from water.
-
-**Example 9.** In the survey draft, all six reviewed studies report lower heat loss with lids. The editor proposes stating their finding in the abstract.
-
-> **Bad.** We review six studies of lids and heat loss.
->
-> **Good.** The six reviewed studies find lower heat loss with lids.
-
-**Example 10.** The draft describes temperature calibration and a small result validating it in Methods. A substantial drying procedure first appears in Results. The editor proposes moving that procedure to Methods.
+**Example 4.** The draft describes temperature calibration and a small result validating it in Methods. A substantial drying procedure first appears in Results. The editor proposes moving that procedure to Methods.
 
 > **Bad.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
 >

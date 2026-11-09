@@ -8,25 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
-
-> **Bad.** As requested by the reviewer, we add that each jar contains 200 mL of water.
->
-> **Good.** Each jar contains 200 mL of water.
-
-**Example 2.**
-
-> **Bad.** In this revision, we explain that we weigh twice because the scale drifts.
->
-> **Good.** We weigh twice because the scale drifts.
-
-**Example 3.** The draft reports a study that compares two pump designs.
+**Example 1.** The draft reports a study that compares two pump designs.
 
 > **Bad.** As requested by the reviewer, we note that the second pump design uses less power than the first.
 >
 > **Good.** The second pump design uses less power than the first.
 
-**Example 4.** In this example, the label "Reviewer response" marks an excerpt from the response letter, and the label "Manuscript" marks an excerpt from the paper.
+**Example 2.** In this example, the label "Reviewer response" marks an excerpt from the response letter, and the label "Manuscript" marks an excerpt from the paper.
 
 > **Bad.** Reviewer response: We added the calibration test. Manuscript: In this revision, we report a calibration error of 2%.
 >

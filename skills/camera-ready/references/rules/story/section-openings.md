@@ -19,9 +19,3 @@ You may write the question as a statement rather than a direct question. Do not 
 > **Bad.** We describe how the lid prevents evaporation.
 >
 > **Good.** The lid prevents evaporation by returning condensed water to the tank.
-
-**Example 3.** The draft proves the bound by splitting the path into two equal segments.
-
-> **Bad.** We prove the path-length bound.
->
-> **Good.** We prove the path-length bound by splitting the path into two equal segments.

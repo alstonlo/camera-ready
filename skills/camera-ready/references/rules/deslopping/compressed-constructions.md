@@ -10,47 +10,17 @@ This rule has no further details.
 
 **Example 1.**
 
-> **Bad.** The school roof leak repair schedule is posted online.
->
-> **Good.** The schedule for repairing leaks in the school roof is posted online.
-
-**Example 2.**
-
-> **Bad.** The tank swallows the runoff.
->
-> **Good.** The tank receives the runoff.
-
-**Example 3.**
-
 > **Bad.** We spreadsheet the readings.
 >
 > **Good.** We enter the readings in a spreadsheet.
 
-**Example 4.** The draft states that "pressure stewardship" means maintaining pressure.
-
-> **Bad.** The pump performs pressure stewardship.
->
-> **Good.** The pump maintains pressure.
-
-**Example 5.**
+**Example 2.**
 
 > **Bad.** We show the samples we heat expand.
 >
 > **Good.** We show that the samples we heat expand.
 
-**Example 6.** The draft identifies one pump in the preceding sentence.
-
-> **Bad.** We test pump in water.
->
-> **Good.** We test the pump in water.
-
-**Example 7.**
-
-> **Bad.** The lid, after we remove the weights and drain the jar, opens.
->
-> **Good.** After we remove the weights and drain the jar, the lid opens.
-
-**Example 8.** The draft uses "heat flux sensor" as an established technical term.
+**Example 3.** The draft uses "heat flux sensor" as an established technical term.
 
 > **Bad.** The heat flux sensor calibration procedure is documented.
 >

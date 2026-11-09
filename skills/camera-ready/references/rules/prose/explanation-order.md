@@ -16,12 +16,6 @@ To test the order, cover everything after a sentence and check whether readers h
 
 **Example 2.**
 
-> **Bad.** A spring pushes the lid against a rubber ring. The lid seals the jar.
->
-> **Good.** The lid seals the jar. A spring pushes the lid against a rubber ring.
-
-**Example 3.**
-
 > **Bad.** All six wet boards sagged; none of the dry boards did. Only wet boards sagged, suggesting that moisture weakens them.
 >
 > **Good.** Only wet boards sagged, suggesting that moisture weakens them. All six wet boards sagged; none of the dry boards did.

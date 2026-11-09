@@ -14,19 +14,13 @@ Do not calculate a ratio that the draft does not report, such as a speedup or a 
 >
 > **Good.** In this test, cart A carries 80 kg, compared with 50 kg for cart B.
 
-**Example 2.** The draft compares the load of a steel tray with that of a wooden tray.
-
-> **Bad.** The steel tray holds 5 kg more.
->
-> **Good.** The steel tray holds 5 kg more than the wooden tray.
-
-**Example 3.** The draft reports 12 mg of residue and defines high residue as more than 10 mg.
+**Example 2.** The draft reports 12 mg of residue and defines high residue as more than 10 mg.
 
 > **Bad.** The filter leaves high residue.
 >
 > **Good.** The filter leaves 12 mg of residue, which is above the 10 mg threshold for high residue.
 
-**Example 4.** In Table 2, the draft reports the loads of five carts, with cart A's load of 80 kg as the headline number.
+**Example 3.** In Table 2, the draft reports the loads of five carts, with cart A's load of 80 kg as the headline number.
 
 > **Bad.** Cart A carries 80 kg, cart B carries 50 kg, cart C carries 48 kg, cart D carries 45 kg, and cart E carries 40 kg.
 >

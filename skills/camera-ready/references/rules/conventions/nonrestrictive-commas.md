@@ -25,9 +25,3 @@ This rule has no further details.
 > **Bad.** A circle, $C$, encloses the triangle.
 >
 > **Good.** A circle $C$ encloses the triangle.
-
-**Example 4.** The draft states that only the tagged seedlings need water. The venue requires restrictive "that".
-
-> **Bad.** The seedlings which have red tags need water.
->
-> **Good.** The seedlings that have red tags need water.

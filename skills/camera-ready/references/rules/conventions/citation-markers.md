@@ -18,62 +18,26 @@ When a passage moves from reporting a cited source's claims to presenting the pa
 >
 > **Good.** \citet{ortiz2025} compares two methods for measuring rainfall.
 
-**Example 2.** The draft uses natbib and states that the authors extend Ortiz's method.
-
-> **Bad.** We extend \citep{ortiz2025}.
->
-> **Good.** We extend the method of \citet{ortiz2025}.
-
-**Example 3.** The draft uses natbib and treats the salt's solubility as an established result.
+**Example 2.** The draft uses natbib and treats the salt's solubility as an established result.
 
 > **Bad.** In a recent study, \citet{ortiz2025} showed that this salt dissolves in water.
 >
 > **Good.** This salt dissolves in water~\citep{ortiz2025}.
 
-**Example 4.** The draft cites ortiz2025 for the shell's shrinkage and patel2024 for slower decay.
+**Example 3.** The draft cites ortiz2025 for the shell's shrinkage and patel2024 for slower decay.
 
 > **Bad.** Drying shrinks the shell, and cooling slows decay~\citep{ortiz2025,patel2024}.
 >
 > **Good.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
 
-**Example 5.** Elsewhere, the draft attributes the cooling hypothesis to its own authors, not to Ortiz. The Good line proposes clarifying the attribution for the author.
+**Example 4.** Elsewhere, the draft attributes the cooling hypothesis to its own authors, not to Ortiz. The Good line proposes clarifying the attribution for the author.
 
 > **Bad.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
 >
 > **Good.** Ortiz reports that the shell shrinks. We hypothesize that cooling may reduce this effect.
 
-**Example 6.**
+**Example 5.** The draft uses natbib and states that the authors extend Ortiz's method.
 
-> **Bad.** The salt has~\citep{ortiz2025} dissolved in water.
+> **Bad.** We extend \citep{ortiz2025}.
 >
-> **Good.** The salt has dissolved in water~\citep{ortiz2025}.
-
-**Example 7.**
-
-> **Bad.** The shell shrinks \citep{ortiz2025}.
->
-> **Good.** The shell shrinks~\citep{ortiz2025}.
-
-**Example 8.** The draft uses biblatex, which provides `\textcite` for textual citations and `\parencite` for parenthetical ones.
-
-> **Bad.** \parencite{ortiz2025} describes the apparatus.
->
-> **Good.** \textcite{ortiz2025} describes the apparatus.
-
-**Example 9.** The draft cites a paper by two authors, Ortiz and Patel.
-
-> **Bad.** Ortiz et al. describe the apparatus.
->
-> **Good.** Ortiz and Patel describe the apparatus.
-
-**Example 10.** The draft cites a paper by three authors.
-
-> **Bad.** Ortiz et. al describe the apparatus.
->
-> **Good.** Ortiz et al. describe the apparatus.
-
-**Example 11.** The draft cites a paper by three authors.
-
-> **Bad.** Ortiz *et al.* describe the apparatus.
->
-> **Good.** Ortiz et al. describe the apparatus.
+> **Good.** We extend the method of \citet{ortiz2025}.

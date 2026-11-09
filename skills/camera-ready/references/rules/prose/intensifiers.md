@@ -8,56 +8,32 @@ When "highly", "remarkably", or "exceptionally" adds only emphasis, cut it or re
 
 ## Examples
 
-**Example 1.**
-
-> **Bad.** Note that the parser processes 24,000 records per second on the audit workload.
->
-> **Good.** The parser processes 24,000 records per second on the audit workload.
-
-**Example 2.**
-
-> **Bad.** The seal is very reliable.
->
-> **Good.** The seal is reliable.
-
-**Example 3.** The draft reports a cable length of 40 m.
+**Example 1.** The draft reports a cable length of 40 m.
 
 > **Bad.** The cable is extremely long.
 >
 > **Good.** The cable is 40 m long.
 
-**Example 4.**
+**Example 2.**
 
 > **Bad.** Note that the coating largely prevents rust.
 >
 > **Good.** The coating largely prevents rust.
 
-**Example 5.** The draft reports that the coating keeps 98% of the surface free of rust.
-
-> **Bad.** The coating essentially prevents rust.
->
-> **Good.** The coating keeps 98% of the surface free of rust.
-
-**Example 6.** In the draft, the preceding sentence explains that a zero score means no detected damage, not that no damage exists.
+**Example 3.** In the draft, the preceding sentence explains that a zero score means no detected damage, not that no damage exists.
 
 > **Bad.** Note that a zero score does not rule out damage. The test is very useful.
 >
 > **Good.** Note that a zero score does not rule out damage. The test is useful.
 
-**Example 7.**
-
-> **Bad.** The treated seeds clearly sprout sooner.
->
-> **Good.** The treated seeds sprout sooner.
-
-**Example 8.** In the draft's proof, the last term of the sum is zero.
+**Example 4.** In the draft's proof, the last term of the sum is zero.
 
 > **Bad.** Clearly, adding zero leaves the sum unchanged, so we can very safely drop the last term.
 >
 > **Good.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
 
-**Example 9.** In the draft, Lemma 2 bounds the tail terms of the infinite sum.
+**Example 5.**
 
-> **Bad.** Clearly, the infinite sum converges.
+> **Bad.** The treated seeds clearly sprout sooner.
 >
-> **Good.** The infinite sum converges by the tail bound in Lemma 2.
+> **Good.** The treated seeds sprout sooner.

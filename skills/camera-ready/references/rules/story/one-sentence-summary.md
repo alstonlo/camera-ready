@@ -14,13 +14,7 @@ Build this sentence from the five-line summary of the problem, the gap and its c
 >
 > **Good.** Keeping flies out protects stored food, but existing window screens let small flies through; we propose a finer window screen that blocks all flies in our trial.
 
-**Example 2.** The draft says that snow blocks the lenses of road cameras and that existing camera housings have no cover. It reports that the proposed cover keeps the lens clear in a winter trial, but the summary omits that result.
-
-> **Bad.** Snow blocks the lenses of road cameras, and existing housings have no cover; we propose a cover.
->
-> **Good.** Snow blocks the lenses of road cameras, and existing housings have no cover; we propose a cover that keeps the lens clear in a winter trial.
-
-**Example 3.** The draft proposes a finer window screen to block small flies and a reflective roof paint to prevent roofs from overheating. It does not connect the two problems.
+**Example 2.** The draft proposes a finer window screen to block small flies and a reflective roof paint to prevent roofs from overheating. It does not connect the two problems.
 
 > **Bad.** Small flies and overheating make homes uncomfortable, so we propose a finer window screen and a reflective roof paint.
 >

@@ -20,13 +20,7 @@ Confusion in a passage usually means that a step is missing, not that the passag
 >
 > **Good.** The lid reduces evaporation. Less water is lost overnight.
 
-**Example 3.** The draft defines the meniscus as the curved liquid surface. An editor cuts that definition, which readers outside the subfield need.
-
-> **Bad.** We record the meniscus height.
->
-> **Good.** The meniscus is the curved liquid surface. We record the meniscus height.
-
-**Example 4.** The draft contains \smallskip. An editor proposes adding negative \vspace to meet the length limit. No further cut that the author has authorized would keep the text clear, so the editor keeps the original spacing and reports how far the text exceeds the limit.
+**Example 3.** The draft contains \smallskip. An editor proposes adding negative \vspace to meet the length limit. No further cut that the author has authorized would keep the text clear, so the editor keeps the original spacing and reports how far the text exceeds the limit.
 
 > **Bad.** \smallskip The sample remains dry. \vspace{-4mm}
 >

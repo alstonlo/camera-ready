@@ -16,59 +16,23 @@ When a later claim depends on a limitation, keep the brief reminder of the limit
 
 **Example 2.** The draft states that observations cover only weekdays.
 
-> **Bad.** The observations have limited coverage.
+> **Bad.** Unfortunately, the observations have limited coverage.
 >
 > **Good.** The observations cover only weekdays.
 
-**Example 3.**
-
-> **Bad.** Unfortunately, the measurements exclude nights.
->
-> **Good.** The measurements exclude nights.
-
-**Example 4.**
-
-> **Bad.** We estimate weekly demand from the readings. The readings cover weekdays only.
->
-> **Good.** The readings cover weekdays only. We estimate weekly demand from the readings.
-
-**Example 5.** The draft says that missing night readings prevent estimating daily totals but leave the weekday daytime comparison valid. The Good line is a proposed revision for the author.
+**Example 3.** The draft says that missing night readings prevent estimating daily totals but leave the weekday daytime comparison valid. The Good line is a proposed revision for the author.
 
 > **Bad.** Night readings are missing.
 >
 > **Good.** Night readings are missing, so daily totals cannot be estimated. The weekday daytime comparison remains valid.
 
-**Example 6.** The draft states that monitoring excludes nights. A later paragraph summarizes what the daytime readings show.
-
-> **Bad.** Demand peaks at noon.
->
-> **Good.** During the monitored daytime hours, demand peaks at noon.
-
-**Example 7.** The draft says that water entering the container causes the sudden mass increase. The Good line is a proposed revision for the author.
-
-> **Bad.** The mass rises abruptly on day 4.
->
-> **Good.** The mass rises abruptly on day 4 because water enters the container.
-
-**Example 8.** The draft says that sensor failure left tray 6 without readings. The Good line is a proposed revision for the author.
-
-> **Bad.** We exclude tray 6.
->
-> **Good.** We exclude tray 6 because sensor failure leaves it without any readings.
-
-**Example 9.** Elsewhere, the draft says that the scale was not calibrated, so absolute masses cannot be interpreted. The Good line is a proposed revision for the author.
+**Example 4.** Elsewhere, the draft says that the scale was not calibrated, so absolute masses cannot be interpreted. The Good line is a proposed revision for the author.
 
 > **Bad.** The only limitation is the slow display.
 >
 > **Good.** One limitation is the slow display. Another limitation is that the scale was not calibrated, so absolute masses cannot be interpreted.
 
-**Example 10.** The Discussion first proposes migration as an explanation and says that migration was not measured. The Good line is a proposed revision for the author.
-
-> **Bad.** Discussion: Migration may explain the decline.
->
-> **Good.** Discussion: Migration may explain the decline, but no migration measurements were collected.
-
-**Example 11.** The author asks for a shorter text, and cutting has reached repeated full statements of limitations. An earlier passage in the same section states that the tests exclude nights, so daily totals cannot be estimated.
+**Example 5.** The author asks for a shorter text, and cutting has reached repeated full statements of limitations. An earlier passage in the same section states that the tests exclude nights, so daily totals cannot be estimated.
 
 > **Bad.** Demand peaks at noon. The tests exclude nights, so daily totals cannot be estimated.
 >

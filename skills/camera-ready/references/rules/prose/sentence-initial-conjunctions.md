@@ -22,18 +22,6 @@ This rule has no further details.
 
 **Example 3.**
 
-> **Bad.** The rain made the path unsafe. So we closed it.
->
-> **Good.** The rain made the path unsafe, so we closed it.
-
-**Example 4.**
-
 > **Bad.** First, close the valve. Next, drain the tank. Moreover, dry the tank.
 >
 > **Good.** First, close the valve. Next, drain the tank. Finally, dry the tank.
-
-**Example 5.**
-
-> **Bad.** Lee favors glass jars. But Patel argues that glass jars break too easily.
->
-> **Good.** Lee favors glass jars, but Patel argues that glass jars break too easily.

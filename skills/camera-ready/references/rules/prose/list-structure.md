@@ -35,9 +35,3 @@ When a table would help readers compare several objects on the same properties, 
 > **Bad.** Our objectives are: ↵ • Record pressure. ↵ • Forecast rainfall. ↵ • Record temperature.
 >
 > **Good.** Our objectives are: ↵ • Measurement: record pressure and temperature. ↵ • Prediction: forecast rainfall.
-
-**Example 5.** In this example, the symbol ↵ marks a line break.
-
-> **Bad.** We store tools such as: ↵ • hammers; ↵ • pliers.
->
-> **Good.** We store tools such as hammers and pliers.

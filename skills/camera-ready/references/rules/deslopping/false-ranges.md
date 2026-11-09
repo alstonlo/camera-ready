@@ -8,19 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft reports paint tests on brick and metal only.
-
-> **Bad.** We test the paint on surfaces ranging from brick to metal.
->
-> **Good.** We test the paint on brick and metal.
-
-**Example 2.**
+**Example 1.**
 
 > **Bad.** We test materials ranging from brick through wood to metal.
 >
 > **Good.** We test brick, wood, and metal.
 
-**Example 3.** The draft reports tests on brick and metal only.
+**Example 2.** The draft reports tests on brick and metal only.
 
 > **Bad.** We test surfaces ranging from brick to metal at 10–30 °C in 10 °C increments.
 >

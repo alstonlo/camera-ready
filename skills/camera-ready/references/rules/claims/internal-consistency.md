@@ -28,8 +28,8 @@ Comparing two approaches does not imply that they are the only options, as an ex
 >
 > **Good.** Twelve students commute: eight by bus and six by train, with two using both.
 
-**Example 4.** The draft limits operating pressure to 5 bar but reports a startup pressure of 6 bar. The editor proposes the revision to the author.
+**Example 4.** The abstract reports 12 trials and Results reports 14, and the draft gives no explanation. Bad shows an editor choosing one value.
 
-> **Bad.** Pressure never exceeds 5 bar. Startup pressure is 6 bar.
+> **Bad.** Abstract: We ran 14 trials. Results: We ran 14 trials.
 >
-> **Good.** Operating pressure never exceeds 5 bar. Startup pressure is 6 bar.
+> **Good.** Abstract: We ran 12 trials. Results: We ran 14 trials. Flag for the author: The abstract reports 12 trials, but Results reports 14.

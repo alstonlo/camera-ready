@@ -16,24 +16,6 @@ This rule has no further details.
 
 **Example 2.**
 
-> **Bad.** We test both states, e.g., open and closed.
->
-> **Good.** We test both states, i.e., open and closed.
-
-**Example 3.** The draft uses US style.
-
-> **Bad.** We test porous materials, e.g. cork.
->
-> **Good.** We test porous materials, e.g., cork.
-
-**Example 4.**
-
-> **Bad.** We test porous materials, *e.g.*, cork.
->
-> **Good.** We test porous materials, e.g., cork.
-
-**Example 5.**
-
 > **Bad.** For the full protocol, cf. Section 2.
 >
 > **Good.** For the full protocol, see Section 2.

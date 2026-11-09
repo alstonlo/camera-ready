@@ -8,37 +8,19 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
-
-> **Bad.** Certainly! Each vial holds 5 mL.
->
-> **Good.** Each vial holds 5 mL.
-
-**Example 2.**
-
-> **Bad.** In today's changing world, clean water matters. We test three filters.
->
-> **Good.** We test three filters.
-
-**Example 3.** An editor finds a citation placeholder after a measurement, deletes the placeholder, and flags the missing source.
+**Example 1.** An editor finds a citation placeholder after a measurement, deletes the placeholder, and flags the missing source.
 
 > **Bad.** The well is 12 m deep. [Insert source]
 >
 > **Good.** The well is 12 m deep.
 
-**Example 4.**
-
-> **Bad.** The lid closes—before the pump starts.
->
-> **Good.** The lid closes before the pump starts.
-
-**Example 5.**
+**Example 2.**
 
 > **Bad.** We use the tray in order to catch drips.
 >
 > **Good.** We use the tray to catch drips.
 
-**Example 6.**
+**Example 3.**
 
 > **Bad.** The proof appears in Appendix A. We next describe the watering schedule. We water each pot every morning.
 >

@@ -8,44 +8,26 @@ Replace intentions or mental states attributed to a system ("the particle wants 
 
 ## Examples
 
-**Example 1.** In this draft, the authors describe a cell that moves toward light.
-
-> **Bad.** The cell wants to move toward the light.
->
-> **Good.** The cell moves toward the light.
-
-**Example 2.** In this draft, the coating darkens when heated. The editor flags the undefined label "intelligent" and proposes the literal wording below.
+**Example 1.** In this draft, the coating darkens when heated. The editor flags the undefined label "intelligent" and proposes the literal wording below.
 
 > **Bad.** We test an intelligent coating.
 >
 > **Good.** We test a coating that darkens when heated.
 
-**Example 3.**
+**Example 2.**
 
 > **Bad.** The tank level grows exponentially, rising by 2 cm each minute.
 >
 > **Good.** The tank level grows linearly, rising by 2 cm each minute.
 
-**Example 4.** In this draft, the authors define the reported stability as thermal stability.
-
-> **Bad.** We measure the stability of the alloy.
->
-> **Good.** We measure the thermal stability of the alloy.
-
-**Example 5.** At this first use of "recognizes", the draft explains that the enzyme binds to the substrate's phosphate group.
+**Example 3.** At this first use of "recognizes", the draft explains that the enzyme binds to the substrate's phosphate group.
 
 > **Bad.** The enzyme recognizes its substrate.
 >
 > **Good.** The enzyme recognizes its substrate by binding to the substrate's phosphate group.
 
-**Example 6.** In this draft, the first "normal" means routine, while the second names the probability distribution.
+**Example 4.** In this draft, the first "normal" means routine, while the second names the probability distribution.
 
 > **Bad.** We draw a normal sample from the normal distribution.
 >
 > **Good.** We draw a routine sample from the normal distribution.
-
-**Example 7.** In this draft, the authors describe leak detection as their design goal rather than an established capability.
-
-> **Bad.** The sensor hopes to detect leaks.
->
-> **Good.** We design the sensor to detect leaks.

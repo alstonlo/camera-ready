@@ -26,104 +26,26 @@ When you cannot follow an explanation, use an example already in the draft to fi
 >
 > **Good.** Germination rate is the fraction of planted seeds that sprout within seven days.
 
-**Example 2.** The draft defines drying time as the time until mass stops falling.
-
-> **Bad.** DT stands for drying time.
->
-> **Good.** DT stands for drying time, the time until mass stops falling.
-
-**Example 3.** The draft defines m as total mass and n as the number of equal portions.
-
-> **Bad.** Portion mass is m/n.
->
-> **Good.** Portion mass is m/n, the total mass divided by the number of equal portions.
-
-**Example 4.** The draft defines both rates as fractions of seeds, with germination counting sprouted seeds and emergence counting shoots above soil.
-
-> **Bad.** Germination and emergence are two rates.
->
-> **Good.** Germination and emergence are both fractions of seeds. Germination counts seeds that sprout. Emergence counts seeds that produce shoots above soil.
-
-**Example 5.** The draft chooses to measure damage as visible cracks because imaging detects them.
-
-> **Bad.** Damage can mean visible cracks or reduced strength. We measure damage.
->
-> **Good.** Damage can mean visible cracks or reduced strength. We measure damage as visible cracks because imaging detects them.
-
-**Example 6.** The draft follows Lee’s protocol but dries for 2 h, where Lee dries for 1 h. The Good line is a proposed revision for the author.
+**Example 2.** The draft follows Lee’s protocol but dries for 2 h, where Lee dries for 1 h. The Good line is a proposed revision for the author.
 
 > **Bad.** We follow Lee’s protocol [4].
 >
 > **Good.** We follow Lee’s protocol [4], but dry for 2 h instead of 1 h.
 
-**Example 7.** The draft says decanting separates the water from settled sand.
+**Example 3.** The draft says decanting separates the water from settled sand.
 
 > **Bad.** We let the sand settle, then pour off the water.
 >
 > **Good.** To separate the water from the sand, we let the sand settle, then pour off the water.
 
-**Example 8.** The draft defines mean mass as total mass divided by count and gives the correct mean of 3 g elsewhere. The editor flags the mismatch, and the Good line is the correction proposed to the author.
+**Example 4.** The draft defines mean mass as total mass divided by count and gives the correct mean of 3 g elsewhere. The editor flags the mismatch, and the Good line is the correction proposed to the author.
 
 > **Bad.** For masses of 2 g and 4 g, the mean mass is 6 g.
 >
 > **Good.** For masses of 2 g and 4 g, the mean mass is 3 g.
 
-**Example 9.** In the draft, this sentence is meant as the complete definition of a valid reading.
+**Example 5.** In the draft, this sentence is meant as the complete definition of a valid reading.
 
 > **Bad.** A reading is valid if it lies between the two limits.
 >
 > **Good.** We define a reading as valid if it lies between the two limits.
-
-**Example 10.** During an overclaiming check, the editor finds elsewhere in the draft that the input list must be sorted. The Good line is a proposed revision for the author.
-
-> **Bad.** The search takes a list and returns the target’s position.
->
-> **Good.** The search takes a sorted list and returns the target’s position.
-
-**Example 11.** The draft says the loop totals the masses.
-
-> **Bad.** The loop visits each mass and updates the variable.
->
-> **Good.** The loop totals the masses.
-
-**Example 12.** During an overclaiming check, the editor finds elsewhere in the draft that the error bound assumes 64-bit arithmetic. The Good line is a proposed revision for the author.
-
-> **Bad.** The calculation’s error is below 0.001.
->
-> **Good.** With 64-bit arithmetic, the calculation’s error is below 0.001.
-
-**Example 13.** During a story check, the editor finds elsewhere in the draft that the leaves are dried at 60 °C. The Good line is a proposed revision for the author.
-
-> **Bad.** We dry the leaves for 2 h.
->
-> **Good.** We dry the leaves for 2 h at 60 °C.
-
-**Example 14.** During an overclaiming check, the editor finds elsewhere in the draft that the apples were selected at random from the orchard. The Good line is a proposed revision for the author.
-
-> **Bad.** We measure 20 apples.
->
-> **Good.** We measure 20 apples selected at random from the orchard.
-
-**Example 15.** During a story check, the editor finds elsewhere in the draft that participants were told to rate legibility. The Good line is a proposed revision for the author.
-
-> **Bad.** Participants rate each label.
->
-> **Good.** Participants rate each label’s legibility.
-
-**Example 16.** The draft states the operation and gives an example of it: subtracting the mass of a 3 g empty jar from that of an 8 g filled jar gives 5 g of water.
-
-> **Bad.** We obtain the water’s mass from the jar measurements.
->
-> **Good.** We subtract the empty jar’s mass from the filled jar’s mass: 8 g minus 3 g gives 5 g of water.
-
-**Example 17.** The draft uses the example to show what the method does when scores are tied.
-
-> **Bad.** For scores of 4, 4, and 2, the method retains both scores of 4.
->
-> **Good.** The scores 4, 4, and 2 illustrate how the method handles a tie: it retains both scores of 4.
-
-**Example 18.** The draft supplies both test scores. The example is meant to distinguish a strict cutoff, which admits only scores above 5, from an inclusive cutoff, which also admits 5.
-
-> **Bad.** To compare the cutoffs, we test a score of 6, which both admit.
->
-> **Good.** To compare the cutoffs, we test a score of 5, which only the inclusive cutoff admits.

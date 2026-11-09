@@ -8,49 +8,31 @@ A hedge marks a claim as uncertain, so deleting the only hedge on a claim makes 
 
 ## Examples
 
-**Example 1.** The draft reports that plants in shaded pots grew more slowly than plants in sunny pots.
-
-> **Bad.** Damp soil may possibly explain why plants in shaded pots grew more slowly than plants in sunny pots.
->
-> **Good.** Damp soil may explain why plants in shaded pots grew more slowly than plants in sunny pots.
-
-**Example 2.** The draft reports the measured mean mass and its standard error.
+**Example 1.** The draft reports the measured mean mass and its standard error.
 
 > **Bad.** The mean mass may be 5.0 ± 0.2 g (standard error).
 >
 > **Good.** The mean mass is 5.0 ± 0.2 g (standard error).
 
-**Example 3.** The draft states that the researchers cooled the samples but did not test whether cooling prevented decay.
+**Example 2.** The draft states that the researchers cooled the samples but did not test whether cooling prevented decay.
 
 > **Bad.** We may have cooled the samples because cooling may prevent decay.
 >
 > **Good.** We cooled the samples because cooling may prevent decay.
 
-**Example 4.** The draft proposes damp soil as an untested explanation for the slower growth.
-
-> **Bad.** Damp soil explains the slower growth.
->
-> **Good.** Damp soil may explain the slower growth.
-
-**Example 5.** The draft offers a tentative explanation that applies in most runs.
-
-> **Bad.** The fault may possibly explain the delay in most runs.
->
-> **Good.** The fault may explain the delay in most runs.
-
-**Example 6.** The draft treats both steps of this proposed explanation as uncertain.
+**Example 3.** The draft treats both steps of this proposed explanation as uncertain.
 
 > **Bad.** Heat may possibly loosen the seal, which may allow water to enter.
 >
 > **Good.** Heat may loosen the seal, which may allow water to enter.
 
-**Example 7.** The draft reports that the treated cloth absorbs 8% less water than untreated cloth.
+**Example 4.** The draft reports that the treated cloth absorbs 8% less water than untreated cloth.
 
 > **Bad.** The treated cloth absorbs somewhat less water than untreated cloth.
 >
 > **Good.** The treated cloth absorbs 8% less water than untreated cloth.
 
-**Example 8.** The Results section says that frost may explain the cracks, and the abstract summarizes this explanation.
+**Example 5.** The Results section says that frost may explain the cracks, and the abstract summarizes this explanation.
 
 > **Bad.** Abstract: Frost explains the cracks.
 >

@@ -10,23 +10,17 @@ This rule has no further details.
 
 **Example 1.**
 
-> **Bad.** The case is waterproof, lockable, and remarkable.
->
-> **Good.** The case is waterproof and lockable.
-
-**Example 2.**
-
 > **Bad.** The case is lockable, waterproof, and impervious to water.
 >
 > **Good.** The case is lockable and waterproof.
 
-**Example 3.**
+**Example 2.**
 
 > **Bad.** The kit contains a ruler, a brush, and a tray; the kit is remarkable, outstanding, and extraordinary.
 >
 > **Good.** The kit contains a ruler, a brush, and a tray.
 
-**Example 4.** The draft supports "waterproof" but reports no fire test. The proposed revision keeps "fireproof" with a flag for missing support.
+**Example 3.** The draft supports "waterproof" but reports no fire test. The proposed revision keeps "fireproof" with a flag for missing support.
 
 > **Bad.** The case is waterproof, fireproof, and remarkable.
 >

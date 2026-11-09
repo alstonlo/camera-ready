@@ -20,61 +20,19 @@ The following phrases after a comma need no added verb:
 >
 > **Good.** The new tap reduces water use by 18%.
 
-**Example 2.** The draft uses leaks as its only measure of whether the lid works.
-
-> **Bad.** The lid works well: no leaks at 10 °C, 20 °C, or 30 °C.
->
-> **Good.** The lid does not leak at 10 °C, 20 °C, or 30 °C.
-
-**Example 3.** The draft treats the observation that no water escapes as evidence that the seal works.
+**Example 2.** The draft treats the observation that no water escapes as evidence that the seal works.
 
 > **Bad.** The seal works; no water escapes during the pressure test.
 >
 > **Good.** The seal works, as shown by the fact that no water escapes during the pressure test.
 
-**Example 4.**
-
-> **Bad.** The box weighs 4 kg; the lid weighs 1 kg, below the limit.
->
-> **Good.** The box weighs 4 kg; the lid weighs 1 kg, which is below the limit.
-
-**Example 5.**
-
-> **Bad.** The lamp has one fault: its battery supplies 2 V, below the required voltage.
->
-> **Good.** The lamp has one fault: its battery supplies 2 V, which is below the required voltage.
-
-**Example 6.**
-
-> **Bad.** We pack three tools: a ruler, a brush, and a tray. The load is 2 kg, below the limit.
->
-> **Good.** We pack three tools: a ruler, a brush, and a tray. The load is 2 kg, which is below the limit.
-
-**Example 7.** The draft reports simultaneous events but gives no causal explanation.
+**Example 3.** The draft reports simultaneous events but gives no causal explanation.
 
 > **Bad.** The valve opens: the lamp turns green.
 >
 > **Good.** The valve opens; the lamp turns green.
 
-**Example 8.**
-
-> **Bad.** The jar contains three metals: iron and copper.
->
-> **Good.** The jar contains three metals, including iron and copper.
-
-**Example 9.**
-
-> **Bad.** The tray, a steel rectangle, weighs 2 kg, below the limit.
->
-> **Good.** The tray, a steel rectangle, weighs 2 kg, which is below the limit.
-
-**Example 10.**
-
-> **Bad.** The pump runs, filling the tank. It draws 5 W, below the limit.
->
-> **Good.** The pump runs, filling the tank. It draws 5 W, which is below the limit.
-
-**Example 11.**
+**Example 4.**
 
 > **Bad.** The tank holds 5 L, the bottle 1 L. The test uses 2 L, below the capacity of the tank.
 >

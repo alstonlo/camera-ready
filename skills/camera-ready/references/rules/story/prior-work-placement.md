@@ -8,13 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.** The draft first explains the two brick-drying schedules in Section 3. The editor flags the earlier comparison and proposes the move below.
-
-> **Bad.** Before Section 3: Unlike the standard schedule, the staggered schedule avoids idle periods between batches.
->
-> **Good.** After Section 3: Unlike the standard schedule, the staggered schedule avoids idle periods between batches.
-
-**Example 2.** In this draft, readers can compare fly sizes in the introduction but need the definition in Methods to compare mesh ratios. The editor flags the mesh-ratio comparison and proposes the move below.
+**Example 1.** In this draft, readers can compare fly sizes in the introduction but need the definition in Methods to compare mesh ratios. The editor flags the mesh-ratio comparison and proposes the move below.
 
 > **Bad.** Introduction: Lee's screen blocks adult flies; ours also blocks small flies. Our mesh ratio is lower. Methods: We define the mesh ratio.
 >

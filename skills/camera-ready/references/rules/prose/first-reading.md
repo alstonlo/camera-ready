@@ -16,122 +16,32 @@ A readability score does not measure whether readers in the field can follow a s
 
 ## Examples
 
-**Example 1.**
-
-> **Bad.** The survey, which asked residents about their heating costs, insulation, window seals, and thermostat settings, took 10 min.
->
-> **Good.** The survey took 10 min. It asked residents about their heating costs, insulation, window seals, and thermostat settings.
-
-**Example 2.**
-
-> **Bad.** We put, after checking each label and recording each mass, the jars on the shelf.
->
-> **Good.** After checking each label and recording each mass, we put the jars on the shelf.
-
-**Example 3.**
-
-> **Bad.** After checking each label, which records the date and mass, and recording the lid type, we weigh the jars.
->
-> **Good.** We check each label, which records the date and mass, and record the lid type. Then we weigh the jars.
-
-**Example 4.**
-
-> **Bad.** That the lid leaks whenever pressure exceeds the limit is clear from the test.
->
-> **Good.** The test makes clear that the lid leaks whenever pressure exceeds the limit.
-
-**Example 5.** The preceding text has already discussed whether the lid leaks and has introduced trial 2.
+**Example 1.** The preceding text has already discussed whether the lid leaks and has introduced trial 2.
 
 > **Bad.** That the lid leaks is, as trial 2 shows, certain. The tank, which holds water from the stream beside the shed, stays full.
 >
 > **Good.** That the lid leaks is, as trial 2 shows, certain. The tank stays full. It holds water from the stream beside the shed.
 
-**Example 6.**
-
-> **Bad.** We inspect the roof water drain cover.
->
-> **Good.** We inspect the cover of the drain for roof water.
-
-**Example 7.** The draft uses the established instrument name “scanning electron microscope”.
+**Example 2.** The draft uses the established instrument name “scanning electron microscope”.
 
 > **Bad.** We inspect the scanning electron microscope sample holder cover.
 >
 > **Good.** We inspect the cover of the sample holder for the scanning electron microscope.
 
-**Example 8.**
-
-> **Bad.** We test the newly installed, manually operated, difficult-to-reach valve.
->
-> **Good.** We test the newly installed valve, which is manually operated and difficult to reach.
-
-**Example 9.** The draft identifies the cup, not the tray, as cracked.
-
-> **Bad.** We remove the cup from the tray that is cracked.
->
-> **Good.** We remove the cracked cup from the tray.
-
-**Example 10.** The draft says the technician, not the vial, was wearing gloves.
+**Example 3.** The draft says the technician, not the vial, was wearing gloves.
 
 > **Bad.** Wearing gloves, the vial was opened by the technician.
 >
 > **Good.** Wearing gloves, the technician opened the vial.
 
-**Example 11.**
-
-> **Bad.** We rinse the jars and the lids dry on a rack.
->
-> **Good.** We rinse the jars, and the lids dry on a rack.
-
-**Example 12.**
+**Example 4.**
 
 > **Bad.** We assume the samples in the red tray contain salt.
 >
 > **Good.** We assume that the samples in the red tray contain salt.
 
-**Example 13.**
-
-> **Bad.** The samples stored in the cabinet near the door leaked.
->
-> **Good.** The samples that were stored in the cabinet near the door leaked.
-
-**Example 14.**
-
-> **Bad.** We place sample beside scale.
->
-> **Good.** We place the sample beside the scale.
-
-**Example 15.** The draft says the technician weighs jars and no other objects.
-
-> **Bad.** The technician only weighs jars.
->
-> **Good.** The technician weighs only jars.
-
-**Example 16.**
-
-> **Bad.** The valve opens and the lamp flashes if pressure exceeds 20 kPa.
->
-> **Good.** If pressure exceeds 20 kPa, the valve opens and the lamp flashes.
-
-**Example 17.**
-
-> **Bad.** Open the valve only if the lid has remained closed throughout the heating cycle and the pressure is below the marked limit.
->
-> **Good.** The lid must have remained closed throughout the heating cycle, and the pressure must be below the marked limit. Open the valve only if both conditions hold.
-
-**Example 18.** In this example, ↵ marks a line break.
+**Example 5.** In this example, ↵ marks a line break.
 
 > **Bad.** Open the valve only if the lid is shut, the pump is off, and the tank is cool.
 >
 > **Good.** Open the valve only if all three conditions hold: ↵ 1. The lid is shut. ↵ 2. The pump is off. ↵ 3. The tank is cool.
-
-**Example 19.** The draft says the authors choose the rate with the aim of doubling the output.
-
-> **Bad.** We set the rate to double the output.
->
-> **Good.** We set the rate in order to double the output.
-
-**Example 20.**
-
-> **Bad.** We test the seal the technician repaired after the pump failed during the first trial.
->
-> **Good.** We test the seal that the technician repaired after the pump failed during the first trial.

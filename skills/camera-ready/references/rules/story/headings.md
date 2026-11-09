@@ -31,15 +31,3 @@ When headings under the same parent mix objects, operations, and findings, check
 > **Bad.** Water loss
 >
 > **Good.** Shade reduces water loss in the tested ferns
-
-**Example 5.** The draft puts a one-sentence timing instruction under its own fourth-level heading, even though the sentence fits directly under the parent heading. Good is the revision to propose to the author.
-
-> **Bad.** 2.1.1 Heating; 2.1.1.1 Duration; Heat for 5 minutes.
->
-> **Good.** 2.1.1 Heating; Heat for 5 minutes.
-
-**Example 6.** The draft gives the temperature and the duration of one heating step in two adjacent one-sentence sections. Good is the revision to propose to the author.
-
-> **Bad.** 2 Heating temperature; Heat at 60 °C. 3 Heating duration; Heat for 5 minutes.
->
-> **Good.** 2 Heating; Heat at 60 °C. Heat for 5 minutes.

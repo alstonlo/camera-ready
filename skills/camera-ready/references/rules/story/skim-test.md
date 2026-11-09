@@ -14,13 +14,7 @@ The five parts of the argument are the problem, the gap in existing work, the id
 >
 > **Good.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
 
-**Example 2.** This sentence is in the first paragraph of Discussion and states the measured gain in battery life. A later paragraph of Discussion explains that the gain allows hourly sampling, but the passages read during the skim test omit that implication.
-
-> **Bad.** The larger battery lasts twice as long in the tested sensor.
->
-> **Good.** The larger battery lasts twice as long in the tested sensor. The longer battery life allows hourly sampling.
-
-**Example 3.** The draft reports the result for indoor tests only. The skim test shows that the caption claims more than the body reports, so the editor flags the caption and proposes a correction to the author.
+**Example 2.** The draft reports the result for indoor tests only. The skim test shows that the caption claims more than the body reports, so the editor flags the caption and proposes a correction to the author.
 
 > **Bad.** Figure 2: The cover halves water loss indoors and outdoors.
 >

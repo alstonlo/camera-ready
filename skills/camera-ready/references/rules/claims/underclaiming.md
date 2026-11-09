@@ -27,9 +27,3 @@ A dataset, instrument, protocol, software tool, or other resource or artifact ca
 > **Bad.** We explore leaf images (Section 3).
 >
 > **Good.** We present a catalog of 200 labeled leaf images (Section 3).
-
-**Example 4.** The draft establishes the stated result in Section 4.
-
-> **Bad.** We find that the coating reduces water uptake in the tests.
->
-> **Good.** We find that the coating reduces water uptake in the tests (Section 4).

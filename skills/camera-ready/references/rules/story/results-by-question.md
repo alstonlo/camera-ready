@@ -26,20 +26,8 @@ When you propose a heading, keep the claim strength and conditions from the body
 >
 > **Good.** Single-coat method; single-coat result: cracks suggest a second coat is needed; double-coat method; double-coat result
 
-**Example 4.** The draft states that the weighing procedure in Section 2 measures the reported mass loss. The Good version proposes a revision for the author.
-
-> **Bad.** The sample loses 3 g.
->
-> **Good.** The sample loses 3 g, as measured by the weighing procedure in Section 2.
-
-**Example 5.** Section 4 of the draft reports leakage measured by the pressure test. The passage that describes the test does not say what the test measures. The Good version proposes a revision for the author.
+**Example 4.** Section 4 of the draft reports leakage measured by the pressure test. The passage that describes the test does not say what the test measures. The Good version proposes a revision for the author.
 
 > **Bad.** We also perform a pressure test.
 >
 > **Good.** We also perform a pressure test to measure the leakage reported in Section 4.
-
-**Example 6.** The draft proves the bound in Theorem 2 and needs no empirical Methods section. The Good version proposes a revision for the author.
-
-> **Bad.** Every path has length at most 6 m.
->
-> **Good.** Every path has length at most 6 m (Theorem 2).

@@ -22,32 +22,20 @@ Propose a simpler mathematical condition only when the draft shows that the two 
 >
 > **Good.** When stiffness is positive, Theorem 2 guarantees that the equilibrium is unique.
 
-**Example 3.** The draft reports only that five tested mixtures settled within an hour.
-
-> **Bad.** Every mixture settles within an hour.
->
-> **Good.** Each of the five tested mixtures settles within an hour.
-
-**Example 4.** The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors. Propose the revision to the author.
+**Example 3.** The draft states that Theorem 1 assumes independent errors and that these sensors have correlated errors. Propose the revision to the author.
 
 > **Bad.** The correlated errors in these sensors make Theorem 1 false.
 >
 > **Good.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
-**Example 5.** The draft proves the convergence result only for positive step sizes.
-
-> **Bad.** Theorem 3 guarantees convergence for any step size.
->
-> **Good.** Theorem 3 guarantees convergence for any positive step size.
-
-**Example 6.** The draft calculates the load from a static model and reports no simulation. Propose the revision to the author.
-
-> **Bad.** The simulation gives a load of 6 N.
->
-> **Good.** The load calculated from the model is 6 N.
-
-**Example 7.** The draft establishes that requiring x to be positive makes the nonzero condition unnecessary for this bound. Propose the revision to the author.
+**Example 4.** The draft establishes that requiring x to be positive makes the nonzero condition unnecessary for this bound. Propose the revision to the author.
 
 > **Bad.** For positive, nonzero x, the bound holds.
 >
 > **Good.** For positive x, the bound holds.
+
+**Example 5.** The draft reports only that five tested mixtures settled within an hour.
+
+> **Bad.** Every mixture settles within an hour.
+>
+> **Good.** Each of the five tested mixtures settles within an hour.

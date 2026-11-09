@@ -14,13 +14,7 @@ This rule has no further details.
 >
 > **Good.** The dataset contains labeled traffic flows.
 
-**Example 2.** In this draft, the authors use US spelling elsewhere.
-
-> **Bad.** The solution changes colour.
->
-> **Good.** The solution changes color.
-
-**Example 3.** In this draft, the authors usually write "dataset", but the venue requires "data set".
+**Example 2.** In this draft, the authors usually write "dataset", but the venue requires "data set".
 
 > **Bad.** The dataset contains hourly readings.
 >

@@ -8,38 +8,26 @@ This rule has no further details.
 
 ## Examples
 
-**Example 1.**
-
-> **Bad.** The weighing procedure requires a complex explanation. We weigh each empty jar before filling it.
->
-> **Good.** We weigh each empty jar before filling it.
-
-**Example 2.** In this draft, the text identifies leaks and evaporation as the two sources of water loss.
+**Example 1.** In this draft, the text identifies leaks and evaporation as the two sources of water loss.
 
 > **Bad.** Two sources of water loss are discussed later.
 >
 > **Good.** Water is lost through leaks and evaporation.
 
-**Example 3.** Later sentences in the draft explain how insulation slows heat loss.
-
-> **Bad.** Insulation slows heat loss, and we explain how below.
->
-> **Good.** Insulation slows heat loss.
-
-**Example 4.**
+**Example 2.**
 
 > **Bad.** We make two observations, which we discuss below. First, the lid bends. Second, the seal leaks.
 >
 > **Good.** We make two observations. First, the lid bends. Second, the seal leaks.
 
-**Example 5.**
-
-> **Bad.** The definition is complicated. Lee counts cracked seeds as damaged; Patel counts only split seeds.
->
-> **Good.** Lee counts cracked seeds as damaged; Patel counts only split seeds.
-
-**Example 6.**
+**Example 3.**
 
 > **Bad.** This issue is complex. We have not defined partial failure, so these tests cannot distinguish it from complete failure.
 >
 > **Good.** We have not defined partial failure, so these tests cannot distinguish it from complete failure.
+
+**Example 4.** The draft promises to explain why the lid stays shut but never does. Bad shows an editor inventing the explanation.
+
+> **Bad.** The lid stays shut because its latch resists pressure.
+>
+> **Good.** We explain below why the lid stays shut. Flag for the author: The promised explanation is missing.
