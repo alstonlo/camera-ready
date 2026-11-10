@@ -1,4 +1,4 @@
-# Make each free style choice consistent, following the venue
+# Make each free style choice consistent
 
 Wherever the draft must choose between forms that are equally accepted, use the venue's form if it requires one; otherwise use the form the draft establishes, and where the draft mixes accepted forms, use the more frequent one. Never convert one accepted form to another by preference. Common choices of this kind include the following:
 
@@ -7,7 +7,6 @@ Wherever the draft must choose between forms that are equally accepted, use the 
 - Heading case. Where neither case predominates, use sentence case.
 - The cutoff below which numbers are spelled out as words.
 - The serial comma before "and" or "or" in a list of three or more items.
-- "Which" or "that" to begin a clause that identifies its noun. A draft may use both, so change one to the other only when the venue requires it.
 
 ## Details
 
@@ -56,11 +55,3 @@ Accepted varieties include US, UK, Canadian, and other established varieties of 
 > **Before.** We measure mass, volume and density.
 
 > **After.** We measure mass, volume, and density.
-
-**Edit 8.** Suppose an editor changed "which" to "that", although the venue permits both forms.
-
-> **Before.** The sensors that face the window record higher temperatures.
-
-> **After.** The sensors which face the window record higher temperatures.
-
-After restores the draft's accepted wording.
