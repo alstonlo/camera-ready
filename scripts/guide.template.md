@@ -50,7 +50,7 @@ Without a separate request from the author, you may:
 - Remove numbers from running text when a table already gives them.
 - Rewrite a caption to state a conclusion already drawn in the body.
 
-Flag any change to the claims, section order, or list of contributions instead of making it yourself. Never add a cost, explanation, or number absent from the draft.
+Flag any change to which claims or contributions the text makes, to the order of the contributions, or to the section order instead of making it yourself; matching a claim's wording to its evidence under the [rules on claims](#claims) is an edit you may make. Never add a cost, explanation, or number absent from the draft.
 
 ### The whole argument
 
@@ -304,7 +304,7 @@ When a convention in this section conflicts with general writing advice, follow 
 
 Patterns common in AI-written prose fall into two groups:
 
-1. **Blacklisted patterns.** Delete every instance, even a single one. The three-instance threshold below does not apply.
+1. **Blacklisted patterns.** Remove every instance, even a single one, or flag it where the rule says to. The three-instance threshold below does not apply.
 2. **Tolerable patterns.** Edit a single instance when the edit makes the sentence clearer. Rewrite a whole passage only when it contains three or more instances of tolerable patterns.
 
 {{deslopping/author-voice}}

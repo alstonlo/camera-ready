@@ -9,7 +9,7 @@
 
 A figure or table "shows" only what it directly displays, so match the verb of any interpretation of it to the evidence. Replace *reveal* or *confirm* with a weaker verb unless the evidence establishes the conclusion. Flag a claimed disproof that rests only on an objection or an inconclusive test. For cited work, follow [prior work](../story/prior-work-comparisons.md), and preserve whether the source treats a result as central or incidental and whether it accepts or doubts it: do not write "notes in passing" for a result the source presents as central, or "assumes" for a premise it establishes.
 
-Keep each claim's hedge, such as "suggests", and its rung on the ladder in the abstract, introduction, conclusion, and other summaries. Trace each summary claim to its supporting result and flag any unsupported one; for a supported one, add any missing section, table, or figure reference, except in the abstract.
+When the abstract, introduction, conclusion, or another summary restates a claim, keep the hedge, such as "suggests", and the rung of its supporting result. Trace each summary claim to its supporting result and flag any unsupported one; for a supported one, add any missing section, table, or figure reference, except in the abstract.
 
 ## Details
 

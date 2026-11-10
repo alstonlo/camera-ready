@@ -8,7 +8,7 @@ To check a contribution claim, ask what evidence could distinguish it from its o
 
 ## Examples
 
-**Edit 1.** Suppose Section 4 establishes that the coating prevents rust in the saltwater test. The revision below is a proposed contribution claim for the author.
+**Edit 1.** Suppose Section 4 establishes that the coating prevents rust in the saltwater test.
 
 > **Before.** We test the coating in saltwater (Section 4).
 

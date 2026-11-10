@@ -1,6 +1,6 @@
 # State what a result implies without exaggerating its importance
 
-Delete grand-trend phrases such as "marking a pivotal moment" or "paving the way", or replace them with the supported implication and its conditions. Keep and flag an implication that lacks evidence.
+Delete grand-trend phrases such as "marking a pivotal moment" or "paving the way", or replace them with the supported implication and its conditions. Keep a substantive implication that lacks evidence: mark a speculative explanation or mechanism under [speculation](../claims/speculation.md), and flag any other unsupported implication.
 
 ## Details
 

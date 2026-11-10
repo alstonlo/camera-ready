@@ -1,6 +1,6 @@
 # Flag comparisons with prior work that readers cannot yet understand
 
-Leave each comparison with prior work in place, and flag it only if it appears before material that readers need to understand it; do not flag background that readers need to understand the problem.
+Flag, without moving it, a comparison with prior work that appears before material in a later section that readers need to understand it; do not flag background that readers need to understand the problem. Within a section, follow [explanation order](../prose/explanation-order.md).
 
 ## Details
 

@@ -4,7 +4,7 @@ For each choice below, use the venue's form if it requires one; otherwise use th
 
 - The variety of English (US, UK, Canadian, or another), judged as a whole system rather than word by word: Canadian English writes both "colour" and "analyze".
 - The spelling, spacing, and hyphenation of each term ("dataset" or "data set"). Keep an established field term unhyphenated when the draft consistently writes it so ("a large language model").
-- Heading case. Where the draft has no consistent scheme, use sentence case.
+- Heading case. Where neither case predominates, use sentence case.
 - The cutoff below which numbers are spelled out as words.
 - The serial comma before "and" or "or" in a list of three or more items.
 - "Which" or "that" to begin a clause that identifies its noun. A draft may use both, so change one to the other only when the venue requires it.
