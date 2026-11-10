@@ -1,0 +1,33 @@
+# Reserve causal language for causal evidence
+
+Use causal wording such as "causes", "leads to", or "improves because" only with evidence that isolates the factor's effect. Describe a correlation as "is associated with" or "correlates with". Keep cause and effect in the order the evidence supports, and do not call one of several causes the only cause. When the draft tests several changes only together, credit their combination and do not call any one component necessary. Mark an untested mechanism as [speculation](speculation.md).
+
+## Details
+
+Causal wording also includes "produces", "results in", "results from", and "contributes to". A suitable controlled comparison, such as an ablation, gene knockout, or randomized controlled trial, can isolate a factor's effect. Preserve the distinction between a contributing factor, a sufficient condition that guarantees the outcome, and a necessary condition that must hold for the outcome to occur. A contributing factor need not do either.
+
+## Examples
+
+**Edit 1.** Suppose the draft's household survey reports only a correlation. The edited text is a proposal to the author.
+
+> **Before.** In the surveyed households, owning more houseplants caused fewer colds.
+
+> **After.** In the surveyed households, owning more houseplants was associated with fewer colds.
+
+**Edit 2.** Say the controlled comparison in the draft adds mulch and shade together, with no separate test of either. The edited text is a proposal to the author.
+
+> **Before.** Mulch reduces water loss.
+
+> **After.** Mulch and shade together reduce water loss.
+
+**Edit 3.** If the draft calls lubrication a contributing factor and reports wear despite lubrication, propose the revision below to the author.
+
+> **Before.** Lubrication is sufficient to prevent wear.
+
+> **After.** Lubrication contributes to preventing wear.
+
+**Edit 4.** Imagine the draft establishes that the coating reduces corrosion but does not test whether blocking oxygen explains the reduction.
+
+> **Before.** The coating reduces corrosion because it blocks oxygen.
+
+> **After.** The coating reduces corrosion. We conjecture that it does so by blocking oxygen.

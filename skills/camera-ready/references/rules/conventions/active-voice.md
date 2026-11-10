@@ -1,0 +1,42 @@
+# Use active voice and keep the actor consistent
+
+Use active "we" for the authors' actions and decisions, but not for the research community or people in general; "we" may include the reader in derivations and proofs. In method descriptions, consistently use either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate") as the actor. Use "we" for design choices ("we set k = 5"). Keep a single author's choice of "I" or "we" and apply it consistently. Do not assign an action to the authors when the draft omits the actor.
+
+Keep passives:
+
+- When the actor is obvious, irrelevant, or unknown.
+- When they put [old information first](../prose/passives-fronting-inversions.md).
+- When a long actor belongs at the end.
+- In clear passive modifiers ("the samples selected by technicians").
+
+## Details
+
+When both voices keep the same familiar subject, compare how their endings prepare for the next sentence or paragraph's topic. Active voice can sustain attention on the subject's activity; passive voice can shift attention toward the ending. Choose the voice that prepares readers for what follows.
+
+## Examples
+
+**Edit 1.** Suppose the draft credits the authors with both steps and consistently uses "we" elsewhere.
+
+> **Before.** We filter the water. The method heats it.
+
+> **After.** We filter the water. We heat it.
+
+**Edit 2.** Say the draft identifies the vessel material as the authors' choice.
+
+> **Before.** The method chooses a glass vessel to avoid corrosion.
+
+> **After.** We choose a glass vessel to avoid corrosion.
+
+**Edit 3.** Imagine this sentence describes a convention followed by researchers in general.
+
+> **Before.** We conventionally measure angles in degrees.
+
+> **After.** Researchers conventionally measure angles in degrees.
+
+**Edit 4.** Suppose the draft does not specify who removed the label.
+
+> **Before.** The label was removed before delivery. The jar is weighed by us.
+
+> **After.** The label was removed before delivery. We weigh the jar.
+
+Writing "We removed the label" would assign the action to the authors without support.

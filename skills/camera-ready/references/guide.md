@@ -1,547 +1,553 @@
 # Writing guide
 
-The guide has six sections:
+This guide is generated from a collection of writing rules. Each rule has its own page in the `rules/` folder next to this guide and follows this format:
 
-- [Story](#story): the argument from problem to implication, section order and openings, contributions, results organized by questions, and numbers that support claims.
-- [Claims](#claims): match each claim to its evidence by checking the reporting verb, scope, causal language, significance, hedges, over- and underclaiming, speculation, and limitations.
-- [Cutting](#cutting): what may be deleted or relocated without the author's request, the triage order under a length limit, what to protect, and how to repair the text around a cut.
-- [Prose](#prose): ordering, paragraphs, information flow, sentence structure, concision, plain wording, and comparison with prior work.
-- [Conventions](#conventions): voice, tense, terminology, citations, notation, figures and tables, and typography.
-- [Deslopping](#deslopping): the patterns of AI-written prose, in two tiers.
+```markdown
+# {{ Name of the rule }}
 
-For a request narrower than a polish, apply the sections the request names and every rule linked from them. Check each chunk against every rule in the applicable section. If two rules prescribe different edits for one sentence and one links to the other, follow the linked rule. Otherwise choose the clearer sentence; if both are equally clear, use your judgment as an expert editor.
+{{ A summary of the rule: what to look for, the edit to make or problem to flag, and the exceptions that change the edit. }}
+
+## Details
+
+{{ Explanations, further cases, and procedures left out of the summary, or the sentence "This rule has no further details." }}
+
+## Examples
+
+**Edit 1.** {{ Optional context, phrased as a hypothetical: "Suppose the draft ..." }}
+
+> **Before.** {{ A passage that breaks the rule. }}
+
+> **After.** {{ The same passage, corrected under this rule alone. Leave out this quote when the passage needs only a flag for the author. }}
+
+{{ Optional explanation of the edit, when it is not obvious. Without an edited passage, the explanation is required and states the flag for the author. }}
+```
+
+The guide below collects each rule page's title and summary into one document. Read the full page when a rule applies to your text and you need further details or examples. Each example assumes that every fact it states is accurate, and each illustrates only its own rule, so an example may break other rules.
+
+## Table of contents
+
+The guide has six sections of rules:
+
+- [Story](#story): the argument from problem to implications, titles and headings, section order and openings, contributions, related work, results by question, and numbers that support claims.
+- [Claims](#claims): reporting verbs matched to evidence, scope, overclaiming and underclaiming, consistency across the text, causal language, what an efficiency claim counts, statistical significance, hedges, speculation, and limitations.
+- [Cutting](#cutting): what you may delete or move without asking the author, the triage order under a length limit, sentences to protect, and how to repair text around a cut.
+- [Prose](#prose): explanation order, paragraphs, information flow from familiar to new, sentence structure, direct content instead of promises, concrete quantities, and plain wording.
+- [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, and mechanics.
+- [Deslopping](#deslopping): blacklisted and tolerable patterns common in AI-written prose.
+
+For a request narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk of text against every rule in each applicable section. When two rules call for different edits to a sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence, or use your judgment as an expert editor if both are equally clear.
 
 ## Story
 
-Organize the text around one argument: a problem the reader cares about, a gap with a cost, an idea that closes the gap, evidence that the idea works, and the implication. Check this argument across the whole text and its sections before editing sentences, since sentence edits cannot repair a broken argument. Use the [rules on claims](#claims) to set each statement's strength, the [rules on cutting](#cutting) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
+Organize the text around one five-part argument: a problem the reader cares about; a gap in what is known or possible, with the cost of leaving it open; an idea that fills the gap; evidence that the idea works; and what the findings imply.
 
-Without the author's request, you may:
+Check this argument across the whole text and within each section before editing individual sentences, because sentence edits cannot fix a missing or illogical step. Use the [rules on claims](#claims) to match each claim to its evidence, the [rules on cutting](#cutting) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
 
-- Reorder sentences within a paragraph or paragraphs within a section to put the claim first.
+Without a separate request from the author, you may:
+
+- Reorder sentences in a paragraph or paragraphs in a section to put the claim first.
 - Rewrite a section's opening using content already in that section.
-- Remove numbers from running text when a table already contains them.
-- Rewrite a caption to state a conclusion already drawn in the body text.
+- Remove numbers from running text when a table already gives them.
+- Rewrite a caption to state a conclusion already drawn in the body.
 
-Flag changes to the text's claims, section order, or list of contributions instead of making them. Never supply a cost, explanation, or number that the text lacks.
+Flag any change to which claims or contributions the text makes, to the order of the contributions, or to the section order instead of making it yourself; matching a claim's wording to its evidence under the [rules on claims](#claims) is an edit you may make. Never add a cost, explanation, or number absent from the draft.
 
-### The arc
+### The whole argument
 
-**Summarize the argument in five lines.** Before editing, use the text itself to write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication. Condense the idea and evidence lines into the core claims for the [spine test](#the-spine-test). Flag any line you cannot write from the text.
+**[Test the argument with five lines and one sentence](rules/story/argument-summary.md).** Write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication. Flag any line the draft does not supply. Combine the idea and evidence into core claims for the [spine test](rules/cutting/spine-test.md).
 
-**Summarize the argument in one sentence.** Combine the five lines in the form "A matters, and B is known, but C fails because D; therefore we propose E, which achieves F." If the sentence needs no "but", the text lists facts without stating a problem. If it needs several, flag the competing problems and ask which one the text addresses.
+Combine the five lines into one test sentence: "A matters, and B is known, but C fails because D; therefore we propose E, which achieves F." The lines and sentence are notes, not text for the paper. If the sentence lists facts without a problem or gap, flag what is missing. If it requires unrelated problems, flag the competing focuses and ask which one the text addresses; do not invent a connection. Judge both cases by meaning: a gap need not use "but", and several "but" clauses may describe obstacles to answering one question.
 
-**Assign each stage to a section.** In a paper, present the stages in this order:
+**[Match each section to its part of the argument](rules/story/section-functions.md).** Present a paper's argument in this order: Abstract, Introduction, Background and related work, Methods, Results, Discussion, and Conclusion. A thesis chapter, report, or proposal follows the same order under its own section names. Each result must follow the method description it needs. Keep combined or repeated sections if the argument stays clear, and follow venue rules. Each section has its own function:
 
-| Section | Carries | Its opening states |
-|---|---|---|
-| Abstract | all five stages in one or two sentences each, with the headline result | the problem |
-| Introduction | the problem, the gap with its cost, the idea, and the contributions | the problem and what is missing |
-| Background and related work | only the context the gap needs, and the comparison | what the reader must know to see the gap |
-| Method | the idea in full | the key idea in one sentence, before the steps |
-| Results | the evidence | the questions it answers and their short answers |
-| Discussion | what the results mean, their limits, and alternative explanations | how the results bear on the gap |
-| Conclusion | the implication | what the reader can now believe or do |
+- Introduction: State the problem, gap, idea, and contributions. Open with the problem and what is missing. State the contributions in the first quarter of the text, and flag a central result that first appears later.
+- Background: Give only the context needed for the gap and comparisons. Open with what the reader must know to see the gap.
+- Methods: Explain the idea. When the venue places Methods after Results, keep a brief description of the procedure with each result and refer readers to Methods for the full description.
+- Results: Give the evidence.
+- Discussion: Interpret the evidence, limitations, and alternatives.
+- Conclusion: State the implications.
 
-A thesis chapter, report, or proposal follows the same order under its own section names. A proposal states what evidence it will gather. Make the main contribution clear by the end of the first quarter of the text. Flag a central result that first appears later, since moving it would reorder sections.
+Open the abstract with the problem and state all five parts of the argument in one or two sentences each when the venue's word limit allows. Include the headline result and recognizable terms for the problem, system, and technique. Make the abstract understandable without the body or bibliography: identify any cited work readers need, and remove a section or figure reference only when the abstract already states that result. Flag a missing part or result, or needed content that exceeds the limit. A proposal describes the evidence the authors plan to gather, and a survey abstract may state what the reviewed studies establish together.
 
-**Keep the argument linear.** Discuss each topic in one place; only the core idea returns in every section. The [rule against alternation](#paragraphs) also applies across sections: do not return to a topic after discussing another (A, B, A). Flag it if the repair would reorder sections.
+**[Keep the argument linear](rules/story/linear-argument.md).** Order material by the argument's logic, not by when each part was done or how much effort it took. Apply the [rule against alternation](rules/prose/topic-order.md) across sections, and flag a repair that would move material between sections. The core idea may appear in every section. Keep a second round of methods and results that depends on an earlier result ([section functions](rules/story/section-functions.md)), reminders of needed definitions and [section context](rules/story/section-openings.md), and the protected statements of each contribution. Give each component and counterargument space proportional to its role in the core claims. Explain each side of a comparison under the [rule on comparing with prior work](rules/story/prior-work-comparisons.md). Under the [triage order](rules/cutting/triage-order.md), keep a rejected approach in the main text only as a negative result, stating its flaw before its details.
 
-Order the argument by its logic rather than by the sequence of the work. Do not give a part more space because it took more time. Under the [triage order](#triage-order), an approach the text rejects belongs in the main text only as a negative result. State its flaw before describing it so the reader knows from the outset why it was rejected.
+**[Test the argument by skimming](rules/story/skim-test.md).** Check that the abstract, headings, each section's first paragraph, and [captions](rules/conventions/captions.md) together state all five parts of the argument without the rest of the text. When the request allows, restore any missing part or connection; otherwise, flag it.
 
-Describe each part of the method in detail proportional to its importance to the core claims defined by the spine test. Describing every component at equal depth obscures which one makes the contribution.
+**[Flag titles that are unclear or overstate the contribution](rules/story/titles.md).** Flag a title that hides the subject, omits searchable terms for what distinguishes the work, has two reasonable readings, contains needless wording, overstates or understates the contribution, or uses an acronym unfamiliar outside the subfield ([acronym rule](rules/conventions/acronyms.md)). Suggest a revision that keeps the body's claim strength and conditions. Leave the title unchanged, and follow venue requirements.
 
-**Test the argument by skimming.** Check that a reader can identify all five stages from only the abstract, headings, first paragraph of each section, and captions. Revise whichever stage is missing from this reading.
+### Problem, gap, and contribution
 
-### Problem and gap
+**[Open with the problem](rules/story/open-with-problem.md).** Name what the reader cares about in the first sentence. If readers need context to understand the problem, apply the [brief-setup rule](rules/prose/paragraph-development.md). Delete any [generic opening](rules/deslopping/generic-openings-closings.md). If the draft never says why the problem matters, flag the missing motivation rather than invent an example. If the opening describes a different, broader, or narrower problem than the rest of the paper, revise it under the [rule on scope](rules/claims/scope.md) only when the draft makes the intended focus clear; otherwise, flag the mismatch.
 
-**Open with the problem.** Name what the reader cares about in the first sentence. Delete an opening that tells experts why their own field matters, following the rule on [generic openings](#blacklisted-patterns).
+**[State the gap's cost](rules/story/gap-cost.md).** State the specific gap in what is known or can be done and its cost: what readers lose, pay, or cannot do because of it. Replace "little is known" with the specific unknown when the draft supplies it. The cost may be a question readers cannot answer or the value of extending earlier work to a new case; it need not be a flaw in prior work or a hypothesis, so do not invent either. Flag a missing gap or cost. If stating the gap requires rewriting the objectives, flag that change rather than make it. Distinguish established consequences from [speculative applications](rules/claims/speculation.md).
 
-- Bad: "Deep learning has achieved remarkable success across many domains."
-- Good: "Learned cost models for compilers must be retrained for each new hardware target, which takes days."
+**[Explain why the problem is hard](rules/story/why-hard.md).** Explain why the obvious way to solve the problem fails, or flag the missing explanation.
 
-**State the gap's cost.** Describe both parts of the problem: the condition and its cost to the reader. Readers need both to recognize a problem. The statement "No prior work studies X" gives only a condition. Ask what the reader loses, pays, or cannot do as a result. Flag a missing cost.
+**[State each contribution as a claim and name its supporting section](rules/story/contribution-claims.md).** Each claim must be checkable and name the section that supports it. Replace a contribution that states only an activity with a claim under the [underclaiming rule](rules/claims/underclaiming.md), matching its strength to the evidence with the [verb ladder](rules/claims/verb-ladder.md). Flag contributions without evidence. Check a major result that supports no contribution with the [spine test](rules/cutting/spine-test.md); the result is a candidate for cutting only under a length request. When contributions name their sections, delete any roadmap that states no content under the [signpost rule](rules/prose/signposts.md).
 
-- Bad: "No prior system supports incremental updates."
-- Good: "No prior system supports incremental updates, so every schema change forces a full rebuild."
+### Section openings and connections
 
-**Explain why the problem is hard.** State why the obvious approach fails. Without that explanation, the idea seems arbitrary, and the reader cannot tell whether the gap remains because it is hard to close or unimportant. Flag a missing explanation.
+**[Open each section with its context, question, and answer](rules/story/section-openings.md).** Connect each section's question to the preceding text by placing [familiar information before new information](rules/prose/old-before-new.md). State the question and answer in the first paragraph, following [paragraph opening order](rules/prose/paragraph-development.md). Openings that only name the topic are [signposts](rules/prose/signposts.md). Make the introduction understandable without the abstract. Keep brief reminders for readers who start at Results, Discussion, or Conclusion, including essential context when the full methods appear in supplementary material, unless a length request reaches them in the [triage order](rules/cutting/triage-order.md). Open a methods section with one sentence stating its key idea before the steps. Put an existing [explanatory example](rules/prose/definitions-procedures.md) before the general case.
 
-### Contributions
+**[Use headings to show how the argument is organized](rules/story/headings.md).** Make each parent heading describe all its subsections, and give headings under the same parent [parallel form](rules/prose/parallel-form.md). Flag a parent with only one subheading, a fourth-level heading, or a very short section when it makes the argument hard to follow. Propose a heading that states its section's finding with the body's claim strength and conditions, and any change to how sections are grouped or nested; do not make these changes yourself. Keep distinctions that help readers, and follow venue requirements.
 
-**State contributions as claims with their support.** For each contribution, state what is now true and name the supporting section. Use the strength allowed by the [verb ladder](#the-verb-ladder), and follow the [rule on underclaiming](#failure-modes) to turn an activity into a claim. Check that each contribution has evidence in the body and that each major result supports a contribution. Flag a contribution without evidence. Treat a major result that supports no contribution as a candidate for [cutting](#the-spine-test).
+### Related work
 
-- Bad: "We describe the WizWoz system and evaluate it extensively."
-- Good: "The WizWoz type system is sound (Section 4), and type checking is decidable (Section 5)."
+**[Compare prior work fairly and state specific differences](rules/story/prior-work-comparisons.md).** End each paragraph or group of paragraphs about prior work with a checkable difference in an assumption, setting, metric, result, cost, or guarantee. A comparison that is vague on both sides is a [false concession](rules/deslopping/false-concession.md). Explain both sides enough for readers to judge the comparison, using only the draft's account of each source; flag missing context or differences. State what each source does and assumes before criticizing it, and preserve its [credit](rules/cutting/protected-sentences.md). Do not write "ignores" or "fails to" for a difference in scope unless the draft shows that the source failed. Keep a source's tentative verbs, and attribute each claim, concession, and reported objection to whoever holds it, not to the paper. In a survey, end the discussion of each group of related sources with the pattern, disagreement, or gap they establish.
 
-**Refer to sections in the contribution statements.** When each contribution names its supporting section, delete a roadmap paragraph that only lists the sections without naming content, following the [rule on signposts](#concision).
+**[State what is new and what comes from earlier work](rules/story/novelty.md).** Distinguish what the authors contribute from standard components, borrowed ideas, and their earlier results. Flag an unclear contribution rather than assign it. Keep wording that identifies the authors' earlier work, or flag it if the venue requires anonymity. Do not present that work as confirmation by other researchers.
 
-### Sections
+**[Flag comparisons with prior work that readers cannot yet understand](rules/story/prior-work-placement.md).** Flag a comparison with prior work if readers need material from a later section to understand it, and leave it in place. Do not flag background needed to understand the problem. Within a section, follow [explanation order](rules/prose/explanation-order.md).
 
-**Open every section with its question and answer.** In the first paragraph, state the section's question and finding using content already in the section. An opening that merely announces the topic is a [signpost](#concision).
+### Results
 
-- Bad: "In this section, we present our experimental results."
-- Good: "This section tests whether the cache reduces tail latency under bursty load. It does, and the gain disappears when the bursts are removed."
+**[Organize results around research questions](rules/story/results-by-question.md).** State which questions the Results section answers, and connect each to a contribution. Flag a heading that names only a dataset or setup, and propose one that states a question or finding. When one result motivates the next experiment, keep that sequence, with the interpretation beside the result. Flag for cutting an experiment that answers no question. Flag a result with no described procedure or an evaluation procedure with no reported use, but delete neither.
 
-**Connect each section to the preceding text.** Open a section by stating what the reader now knows, then pose the new question. This applies [old before new](#information-flow-within-a-sentence) across sections. Open a method section with one sentence stating the key idea before giving the steps. Put a worked example before the general case.
+**[Answer one question per results paragraph](rules/story/one-question-per-paragraph.md).** Keep each answer with its evidence in one paragraph, following the [paragraph rule](rules/prose/paragraph-development.md). Split a paragraph that answers two independent questions, and flag one that answers none.
 
-**Place related work where the reader can understand the comparison.** This is usually after the idea. Follow the [rules on comparing with prior work](#comparing-with-prior-work) for its content.
+**[Explain why the evidence supports the claim](rules/story/explain-evidence.md).** When readers outside the subfield may not see how the evidence supports a claim, explain the reasoning and check that its assumptions hold in this study. Flag a connection the draft omits. Follow [scope](rules/claims/scope.md) for claims that exceed what the measurement establishes, and [formal support](rules/claims/evidence-kind.md) for conclusions from a theorem.
 
-### Evidence
-
-**Organize results by questions, not by experiments.** State the questions at the start of the Results section and connect each to a contribution. A heading that names only a dataset or setup gives no finding. If you cannot identify the question an experiment answers, flag the experiment as a candidate for cutting.
-
-- Bad: "5.3 Experiments on ImageNet"
-- Good: "5.3 The gain holds at ImageNet scale"
-
-**Answer one question per results paragraph.** Open with the question, answer it in the next sentence, and then give the evidence, following the [rules on paragraphs](#paragraphs). This lets a reader who doubts a conclusion find its support in one paragraph. Split a paragraph that answers two questions, and flag one that answers none.
-
-**Explain why the evidence supports the claim.** If the reader outside the subfield may not understand why a measurement supports a claim, explain the connection. Flag a missing explanation.
-
-- Bad: "Throughput rises 40% when we double the cores."
-- Good: "Throughput rises 40% when we double the cores, which is expected only if the lock is no longer the bottleneck."
-
-**Identify what produces the gain.** For a method with several parts, the results must show which part produces the improvement. If an ablation or equivalent evidence is missing, flag it and credit only the combination under the [rules on causal language](#causal-language). Treat an untested explanation as [speculation](#speculation). Flag any obvious alternative explanation that the text does not address.
+**[Identify which part produces the effect](rules/story/component-effects.md).** When a method, treatment, or design combines several parts or changes, the results must show which part produces the reported effect. Otherwise, flag the missing evidence and credit only the combination under [causal language](rules/claims/causal-language.md). Flag any raised counterexample, conflicting result, or obvious alternative explanation the draft does not address. Also flag a reply to a raised counterexample, conflicting result, or alternative explanation if it gives no evidence, no reason the objection does not apply, and no statement of the remaining [limitation](rules/claims/limitations.md).
 
 ### Numbers
 
-The most common failure in the argument of generated text is to obscure the point with results. Correct the order so that every number supports a claim stated first in words.
+The most common flaw in the argument of AI-generated text is listing results before stating what they show, or never stating the point. Reorder the text so that every number supports a claim already stated in words.
 
-**State the claim before the number.** State the finding in words, give the one number that supports it, and refer to the table for the remaining numbers. A sentence that lists several numbers without a finding gives the reader nothing to remember or dispute.
+**[State each finding before its representative numbers](rules/story/claim-before-number.md).** Describe the pattern in words: whether the effect is consistent, where it grows, and where it fails. For each claim, give one representative headline result, not an atypical best case, with its baseline and any interval or range needed to interpret it. Use the table to establish the pattern. Outside the [abstract](rules/story/section-functions.md), refer to an existing table for the remaining values; remove duplicated numbers only when the prose keeps the comparison, [uncertainty](rules/claims/variability.md), and [statistical conclusion](rules/claims/statistical-significance.md). State the finding first in [quantified comparisons](rules/prose/quantified-comparatives.md) too. Flag numbers that support no claim and, when the request permits, move them only to an existing table or appendix.
 
-- Bad: "Our method obtains 71.3, 68.9, 74.2, and 70.1 F1 on the four datasets, against 69.8, 67.2, 73.9, and 66.4 for the strongest baseline."
-- Good: "Our method outperforms the strongest baseline on all four datasets; the largest gain, 3.7 F1, is on the low-resource dataset (Table 2)."
+**[Match precision to the claim](rules/story/number-precision.md).** Flag precision beyond what the measurement and comparison support, and unjustified differences in precision between comparable quantities. Never change a number's value or precision without the author's approval and the source data, except to replace a threshold such as p < 0.05 with the draft's reported [p-value](rules/claims/statistical-significance.md). Keep words that mark estimates or approximations.
 
-**Give one headline number per claim.** Choose the number the reader should remember and put the others in the table. Describe the pattern in words: whether the effect is consistent, where it grows, and where it fails. Use the table to establish that pattern, and follow this order for [quantified comparisons](#plain-wording).
+### Discussion and conclusion
 
-**Do not restate the table.** Use running text to state the conclusion and refer to the table. Remove numbers already in the table, retaining the headline number under the [rules on uncertainty](#uncertainty-and-significance).
+**[Explain how the results address the gap](rules/story/return-to-gap.md).** In the discussion's first paragraph, explain how the results address the gap stated in the introduction. Then state the limitations under the [rule on limitations](rules/claims/limitations.md). If the introduction promises more than the results establish, flag the mismatch under the [rule on scope](rules/claims/scope.md).
 
-**Connect every number to a claim.** Identify the claim supported by each number in running text. If there is no claim, move the number to an existing table or appendix, or flag it.
-
-**Match precision to the claim.** Report the digits the claim needs and use that precision consistently. Extra digits distract from the trend. Flag excess precision; never round without the author's approval.
-
-**State the conclusion in the caption.** Readers who skim see captions and headline numbers first. State the finding in each caption, as the [caption rules](#figures-and-tables) require.
-
-### Endings
-
-**Return to the gap.** In the first paragraph of the discussion, explain how the results address the gap stated in the introduction. Follow with the limits, under the [rules on limitations](#limitations). If the introduction promises more than the results establish, flag the mismatch under the [rules on scope](#scope).
-
-**Use the conclusion to add perspective.** If a reader could fully understand the conclusion before reading the text, it is a summary. Keep one restatement of each contribution under the [triage order](#triage-order). Use the rest of the conclusion to state what the reader can now believe or do that they could not before. Flag a conclusion that repeats the abstract.
+**[Use the conclusion to explain what the findings mean](rules/story/conclusion-perspective.md).** Keep one statement of each contribution under the [triage order](rules/cutting/triage-order.md), connect the statements, then state what the findings let readers understand or do. Label speculative implications as [speculation](rules/claims/speculation.md). Flag a conclusion that only repeats general statements or the abstract, gives new supporting evidence, or introduces a new subject. Future work may state a specific question the findings raise and what answering it would establish; do not invent a research plan.
 
 ## Claims
 
-Every claim must match its evidence. Both overclaiming and underclaiming are errors. An aspirational goal may motivate the text if the text states that the goal remains unattained.
+Every claim must match its evidence. Claiming either more or less than the evidence supports is an error. An unreached goal may motivate the work if the text states that the goal remains unreached.
 
-### The verb ladder
+### Strength and scope
 
-Choose the reporting verb that the evidence supports, regardless of enthusiasm for the result.
+**[Choose a reporting verb from the verb ladder](rules/claims/verb-ladder.md).**
 
-| Verb | Evidence required |
+| Verb | Required support |
 |---|---|
-| we **prove** | a theorem with stated assumptions, and nothing else |
-| we **show / demonstrate / establish** | direct evidence that rules out the plausible alternatives |
-| we **find / observe / report** | a directly measured empirical result |
-| results **suggest / indicate**; we **hypothesize / conjecture** | an inference or interpretation that could reasonably be wrong |
+| **prove** | only a theorem with stated assumptions |
+| **show / demonstrate / establish** | direct evidence that rules out plausible alternatives |
+| **find / observe / report** | a directly measured empirical result |
+| **suggest / indicate**; **hypothesize / conjecture** | an inference or interpretation that could reasonably be wrong |
 
-A benchmark result never proves a mechanism. A figure or table "shows" only what it displays; choose the verb for a claim inferred from it according to the evidence for that claim.
+A figure or table "shows" only what it directly displays; match the verb for any interpretation to the evidence. Replace *reveal* or *confirm* with a weaker verb unless the evidence establishes the conclusion. Flag a claimed disproof that rests only on an objection or an inconclusive test. For cited work, follow [prior work](rules/story/prior-work-comparisons.md). Preserve whether the source treats a result as central or incidental and whether it accepts or doubts it.
 
-A claim hedged in the results must retain its hedge in the abstract, introduction, conclusion, and any other summary. For each claim in a summary, find the supporting result. If the draft contains that result but the claim lacks a reference to it, add one ("(Section 5)", "(Table 2)"). If no support exists, flag the claim.
+When the abstract, introduction, conclusion, or another summary restates a claim, keep its hedge and the rung of its supporting result. Trace each summary claim to its supporting result and flag any unsupported claim. For a supported claim, add any missing section, table, or figure reference, except in the abstract.
 
-### Scope
+**[Match scope and confidence to the evidence](rules/claims/scope.md).** Scope can cover every case, a tendency across contexts, named settings, or one observed case. Choose the broadest scope and the most direct confidence the evidence supports, avoiding [underclaiming](rules/claims/underclaiming.md), but keep every claim within the conditions, datasets, and settings its evidence covers. An unqualified plural noun ("Solar cells degrade in humid air") may state a tendency; if the evidence covers only the tested cases, name them. Check whether words such as "always" or "unique" extend a claim to untested cases.
 
-Evidence determines both a claim's scope and its confidence (plain or hedged). From broadest to narrowest, scope ranges from a guarantee ("X always holds"), through a systematic claim ("X generally happens across contexts") and a narrow claim ("X is best for settings V and W"), to an existence claim ("we find one case where X"). Choose the broadest scope and the most direct statement of confidence the evidence supports. When support is uncertain, leave the claim in place and flag it. This caution does not justify hedging or dropping a claim that the evidence does support; doing so would be [underclaiming](#failure-modes).
+A single example can establish that a case occurs. Flag a universal claim contradicted by an example within its scope; an exception need not refute a tendency. Flag a broader claim from one example or from sampled data unless the draft explains how it was selected and, for sampled data, justifies the target population. Keep explicit labels marking examples as hypothetical or constructed, but never add them by inference. Check [independent confirmation](rules/claims/variability.md) under its own rule.
 
-Limit every headline claim to its conditions, datasets, and settings. Absolutes ("always", "unique") extend a claim to untested cases. A bare generic plural claims the whole class, so "Transformers fail to retrieve early tokens" asserts it of every Transformer. When the evidence covers only the models tested, write "the four Transformers we test fail to retrieve early tokens".
+Also check these claims:
 
-A result reported without a comparison supports "X works", not "X is better" or "X is practical". Flag the missing baseline when the draft claims more. A qualitative example (a generated sample, a saliency map, a case study) supports only an existence claim. If the text offers it as evidence for a broader claim, it must say how the example was chosen (at random, as typical, or as the best case). Flag any missing account of that choice.
+- Unless the draft supports the interpretation, flag a research question or conclusion that treats a score as the broader property it measures indirectly, or a ratio of scores as a proportional change in that property. Do not rewrite the question or add a caveat.
+- A result without a comparison supports "X works", not "X is better" or "X is practical"; flag any stronger claim that lacks a relevant baseline.
+- A claim such as "ready for clinical use" or "ready for production" also needs evidence on costs and operating conditions beyond test gains, and must address the adverse consequences and relevant alternatives the draft identifies. Flag missing support or unsupported assurances unless the draft explicitly marks the claim as tentative.
+- A claimed trend over time needs observations over time, and a small sample needs both its count of cases and its total visible in the text.
+- Flag words that assume an unstated fact, such as "the solution", which may assume existence or uniqueness.
 
-### Causal language
+**[Remove or flag unsupported labels on empirical claims](rules/claims/unsupported-labels.md).** Labels such as *solves*, *optimal*, *guarantees*, and *first to* need evidence for the full empirical claim. Flag unsupported superlatives and any *state-of-the-art*, *record*, or *human-level* claim that omits the task or quantity, benchmark, compared methods or results, or metric. Remove *novel* when it adds only praise. Beyond removing a label, rewrite the claim only when the draft's evidence determines its [scope](rules/claims/scope.md); otherwise, flag it. An experiment or observation shows uniqueness only among the alternatives compared. A uniqueness claim must name those alternatives, the property compared, and how finely the comparison distinguishes them.
 
-Use "causes", "leads to", "improves because", and other wording that credits a design choice only when the evidence supports causation, as an ablation that isolates the component does. Describe correlational results with "is associated with", "correlates with", or "coincides with". When the text introduces several changes together without isolating any, it may credit the combination but no single change. It must not imply that every change is necessary.
+**[State supported contributions without underclaiming](rules/claims/underclaiming.md).** Remove a hedge that makes a contribution sound less certain than its evidence supports. Replace a contribution that says only what the authors *study*, *explore*, *investigate*, *describe*, or *discuss* with the finding from the corresponding section, or flag the missing finding.
 
-### Formal and informal claims
+**[Flag conflicting claims and numbers](rules/claims/internal-consistency.md).** Compare claims about the same object across sections and lists, and check totals, bounds, and trends against the draft's numerical constraints. Flag both passages of an apparent conflict. Propose a revision that states any difference in setting or definition the draft gives to explain it, or flag the missing explanation. Flag conflicting numbers without choosing a value. If a claim presents two options as the only possibilities but the draft names another in that scope, flag the claim and name that option.
 
-Make clear whether each claim is formal or informal. A sentence that reads like a theorem ("all local minima have error close to that of the global minimum") but cites no result and states no conditions leaves its status unclear. Link it to a stated result with its assumptions, rewrite it as the empirical or intuitive claim it is, or flag it if the draft supports neither. When the text invokes a theorem to support an empirical claim, check that the theorem's conclusion applies under the text's conditions. Flag a link that does not hold, such as a convergence result for convex objectives used to support a claim about non-convex training.
+### Causation and formal support
 
-### Uncertainty and significance
+**[Reserve causal language for causal evidence](rules/claims/causal-language.md).** Use causal wording such as "causes", "leads to", or "improves because" only with evidence that isolates the factor's effect. Describe a correlation as "is associated with" or "correlates with". Keep cause and effect in the order the evidence supports, and do not call one of several causes the only cause. When the draft tests several changes only together, credit their combination and do not call any one component necessary. Mark an untested mechanism as [speculation](rules/claims/speculation.md).
 
-A comparison between two numbers is a claim whose evidence includes their variability. For every reported comparison, the sentence, caption, or a convention stated once in the text must specify:
+**[Identify the kind of evidence supporting each claim](rules/claims/evidence-kind.md).** Link a sentence that reads like a theorem but gives no formal result or conditions to the proved result and its assumptions, restate it as the observed or intuitive claim the draft supports, or flag it. Flag a claim that applies a theorem to observations or experiments that violate its assumptions; the theorem is then inapplicable, not false. Never drop a condition to simplify a formal statement; flag one that seems unnecessary. Flag an unsupported claim that a result from a model or simulation holds in the real system. A valid claim limited to the model needs no experiment or field study.
 
-- How many runs each number covers and how it summarizes them (mean, median, or best run).
-- Whether ± denotes a standard deviation, standard error, or confidence interval.
-- What varies (seed, data split, or the test examples a bootstrap resamples).
+**[Specify what an efficiency claim counts](rules/claims/efficiency-claims.md).** For a claim about speed, yield, cost, samples needed, or scaling, state the following. Fill gaps from elsewhere in the draft or flag them:
 
-Flag any missing information.
+- The unit counted, the conditions and assumptions, and the costs included or excluded.
+- The baseline of each comparison.
+- A ratio's numerator and denominator.
+- An analytical bound's size variables and the case analyzed.
 
-- Bad: "Our method significantly outperforms the baseline (71.2 ± 0.4 vs 68.4 ± 0.6)."
-- Good: "Our method outperforms the baseline by 2.8 points (71.2 ± 0.4 vs 68.4 ± 0.6; mean ± standard deviation over five seeds)."
+A better ratio or asymptotic bound alone does not show lower total cost under the claimed conditions. An upper bound on one algorithm's cost does not establish a lower bound for every algorithm solving the problem. Flag suspected errors in the analysis without changing the mathematics.
 
-Both sides of a comparison must be computed the same way. A best-run number is not comparable with a mean of final results; a number copied from another publication is comparable only under the same evaluation protocol. Flag every comparison for which the text does not establish that both sides were computed alike.
+### Numerical comparisons
 
-Reserve "significant(ly)" for results of a named statistical test. Pair the test with its p-value or significance level and, if the draft reports it, its effect size. If the word means large or important, replace it with the magnitude. If it claims statistical significance without naming a test, flag it. When the draft tests significance on several datasets or metrics, flag any missing explanation of how it corrects for multiple comparisons.
+**[Report variability and compare like with like](rules/claims/variability.md).** For each numerical comparison, check that the draft states the following beside it or in a general statement. Flag missing information:
 
-Failure to reject a hypothesis of no difference does not establish equality. Replace "the two methods perform the same (paired bootstrap, p = 0.21)" with "we find no significant difference between the two methods (paired bootstrap, p = 0.21)". When intervals overlap and the text names no test, flag any claim of superiority. Overlap alone establishes neither superiority nor its absence. When the ranking of methods changes with the aggregate metric, limit each claim to the metric that produced it.
+- The number of runs, repetitions, or samples.
+- How they were combined, such as by mean, median, or best run. A best run is not comparable with a mean.
+- Whether ± is a standard deviation, standard error, or confidence interval.
+- What varied, such as the random seed, data split, or resampled test examples.
 
-### Hedges
+Also check the following:
 
-Hedge the interpretation of a measurement, including a proposed mechanism, and leave the measurement itself unhedged.
+- Flag a comparison, including one with other papers' results, unless the draft establishes that both sides use equivalent tasks, outputs, quality requirements, aggregation, and procedures.
+- When one measure improves and another worsens, state both changes, or flag the missing comparison.
+- Check what each percentage is of and whether a percentage change is relative or in percentage points. Clarify the wording from the draft, or flag the ambiguity.
+- Name the measure behind each ranking, and flag selective reporting.
+- Flag a claim of independent confirmation from data used to generate a hypothesis, select or tune the method, related datasets, or correlated measures unless the draft establishes a separate test.
+- Flag a mean that a skewed distribution, missing outcomes, or unequal groups make unrepresentative of a typical case.
+- Flag a stated test condition that could push every measurement in the same direction, such as calibration or a warm cache.
+- Flag a convergence claim supported only by successive estimates rather than a measure of error.
 
-- Bad: "Accuracy appears to drop by roughly 4.2 points when we remove the auxiliary loss, which shows the loss is a regularizer."
-- Good: "Accuracy drops 4.2 points when we remove the auxiliary loss (Table 3), which suggests the loss acts as a regularizer."
+**[Draw only the conclusions a statistical test supports](rules/claims/statistical-significance.md).** Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft. Flag missing information, including a claim of statistical significance that names no test. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant. Use a numeric p-value reported anywhere in the draft rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
 
-Describe procedures without hedges, whether in a Methods section or elsewhere. Only the rationale for a choice may be hedged. In Results, Discussion, and Conclusion sections, and in any other passage that interprets a measurement, preserve this distinction between measurement and interpretation. An abstract or other summary may compress a claim but must retain its strength on the [verb ladder](#the-verb-ladder) and its hedge.
+Check for these misreadings:
 
-Use at most one hedge per claim, in a standard academic form ("may", "likely", "suggests", "appears to"). Softeners ("somewhat", "relatively", "essentially", and similar) weaken a claim without saying where it fails. If the draft states the condition under which the claim fails or the size of the effect, replace the softener with that information. Otherwise keep it and flag it, since deleting a claim's only hedge strengthens the claim. These softeners differ from [intensifiers](#concision), which are simply cut. A qualifier whose deletion changes what is claimed ("usually", "on average", "in most runs") is a scope condition, not a hedge, and is [protected](#protect).
+- A p-value is not the probability that a hypothesis is true.
+- Failing to reject the null hypothesis does not establish equality. Replace a claim of equality with a statement that no significant difference was found, keeping the test and p-value.
+- Significance does not establish practical importance.
+- A result that is not significant does not by itself show that the test had too little power.
+- Flag a claim that one result is better, or that results do not differ, when it rests only on whether intervals overlap, without a test.
 
-- Bad: "Our method is relatively robust to label noise."
-- Good: "Our method loses 2 points of accuracy at 20% label noise, against 9 points for the baseline."
+When the draft tests significance across several datasets, outcomes, or measures, flag a missing account of how it handles multiple comparisons.
 
-### Failure modes
+### Qualification and limits
 
-**Overclaiming.** The following are banned for empirical results: *solves, proves, optimal, guarantees, first to* (unless the draft verifies the claim), unsupported superlatives, "human-level" or "state-of-the-art" without naming the task, benchmark, and metric, and "novel" as filler.
+**[Hedge interpretations, not measurements or procedures](rules/claims/hedges.md).** Hedge tentative interpretations, including proposed mechanisms. Keep reported measurement uncertainty; for a procedure, hedge only the reason for performing it. Use at most one hedge per uncertain claim, in a standard form such as "may", "likely", "suggests", or "appears to". Deleting a claim's only hedge strengthens it; removing a redundant hedge must leave other uncertain claims hedged. Keep qualifiers such as "usually" or "on average" that limit a claim's conditions or cases: they are [scope conditions](rules/cutting/protected-sentences.md). Replace a vague softener such as "somewhat", "relatively", or "essentially" with the conditions or magnitudes the draft supplies; otherwise, keep it and flag the missing information.
 
-**Underclaiming.** State contributions plainly and completely, without weakening a real result through reflexive hedging. Each item in a "Contributions" list must state a claim the reader can check and refer to its support where the draft provides it. An item that only says *study, explore, investigate, describe*, or *discuss* states no claim. Rewrite it using the findings in the corresponding section, or flag it.
+**[Never state speculation as fact](rules/claims/speculation.md).** Mark an explanation or mechanism that no test or argument supports as a conjecture or put it in a passage explicitly labeled speculative. If it relies on an undefined term or an unstated measurement, flag it instead of calling it a conjecture. A claim that one property does not imply another needs a counterexample, a supporting result, a reference, or a statement that the question is open. Failure under the tested conditions does not show that success is impossible, so flag any unsupported negative conclusion.
 
-- Bad: "We study the theoretical properties of the estimator."
-- Good: "We prove that the estimator is unbiased under assumption A1 (Section 4)."
-
-### Speculation
-
-Never state speculation in the grammatical form of established fact. Mark it with "We conjecture" or "One possible explanation is", or confine it to a Motivation or Discussion paragraph that the text marks, as a whole, as speculation.
-
-An explanation based on an undefined term is speculation, however it is phrased. The claim "The gain comes from reduced internal covariate shift" cannot be checked until the text states how the shift is measured. Flag the term or mark the sentence as a hypothesis. A bare negative claim ("X does not imply Y") needs a counterexample, a reference, or a statement that the question is open. Flag the claim if the draft provides none.
-
-### Limitations
-
-State each limitation once and precisely, without apology. Flag a decoy limitation that hides the real weakness, and cut a duplicate only when a length request reaches it in the [triage order](#triage-order). Explain how each limitation affects the findings ("results may not transfer to larger models, since every run uses the same 100M-parameter backbone"). A limitation phrased as future work must still say what the current results do not cover.
+**[State limitations precisely and explain their effects](rules/claims/limitations.md).** State each limitation in full and without apology where it first affects a method or inference. Beside it, keep the draft's explanation of how it affects the results and which conclusions still hold, or flag the missing explanation. Flag unexplained unexpected results, unjustified data exclusions, and decoy limitations that name a minor weakness while omitting a larger one documented elsewhere in the draft. A limitation phrased as future work must still state what the current results do not cover. Keep brief reminders that limit later claims. Move a limitation, or delete a repeated full statement of it, only as the [relocation rules](rules/cutting/idea-cuts.md) and the [triage order](rules/cutting/triage-order.md) allow.
 
 ## Cutting
 
-Use the [spine test](#the-spine-test) to determine what the text needs and the request to determine what you may delete or relocate.
+Use the [spine test](rules/cutting/spine-test.md) to find the core claims and the paragraphs readers need to understand or evaluate them. Then check the request to see what you may delete or move.
 
-**Delete bloat without asking.** Bloat includes [blacklisted patterns](#blacklisted-patterns), sentences that announce content instead of stating it, and signposts that the [concision rules](#concision) require you to delete. Tightening the wording of a surviving sentence also needs no permission.
+### Deciding what to cut
 
-**Idea-level cutting needs the author's request.** Cut or relocate ideas only when requested ("cut this to eight pages", "condense", or a hard length limit). Otherwise identify the candidate and leave it in place ("this paragraph is off-spine; cut it?"). This requirement covers every sentence containing something the author would miss: an idea, a result, a caveat, evidence, or a transition the argument needs. Reordering within a section to [build understanding early](#build-understanding-early) is a prose edit. Moving content between sections or out of the main text is relocation.
+**[Delete empty wording without asking](rules/cutting/bloat.md).** Delete [chatbot replies](rules/deslopping/chatbot-phrases.md), [generic openings](rules/deslopping/generic-openings-closings.md), and [generation artifacts](rules/deslopping/generation-artifacts.md), and repair [em dashes](rules/deslopping/em-dashes.md). Delete content announcements and signposts only when the [signpost rule](rules/prose/signposts.md) allows. Shorten remaining sentences without cutting [ideas](rules/cutting/idea-cuts.md).
 
-### The spine test
+**[Cut or relocate ideas only on request](rules/cutting/idea-cuts.md).** Cut or relocate substantive content (anything the author would miss, including ideas, results, caveats, evidence, examples, reasons, and necessary transitions) only when the author asks to condense the text or sets a length limit. Otherwise, keep it and flag the proposed cut or move; a request merely to polish or tighten does not authorize either. Reordering within a section to [build understanding](rules/prose/explanation-order.md) is a prose edit; moving material between sections or out of the main text is relocation.
 
-State the text's core claims in one to three sentences. These claims form the spine of the text. For each paragraph, write one line explaining how it supports them. Keep content according to **whether the spine needs it**; truth or interest alone is insufficient. If you cannot give a section a short, specific title, it probably makes more than one point. Flag it before cutting within it. A cut is justified only if the argument reads at least as clearly without the content.
+**[Apply the spine test before cutting sentences](rules/cutting/spine-test.md).** State the core claims (the text's spine) in one to three sentences, and each paragraph's role in one line. Keep content because the spine needs it, not because it is true or interesting. Classify each paragraph:
 
-Review paragraphs before sentences. Tag each paragraph *central*, *supporting*, *ancillary*, or *off-spine*. As far as the request allows, cut or relocate paragraphs that are off-spine and trim ancillary ones. Then edit the surviving paragraphs [sentence by sentence](#sentence-by-sentence).
+- Central: It states a core claim.
+- Supporting: Readers need it to understand or evaluate a core claim, or it holds [protected content](rules/cutting/protected-sentences.md).
+- Ancillary: It is relevant, but readers can evaluate the core claims without it.
+- Off-spine: It does not relate to the core claims.
 
-### Triage order
+If no short, specific title summarizes a section, flag its competing points before cutting. When [the request](rules/cutting/idea-cuts.md) permits cutting, cut or relocate off-spine paragraphs, shorten ancillary ones, and then edit [sentence by sentence](rules/cutting/sentence-dependencies.md). Keep a cut only if the argument remains at least as clear.
 
-Under a length constraint, cut in this order, most expendable first.
+**[Follow the triage order to meet a length limit](rules/cutting/triage-order.md).** Preserve [protected content](rules/cutting/protected-sentences.md), follow [relocation safeguards](rules/cutting/sentence-dependencies.md), and cut material in this order:
 
-1. **Repeated restatement.** Cut repetitions of the same point in the introduction, section or chapter opening, and conclusion. Keep the instance that contributes most to the argument, usually in the section that develops the point. Preserve two kinds of repetition: one restatement of each contribution in the abstract, introduction, and conclusion, and a deliberate reminder that [refreshes a shorthand](#terminology) defined pages earlier. Even a permitted restatement must not be a copy. If a conclusion sentence repeats the abstract word for word, revise it with the specifics established by the results, or flag it.
-2. **Signposting that survives the bloat pass.** This includes the two-sentence roadmap allowed by the [rule on combining signposts with content](#concision). Preserve references to a claim's support or to the location of a proof; these are not signposting.
-3. **Tangential background and related work.** Cut material that does not motivate the text's question. A citation list that states no relation to the gap the text fills is expendable; the two or three works that define the gap are not.
-4. **Minor results, secondary analyses, and exploratory findings.** Remove a result from the main text if it advances no central claim. Relocate material that supports rigor: sensitivity analyses, robustness checks, and the negative result a skeptical reviewer will ask about. Accounts of what the authors tried first also belong in this tier. A failed alternative stays in the main text only as a stated negative result.
-5. **Exhaustive parameter and implementation detail.** Keep enough detail in the main text to make the work reproducible in outline, including its [spelled-out procedures](#plain-wording) and [protected content](#protect). Move the full sweep to the appendix.
+1. **Repeated points** across the introduction, section openings, and conclusion. Keep the most informative statement, one statement of each contribution in each of the abstract, introduction, and conclusion, and [shorthand reminders](rules/conventions/shorthand-reminders.md). Keep a closing restatement when readers need the intervening explanation to understand the opening claim. Revise a word-for-word restatement to state established results, or flag it. Apply the [deletion test](rules/prose/deletion-test.md).
+2. **Remaining signposts**, including the introduction's closing [roadmap](rules/prose/signposts.md). Keep references to evidence and proofs.
+3. **Unrelated background and related work:** background that does not motivate the research question and citation lists that state no relation to the gap. Keep the few works and comparisons that define the gap.
+4. **Minor results, secondary analyses, exploratory findings, and accounts of what the authors tried first.** Remove results that do not support a central claim from the main text, and relocate material that supports rigor: sensitivity analyses, robustness checks, and the negative result a skeptical reviewer will ask about. In the main text, keep any failure or counterevidence that alters a central claim, and state a failed approach as a negative result.
+5. **Full parameter lists and sweeps, and subsidiary details.** Relocate them, but keep [explicit procedures](rules/prose/definitions-procedures.md) and conditions in the main text so readers can reproduce the method in outline.
 
-### Protect
+**[Protect sentences the argument depends on](rules/cutting/protected-sentences.md).** Keep the material below even when it adds no new information, and move it only when the [sentence-by-sentence steps](rules/cutting/sentence-dependencies.md) allow:
 
-Some sentences add no new information, but the argument depends on them. Preserve the following content, relocating only as the [sentence-by-sentence pass](#sentence-by-sentence) allows:
+- Nonredundant hedges, qualifiers, scope conditions, limitations, supporting evidence, and counterevidence. Cut a repeated limitation only when the triage order reaches it and a full statement remains elsewhere. Removing a caveat changes a [claim's scope](rules/claims/scope.md); after an authorized cut, [recalibrate the claim](rules/cutting/post-cut-check.md).
+- Reasons for method choices and details needed to reproduce the work, such as statistical tests, handling of missing data, and corrections for multiple comparisons.
+- Topic sentences, necessary framing, [high-level summaries](rules/prose/direct-content.md), [logical transitions](rules/prose/transitions.md), and references to earlier sections that later text relies on. When cutting a minor result, usually keep the sentence explaining why this class of question matters if it frames surviving results. Keep [standalone caption content](rules/conventions/captions.md), including "adapted from" credits and permission notices, even when it repeats the body.
+- Fair credit to prior work and accurate descriptions of it, acknowledgments, funding statements, and disclosures of assistance (including from AI tools) and of conflicts of interest.
 
-- **Hedges, qualifiers, scope conditions, and limitations.** Deleting "these results come from a single dataset and may not generalize" silently strengthens every subsequent claim. Handle a repeated limitation stated in full elsewhere according to the [triage order](#triage-order). Cutting a caveat is a [claims edit](#claims). If a length request requires such a cut, recalibrate the surviving claim [after the pass](#after-the-pass).
-- **The evidence that supports a claim.** Cutting the supporting number or example while keeping the confident assertion leaves the claim unsupported.
-- **Framing, orienting, and summary sentences.** When cutting a minor result, usually keep the sentence explaining why this class of question matters; it now frames the surviving results. Also keep a summary sentence that [states the high-level idea](#concision) before the specifics.
-- **Caption content that repeats the body text.** Readers use captions independently of the body, so this repetition is necessary. Tighten a caption's wording while preserving its [required content](#figures-and-tables).
-- **Genuine transitions and back-references.** A transition that [carries logic](#paragraphs) stays, as does a back-reference a later sentence depends on.
-- **Topic sentences.** Cutting a paragraph's topic sentence leaves it incomplete.
-- **Reproducibility content.** Preserve the statistical tests used, the handling of missing data and multiple comparisons, and enough detail about the method for the reader outside the subfield to judge the study.
-- **Fair characterization of prior work.** Preserve sentences that credit a predecessor or accurately state what they did.
+### Making the cut
 
-### Sentence by sentence
+**[Repair text that depends on a sentence you cut or move](rules/cutting/sentence-dependencies.md).** For each sentence within [the request's scope](rules/cutting/idea-cuts.md):
 
-For each sentence in a surviving paragraph, ask these questions in order:
+1. **Check whether the sentence is needed.** If a core claim or the reader needs it, apply "Protect sentences the argument depends on".
+2. **Check what depends on it.** Look for later references, terms defined or sources cited only here, hedges or evidence for other claims, and the paragraph's topic string. Repair every dependent passage in the same edit, or keep the sentence.
+3. **Choose whether to delete or move it.** Delete only content that no reader needs, and never delete details needed to reproduce the work. Move content that only some readers or a skeptical reviewer will need. Use an appendix or supplement only if the draft already has one; otherwise, keep the material in place and flag what to move. Make moved material understandable on its own, and refer to it in the main text where it becomes relevant. Keep enough of the method and the reasons for choosing it in the main text for readers to judge the results. If the venue permits footnotes, you may move secondary comments into new footnotes. Keep essential steps of a method, derivation, or algorithm, and the only definition of a term later text uses, in the main explanation, not in footnotes or parentheses.
+4. **Read across the gap.** The sentence after the gap must open with a term, result, or referent supplied by the sentence before it. Restore a missing connection only from the draft, or keep the original sentence. If the connection requires an inference made by the deleted sentence, add a clause to an adjacent sentence or reuse the original framing sentence to open what follows.
 
-1. **Does the spine need it?** If the sentence supports no central claim, consider deleting or relocating it according to steps 2 to 4.
-2. **Does the reader need it?** A sentence can add no new claim and still be [protected](#protect) because it frames the argument, connects ideas, calibrates a claim, or orients the reader.
-3. **What breaks without it?** Check later passages for dependencies: a later "this" or "as shown above", a citation or term that appears only here, a claim whose hedge or evidence is in this sentence, or the paragraph's topic string. Repair every dependency in the same edit or keep the sentence.
-4. **Delete or relocate?** Delete content that no reader needs. Relocate it to an appendix, supplement, or footnote when only a minority of readers, or one skeptical reviewer, needs it. Reproducibility content is [protected](#protect): relocate it, never delete it. Use an appendix or supplement only if it already exists; otherwise leave the content in place and flag what the appendix or supplement would need to contain. A footnote may be new.
-5. **Read across the gap.** Read the sentences before and after the gap together. The second must open with a term, result, or referent supplied by the first. If the link requires an inference that the deleted sentence made, add a clause to an adjacent sentence to restore it, or reuse the original framing sentence to open what follows.
+**[Revise cuts when stop rules apply](rules/cutting/stop-rules.md).** If a cut leaves a paragraph without needed explanation or support, or breaks its [topic string](rules/prose/topic-string.md), merge it with an adjacent paragraph that makes the same point, or restore what is missing. Before cutting a confusing passage, look for a missing step or [referent](rules/prose/referents.md). Restore it only from elsewhere in the draft, or flag it. If a reader outside the subfield cannot follow the shortened passage, restore the needed context and steps instead of cutting further. These stop rules override the length target. Never meet a target by adding negative `\vspace`, reducing font sizes, or narrowing figures; report the remaining excess instead.
 
-- Before: "We also sweep the learning rate over five values; 3e-4 is best. We use it for all remaining experiments."
-- Bad: "We use it for all remaining experiments." ("it" now points at nothing.)
-- Good: "We use a learning rate of 3e-4 for all remaining experiments (sweep in Appendix B)."
-
-### Stop rules
-
-Revise a cut when any of these three conditions applies:
-
-- **The cut leaves the paragraph underdeveloped or breaks its topic string.** Merge the paragraph with an adjacent one that makes the same point. Otherwise restore the missing development or repair the [topic string](#paragraphs).
-- **You are cutting because the passage confuses you.** Identify the cause first. Confusion usually indicates a missing step rather than an unnecessary one. Supply the [missing step or referent](#plain-wording) if the draft states it elsewhere; otherwise flag it.
-- **The reader outside the subfield can no longer follow the condensed version.** Restore the framing and steps that reader needs instead of cutting further.
-
-### After the pass
-
-- **Claims calibration.** Confirm that every surviving claim retains its hedging and evidence, and apply the [verb ladder](#the-verb-ladder) to the shortened text. If a claim's support moved to the appendix, add a reference to it. Weaken the claim only if the surviving evidence supports less.
-- **Narrative arc and pointers.** Read the whole text. The argument must still connect the problem, gap, approach, findings, and implications without requiring the reader to reconstruct deleted links. Check for dangling references, uncited figures and tables, references to nonexistent appendix material, and terms now used before their first definition.
+**[Recheck claims, the argument, and references after cutting](rules/cutting/post-cut-check.md).** Keep each remaining claim's evidence, scope, and hedges under the [verb ladder](rules/claims/verb-ladder.md). Refer precisely to moved material's new location. Weaken a claim only when the remaining evidence supports less, not because the evidence moved. Reread the problem, gap, approach, findings, and implications, and restore reasoning steps lost in the cut. Repair references to cut text or nonexistent appendix sections, cite every remaining figure and table, and define each term before its first use.
 
 ## Prose
 
-### Build understanding early
+**[Explain ideas in the order readers need](rules/prose/explanation-order.md).** At any point, readers should understand as much as the preceding text could have explained:
 
-At any point in the text, the reader should understand as much as the preceding material could have explained.
+- State the main idea before how it works, and a finding and its interpretation before the supporting evidence.
+- Put a section's claim in its first paragraph, and open each paragraph as the [paragraph rule](rules/prose/paragraph-development.md) directs.
+- Define unfamiliar terms before using them.
 
-Present the main ideas before the details:
+To test the order, cover everything after a given sentence and ask what the reader knows so far. If a covered sentence would explain more of the visible text than an uncovered one, move it earlier. A sentence that only adds precision to an understood claim can stay. You may reorder sentences within a paragraph and paragraphs within a section, but flag moves between sections. Within a sentence, follow [old before new](rules/prose/old-before-new.md) and [stress position](rules/prose/stress-position.md).
 
-- The high-level idea precedes the detailed mechanism.
-- The result and its interpretation precede the supporting evidence.
-- State the paragraph's claim in its first sentence. A results paragraph may state it in the second sentence, after the [question it answers](#paragraphs). State the section's claim in its first paragraph.
-- A definition precedes its first use, and context precedes anything new that depends on it.
-
-Test the order by covering everything after a given sentence and asking what the reader knows so far. If a covered sentence would explain more than an uncovered one, move it earlier. Apply this rule to paragraphs within a section and sentences within a paragraph. Within a sentence, put new information last, in the [stress position](#information-flow-within-a-sentence).
+**[Apply the deletion test without changing meaning](rules/prose/deletion-test.md).** Test every clause by deleting it. Keep a deletion only if the word or clause adds nothing and the sentence remains as easy to understand. Every deletion, replacement, or restructuring must keep the [structural words](rules/prose/first-reading.md) needed on the first reading and preserve who does what, what each word refers to, whether something is possible, required, or actual, definitions, logical relations, distinctions, cases covered, and the author's stance. Apply the [claim rules](rules/claims/scope.md) to any substantive change. If you are unsure whether an edit changes the meaning, keep the original and flag the ambiguity.
 
 ### Paragraphs
 
-- Make one point per paragraph, stated as a specific claim in its topic sentence. "Results were mixed" and "We now analyze robustness" [announce](#concision) a theme; "The gain vanishes without pretraining" states a claim. A results paragraph may instead open with the specific question it tests, provided the next sentence answers it. Put the evidence after the answer.
-- Judge a paragraph by whether its point is developed and coherent, regardless of its sentence count. Merge a short paragraph with an adjacent one only when they make the same point. Split a paragraph where its sentences begin to support a different topic sentence.
-- Use transitions that express a valid logical relation (*therefore, however, because, in contrast*). If the premises before "therefore" do not entail the next sentence, flag the missing inference rather than keep the word.
-- Do not alternate between two topics (A, B, A); finish one before starting the other. Express parallel ideas in parallel grammatical form.
+**[Develop one point per paragraph](rules/prose/paragraph-development.md).** State the point as a specific claim in the first sentence rather than [announcing](rules/prose/signposts.md) a theme. Only when readers need context to understand the claim, give at most one sentence of context from the draft before it. A results paragraph may open with the specific question it tests if the next sentence answers it, followed by evidence. A descriptive or procedural paragraph may open with its first fact or step, except where a Methods section opens with its key idea ([section openings](rules/story/section-openings.md)). Judge a paragraph by whether its point is developed and coherent, not by sentence count. Keep both sides of a comparison in one paragraph when they support one point. Split a paragraph where its point changes; merge short paragraphs only when they develop the same point.
 
-**Read the topic string.** When individual sentences are clear but the paragraph does not cohere, list the opening of each sentence. This list is the paragraph's topic string. If most openings introduce new material, rewrite so that each sentence [opens with old information](#information-flow-within-a-sentence). Then test each sentence boundary by inserting the implied connective in brackets ("[however]", "[therefore]"). If no connective fits, or you cannot determine which fits, the link is missing. Supply it if the text states it elsewhere; otherwise flag it. If "[therefore]" fits but the reader outside the subfield could not explain why the second sentence follows, flag the missing step in the argument. Inserting the connective cannot supply that step. Finally, check that each new term in a sentence's stress position is used later, unless it is the paragraph's conclusion.
+**[Use lists when readers need separate items](rules/prose/list-structure.md).** Use a list when readers must tell items apart or follow them one by one. Rewrite bullets as connected prose if they make an argument but hide its reasons or connections. Group long lists by categories established in the draft, keeping every item and qualification and distinguishing primary from secondary items. Suggest a table for comparisons across shared properties. Remove item numbers that imply an unsupported order or ranking unless the text refers to them. For contributions or objectives, flag rather than make any regrouping, renumbering, or conversion to prose.
 
-- Bad: "Contrastive pretraining needs large batches. Memory limits batch size on a single GPU. Gradient caching was proposed by Gao et al. (2021). Our method reaches the same accuracy at batch size 256."
-- Good: "Contrastive pretraining needs large batches, but memory limits the batch size on a single GPU. This limit is removed by gradient caching (Gao et al., 2021), which recomputes representations in a second forward pass. Our method also removes the limit, without the second pass, and at batch size 256 it matches the accuracy of gradient caching."
+**[Use connecting words only for relations the draft supports](rules/prose/transitions.md).** Replace "as", "since", or "while" when readers cannot tell whether it signals time, cause, or contrast. Use "conversely" only when the second statement reverses the first. Remove redundant connecting words, but keep those readers need. Flag "therefore" if the preceding statements do not support the conclusion. Follow the [causal-evidence rule](rules/claims/causal-language.md) for causal words.
 
-If two adjacent paragraphs can exchange places without further edits, determine whether the section lists parallel items. If so, add a [summary sentence](#concision) naming them. Otherwise revise the second paragraph to state how it depends on the first.
+**[Finish one topic before starting another](rules/prose/topic-order.md).** Repair any unexplained return to an earlier topic (A, B, A). In a comparison organized by named properties, each property can be the topic: compare all methods on one property before moving to the next, rather than regrouping by method.
+
+**[Check sentence openings with the topic string](rules/prose/topic-string.md).** When individual sentences are clear but the paragraph is hard to follow, check its connections:
+
+1. List each sentence's opening words (the topic string). Check that they advance the paragraph's point rather than merely repeat words. If concepts share a theme but their connection is unclear, state it from the draft or flag the gap. Consecutive sentences may keep the same topic, and a new term at a sentence's end need not recur unless the text promises to explain it. If most sentences start with new material, rewrite them to start with [old information](rules/prose/old-before-new.md).
+2. Insert the implied connective in brackets at each sentence boundary ("[however]", "[therefore]"). If no connective fits or you cannot tell which fits, supply the missing link from the draft or flag it. If "[therefore]" fits but a reader outside the subfield could not explain why the second sentence follows, flag the missing step in the argument.
+3. If two adjacent paragraphs could swap places without other edits, add a [summary naming their parallel items](rules/prose/direct-content.md) when they present parallel items, or state how the second depends on the first.
 
 ### Information flow within a sentence
 
-**Old before new.** Open each sentence with material that connects to the preceding text: a term from an earlier sentence or something the reader can infer from it, such as a part, member, attribute, or alternative. A concept is not old information merely because readers in the field know it. When a sentence has two old elements, open with the one mentioned more recently.
+**[Put old information before new](rules/prose/old-before-new.md).** Open each sentence with a term from the preceding text, or a part, property, or alternative readers can infer from it. A concept known in the field is not old information until the text introduces it. Among several old items, open with the one the sentence discusses, or the most recent if they are equally relevant. When changing voice or clause order, keep the paragraph's topic as the main subject. Keep useful passives under [alternative sentence orders](rules/prose/passives-fronting-inversions.md).
 
-**Stress position at the end.** Readers give emphasis to the end of a complete clause or sentence. Put the new information you want them to remember there ("In our experiments, adding the auxiliary loss improves accuracy by 12%", not "Accuracy improves by 12% when we add the auxiliary loss, in our experiments").
+**[Put important new information in the stress position](rules/prose/stress-position.md).** The stress position is the end of a sentence or independent clause. Check sentence, paragraph, and section endings for undeserved emphasis; move incidental material earlier. Move a qualifier such as "in these tests" from after the main point to the front instead of deleting it, unless it is a short condition that is clear at the end ([first reading](rules/prose/first-reading.md)). If several important items share one ending, split the sentence to give each its own ending. Check whether a paragraph's first sentence ends with the topic the paragraph develops. When joining or subordinating clauses, preserve the relative emphasis of findings and qualifications. Move an essential qualification out of parentheses if they make it look optional. Keep each scope condition with the claim it limits. Follow [pause punctuation](rules/deslopping/pause-punctuation.md) when using colons or semicolons.
 
-In a sentence with ordinary subject-verb-object order, you may depart from these principles deliberately. Other sentence orders must put old information before new. A passive with a by-phrase needs a subject at least as familiar as the by-phrase. A fronted phrase or an inversion ("Closest to our work is X") must open with something the passage has already mentioned. If such a construction opens with new material, rewrite it in ordinary subject-verb-object order.
-
-- Bad: "We add a contrastive loss. A memory bank of 65k negatives is required by this loss."
-- Good: "We add a contrastive loss. This loss requires a memory bank of 65k negatives."
-
-Preserve a passive, a "there is", or an "it ... that" sentence when it keeps new material out of the subject position.
+**[Keep old information first in passives, fronting, and inversions](rules/prose/passives-fronting-inversions.md).** In a passive with a by-phrase, keep the subject at least as familiar as the actor in that phrase. A fronted phrase or an inversion ("Closest to our work is X") must begin with old information; otherwise, use ordinary subject-verb-object order. That order may depart from [old before new](rules/prose/old-before-new.md) and [final emphasis](rules/prose/stress-position.md) when it is clearer. Keep a passive, "there is", or "it ... that" construction when it introduces new information without making it the subject.
 
 ### Sentence structure
 
-**Character-action principle.** Use the grammatical subject to name the actor and the verb to name the action. A nominalization expresses an action as a noun, often ending in *-tion, -ment, -ance,* or *-ing*. Rewrite it as a verb when it expresses the clause's main action after a verb with little meaning of its own ("perform an evaluation of", "lead to an improvement in"), or when several nominalizations occur together in one clause. Keep a nominalization that names a technique ("quantization"), refers to the previous sentence ("This reduction in memory ..."), replaces an awkward "the fact that", or appears alone in an otherwise clear sentence.
+**[Put actors in subjects and actions in verbs](rules/prose/character-action.md).** Rewrite a nominalization as a verb when it follows a weak verb ("perform an evaluation of") or shares a clause with other nominalizations. List a paragraph's main verbs: if most are "is", "has", or "leads to", check for actions expressed as nouns or left unstated. Flag any actor or action of one actor on another that the draft omits. Keep a nominalization that names a technique ("quantization") or recurring concept, refers to the previous sentence ("This reduction in noise ..."), replaces an awkward "the fact that" clause, or appears alone in a clear sentence.
 
-- Bad: "The optimization of the objective through the application of gradient descent led to an improvement in accuracy."
-- Good: "We optimize the objective with gradient descent, which improves accuracy."
+Keep subject-verb pairings literal. Replace a figurative actor ("the schedule launches the jobs") with the actual actor; a component, instrument, or organism may be the subject of an operation it performs ("the filter removes duplicates"). Keep an instrument or organism as that subject. When an inanimate subject takes a verb of intending, thinking, perceiving, feeling, remembering, or eating, replace the verb with the literal action stated in the draft. Keep established technical verbs with inanimate subjects ("the function expects an integer", "the model learns"), and a result or figure as the subject of a [reporting verb](rules/claims/verb-ladder.md) ("the results suggest"). Follow [voice](rules/conventions/active-voice.md) and [information flow](rules/prose/passives-fronting-inversions.md).
 
-Keep the subject-verb pairing literal. The active but figurative "the schedule launches the jobs" needs the actual actor ("we launch the jobs on the schedule"). A component that performs the operation may be the subject ("the filter removes duplicates"); a schedule performs no operation. Only a person or animal may be the subject of a verb that normally requires one, such as a verb of intention, thought, perception, feeling, memory, or eating (*promises, hopes, misunderstands, forgets, bites, swallows*). With an inanimate subject, the reader may need to reinterpret the verb as a figure of speech, so name the literal event ("the docstring promises that hidden folders are skipped" becomes "the docstring states that hidden folders are skipped"; "the parser swallows the error" becomes "the parser catches the error and returns False"). Keep verbs the field uses routinely for programs and models ("the function expects an integer", "the network learns features"). Use a [reporting verb](#the-verb-ladder) for a result or figure ("the results suggest").
+**[Make every sentence clear on the first reading](rules/prose/first-reading.md).** Length alone is not a defect. Put subjects next to verbs and verbs next to their objects or required phrases ("compare X with Y"). Shorten long opening phrases or clauses. Move a long subject clause toward the end ("It remains open whether the gain survives at larger scale") and, when grammar allows either order, put the longer of two phrases last, unless the long part states old information. Keep short, familiar asides. Move an interruption that introduces new material or a full clause to the beginning or end, make it a separate sentence, or cut it if it adds nothing, unless it states old information readers need there. Never nest one such interruption inside another before the main verb.
 
-To find actions expressed as nouns or left unstated, list the paragraph's main verbs. If most are *is*, *has*, or *leads to*, the actions are in nouns or missing. If the passage never says what one actor does to another, flag the missing action.
+Rewrite strings of three or more nouns with a preposition or clause. Break up long sequences of modifiers, usually more than three words before the head noun. Count an established technical name ("large language model") as one noun.
 
-**Make every sentence clear on the first reading.** Identify and fix what forces the reader to reread. Do not split a sentence solely to shorten it.
+Keep articles so that sentences read as prose, not notes. Keep optional words that mark the start of a long or hard-to-predict clause. Restore "that" after verbs such as "assume", "suppose", "show", "prove", or "find" when readers could first take the next noun as the verb's object; after other verbs, adjectives, and conjunctions when a long clause follows; and before a long relative clause. Restore "that were" in a shortened clause such as "the samples stored in the cabinet" when readers could take "stored" as the main verb. Use "in order to" when bare "to" could look like a value ("we limit the batch size in order to fit in memory"). Do not add optional words to short, predictable clauses, or "that" after "we have".
 
-- Keep the subject next to its verb, a verb next to its object, and a verb next to the phrase it requires ("compare X with Y"). A short aside containing only previously mentioned material may stay. Do not separate the subject from its verb with a list or a long modifying phrase. For example, "the five expression types (attribute access, subscripts, calls, nested calls, and string literals) leave the cursor in place" becomes "the five expression types leave the cursor in place: attribute access, subscripts, calls, nested calls, and string literals". If an interruption introduces new material or a full clause ("the gain, once the cache is warm, disappears"), move it to the beginning or end, make it a separate sentence, or cut it. Never nest one such interruption inside another before the main verb.
-- When grammar allows either order, put the longer of two phrases last, unless it contains the old information. Likewise, move a long clause out of the subject position ("It remains open whether the gain survives at larger scale"), unless it contains the old information.
-- Give each item that deserves emphasis its own stress position, at the end of a sentence or of a clause before a semicolon. Split a sentence if it has more items to emphasize than stress positions.
-- Unpack noun stacks. Three or more nouns in a row leave the reader to determine which noun modifies which, as in the headline "Squad helps dog bite victim". Rewrite the stack with a preposition or a clause ("the retrieval failure recovery path" becomes "the code path that runs when retrieval fails"). Also separate long sequences of modifiers, usually those with more than three words before the head noun. For example, "the multi-head cross-attention key-value cache eviction policy" becomes "the policy for evicting keys and values from the multi-head cross-attention cache". If the field treats a compound as one term ("large language model", "learning rate"), count it as one word.
-- Keep small words that clarify structure. A reduced relative clause can initially read as a main clause ("the models trained on noisy labels degrade"). Write "the models that were trained on ..." wherever the shorter form permits this misreading. Keep articles so that sentences read as prose rather than notes ("Model reaches 90% accuracy on benchmark").
-- Keep optional words that mark where a clause begins. Generated text tends to drop them; human writers keep them when the clause that follows is long or hard to predict. Keep "that" after "assume", "suppose", "show", "prove", and "find" when what follows could be read as the object ("Assume that A is a group", not "Assume A is a group"). Restore "that" after other verbs, adjectives, and conjunctions when a long clause follows ("we are confident that ...", "so that"), and at the start of an object relative clause with a long subject ("the bound that the analysis in Section 4 gives"). Restore "in order to" when "to" alone could be read as part of the preceding phrase ("we limit the batch size in order to fit in memory", since "limit the batch size to" takes a value). Do not add "that" after "we have", and do not add optional words to short, predictable clauses.
-- Put "only" immediately before the word it restricts. "We only evaluate on two datasets" restricts the verb; "We evaluate on only two datasets" restricts the count, which is usually what is meant.
-- Put a claim's conditions before its conclusion, unless a short trailing condition is unambiguous ("unbiased under assumption A1"). Give long conditions their own sentence ("Suppose that A, B, and C hold. Then X."). Enumerate steps or conditions when three or more are packed into one sentence.
-- Check that the sentence cannot be misread from left to right. "We prove that A and B imply C" first reads as proving A, so write "We prove that the two conditions A and B together imply C".
+Read from left to right for words that mislead at first: "We prove that A and B imply C" first reads as proving A, so write "We prove that the two conditions A and B together imply C". Make clear which noun a relative clause or verb-form phrase describes. Put "only" immediately before the word it restricts: "We only evaluate on two datasets" restricts the verb; "We evaluate on only two datasets" restricts the count, which is usually intended. Put a condition before its claim unless it is short and clear at the end. Give a long condition its own sentence, and list three or more steps or conditions instead of packing them into one sentence. If a sentence still contains too many concepts, follow [definitions and procedures](rules/prose/definitions-procedures.md).
 
-**No sentence-initial "And", "But", "So", or "Plus".** Do not open a sentence with "And", "But", "So", or "Plus"; the replacement must keep the relation the conjunction signaled.
+**[Read the sentence aloud](rules/prose/read-aloud.md).** Listen for hesitation, uncertainty about what to stress, or missing connections. Fix the structure, not just the punctuation. Even a sentence that reads smoothly can be unclear if it relies on pauses, stress, or background knowledge. Do not add a [writerly aside](rules/prose/writerly-asides.md) telling readers how to read it.
 
-- A "But" that corrects or limits the previous sentence becomes "However," or joins that sentence as ", but ...". A "But" that introduces a cited author's objection keeps the objection theirs: "Lee (2021) objects that the bound is loose", not "However, the bound is loose (Lee, 2021)".
-- An "And" that adds the last item of a series becomes "Finally," or joins the series. Do not substitute "In addition", "Moreover", or "Furthermore", which mark further support for a claim rather than the next item.
-- A "So" that introduces a consequence becomes "Thus," "Hence," or "Therefore," or joins the previous sentence as ", so ...". Vary the connective.
+**[Give parallel ideas the same grammatical form](rules/prose/parallel-form.md).** Ideas are parallel when they have the same logical role. Preserve their meaning: do not rename unlike objects or drop conditions to force symmetry. When "and" or "or" leaves unclear which modifiers or verbs apply to each item, repeat words or split the sentence. If the draft leaves the intended reading unclear, flag the ambiguity instead of choosing one. Compare things of the same kind, restoring an omitted quantity or verb when needed to make the comparison clear. When joining items as equals hides a causal or qualifying relation, state the relation the draft supports. Keep natural variation that is clear.
 
-Mid-sentence coordination is correct and stays ("we expect a gain but find none").
+**[Do not open a sentence with "And", "But", "So", or "Plus"](rules/prose/sentence-initial-conjunctions.md).** Keep the relation the conjunction signaled:
 
-**Read the sentence aloud.** If you hesitate or cannot tell which word to stress, identify and repair the structural cause. A punctuation change alone is insufficient. Use this test to diagnose the sentence while avoiding [writerly asides](#plain-wording).
+- Correction or limitation: Replace "But" with "However," or join the previous sentence with ", but ...". Keep a cited author's objection attributed to that author.
+- Last item in a series: Use "Finally" or join the item to the series. Do not use "In addition", "Moreover", or "Furthermore", which add support.
+- Consequence: Replace "So" with "Thus," "Hence," or "Therefore," or join the previous sentence with ", so ...".
 
-### Concision
+Vary the connective. Keep clear uses of these conjunctions within a sentence.
 
-**Test every clause by deleting it.** Ask what each word, phrase, and clause adds. Keep a cut if the sentence retains its meaning and remains as easy to read. Cut only words that add nothing; preserve those that supply a referent, scope, logical connection, or authorial stance, and the [small words](#sentence-structure) that mark a sentence's structure. A shorter sentence is not more concise if the reader needs longer to parse it.
+### Content instead of promises
 
-**State the content directly.** A sentence that gives a quantity or category but defers the content ("Three changes alter the reported accuracies, and we note each where it lands") gives the reader nothing to picture, check, or disagree with. State the changes if the draft provides them; otherwise flag the promise. To test the sentence, cover the rest of the paragraph. If the sentence amounts to "there are some, and they are below", it is empty. Cut a trailing promise ("..., and we discuss each below") when the draft states the content. Preserve a summary sentence that states the high-level idea or counts items that follow immediately ("We make four observations. First, ... Second, ..."). A count fails only when its items are deferred or absent.
+**[State the content directly](rules/prose/direct-content.md).** When a sentence only promises later content, calls a topic complex, or names a quantity or category while deferring its content, replace it with the draft's content, or flag the gap. Delete trailing promises such as "and we discuss each below" when the content is already present. Keep summaries of the main idea, counts whose items follow immediately, and statements of real uncertainty, a real dispute, an unresolved definition, or a [limitation](rules/claims/limitations.md). A sentence is empty if, read alone, it amounts to "there are some, and they are below".
 
-**Policy in place of finding.** When a sentence gives a rule where a result belongs ("Where a conclusion depends on the choice of metric, we report both metrics"), name the conclusions, the metrics, and the result for each metric.
+**[State findings instead of how they are reported](rules/prose/reporting-policies.md).** Replace a sentence that only states a reporting policy ("we report both metrics") with the draft's conclusions, measurements, and outcomes, or flag the missing results. Keep an actual reporting or analysis procedure when it explains what the authors did rather than replacing a result.
 
-**Empty verbs.** Verbs such as *affects, varies*, and *has implications for* assert a change without giving its direction or magnitude. State which way the quantity changes and by how much. The verbs *provides, enables,* and *allows* leave a mechanism unexplained when followed only by an outcome ("the cache enables fast retrieval"). Name the operation, or flag it if the draft does not state one.
+**[State the content a signpost announces](rules/prose/signposts.md).** Replace a signpost with the content it announces and, if needed, a location reference. Keep references that locate content, subject to the [abstract rule](rules/story/section-functions.md), and [genuine transitions and summaries](rules/cutting/protected-sentences.md). Keep a roadmap of at most two sentences at the end of an introduction or chapter opening unless the contributions already name their sections ([contribution claims](rules/story/contribution-claims.md)). Delete announcements that state no content, roadmaps within a section that repeat its subheadings, and signposts that take more effort to understand than they save.
 
-**Umbrella nouns.** Nouns such as *performance* and *quality* leave the measured quantity unspecified. Name it: accuracy, latency, peak memory, or BLEU.
+For each roadmap you keep, check that its item count, order, names, and distinctions match the actual sections or items. Correct mismatches that the draft resolves unambiguously, and flag conflicting categories.
 
-**Combine signposts with the content they introduce.** Replace a sentence about the text ("The previous section analyzed the encoder. This section presents the decoder.") with the content and a reference to its location ("The decoder maps each latent code produced by the encoder of Section 3 to a token sequence."). Keep a reference that locates content ("the proof is in Appendix B"). Also keep a roadmap of at most two sentences at the end of the introduction or of the opening of a thesis chapter. Delete signposts that name no content ("Section 7 concludes"), roadmaps within a section that repeat its subheadings, and signposts that require more effort to understand than they save. Transitions and summary sentences are [protected](#protect), rather than treated as signposts.
+**[State the reasons for a choice](rules/prose/choice-reasons.md).** Replace "for various reasons" or a list's final "etc." with the draft's reasons or items, or flag the gap, unless the omissions are obvious. When a claim depends on an unexplained method choice, give the draft's reason or flag its absence. Do not ask authors to justify routine choices whose role is clear. A reason for a choice is not evidence that the choice caused a result ([causal language](rules/claims/causal-language.md)).
 
-**Cut intensifiers.** Words such as *very, quite, extremely,* and *highly* add no information. Give the [measurement](#plain-wording) instead. Words that soften a claim (*essentially, largely, somewhat, relatively*; "the gap is essentially closed") are [hedges](#hedges); apply the rules on hedges to them. Cut *Note that* and *It is worth noting that* unless they warn against a likely misreading. Use *obviously, clearly, trivially,* and *it is easy to see* only for a step in a derivation or proof that is routine for the reader outside the subfield. Cut them from empirical or comparative claims ("clearly outperforms"), and flag any step that is not routine or is used in place of an argument.
+### Concrete quantities and operations
+
+**[Replace empty verbs with specific changes or operations](rules/prose/empty-verbs.md).** When "affects", "varies", or "has implications for" leaves a change unspecified, state its direction and size, or flag the missing measurement. When "provides", "enables", or "allows" states only an outcome, give the operation that produces it, or flag the missing operation. Keep wording that already explains the change or capability. For an explicitly untested hypothesis, state the hypothesized direction without requiring a measured size.
+
+**[Name the measured quantity instead of an umbrella noun](rules/prose/umbrella-nouns.md).** Replace umbrella nouns such as "performance" or "quality" with the measured quantity. Keep a defined collective label when the statement applies to all quantities it covers.
+
+**[Replace vague comparisons with measurements](rules/prose/quantified-comparatives.md).** For comparatives such as "more" or "faster", give the reported measurement and name what it is compared with. A label such as "large" needs a stated comparison or threshold and cannot replace the measurement. Do not calculate a ratio, such as a speedup or fold change, that the draft does not report.
+
+**[Cut words that add only emphasis](rules/prose/intensifiers.md).** Replace "very", "extremely", and similar words with the [measurement](rules/prose/quantified-comparatives.md) when the draft supplies it; otherwise, cut only the emphasis. Treat softeners such as "essentially" and "largely" as [hedges](rules/claims/hedges.md). Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a derivation or proof step that is routine for readers outside the subfield. Flag unexplained nonroutine steps and wording that substitutes for an argument.
 
 ### Plain wording
 
-**Say what literally happens.** Name the actual event, object, and quantity in the words you would use to explain them at a whiteboard.
+**[Say what literally happens](rules/prose/literal-wording.md).** Name the actual event, object, and quantity in words you would use at a whiteboard. Replace "utilize" or "leverage" with "use" when the meaning is the same. Replace abstract words such as "approach", "framework", "strategy", or "issue" with the specific things they stand for, unless defined and reused as shorthand. Name an object before describing its role in the authors' setup: write "the word *true* or *false*" before calling it "the assessment word".
 
-- *Figurative verbs.* In descriptions such as a loader that "retires" malformed rows, results that "move", or a filter that "passes on" borderline examples, replace the figurative verb with the literal event: the rows are deleted, the accuracy drops, or the filter accepts (or rejects) the examples.
-- *Nouns used as verbs.* When a noun is used as a verb for one occasion ("calendar it", "we footnote the caveat"), the reader must reanalyze the word as a verb and guess the action. Replace the word with a verb phrase that names the action ("add it to the calendar", "we state the caveat in a footnote"). Keep such a verb when the field uses it routinely ("we benchmark", "we cache the results"). Follow the [rule on parts of speech](#terminology) for technical terms.
-- *Unusual word pairs.* When two words rarely appear together ("verified red", "a reader-patience budget"), the pair compresses an idea into a phrase the reader must decode. Replace the pair with the ordinary wording for the idea ("verified that the test fails on the original code"). Keep established technical collocations, however rare outside the field.
-- *Phrasal verbs.* A verb with a particle ("carry out", "come up with", "figure out", and similar) has several meanings that its parts do not predict. Replace it with a single verb naming the operation ("run", "propose", "determine"), unless it is the standard term and no single verb has the same meaning.
-- *Inflated words.* Write "use" for "utilize" or "leverage", and "try to determine" for "endeavor to ascertain".
-- *Abstraction.* General nouns such as *approach, framework, strategy,* and *issue* describe an idea indirectly. For example, "we adopt a data-augmentation strategy to address the issue of overfitting" becomes "we augment the training data to reduce overfitting". Functional labels name an object by its role in the authors' setup ("the assessment word" for "the word *true* or *false*"). Name the object first, then its role if needed.
+Replace figurative verbs with the literal events stated in the draft, without guessing from the image. Rewrite a noun used as a temporary verb as a verb phrase naming the action ("we footnote the caveat" becomes "we state the caveat in a footnote"), following the [parts-of-speech rule](rules/conventions/parts-of-speech.md). Rewrite unusual word pairs that readers must decode ("verified red") in ordinary wording ("verified that the test fails on the original code"). Keep established technical terms, verbs, and word combinations. Replace opaque phrasal verbs only with exact equivalents.
 
-- Bad: "Losses above the threshold are winsorized."
-- Good: "Losses above 10.0 are set to 10.0 before averaging (winsorization)."
+Keep analogies whose correspondence the draft makes clear. Replace decorative or misleading imagery with literal wording, and never add a new analogy. For slogan-like sentences, follow the [aphorism rule](rules/deslopping/aphorisms.md). When explaining an unfamiliar term, keep the population, metric, and denominator it covers. Clarify ambiguous prepositions and which item "replace" or "substitute" removes and which takes its place, using only meanings the draft establishes; otherwise, flag the ambiguity.
 
-A technical term may still be the right word. Keep it and explain the literal operation at first use, as in the example.
+**[Use logical words unambiguously](rules/prose/logical-words.md).**
 
-**Use logical words unambiguously.** Replace "Any" with "every" or "some", according to the intended meaning ("the bound holds for every learning rate below 1/L"). Prefer "each" with a singular noun to "all" with a plural when the plural could imply that the objects share one value ("each run uses its own tuned learning rate"). Combine "if A, then if B, then C" into "if A and B, then C". Keep "then" after an "if" clause when the conclusion is a formula or technical claim. Preserve the negation of a monotonicity term, since "not nonincreasing" does not mean "increasing". Where the distinction matters, specify whether "Contains" means membership or inclusion as a subset.
+- Replace ambiguous "any" with "every" or "at least one", as the draft means.
+- If "all" with a plural noun could suggest that objects share one value, use "each" with a singular noun ("each sample is held at its own temperature").
+- Distinguish "not all" from "none". When it affects the claim, clarify whether "some" allows all cases or means fewer than all.
+- Rewrite a negative statement as a positive one only when both hold in exactly the same cases ("not nonincreasing" does not mean "increasing"), including values equal to a threshold. Keep a deliberate denial as a denial. With "not" and "because", clarify whether the denial concerns the outcome or its proposed cause.
+- When "can" or "should" could mean observation, capability, possibility, prediction, recommendation, or obligation, use the meaning the draft establishes, or flag the ambiguity. Follow [hedges](rules/claims/hedges.md) and [performed actions](rules/conventions/performed-actions.md). Keep impossibility, prohibition, and lack of obligation distinct when negating modal verbs.
+- Keep "then" after an "if" clause whose conclusion is a formula or technical claim. Combine nested conditions ("if A, then if B, then C") into one ("if A and B, then C") only when both govern the same conclusion, and keep necessary and sufficient conditions distinct. When "if" introduces a comparison rather than a condition, state the comparison separately from the claim.
+- Replace an ambiguous slash in prose with the words it stands for, such as "or" or "and", keeping standard abbreviations and notation.
+- Preserve whether a list is complete; "includes" alone does not imply omitted members.
+- When "contains" could mean membership or subset inclusion, state which.
 
-**Spell out definitions and procedures.** Describe every metric, rule, or procedure the reader must rely on in enough detail to recompute it, usually in one or two full sentences. Explain a formal definition in plain language alongside the definition when the reader must use it later.
+**[Spell out definitions and procedures](rules/prose/definitions-procedures.md).** Describe every metric, rule, or procedure readers rely on well enough to interpret and recompute its results, usually in one or two full sentences.
 
-- Bad: "Coverage is computed per document and averaged."
-- Good: "For each document, coverage is the fraction of its reference sentences matched by at least one generated sentence; we report the mean over the 500 test documents."
+- Definitions: Name the kind of thing and its distinguishing traits; expanding an acronym is not enough. Pair formal definitions readers need with plain explanations. For related concepts, state their shared category and differences. When definitions compete, state which the paper adopts and the draft's reason, without inventing alternatives.
+- Procedures: Do not flag standard steps covered by a precise citation. Keep every modification and the explanation readers need at that point. If a procedure only lists steps, state its purpose from the draft, or flag its absence.
+- Settings: During a story or overclaiming check, or when a result depends on an unstated setting, check that the draft gives the settings its kind of work needs, such as algorithm preconditions, random seeds, software versions, calibration, data exclusions, or participant recruitment and blinding. Flag each missing item without supplying a plausible default. Delete or move details needed for reproduction only as the [cutting rules](rules/cutting/sentence-dependencies.md) allow.
+- Hard explanations: When you cannot follow an explanation, use an example already in the draft to find the missing step, or flag the gap. Build difficult explanations from a simple case through necessary complications, using the draft's cases.
+- Examples: Flag a worked example that does not match the stated method or definition, without changing either. Reuse an illustrative input across methods unless it hides their differences. Prefer an available real input that explains the operation; keep toy cases when they explain it better. State what each example illustrates without inventing outcomes.
 
-**Make every referent clear.** Every pronoun, demonstrative, comparative, and shorthand noun must refer to one thing the reader outside the subfield can identify from the text alone. "The previous run" and "the baseline" assume context the reader lacks. Name the referent at first use ("the v1.2 measurement in Section 4.1") and reuse that name afterward. If an edit removes the context that connected a sentence to the argument, restore that context or flag the disconnected sentence, even if it is true. Readers skip headings, so the first sentence under a section title or a run-in paragraph title must make sense without it ("**Gradient caching.** Gradient caching recomputes ...", not "**Gradient caching.** This technique recomputes ...").
+**[Resolve references without changing the claim's status](rules/prose/referents.md).** Make each pronoun, demonstrative, comparative, and shorthand noun phrase identify one referent from the text alone. Name ambiguous baselines or previous runs with the draft's labels and reuse those names. The first sentence under a section title or run-in paragraph title must make sense without the title. Restore context lost during editing, and flag connections you cannot resolve rather than choosing a referent.
 
-**Add a noun when "this" has an ambiguous referent.** When "this", "that", or "it" could refer to more than one earlier noun or clause ("We prune low-magnitude weights and retrain. This improves generalization."), add a noun naming the referent ("This pruning step improves generalization"). A bare "this" may stay in the standard interpretive openings "This means that", "This is because", and "This suggests that" when it follows a single clear claim.
+Replace an ambiguous "this", "that", or "it" by naming the referent the draft supports. Preserve its status and evaluation: a conjecture is not a finding, and a change is not necessarily an improvement. Allow bare "This" to introduce an interpretation after one unambiguous claim, as in "This means that", "This is because", and "This suggests that".
 
-**No writerly asides.** Conversational idioms and clipped instructions ("Call it a wash.") belong to an essayistic style. Replace them with sentences that state the claim and its reason ("Treat this as an upper bound." becomes "This estimate is an upper bound, because the scan also counts duplicates."). A deliberately short sentence is welcome when it is complete and literal.
-
-**Quantify comparatives.** Give the measurement in place of a qualitative comparison ("Our method runs in 0.3 s per example versus 1.1 s for the baseline (3.7× faster)", not "Our method is much faster"). Lead with the headline number, describe the pattern in words, and refer to the table for the remaining values.
-
-**Give the reasons.** Do not write "for various reasons" or end a list with "etc." unless the remaining items are obvious.
-
-### Comparing with prior work
-
-- **Compare, do not list.** End each paragraph or group of paragraphs on prior work by stating how this work differs on a named dimension (an assumption, a metric, a cost, a setting, or a guarantee). Use terms the reader can check. If the draft does not state the difference, flag it rather than supplying one.
-- **Characterize prior work in its own terms.** State what a cited work does and under what assumptions before describing what it lacks for this work's setting. Do not describe a difference in scope as a defect ("ignores", "fails to") unless the draft shows the failure. Preserve the sentence crediting the predecessor, which is [protected](#protect). Retain the cited work's own strength of claim; if the source says its results suggest X, do not write that it shows X.
-- **Mark what is new.** When a passage combines the text's own contribution with standard or borrowed components, distinguish them clearly ("we use the probe of Smith et al. [4]; our change is to ..."). If the text leaves the novelty ambiguous, flag it rather than deciding it.
-
-- Bad: "Gradient caching [12] reduces memory. Memory-efficient attention [8] reduces memory. Our method reduces memory."
-- Good: "Gradient caching [12] and memory-efficient attention [8] both reduce training memory, the first by recomputing representations in a second forward pass and the second by tiling the attention computation. Our method also reduces training memory but needs no second forward pass."
-
-A comparison that is vague on both sides is the [false concession](#tolerable-patterns) pattern. Leave the related-work section where it is, and flag it only when it comes before the method and cannot be understood without it.
+**[State claims and reasons in complete, literal sentences](rules/prose/writerly-asides.md).** Replace conversational idioms such as "Call it a wash" and editorial commands with complete, literal statements of the claim and the draft's reason for it, or flag a missing reason. Keep a deliberately short sentence when it is complete and literal. Follow [intensifiers](rules/prose/intensifiers.md) for "Note that" and similar prompts. Preserve the author's supported stance under [author voice](rules/deslopping/author-voice.md).
 
 ## Conventions
 
-These conventions override generic writing advice.
+When a convention in this section conflicts with general writing advice, follow the convention.
 
-### Voice and person
+### Voice and tense
 
-- Default to active voice with first-person "we" for the authors' actions and decisions. In derivations and proofs, "we" may also mean the author and reader together.
-- Choose one agent for the steps of a method or algorithm: either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate"). Use that agent throughout the description. Always use "we" for the authors' choices about the method ("we set k = 5").
-- State actions directly. When the work described includes the action, replace "We can compute X" with "We compute X", and replace "aims to" and "seeks to" with the verb itself. Preserve the wording of an unused capability or a goal explicitly marked as unattained, since changing it would [change the claim](#claims). Replace the ungrammatical "allows to model" with "models" or "allows us to model", according to the draft's meaning.
-- Passive voice is appropriate when the agent is obvious or irrelevant ("Images are normalized to zero mean"), when it keeps [old information in the subject position](#information-flow-within-a-sentence), or when it moves a long phrase naming the agent to the end.
-- In single-authored writing, keep the author's choice of "I" or "we" and apply it consistently. Do not change "we" to "I".
+**[Use active voice and keep the actor consistent](rules/conventions/active-voice.md).** Use active "we" for the authors' actions and decisions, but not for the research community or people in general; "we" may include the reader in derivations and proofs. In method descriptions, consistently use either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate") as the actor. Use "we" for design choices ("we set k = 5"). Keep a single author's choice of "I" or "we" and apply it consistently. Do not assign an action to the authors when the draft omits the actor.
 
-### Tense
+Keep passives:
 
-Use present tense for the text's contents ("Section 4 shows", not "we will show"), its results, its method and setup ("we train for 10 epochs"), established facts, and prior work of continuing relevance ("Smith et al. propose"). Use past tense for events at a specific time outside the described procedure ("we collected 500 documents in 2024"). Preserve a draft's consistent use of past tense for its experiments. Use future tense only for planned work that has not been done, as in a proposal. Within a paragraph, use the same tense for a subject whose time frame does not change. Prefer simple tense to perfect tense ("Smith et al. show", or "showed", not "have shown"). Keep the perfect only when current relevance is the point ("no prior work has evaluated X at this scale").
+- When the actor is obvious, irrelevant, or unknown.
+- When they put [old information first](rules/prose/passives-fronting-inversions.md).
+- When a long actor belongs at the end.
+- In clear passive modifiers ("the samples selected by technicians").
+
+**[State performed actions directly](rules/conventions/performed-actions.md).** When the draft shows that an action was performed, replace "can", "aims to", or "seeks to" with a direct verb. Keep them for an unused capability or unreached goal when removing them would [change the claim](rules/claims/scope.md). Replace the ungrammatical "allows to model" with "models" or "allows us to model", as the draft means.
+
+**[Match tense to the time frame](rules/conventions/tense.md).**
+
+- Use present tense for the paper's contents ("Section 4 shows"), results, method and setup, established facts, and prior work that still applies.
+- Use past tense for events at a specific time outside the described procedure ("we collected 500 documents in 2024"), and keep it for reported findings ("Lee found that the alloy was weaker"), hypotheticals ("if the sample were larger"), and a draft's consistent past tense for experiments.
+- Use future tense only for plans not yet completed, as in a proposal.
+- Prefer simple to perfect tense ("Smith et al. show" or "showed", not "have shown"), but keep perfect tense for current relevance ("no prior work has evaluated X at this scale") or an event before another past event ("had tested").
+
+Keep tense consistent within each time frame. Do not turn a general research recommendation into the authors' own promise. Replace a relative date, such as "last year", with the draft's calendar date, or flag it.
 
 ### Terminology
 
-Use the same word for a concept throughout the text. Do not alternate synonyms ("network", "model", "architecture", "system") for variety. Vary sentence structure and function words while keeping technical terms consistent. To find inconsistent usage, list every word used for each of the text's most frequent concepts. More than one entry per concept is an error unless the text defines the terms as different things. When a later passage treats a parallel or more general case, repeat the earlier wording exactly, then state the difference.
+**[Use one term per concept](rules/conventions/term-consistency.md).** Do not alternate terms such as "device", "sensor", and "system" for variety, including in captions and figure labels; vary sentence structure and function words instead. Keep different names only for distinct concepts, such as types, scopes, or measured quantities. Use the field's standard term when the draft makes clear that its own term means exactly the same thing ("learning rate", not "step factor"), but flag the authors' label for something they introduce rather than renaming it. A clear pronoun or bare demonstrative may refer back to the term in the same or next sentence, but use the specific name rather than a general category noun ("this compound"). To find synonyms, list the names the draft uses for each recurring concept, and flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. When describing a parallel or more general case, repeat the earlier wording exactly, then state what differs. When naming a formula's role helps readers follow without looking back, use its established role, such as a bound or definition, rather than calling it an equation.
 
-Where possible, use each technical term as one part of speech. "Sample", "estimate", and "model" can be nouns or verbs. Using one in both roles within a sentence ("we sample 1,000 samples") requires the reader to identify the part of speech at each occurrence. If the text needs both roles, keep them in separate sentences ("we draw 1,000 samples").
+**[Avoid using one technical term as both a noun and a verb](rules/conventions/parts-of-speech.md).** If using a technical term as both noun and verb in one sentence forces rereading ("we sample 1,000 samples"), replace the verb with an ordinary one ("we draw 1,000 samples") or split the sentence. Otherwise, leave it alone.
 
-Spell out an acronym at first use and again at the start of each major section or chapter where it reappears. An abstract does not count as first use. Do not coin an acronym for a term used only once or twice. Prefer the spelled-out term unless the acronym is standard in the field or replaces a long multi-word name used throughout the text. Spell out acronyms that save no syllables when read aloud ("BS" for batch size) or have another common expansion in the field ("LR"). If the acronym also appears in tables or figures, flag the change to avoid making them inconsistent with the prose.
+**[Spell out acronyms and introduce few new ones](rules/conventions/acronyms.md).** Spell out an acronym when repeated use begins; use the full term for isolated earlier mentions. Define it separately in the abstract and body, and again at the start of each major section or chapter where it returns. Prefer the full term unless the acronym is standard or shortens a long, recurring name; spell out an acronym that appears once or twice, has another common expansion in the field, or saves no syllables when read aloud ("TS" for time step). Flag an acronym in the title that readers outside the subfield would not know before reading the abstract. Propose spelling it out, but leave the title unchanged. Flag opaque coined labels rather than renaming them, unless [term consistency](rules/conventions/term-consistency.md) calls for the standard term. If you would spell out an acronym that also appears in tables, figures, or code, flag the replacement instead.
 
-**Refresh long-lived shorthand.** When shorthand returns after a gap or at a section boundary, remind the reader of its definition ("the graph-search step (Dijkstra's algorithm)", "the contrastive loss L_c defined in Section 3"). Generic shorthand is especially easy to misread ("search" for Dijkstra's algorithm, "the loss" in a text that defined three). Reuse the same term with a reference to its definition, and phrase the reminder as a reminder. Do not substitute a synonym.
+**[Remind readers what shorthand means after a gap](rules/conventions/shorthand-reminders.md).** When shorthand or a symbol returns after a long gap or section boundary, remind readers of its name and either its definition or where it was defined ("the contrastive loss L_c defined in Section 3"). Phrase this as a reminder rather than a new definition. Replace ambiguous labels such as "the rate" with the original full name, and name a distant display referred to by number alone ("the energy balance (9)").
 
-Check for suggestive, overloaded, and suitcase terms. A suggestive coinage names a technical object with a colloquial expression ("thought vector", "the model understands"). An overloaded term changes a precise meaning used elsewhere ("deconvolution" for transposed convolution). A suitcase word has several meanings ("generalization" can mean train-to-test performance, transfer, or validity outside the experiment); state which meaning applies. If the text coins the term, flag it and suggest a literal name. If the term is established in the field ("curiosity" as an intrinsic reward), keep it and explain the literal operation at first use. Preserve the accepted shorthand "The network learns features". Replace "the model tries to reason", because intention belongs to the authors ("we train the model to").
+**[State what ambiguous or suggestive terms mean](rules/conventions/suggestive-terms.md).**
 
-### Citation markers are not nouns
+- Suggestive coinages name technical objects with colloquial expressions (an "intelligent" coating). Flag them even when defined, and suggest literal alternatives, unless a standard term means exactly the same thing ([term consistency](rules/conventions/term-consistency.md)).
+- Overloaded terms change a precise meaning used elsewhere ("deconvolution" for transposed convolution), and technical words can be used loosely ("exponential" for rapid growth). Replace either with the precise wording when the draft establishes the intended meaning; otherwise, flag it.
+- For words with several meanings in the field ("generalization": train-to-test performance, transfer, or validity outside the experiment), state which meaning applies.
+- Keep established technical wording ("the enzyme recognizes its substrate"), but explain the literal operation at first use.
+- When an ordinary word collides with a nearby technical term ("a normal sample" near "normal distribution"), replace the ordinary word and keep the technical term.
+- Replace an intention or mental state attributed to a system ("the particle wants to minimize its energy") with the literal operation or the authors' design goal, or flag it.
 
-A bracketed or parenthetical citation marker cannot be the subject or object of a sentence because it is not a noun. An author name is a noun and may be either.
+Follow [definitions and procedures](rules/prose/definitions-procedures.md) for unfamiliar categories and competing definitions.
 
-- Bad: "[10] was the first..." / "(Smith, 2001) shows that..."
-- Good: "Smith et al. [10] were the first..." / "Widgets reduce latency (Smith, 2001)." / "Smith (2001) shows that..."
+### Mathematics
 
-In LaTeX, use `\citet` for textual citations and `\citep` for parenthetical ones, with a non-breaking space before the citation (`widgets~\citep{smith2001}`). Use "et al." only for three or more authors. Put the period on "al." only, and do not italicize the phrase.
+**[Define each symbol by its first use and give it one meaning](rules/conventions/symbol-definitions.md).** An informal definition suffices at first use; [refresh it after a gap](rules/conventions/shorthand-reminders.md). Give each object one symbol, and introduce no symbol the text does not use again. Flag conflicting meanings, symbols used contrary to their standard meaning in the field, unused definitions, easily confused symbols, dense notation, and functions equated with their values ("$V = 0.31$" meaning "$V(x_0) = 0.31$"). Keep local definitions near the passages that use them. Move scattered definitions of symbols used throughout the paper into an existing Preliminaries or Notation section only if the request [allows relocation](rules/cutting/idea-cuts.md); otherwise, flag them. Do not create a Preliminaries or Notation section. Suggest, rather than make, any renaming or other notation improvement, such as replacing an index that distinguishes nothing with words, giving a recurring complex expression a short name, or grouping related quantities in a vector, set, or other collection.
 
-Move a citation out of a lead-in when the sentence states an established result the text relies on ("In a recent study, Smith et al. (2015) showed that X" becomes "X (Smith et al., 2015)"). Keep the authors as the subject when the sentence characterizes, contrasts, or reports a claim of theirs that the text does not itself assert.
+Flag unspecified factor order in noncommuting products and inconsistent use of definition signs. For ranges, flag unclear finite bounds, endpoint inclusion, index origin, element types, or empty-range conventions. Supply conventions only from the draft; never assume commutativity or merge boundary cases to shorten notation.
 
-### Notation and equations
+**[Write mathematics as grammatical prose](rules/conventions/math-prose.md).** An equality can supply a sentence's verb. Check the grammar by mentally replacing each formula with words that play the same role.
 
-- Define each symbol at or before its first use, at least informally, and [refresh it on reuse](#terminology) ("the sample space 𝒳", not bare "𝒳" pages later).
-- If the text already has a Preliminaries or Notation section, move global notation there only when the request [allows relocation](#cutting). Otherwise flag the misplaced definitions. If no such section exists, flag the scattered definitions. Do not create the section, since that would reorder the text.
-- Introduce no symbol the text does not use again ("Every continuous function on a compact set is bounded" needs no "f"). Do not give one symbol two meanings, or one object two symbols. If L(θ) is the training loss, do not write "L = 0.31" for its final value; write "L(θ_T) = 0.31".
-- Never start a sentence or a clause with a symbol ("A function f is semicontinuous if...", not "f is semicontinuous if..."), and spell out a number that starts a sentence. Separate symbols in adjacent formulas with words ("Consider S_q, where q < p").
-- In running prose, write "for all", "there exists", and "implies" in place of ∀, ∃, and ⇒, except in work on logic. Do not use a relation symbol as a word within a verbal phrase ("the step size is at most 0.1", not "is ≤ 0.1").
-- Set multi-letter operators and word subscripts upright (`\log`, `\operatorname{softmax}`, `\mathcal{L}_{\text{train}}`). A subscript that is itself a variable stays italic (`x_i`).
-- Treat equations as parts of sentences, with "=" as the verb. End a displayed equation with a period if it ends the sentence and a comma if the sentence continues. Put no colon before a display that completes the sentence ("the loss is", not "the loss is:"). A colon is correct after a complete clause ("we define the loss as follows:"). In LaTeX source, leave no blank line before or after a display that continues the paragraph.
-- Use a trailing "where" to explain the symbols in a display ("..., where λ controls the trade-off"). If a trailing "where" defines a term on which the claim depends ("Every convex polynomial has even degree, where a function is convex if ..."), move that definition before the claim. Within a theorem statement, define each symbol before using it.
-- Replace every non-trivial formula with "blah" and reread. The prose must still read as sentences.
-- Number every display referred to in the text. Also number central displays (the objective, the update rule, the main bound), even without a reference to them. Leave intermediate steps unnumbered.
-- Make the sentence before a theorem, lemma, or algorithm complete or end it with a colon. Make the statement self-contained by naming its objects ("The function H defined in (5) is continuous"), and exclude motivation and commentary. If the hypotheses exceed a few lines, flag the statement and suggest named conditions defined before the theorem ("Assumption 1 (smoothness)").
-- Open a proof by naming its strategy ("We prove the claim by induction on t"), and mark each subgoal when it is met. Make clear throughout whether each statement is assumed, proved, or claimed with its proof deferred.
+- Begin sentences and clauses with words, not bare symbols. Spell out sentence-initial numbers regardless of the number-spelling cutoff.
+- Separate adjacent formulas with words ("Consider S_q, where q < p"), even across sentence boundaries.
+- Reword a sentence-final symbol that could be read as part of the next name or abbreviation.
+- Except in work on logic, write quantifiers and implications in prose as words ("for all" for $\forall$).
+- Never let a relation symbol stand for words in a verbal phrase ("is at most 0.1", not "is $\le 0.1$").
+- A trailing "where" clause may define symbols, but put definitions needed to understand a claim before it.
+- End a displayed formula with a period if the sentence ends or a comma if it continues.
+- Put a colon before a display only after a complete clause ("we define the loss as follows:"), never after an incomplete one ("the loss is:").
+- In LaTeX source, put no blank lines around a displayed formula that continues its paragraph.
 
-### Figures and tables
+**[Explain why an equation or definition is needed](rules/conventions/formal-material-purpose.md).** Flag any central equation, definition, or intermediate result (lemma, theorem, or algorithm) whose purpose the draft does not state; do not infer a purpose. Within a section, move the draft's explanation of why the material is needed before the material itself; flag a move from another section. Follow [formal support](rules/claims/evidence-kind.md) when an application depends on unstated conditions.
 
-- **Captions.** Write captions that let readers interpret a figure correctly without reading the body text. State what is plotted or tabulated: the quantities, units where applicable, plot axes, and whether higher or lower is better when that is not obvious. Name the conditions (dataset, model, setting), explain each visual encoding (line styles, colors, shaded regions, and [error bars](#uncertainty-and-significance)), and state the figure's main point. A caption that only names the figure ("Results on ImageNet.") is incomplete. Complete it with the wording from the paragraph that references the figure; flag missing facts if they appear nowhere in the draft. Check that the caption and body text describe the figure consistently.
-- **References in text.** Refer to every float in the sentence stating its claim ("Accuracy falls as the noise rate rises (Figure 6)" or "Figure 6 shows that accuracy falls as the noise rate rises", not "In Figure 6 we show the results"). If the claim depends on a value the reader can only estimate from the plot, give that number in the sentence or caption. Flag it if neither states the value. Write `Figure~\ref{...}` with a non-breaking space, and capitalize "Figure 6", "Table 2", "Section 4", and "Theorem 1". In LaTeX source, put `\label` after `\caption`. Flag every "?" or "??" in rendered text, which marks an undefined `\cite` or `\ref`.
+**[Use the correct type for operators, subscripts, and signs](rules/conventions/math-typography.md).** Use upright type for multi-letter operators (`\log`, `\operatorname{softmax}`) and word subscripts (`\mathcal{L}_{\text{train}}`), but italic for variable subscripts (`x_i`). Use × (`\times`) for multiplication and multiplicative factors rather than x or `*`, except in code. Write negative values in math mode (`$-0.3$`) to give them minus signs rather than hyphens. Fix LaTeX typography only when mathematical meaning stays unchanged, and flag any change to symbols, grouping, delimiters, or operator meaning. Propose a clearer form for ambiguous notation, such as a slash fraction whose denominator has no clear end, only when the draft establishes the intended meaning. Flag stacked inline fractions that disrupt line spacing, exponent fractions too small to read, and oversized delimiters; suggest slash fractions or smaller delimiters only with grouping preserved.
 
-- Bad caption: "Figure 3: Ablation results."
-- Good caption: "Figure 3: Top-1 accuracy (%) of ResNet-50 on ImageNet-1k when each component is removed, mean ± standard deviation over three seeds. Removing the auxiliary loss causes the largest drop."
+**[Number referenced and central displays](rules/conventions/display-numbering.md).** Number central displays, such as the objective and the main bound, even when the text does not refer to them; leave unreferenced intermediate steps unnumbered. Identify rejected formulas and counterexamples beside their displays using the draft's stated status; retain central counterexamples and negative results.
 
-### Typography and small style
+**[Make theorem statements self-contained](rules/conventions/theorem-statements.md).** Introduce a theorem, lemma, or algorithm with a complete sentence. In the formal statement, name its objects and include any needed definition reference ("The function H defined in (5) is continuous"). Define every symbol before use, and keep motivation and informal comments outside the statement. If hypotheses run for several lines, flag the statement and suggest extracting them into named conditions defined before it.
 
-- Hyphenate compound modifiers before nouns ("real-time inference", "three-layer network"). Leave the predicate form unhyphenated ("inference runs in real time"). Preserve an established field term without hyphens when the draft consistently writes it that way ("a large language model").
-- Spell out small counts used as adjectives in running prose ("two passes"). Keep numerals for measured quantities, hyperparameter values even when small ("10 epochs"), quantities with units ("batch size 256", "0.3 s"), and values or names ("when k is 2", "Method 2"). Preserve a different cutoff if the draft or its style guide applies it consistently.
-- Use "i.e." to mean that is and "e.g." to mean for example; never interchange them. In US style, follow both with a comma. Italicize neither. Use "cf." to mean compare, not see.
-- Check that commas marking a non-restrictive clause match the intended meaning ("the encoder, which has 12 layers, ..."). Commas distinguish non-restrictive from restrictive clauses; the choice between "which" and "that" does not. Leave restrictive "which" unchanged unless the governing style guide requires "that". Do not put commas around a symbol naming the preceding noun ("a directed graph G with source s").
-- Do not use contractions, exclamation marks, emoji, or title case headings beyond the governing style guide. Use italics for definitions, not emphasis. Use quotation marks for quoted text, words mentioned as words, and terms the authors use without endorsing them (the model's "reasoning"). Explain what any such unendorsed term refers to. Do not put scare quotes around ordinary words.
-- Write × (`$\times$`) for multiplication and speedup factors, not the letter x or *, and a minus sign (`$-0.3$`), not a hyphen, for negative numbers. Separate a number from its unit with a non-breaking space (`0.3~s`).
-- Give units for measured quantities and axes where applicable. Use US or UK spelling consistently throughout. If the draft mixes two acceptable forms ("dataset" and "data set"), use the more frequent form unless the style guide specifies one.
+**[Open each proof with its strategy and state when each goal is met](rules/conventions/proof-strategy.md).** Make clear whether each statement is assumed, defined, established, or deferred to a later proof. Treat cases in the announced order and under their announced names. When moving from constructing an object to using it, state the property that justifies the next step. Add strategy or progress statements only from the draft; otherwise, flag the omission. Follow [intensifiers](rules/prose/intensifiers.md) for "clearly" and "it is easy to see". Flag deferred proofs whose stated dependencies form a cycle; a forward reference alone is not a defect. Flag missing equality links between successive bounds when the draft establishes that their right-hand sides are equal.
+
+### Citations, figures, and tables
+
+**[Keep citation markers out of subject and object positions](rules/conventions/citation-markers.md).**
+
+- Replace a citation marker used as a subject or object ("[8] introduces") with a textual citation that names the authors.
+- When asserting an established result, shorten "In a recent study, ... showed that X" to "X (citation)". Keep cited authors as the subject when reporting, characterizing, or contrasting a claim the paper does not assert, following [prior work](rules/story/prior-work-comparisons.md).
+- Place each citation beside the clause it supports when the draft identifies the connection; otherwise, flag a trailing cluster that obscures which source supports which claim. Flag any passage that leaves unclear where a source's material begins or ends.
+- Use the document's citation package commands, such as natbib's `\citet` (textual) and `\citep` (parenthetical), with a non-breaking space before a parenthetical citation (`result~\citep{key}`).
+- Use upright "et al." only for three or more authors.
+
+**[Flag missing citations and citation keys absent from the references](rules/conventions/missing-citations.md).** Flag technical claims presented as prior knowledge without an identifiable source, and citation keys missing from the supplied references. Common knowledge needs no citation, but never delete an existing citation as unnecessary. Preserve secondhand wording such as "as cited in". Follow [vague attribution](rules/deslopping/vague-attribution.md) for "Studies show". For a specific passage or result cited from a book or long survey, flag a missing page, section, or theorem locator.
+
+**[Write captions that stand alone and state the finding](rules/conventions/captions.md).** Complete a caption that only names its figure or table with facts from the citing paragraph; flag any needed facts absent from the draft. In each caption:
+
+- Identify quantities, units, axes, and conditions.
+- Explain each visual encoding (line styles, colors, shaded regions, [error bars](rules/claims/variability.md)), and state whether higher or lower is better when that is not obvious.
+- State the supported finding, check that it matches the body text, and name compared methods or conditions directly, not by color alone.
+
+In tables, flag unexplained blanks, dashes, and columns with mixed or missing units. Flag claims drawn from visual slopes or distances that the plot's stated axis ranges, dual vertical axes, or fitted-curve range do not support, and any extrapolated value described as measured; a truncated axis is not by itself an error.
+
+Flag table layouts that separate comparison partners or obscure groups; suggest placing entries together and ordering them to show the intended comparison, preserving meaningful chronological or semantic order.
+
+**[Cite each figure and table in the sentence that states its finding](rules/conventions/figure-table-references.md).** Replace announcements like "In Figure 6 we show the results" with the finding and its reference ("Accuracy falls as the noise rate rises (Figure 6)"). In the abstract, follow the [abstract rule](rules/story/section-functions.md). Point to the specific panel or comparison the draft identifies, with numbered references rather than relative pointers such as "below". When a claim needs an exact value that readers can only estimate from a plot, state the draft's value in the sentence or caption, or flag its absence. Flag unresolved citation or reference markers ("??"). Write `Figure~\ref{...}` with a non-breaking space, and capitalize "Figure", "Table", "Section", and "Theorem" for numbered items. Place an existing `\label` after its `\caption`.
+
+### Mechanics
+
+**[Make each free style choice consistent](rules/conventions/style-choices.md).** For equally accepted forms, follow venue requirements; otherwise, use the form established in the draft, choosing the more frequent form when the draft mixes them. Never change an accepted form merely by preference. Common choices include:
+
+- The variety of English (US, UK, Canadian, or another).
+- The spelling, spacing, and hyphenation of each term ("dataset" or "data set"). Keep an established field term unhyphenated when the draft consistently writes it that way.
+- Heading case. Where neither case predominates, use sentence case.
+- The cutoff below which numbers are spelled out as words.
+- The serial comma.
+
+**[State units clearly and never change a number's value or precision](rules/conventions/units-and-numbers.md).** Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats. Match forms within a comparison only when value and precision stay unchanged. Use the draft to resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats, or flag the ambiguity. Flag, rather than perform, any unit conversion.
 
 ## Deslopping
 
-Classify recognizable patterns of AI-written prose in two tiers.
+Patterns common in AI-written prose fall into two groups:
 
-1. **Blacklisted patterns.** Delete every instance, regardless of the co-occurrence test in tier two.
-2. **Tolerable patterns.** All other patterns are tolerable. Edit one when doing so improves the sentence itself. Rewrite a whole passage only when it contains three or more tolerable instances.
+1. **Blacklisted patterns.** Remove every instance, even a single one, or flag it where the rule says to. The three-instance threshold below does not apply.
+2. **Tolerable patterns.** Edit a single instance when the edit makes the sentence clearer. Rewrite a whole passage only when it contains three or more instances of tolerable patterns.
 
-**Preserve the author's voice.** Keep [varied rhythm](#tolerable-patterns) and genuine authorial stance. Never introduce a voice the draft lacks through added stance, manufactured emphasis, staccato fragments, a contrarian foil, or a detail absent from the draft. [Matching a claim's confidence to its evidence](#claims) calibrates the claim without adding stance. Follow the conventions on [voice](#voice-and-person), [tense](#tense), and [terminology](#terminology) when using first-person "we", present tense for the text and prior work, and deliberately repeated terminology. Generic de-AI advice wrongly changes these features.
+**[Preserve the author's voice](rules/deslopping/author-voice.md).** Keep the draft's [varied rhythm](rules/deslopping/repetitive-syntax.md) and the authors' own opinions and reactions. Never add opinions, reactions, emphasis, sentence fragments, opposing positions, or unstated details. [Verify that each rewrite keeps the meaning](rules/prose/deletion-test.md). Never treat ["we"](rules/conventions/active-voice.md), [present tense](rules/conventions/tense.md) for the text or prior work, or [repeated technical terms](rules/conventions/term-consistency.md) as defects merely because generated prose uses them. [Matching a claim's confidence to its evidence](rules/claims/scope.md) adds no opinion.
 
 ### Blacklisted patterns
 
-**Em dashes.** Delete every em dash, including `---` in LaTeX source and an en dash (–) used for the same pause. Substitute a colon, semicolon, or pair of parentheses only if it passes the [pause punctuation](#tolerable-patterns) test in that position. Otherwise rewrite the sentence to remove the need for a pause. Keep an en dash in a numeric range or a name formed from two people's names ("Sections 3–5", "Kullback–Leibler divergence"; `--` in source). Replace `--` only when used for neither purpose. Preserve hyphens in compounds.
+**[Delete em dashes](rules/deslopping/em-dashes.md).** Delete every em dash (`---` in LaTeX) and every en dash used as a pause. Use a colon, semicolon, or parentheses instead only if the replacement passes the [pause punctuation](rules/deslopping/pause-punctuation.md) test. Parentheses must also keep essential qualifications from looking optional under [stress position](rules/prose/stress-position.md). Otherwise, rewrite the sentence without the pause, preserving its emphasis. Keep hyphens in compound words and en dashes (`--`) in numeric ranges and names formed from two people's names ("Kullback–Leibler").
 
-**Chatbot artifacts.** Delete "Certainly!", "Great question", "I hope this helps", "As of my last update", and similar.
+**[Delete conversational replies left by a chatbot](rules/deslopping/chatbot-phrases.md).** Delete conversational replies to the user, such as "Certainly!" or "As of my last update". Keep such wording in material the paper analyzes.
 
-**Generic openings and closings.** Delete a sentence that could be added to any text in the field ("In the ever-evolving field of deep learning", "The future looks bright"), including apparently defensible versions ("There has been much recent interest in X"). Removing this bloat [needs no request](#cutting). If the draft states why X matters, replace the generic sentence with that reason.
+**[Delete generic openings and closings](rules/deslopping/generic-openings-closings.md).** Delete filler that could fit any paper in the field, even if it names the topic. This includes popularity claims that sound factual ("There has been much recent interest in X"). If the draft gives a specific reason the topic matters, use it instead. If readers need background first, follow [brief setup](rules/prose/paragraph-development.md).
 
-**Leaked generation artifacts.** Remove every chat-interface citation token (`citeturn0search0`, `contentReference[oaicite:...]`), AI-referrer URL parameter (`utm_source=chatgpt.com`), and unfilled template placeholder ("[Your Name]", "[Insert citation]") left by an unedited paste. Keep the surrounding sentence and flag the information missing from each placeholder so the author can supply it.
+**[Remove stray citation codes and placeholders, and flag missing information](rules/deslopping/generation-artifacts.md).** Remove artifacts left by an unedited paste, such as chat citation codes (`citeturn0search0`, `contentReference[oaicite:...]`) and unfilled placeholders ("[Insert citation]"). Keep the surrounding claim and flag the missing information. Flag URL parameters that identify an AI tool as the referrer, such as `utm_source=chatgpt.com`, for removal.
 
 ### Tolerable patterns
 
-**Patterns with a prose rule.** Check for [ornate words with plain alternatives](#plain-wording) (*delve, underscore, showcase, pivotal*, and similar), clauses with [several nominalizations](#sentence-structure), and [counts that promise items without stating them](#concision). Apply the linked rules, keeping an ornate word when it is precise.
+**[Apply prose rules to ornate words, actions written as nouns, counts, and lists](rules/deslopping/prose-rule-patterns.md).** Apply [literal wording](rules/prose/literal-wording.md) to ornate words such as "delve" and "pivotal", keeping a word when it is precise. Apply [character and action](rules/prose/character-action.md) to clauses that express several actions as nouns, [direct content](rules/prose/direct-content.md) to deferred counts, and [list structure](rules/prose/list-structure.md) to bulleted arguments.
 
-**Compressed constructions.** Generated text tends to favor the shorter of two ways to say something, even where the longer one is easier to read. Check for [inanimate subjects with verbs that need a person or animal](#sentence-structure), [nouns used as verbs and unusual word pairs](#plain-wording), and [noun stacks, dropped optional words, and long gaps between subject and verb](#sentence-structure). Apply the linked rules. Keep a short form that is clear on the first reading; the goal is a sentence the reader parses once, not a longer sentence.
+**[Expand compressed wording that slows the first reading](rules/deslopping/compressed-constructions.md).** Check for [inanimate subjects given human actions](rules/prose/character-action.md), [nouns used as verbs and unusual word pairs](rules/prose/literal-wording.md), and [noun strings, omitted "that" or articles, and long gaps between subject and verb](rules/prose/first-reading.md). Keep short forms that are clear on the first reading.
 
-**Pause punctuation.** Check for a vague assertion ("Retrieval itself helps") followed by a colon or semicolon and a full sentence of evidence without a grammatical link to the assertion. This construction needs revision whether or not it previously contained an em dash. Make one clause subordinate to the other ("..., as shown by Vasquez (2024), who reports ..."); replacing the punctuation with a period does not fix the problem. Cut the first clause if the second already states its entire claim. To test the construction, read the first clause alone. Keep the punctuation if that clause states a specific fact. Also keep colons that introduce lists, displays, quoted definitions, or labels, and semicolons between two specific facts.
+**[Repair pause punctuation between a claim and its evidence](rules/deslopping/pause-punctuation.md).** Read the clause before each colon or semicolon on its own. If it states no specific fact ("Annealing helps: conductivity rises by 40%"), join the claim to its evidence in words or delete the vague clause when the evidence states the whole claim. Replacing the mark with a period does not fix the vague clause. If the clause states a specific fact, keep a semicolon before a related fact or a colon before an explanation or example. Never use a colon that implies an unsupported identity, cause, or complete list. A colon may also introduce a list, a displayed formula under [mathematical punctuation](rules/conventions/math-prose.md), a quoted definition, or a label, unless it separates a vague claim from its evidence.
 
-After removing colons, check for the same pattern in a trailing phrase separated by a comma and missing its verb ("adds 0.9M parameters, under 0.002% of the backbone"). Restore the verb ("which is under"). Preserve appositives, participial adjuncts, and parallel elaborations that omit a previously stated verb ("the first by ..., the second by ..."). Count instances across the passage before deciding whether to rewrite it as a whole; three instances establish a recurring pattern.
+Restore any missing verb in a phrase after a comma ("adds 3 ms, below the limit" becomes "adds 3 ms, which is below the limit"). Keep appositives, clear participial phrases, and parallel phrases that share an earlier verb ("the tank holds 5 L, the bottle 1 L").
 
-**Reasoning-chain leakage.** Phrases such as "Let us think step by step" and "Breaking this down", along with numbered internal monologues, narrate the author's thinking. State the conclusion, then the evidence. Preserve standard mathematical setup ("Let X be", "Consider a graph G").
+**[Replace narration of the thinking process with conclusions and evidence](rules/deslopping/reasoning-leakage.md).** Replace narration of the writer's thinking, such as "Let us think step by step" or numbered accounts of that process, with conclusions and evidence. Keep mathematical setup ("Let X be"), proof steps, substantive reasoning that the result depends on, and model reasoning quoted or analyzed as experimental material.
 
-**Diff-anchored prose.** Accounts of revisions ("In this revised version, we now clarify", "As suggested by the reviewer, we have added") belong in a response letter or change log. In the text itself, state what the method does.
+**[Describe the work without narrating manuscript revisions](rules/deslopping/revision-narration.md).** Replace revision phrases such as "In this revised version, we clarify" or "As suggested by the reviewer" with the scientific content. Keep such accounts only in response letters and change logs. Preserve all added explanations, evidence, and justifications, and any comparison between method versions that is part of the study.
 
-**Vague attribution.** Phrases such as "Studies show", "experts believe", and the agentless passive "X has been shown to" leave the source unnamed. If the draft cites the source nearby, name it ("Smith et al. (2020) report that X"); otherwise flag the claim.
+**[Name the cited source when an attribution is vague](rules/deslopping/vague-attribution.md).** For vague attributions such as "studies show", "experts believe", or "X has been shown to", name a source only when the draft cites one for that claim, following the [citation-marker](rules/conventions/citation-markers.md) and [prior-work](rules/story/prior-work-comparisons.md) rules. If no source is cited for that claim, flag the missing attribution. An objection clearly framed as hypothetical and then answered needs no cited objector. The phrase "Some may argue" alone does not provide that framing.
 
-**Negative parallelism.** Phrases such as "It is not just an optimizer, it is a paradigm shift" and "not only faster but also more accurate" inflate a claim by rejecting an artificial alternative. Splitting the contrast into separate sentences preserves the problem ("The headline is not the speedup. The real story is ..."). State the positive claim directly, with numbers. Keep a contrast that excludes a real alternative ("we measure X, not Y").
+**[Replace negative parallelism with the positive claim](rules/deslopping/negative-parallelism.md).** When a contrast rejects an alternative invented for emphasis, state the supported result or measurement directly. Look for "not only ... but also", "not just ...", and paired sentences such as "The headline is not the speedup. The real story is ...". Keep contrasts that exclude real alternatives ("we measure X, not Y").
 
-**False concession.** A sentence such as "While X has made significant strides, Y remains a challenge" states no specific comparison. Name both sides. Keep a concession when both sides are specific ("the gain holds on the two smaller benchmarks but not the largest").
+**[Make both sides of a false concession specific](rules/deslopping/false-concession.md).** In a concession such as "While X has advanced, Y remains a challenge", replace each vague side with the draft's specific finding. Flag any side the draft leaves unspecified. Keep concessions whose sides are both specific.
 
-**Reflexive rule-of-three.** Revise triads such as "faster, cheaper, and more robust" when they group items solely for rhythm. Keep lists whose content calls for three elements.
+**[Revise rule-of-three lists written for rhythm](rules/deslopping/rule-of-three.md).** In a list such as "faster, cheaper, and more robust", remove empty or redundant words and flag unsupported items. Never drop a substantive item just to change the count.
 
-**False ranges.** A "from X to Y" construction suggests breadth when its endpoints bound no actual range ("tasks ranging from image classification to reinforcement learning"). Name the settings tested. Keep ranges along an ordered axis ("from 10² to 10⁶ parameters").
+**[Replace false ranges with the settings tested](rules/deslopping/false-ranges.md).** When the endpoints of "from X to Y" lie on no ordered scale ("from image classification to reinforcement learning"), replace the phrase with the settings tested. Keep ranges on ordered scales, such as "from 10² to 10⁶ parameters". Never shorten a longer list to its endpoints.
 
-**Transition chains.** Delete repeated paragraph openings such as *Moreover, Furthermore,* and *Additionally* when they merely announce more text. Let the paragraph order convey the sequence. Keep those that express a [real logical relation](#paragraphs).
+**[Delete transition chains that announce more text](rules/deslopping/transition-chains.md).** Delete repeated openings such as "Moreover", "Furthermore", and "Additionally", letting paragraph order convey the sequence. Never replace them with unsupported causal, temporal, or contrastive links. Keep transitions that show a [valid logical relation](rules/prose/transitions.md).
 
-**Copula avoidance.** Replace "serves as", "acts as", "represents", "boasts", and similar phrases with "is" or "has" when that is their meaning. If the noun expresses an action, use its verb ("serves as a feature extractor" becomes "extracts features"). Keep "acts as" when it states a function rather than an identity ("acts as a regularizer").
+**[Replace needless substitutes for "is", "has", or action verbs](rules/deslopping/copula-avoidance.md).** Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "is" or "has" when the meaning stays the same. Replace a following action noun with its verb ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity or a precise technical meaning.
 
-**Trailing "-ing" pseudo-analysis.** Delete a trailing participial clause that adds no checkable claim ("..., highlighting its importance, reflecting broader trends"), or rewrite it as a specific claim the draft supports.
+**[Delete or replace empty commentary in trailing "-ing" phrases](rules/deslopping/trailing-ing.md).** Delete a trailing "-ing" phrase that adds no checkable claim ("highlighting its importance"), or replace it with a specific claim the draft supports. Rewrite a trailing "-ing" phrase whose actor is unclear as a clause that names the actor, following [first reading](rules/prose/first-reading.md).
 
-**Self-labeling significance.** When a sentence labels the importance of an earlier result ("This last result is the surprising one"), restructure the passage to make that importance clear and cut the label. Preserve a phrase that expresses authorial stance as the claim is introduced ("Interestingly,").
+**[Delete sentences that only label results important or surprising](rules/deslopping/self-labeling.md).** Delete sentences that only label a result important or surprising ("This is the key result"). If the draft explains why the result matters, organize the passage around that reason; otherwise, add no explanation. Keep a word that expresses the authors' stance and introduces a claim ("Interestingly,").
 
-**Rhetorical questions as transitions.** Replace a question used to connect paragraphs ("But how well does this scale?") with its answer as the topic sentence. Keep research questions that the text then answers ("RQ1: ...").
+**[Replace rhetorical questions used as transitions with their answers](rules/deslopping/rhetorical-questions.md).** Delete a question that only introduces the next topic, even if the next sentence answers it, and make its answer the paragraph's first sentence. Keep a research question that states what the text tests. Keep a mid-paragraph question only if it turns preceding details into a puzzle that the next sentence answers. Rewrite a question that assumes readers agree with a claim ("Does this not prove ...?") as a statement of that claim, choosing its verb from the [verb ladder](rules/claims/verb-ladder.md).
 
-**Uniform rhythm.** If every sentence is 15 to 25 words long and every paragraph has the same structure, vary their lengths. Keep sentences complete and literal, without adding [writerly asides](#plain-wording).
+**[Vary sentence structure to show how ideas connect](rules/deslopping/repetitive-syntax.md).** Look for consecutive sentences or paragraphs that repeat an opening, clause pattern, or length. Vary their structure and how they join according to relations the draft states, such as a shared object, condition, time, or consequence. Use the [topic string](rules/prose/topic-string.md) rather than random length changes. Preserve [parallel wording for parallel ideas](rules/prose/parallel-form.md), and keep sentences complete and literal, without [writerly asides](rules/prose/writerly-asides.md).
 
-**Significance inflation.** Delete phrases that link an ordinary detail to a grand trend ("marking a pivotal moment", "paving the way"), or replace them with the specific implication and scope stated in the draft.
+**[State what a result implies without exaggerating its importance](rules/deslopping/significance-inflation.md).** Delete phrases that exaggerate importance, such as "marking a pivotal moment" or "paving the way", or replace them with the supported implication and its conditions. Keep substantive implications that lack evidence. Mark a speculative explanation or mechanism under [speculation](rules/claims/speculation.md), and flag any other unsupported implication.
 
-**Aphorism formulas.** Replace analogies in the form "X is the Y of Z" ("attention is the currency of deep learning") with an explanation of the mechanism.
+**[Replace slogan-like analogies with literal explanations](rules/deslopping/aphorisms.md).** Replace a slogan-like analogy of the form "X is the Y of Z" only with a mechanism the draft states. Delete a slogan that makes no substantive claim. If an analogy asserts an unexplained mechanism, keep it and flag the missing explanation.
 
-**Relentless positivity and sycophantic framing.** When every result is presented as a triumph, give failures comparable prominence to successes and [calibrate both to the evidence](#claims).
+**[Make reported failures as noticeable as successes](rules/deslopping/relentless-positivity.md).** When a draft presents every result as a success, give its failures and counterevidence comparable prominence and [match each claim to its evidence](rules/claims/scope.md). Never invent a failure or add a caveat or hedge for balance.

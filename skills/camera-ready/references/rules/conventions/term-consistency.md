@@ -1,0 +1,35 @@
+# Use one term per concept
+
+Do not alternate terms such as "device", "sensor", and "system" for variety, including in captions and figure labels; vary sentence structure and function words instead. Keep different names only for distinct concepts, such as types, scopes, or measured quantities. Use the field's standard term when the draft makes clear that its own term means exactly the same thing ("learning rate", not "step factor"), but flag the authors' label for something they introduce rather than renaming it. A clear pronoun or bare demonstrative may refer back to the term in the same or next sentence, but use the specific name rather than a general category noun ("this compound"). To find synonyms, list the names the draft uses for each recurring concept, and flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. When describing a parallel or more general case, repeat the earlier wording exactly, then state what differs. When naming a formula's role helps readers follow without looking back, use its established role, such as a bound or definition, rather than calling it an equation.
+
+## Details
+
+Distinguish vector components from set elements. Name mathematical relationships accurately: an inequality, definition, or general relation need not be an equation.
+
+## Examples
+
+**Edit 1.**
+
+> **Before.** The drying cabinet holds the samples. This device stays warm.
+
+> **After.** The drying cabinet holds the samples. The drying cabinet stays warm.
+
+**Edit 2.** Suppose "drying cabinet" and "chamber" name the same equipment in the draft.
+
+> **Before.** The drying cabinet is insulated. It stays warm. The chamber holds six trays.
+
+> **After.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
+
+The clear pronoun "It" introduces no competing name.
+
+**Edit 3.** Suppose a figure label names equipment called a "drying cabinet" in the body. The edited text proposes a change to the author.
+
+> **Before.** Chamber temperature (°C)
+
+> **After.** Drying cabinet temperature (°C)
+
+**Edit 4.** Suppose the draft's "step factor" is the learning rate.
+
+> **Before.** We halve the step factor after each epoch.
+
+> **After.** We halve the learning rate after each epoch.
