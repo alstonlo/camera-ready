@@ -1,6 +1,6 @@
 # Cite each figure and table in the sentence that states its finding
 
-Replace announcements like "In Figure 6 we show the results" with the finding and its reference ("Accuracy falls as the noise rate rises (Figure 6)" or "Figure 6 shows that accuracy falls ..."; in the abstract, follow the [abstract rule](../story/section-functions.md)). Point to the specific panel or comparison the draft identifies, with numbered references rather than relative pointers such as "below". When a claim needs an exact value readers can only estimate from a plot, state the draft's value in the sentence or caption, or flag its absence. Flag unresolved citation or reference markers ("??"). Write `Figure~\ref{...}` with a non-breaking space, and capitalize "Figure", "Table", "Section", and "Theorem" for numbered items. Place an existing `\label` after its `\caption`.
+Replace announcements like "In Figure 6 we show the results" with the finding and its reference ("Accuracy falls as the noise rate rises (Figure 6)"). In the abstract, follow the [abstract rule](../story/section-functions.md). Point to the specific panel or comparison the draft identifies, with numbered references rather than relative pointers such as "below". When a claim needs an exact value that readers can only estimate from a plot, state the draft's value in the sentence or caption, or flag its absence. Flag unresolved citation or reference markers ("??"). Write `Figure~\ref{...}` with a non-breaking space, and capitalize "Figure", "Table", "Section", and "Theorem" for numbered items. Place an existing `\label` after its `\caption`.
 
 ## Details
 
@@ -8,7 +8,7 @@ LaTeX can move figures and tables during typesetting, so do not judge float plac
 
 ## Examples
 
-**Edit 1.** If the draft identifies this plot as Figure 4(b), use that reference.
+**Edit 1.** Suppose the draft identifies this plot as Figure 4(b).
 
 > **Before.** The water level falls during summer, as shown in the plot below.
 

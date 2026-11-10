@@ -1,6 +1,6 @@
 # Replace rhetorical questions used as transitions with their answers
 
-Delete a question that only introduces the next topic ("But how well does this scale?"), even if the next sentence answers it, and make its answer the paragraph's first sentence. Keep a research question that states what the text tests ("RQ1: ..."), and keep a mid-paragraph question only if it turns preceding details into a puzzle that the next sentence answers. Rewrite a question that assumes readers agree with a claim ("Does this not prove ...?") as a statement of that claim, choosing its verb from the [verb ladder](../claims/verb-ladder.md).
+Delete a question that only introduces the next topic, even if the next sentence answers it, and make its answer the paragraph's first sentence. Keep a research question that states what the text tests. Keep a mid-paragraph question only if it turns preceding details into a puzzle that the next sentence answers. Rewrite a question that assumes readers agree with a claim ("Does this not prove ...?") as a statement of that claim, choosing its verb from the [verb ladder](../claims/verb-ladder.md).
 
 ## Details
 
@@ -22,7 +22,7 @@ The remaining question states what the experiment tests.
 
 > **After.** The soil is wet, but the leaves wilt. Why can these occur together? The blocked roots cannot absorb water.
 
-The remaining question puts the wet soil and wilting leaves in apparent conflict, which the next sentence resolves.
+The remaining question presents wet soil and wilting leaves as a puzzle that the next sentence resolves.
 
 **Edit 3.** Suppose the draft's measurements show reduced water loss in these tests.
 

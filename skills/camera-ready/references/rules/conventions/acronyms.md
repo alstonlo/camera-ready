@@ -1,6 +1,6 @@
 # Spell out acronyms and introduce few new ones
 
-Spell out an acronym where repeated use begins, and use the full term for isolated earlier mentions. Define it separately in the abstract and body, and again at the start of each major section or chapter where it returns. Prefer the full term unless the acronym is standard or shortens a long, recurring name; spell out an acronym that appears once or twice, has another common expansion in the field ("LR"), or saves no syllables read aloud ("TS" for time step). Flag a title acronym that readers outside the subfield would not know before the abstract, and propose a spelled-out title, but leave the title unchanged. Flag opaque coined labels rather than renaming them, unless [term consistency](term-consistency.md) calls for the standard term. If an acronym you would replace with its full term also appears in tables, figures, or code, flag the replacement instead.
+Spell out an acronym when repeated use begins; use the full term for isolated earlier mentions. Define it separately in the abstract and body, and again at the start of each major section or chapter where it returns. Prefer the full term unless the acronym is standard or shortens a long, recurring name; spell out an acronym that appears once or twice, has another common expansion in the field, or saves no syllables when read aloud ("TS" for time step). Flag an acronym in the title that readers outside the subfield would not know before reading the abstract. Propose spelling it out, but leave the title unchanged. Flag opaque coined labels rather than renaming them, unless [term consistency](term-consistency.md) calls for the standard term. If you would spell out an acronym that also appears in tables, figures, or code, flag the replacement instead.
 
 ## Details
 
@@ -8,21 +8,21 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Say the draft defines ETR as "electron transport rate", and its repeated use in the body begins here.
+**Edit 1.** Suppose ETR means "electron transport rate" in the draft, and repeated use in the body begins here.
 
 > **Before.** We measure ETR at noon. ETR rises with light intensity.
 
 > **After.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
 
-**Edit 2.** Suppose the draft defines ETR as "electron transport rate", but readers outside the subfield would not recognize the acronym in this title. After is a proposal to the author.
+**Edit 2.** Suppose ETR means "electron transport rate" in the draft, but readers outside the subfield would not recognize it in the title. After proposes a title to the author.
 
 > **Before.** ETR in shaded leaves
 
 > **After.** Electron transport rate in shaded leaves
 
-The editor flags the acronym and leaves the actual title unchanged while the author reviews the proposal.
+The title stays unchanged pending author review.
 
-**Edit 3.** Imagine the draft defines AR as "annual rainfall" and uses it only here and in a figure. After is a proposal to the author.
+**Edit 3.** Suppose AR means "annual rainfall" in the draft and appears only here and in a figure. After proposes a change to the author.
 
 > **Before.** AR varies by site.
 

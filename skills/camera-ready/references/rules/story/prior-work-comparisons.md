@@ -1,14 +1,12 @@
 # Compare prior work fairly and state specific differences
 
-End each paragraph or group of paragraphs about prior work with a checkable difference in an assumption, setting, metric, result, cost, or guarantee; a comparison that is vague on both sides is a [false concession](../deslopping/false-concession.md). Explain both sides enough for readers to judge the comparison, using only the draft's account of each source, and flag missing context or differences. State what each source does and assumes before criticizing it, and preserve its [credit](../cutting/protected-sentences.md). Do not write "ignores" or "fails to" for a difference in scope unless the draft shows that the source failed. Keep a source's tentative verbs, and attribute each claim, concession, and reported objection to whoever holds it, not to the paper. In a survey, end the discussion of each group of related sources with the pattern, disagreement, or gap they establish.
+End each paragraph or group of paragraphs about prior work with a checkable difference in an assumption, setting, metric, result, cost, or guarantee. A comparison that is vague on both sides is a [false concession](../deslopping/false-concession.md). Explain both sides enough for readers to judge the comparison, using only the draft's account of each source; flag missing context or differences. State what each source does and assumes before criticizing it, and preserve its [credit](../cutting/protected-sentences.md). Do not write "ignores" or "fails to" for a difference in scope unless the draft shows that the source failed. Keep a source's tentative verbs, and attribute each claim, concession, and reported objection to whoever holds it, not to the paper. In a survey, end the discussion of each group of related sources with the pattern, disagreement, or gap they establish.
 
 ## Details
 
-A brief summary or isolated excerpt may tell readers too little about a source to justify a detailed criticism. Do not criticize a source with words such as "ignores" or "fails to" merely because it studies a different problem or set of cases. When reporting a source's claims, keep its tentative verbs: for example, do not strengthen "suggests" to "shows". Do not turn a source's claim, concession, or reported objection into a claim that the paper itself makes.
-
-In a survey, authors can organize established knowledge without claiming a new discovery.
-
-For proprietary products, distinguish what documentation says the product can do from what remains undisclosed about how it works. Do not infer an unknown mechanism or assume that a product's existence invalidates a research contribution.
+- Source context: A brief summary or isolated excerpt may give too little context to justify detailed criticism.
+- Surveys: Authors can organize established knowledge without claiming a new discovery.
+- Proprietary products: Distinguish documented capabilities from undisclosed mechanisms. Do not infer an unknown mechanism or assume that a product's existence invalidates a research contribution.
 
 ## Examples
 
@@ -18,13 +16,13 @@ For proprietary products, distinguish what documentation says the product can do
 
 > **After.** Lee et al. examine only summer rainfall; we examine rainfall in both summer and winter.
 
-**Edit 2.** Say the draft reports that Lee concedes that the coating costs too much, and the authors do not endorse that judgment.
+**Edit 2.** Suppose the draft reports Lee's concession that the coating costs too much, without endorsing that judgment.
 
 > **Before.** Lee argues that the coating lasts longer. Although it costs too much, Lee favors it; we compare measured costs.
 
 > **After.** Lee argues that the coating lasts longer. Although Lee concedes that it costs too much, Lee favors it; we compare measured costs.
 
-**Edit 3.** Imagine a survey whose draft states that both studies measure only summer rainfall.
+**Edit 3.** Suppose a survey states that both studies measure only summer rainfall.
 
 > **Before.** Lee measures summer rainfall. Rao also measures summer rainfall.
 

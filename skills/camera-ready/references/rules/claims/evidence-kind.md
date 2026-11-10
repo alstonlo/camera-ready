@@ -1,12 +1,12 @@
 # Identify the kind of evidence supporting each claim
 
-Link a sentence that reads like a theorem but gives no formal result or conditions ("all local minima have error close to that of the global minimum") to the proved result and its assumptions, restate it as the observed or intuitive claim the draft supports, or flag it. Flag a claim that applies a theorem to observations or experiments that violate its assumptions, such as a convergence result for convex objectives cited for non-convex training; the theorem is then inapplicable, not false. Never drop a condition to simplify a formal statement; flag one that seems unnecessary. Flag an unsupported claim that a result from a model or simulation holds in the real system; a valid claim limited to the model needs no experiment or field study.
+Link a sentence that reads like a theorem but gives no formal result or conditions to the proved result and its assumptions, restate it as the observed or intuitive claim the draft supports, or flag it. Flag a claim that applies a theorem to observations or experiments that violate its assumptions; the theorem is then inapplicable, not false. Never drop a condition to simplify a formal statement; flag one that seems unnecessary. Flag an unsupported claim that a result from a model or simulation holds in the real system. A valid claim limited to the model needs no experiment or field study.
 
 ## Details
 
-A statement about all cases, inputs, runs, or allowed parameter values may claim a mathematical guarantee even without the word "theorem". Find the supporting result and its conditions before judging whether the result applies.
-
-Propose a simpler mathematical condition only when the draft shows that the simpler condition still guarantees the conclusion and that the condition you would remove adds no useful information. Flag a suspected error in a proof separately from a claim that applies a valid theorem where its assumptions do not hold.
+- Mathematical guarantees: A statement about all cases, inputs, runs, or allowed parameter values may claim a guarantee without using the word "theorem". Find the supporting result and its conditions before judging whether it applies.
+- Simpler conditions: Propose a simpler mathematical condition only when the draft shows that it still guarantees the conclusion and that the condition it replaces adds no useful information.
+- Proof errors: Flag a suspected error in a proof separately from a claim that applies a valid theorem where its assumptions do not hold.
 
 ## Examples
 

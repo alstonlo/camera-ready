@@ -1,10 +1,10 @@
 # Apply the deletion test without changing meaning
 
-Test every clause by deleting it, and keep the deletion only if the word or clause adds nothing and the sentence stays as easy to understand. Every deletion, replacement, or restructuring must keep the [structural words](first-reading.md) readers need on the first reading, and must preserve who does what, what each word refers to, whether something is possible, required, or actual, definitions, logical relations, distinctions, the cases covered, and the author's stance. Apply the [claim rules](../claims/scope.md) to any substantive change. If you are unsure whether an edit changes the meaning, keep the original and flag the ambiguity.
+Test every clause by deleting it. Keep a deletion only if the word or clause adds nothing and the sentence remains as easy to understand. Every deletion, replacement, or restructuring must keep the [structural words](first-reading.md) needed on the first reading and preserve who does what, what each word refers to, whether something is possible, required, or actual, definitions, logical relations, distinctions, cases covered, and the author's stance. Apply the [claim rules](../claims/scope.md) to any substantive change. If you are unsure whether an edit changes the meaning, keep the original and flag the ambiguity.
 
 ## Details
 
-Brevity alone does not justify an edit. Keep distinctions even when a simpler phrasing conveys the general idea. To verify that two versions mean the same thing, compare the exact cases in which each holds. Check values equal to a threshold, the population measured, and the denominator of any rate or fraction. Structural words include articles and the word "that" after verbs such as "show" and "find". When cutting ideas rather than tightening wording, follow [cutting permissions](../cutting/idea-cuts.md) and [protected content](../cutting/protected-sentences.md).
+Brevity alone does not justify an edit. Keep distinctions even when simpler wording conveys the general idea. Compare the exact cases in which each version holds, including values equal to a threshold, the population measured, and the denominator of any rate or fraction. Structural words include articles and "that" after verbs such as "show" and "find". When cutting ideas rather than tightening wording, follow [cutting permissions](../cutting/idea-cuts.md) and [protected content](../cutting/protected-sentences.md).
 
 ## Examples
 
@@ -14,9 +14,9 @@ Brevity alone does not justify an edit. Keep distinctions even when a simpler ph
 
 > **After.** The nurse asks the patient to lift the weight.
 
-Before is an editor's shortening that assigns the lifting to the nurse. After restores the draft's account of who asks and who is asked to act.
+Before is an editor's shortening that assigns the lifting to the nurse. After restores who asks and who is asked to act.
 
-**Edit 2.** Say the draft counts a score of exactly 60 as passing.
+**Edit 2.** Suppose the draft counts a score of exactly 60 as passing.
 
 > **Before.** A passing score exceeds 60.
 
@@ -24,7 +24,7 @@ Before is an editor's shortening that assigns the lifting to the nurse. After re
 
 Before is an editor's rewrite that excludes a score the draft counts as passing. After restores the intended threshold.
 
-**Edit 3.** Imagine the draft says the lamp cannot turn on while the door is closed and may stay off while it is open.
+**Edit 3.** Suppose the draft says the lamp cannot turn on while the door is closed and may stay off while it is open.
 
 > **Before.** The lamp turns on if the door opens.
 

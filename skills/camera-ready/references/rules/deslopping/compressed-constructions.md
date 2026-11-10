@@ -1,6 +1,6 @@
 # Expand compressed wording that slows the first reading
 
-Check for [inanimate subjects given human actions](../prose/character-action.md), [nouns used as verbs and unusual word pairs](../prose/literal-wording.md), and [noun strings, omitted "that" or articles, and long gaps between subject and verb](../prose/first-reading.md), and keep short forms that are clear on the first reading.
+Check for [inanimate subjects given human actions](../prose/character-action.md), [nouns used as verbs and unusual word pairs](../prose/literal-wording.md), and [noun strings, omitted "that" or articles, and long gaps between subject and verb](../prose/first-reading.md). Keep short forms that are clear on the first reading.
 
 ## Details
 
@@ -26,4 +26,4 @@ This rule has no further details.
 
 > **After.** The procedure for calibrating the heat flux sensor is documented.
 
-The words "heat flux sensor" name the device, so they stay together.
+The established term "heat flux sensor" stays together.

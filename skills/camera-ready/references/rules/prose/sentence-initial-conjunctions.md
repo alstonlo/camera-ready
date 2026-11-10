@@ -2,11 +2,11 @@
 
 Keep the relation the conjunction signaled:
 
-- A "But" that corrects or limits the previous sentence becomes "However," or joins that sentence as ", but ...". Keep a cited author's objection theirs: "Lee (2021) objects that the bound is loose", not "However, the bound is loose (Lee, 2021)".
-- Use "Finally" for the last item of a series, or join the item to the series, not "In addition", "Moreover", or "Furthermore", which add support.
-- A "So" that introduces a consequence becomes "Thus," "Hence," or "Therefore," or joins the previous sentence as ", so ...".
+- Correction or limitation: Replace "But" with "However," or join the previous sentence with ", but ...". Keep a cited author's objection attributed to that author.
+- Last item in a series: Use "Finally" or join the item to the series. Do not use "In addition", "Moreover", or "Furthermore", which add support.
+- Consequence: Replace "So" with "Thus," "Hence," or "Therefore," or join the previous sentence with ", so ...".
 
-Vary the connective. Keep clear uses of these conjunctions within a sentence ("we expect a gain but find none").
+Vary the connective. Keep clear uses of these conjunctions within a sentence.
 
 ## Details
 

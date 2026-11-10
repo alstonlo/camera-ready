@@ -1,10 +1,10 @@
 # Make theorem statements self-contained
 
-Introduce a theorem, lemma, or algorithm with a complete sentence. In the formal statement, name its objects and any needed definition reference ("The function H defined in (5) is continuous"), and define every symbol before use; keep motivation and informal comments outside it. If hypotheses run for several lines, flag the statement and suggest extracting them into named conditions defined before it ("Assumption 1 (smoothness)").
+Introduce a theorem, lemma, or algorithm with a complete sentence. In the formal statement, name its objects and include any needed definition reference ("The function H defined in (5) is continuous"). Define every symbol before use, and keep motivation and informal comments outside the statement. If hypotheses run for several lines, flag the statement and suggest extracting them into named conditions defined before it.
 
 ## Details
 
-Keep every assumption in the theorem statement, because an assumption is part of the claim rather than commentary. If an assumption seems unnecessary, follow [formal support](../claims/evidence-kind.md).
+Keep every assumption in the theorem statement: assumptions are part of the claim. If an assumption seems unnecessary, follow [formal support](../claims/evidence-kind.md).
 
 ## Examples
 
@@ -32,4 +32,4 @@ Keep every assumption in the theorem statement, because an assumption is part of
 
 > **After.** Assumption 1 (regularity): Let $a<b$, and let $f$ be continuous on $[a,b]$ and differentiable on $(a,b)$. Theorem 4. Under Assumption 1, $f$ satisfies the mean value theorem.
 
-This is a proposed reorganization for the author to review, with all three restrictions on $a$, $b$, and $f$ preserved.
+After proposes a reorganization for author review and preserves all three restrictions on $a$, $b$, and $f$.

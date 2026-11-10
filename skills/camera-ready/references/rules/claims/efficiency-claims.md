@@ -1,19 +1,23 @@
 # Specify what an efficiency claim counts
 
-For a claim about speed, yield, cost, samples needed, or scaling, state the following, filling missing detail from elsewhere in the draft or flagging it:
+For a claim about speed, yield, cost, samples needed, or scaling, state the following. Fill gaps from elsewhere in the draft or flag them:
 
 - The unit counted, the conditions and assumptions, and the costs included or excluded.
 - The baseline of each comparison.
 - A ratio's numerator and denominator.
-- An analytical bound's size variables and the case analyzed (such as the worst, average, or amortized case).
+- An analytical bound's size variables and the case analyzed.
 
 A better ratio or asymptotic bound alone does not show lower total cost under the claimed conditions. An upper bound on one algorithm's cost does not establish a lower bound for every algorithm solving the problem. Flag suspected errors in the analysis without changing the mathematics.
 
 ## Details
 
-For yield, name the limiting reagent, which is the reactant that runs out first and so sets how much product can form. State whether the product is crude, meaning unpurified, or isolated, meaning separated from the reaction mixture. For a claim about how many samples a method needs, state the target that the method must reach with those samples. Check whether the claim omits costs such as setup, startup energy, discarded material, failed runs, preparation, purification, or calibration. Apply [comparability checks](variability.md) to claimed gains.
+Apply these checks to claimed gains, along with the [comparability checks](variability.md):
 
-For analytical bounds, which are limits on cost derived mathematically rather than measured, distinguish the following costs:
+- Yield: Name the limiting reagent, which sets how much product can form. State whether the product is crude (unpurified) or isolated (separated from the reaction mixture).
+- Samples needed: State the target the method must reach with those samples.
+- Included costs: Check for omitted setup, startup energy, discarded material, failed runs, preparation, purification, or calibration.
+
+For analytical bounds, which are derived mathematically rather than measured, distinguish these costs:
 
 - Worst-case cost is the greatest cost for any input of a given size.
 - Average-case cost averages over a distribution of inputs.
@@ -22,7 +26,7 @@ For analytical bounds, which are limits on cost derived mathematically rather th
 
 Check whether the cost includes building an index for later lookup and producing the output. If an operation's cost depends on an object's size and the stated model places no limit on that size, flag any claim that the operation has constant cost.
 
-Distinguish an upper bound on one algorithm's cost from a lower bound that every algorithm must meet to solve the problem. Neither bound alone proves that an algorithm is optimal, meaning as efficient as possible. An asymptotic bound describes how fast cost grows as problem size grows, so constants in the bound and resource limits can still affect elapsed time at the sizes tested. Do not infer their values or redo the analysis.
+An upper bound on one algorithm's cost does not by itself prove that the algorithm is optimal. Neither does a lower bound that every algorithm must meet to solve the problem. An asymptotic bound describes how cost grows with problem size; constants and resource limits can still affect elapsed time at the sizes tested. Do not infer their values or redo the analysis.
 
 ## Examples
 

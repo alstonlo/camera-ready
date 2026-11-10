@@ -1,6 +1,6 @@
 # Delete sentences that only label results important or surprising
 
-Delete a sentence such as "This is the key result"; if the draft explains why the result matters, organize the passage around that reason, and otherwise add no explanation. Keep a word of authorial stance that introduces a claim ("Interestingly,").
+Delete sentences that only label a result important or surprising ("This is the key result"). If the draft explains why the result matters, organize the passage around that reason; otherwise, add no explanation. Keep a word that expresses the authors' stance and introduces a claim ("Interestingly,").
 
 ## Details
 
@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Say the draft explains elsewhere that the tray can be transported without disassembly because it fits through the door.
+**Edit 1.** Suppose the draft explains elsewhere that fitting through the door lets the tray be transported without disassembly.
 
 > **Before.** The tray fits through the door. This is an important result.
 
@@ -20,4 +20,4 @@ This rule has no further details.
 
 > **After.** Surprisingly, the dry seeds sprout first.
 
-The opening "Surprisingly" expresses the authors' reaction to the finding.
+The opening word "Surprisingly" expresses the authors' reaction to the finding.

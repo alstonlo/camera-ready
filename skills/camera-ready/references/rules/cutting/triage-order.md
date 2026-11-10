@@ -1,8 +1,8 @@
 # Follow the triage order to meet a length limit
 
-Preserving [protected content](protected-sentences.md) and following [relocation safeguards](sentence-dependencies.md), cut material in this order:
+Preserve [protected content](protected-sentences.md), follow [relocation safeguards](sentence-dependencies.md), and cut material in this order:
 
-1. **Repeated points** across the introduction, section openings, and conclusion. Keep the most informative statement (usually the one that explains the point), one statement of each contribution in each of the abstract, introduction, and conclusion, and [shorthand reminders](../conventions/shorthand-reminders.md). Keep a closing restatement when readers need the intervening explanation to understand the opening claim. Revise a word-for-word copy, such as a conclusion that repeats the abstract, to state established results, or flag it. Apply the [deletion test](../prose/deletion-test.md).
+1. **Repeated points** across the introduction, section openings, and conclusion. Keep the most informative statement, one statement of each contribution in each of the abstract, introduction, and conclusion, and [shorthand reminders](../conventions/shorthand-reminders.md). Keep a closing restatement when readers need the intervening explanation to understand the opening claim. Revise a word-for-word restatement to state established results, or flag it. Apply the [deletion test](../prose/deletion-test.md).
 2. **Remaining signposts**, including the introduction's closing [roadmap](../prose/signposts.md). Keep references to evidence and proofs.
 3. **Unrelated background and related work:** background that does not motivate the research question and citation lists that state no relation to the gap. Keep the few works and comparisons that define the gap.
 4. **Minor results, secondary analyses, exploratory findings, and accounts of what the authors tried first.** Remove results that do not support a central claim from the main text, and relocate material that supports rigor: sensitivity analyses, robustness checks, and the negative result a skeptical reviewer will ask about. In the main text, keep any failure or counterevidence that alters a central claim, and state a failed approach as a negative result.
@@ -26,7 +26,7 @@ This rule has no further details.
 
 > **After.** An open vent prevents pressure buildup. Heating expands the gas, which escapes through the vent. The vent thus prevents pressure buildup.
 
-Before shows the editor's proposed cut; After restores the draft's final sentence. The closing sentence connects the explanation about expanding gas to the opening claim.
+The closing sentence connects the explanation about expanding gas to the opening claim.
 
 **Edit 3.** Suppose the draft still exceeds the length limit after redundant restatements have been cut.
 
@@ -34,7 +34,7 @@ Before shows the editor's proposed cut; After restores the draft's final sentenc
 
 > **After.** Appendix A proves the stability bound.
 
-The appendix reference tells readers where to find the proof.
+The appendix reference locates the proof.
 
 **Edit 4.** Imagine cuts in the first three stages have left the draft over the length limit, and Appendix B already contains the pressure checks.
 

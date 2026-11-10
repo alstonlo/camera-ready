@@ -1,16 +1,10 @@
 # Reserve causal language for causal evidence
 
-Use causal wording such as "causes", "leads to", or "improves because" only with evidence that isolates the factor's effect, such as an ablation of that component; describe a correlation as "is associated with" or "correlates with". Keep cause and effect in the order the evidence supports, and do not call one of several causes the only cause. When the draft tests several changes only together, credit their combination, not one component, and do not call each component necessary. Mark an untested mechanism as [speculation](speculation.md).
+Use causal wording such as "causes", "leads to", or "improves because" only with evidence that isolates the factor's effect. Describe a correlation as "is associated with" or "correlates with". Keep cause and effect in the order the evidence supports, and do not call one of several causes the only cause. When the draft tests several changes only together, credit their combination and do not call any one component necessary. Mark an untested mechanism as [speculation](speculation.md).
 
 ## Details
 
-Causal wording also includes "produces", "results in", "results from", and "contributes to". Check whether the draft distinguishes a contributing factor from a sufficient or necessary condition, and preserve that distinction when shortening. A sufficient condition guarantees the outcome. A necessary condition must hold for the outcome to occur. A contributing factor need not do either.
-
-A suitable controlled comparison can isolate the effect of a factor such as a design choice, a treatment, or an exposure:
-
-- An ablation removes a component.
-- A gene knockout disables a gene.
-- A randomized controlled trial assigns treatments by chance.
+Causal wording also includes "produces", "results in", "results from", and "contributes to". A suitable controlled comparison, such as an ablation, gene knockout, or randomized controlled trial, can isolate a factor's effect. Preserve the distinction between a contributing factor, a sufficient condition that guarantees the outcome, and a necessary condition that must hold for the outcome to occur. A contributing factor need not do either.
 
 ## Examples
 

@@ -4,7 +4,7 @@ Explain why the obvious way to solve the problem fails, or flag the missing expl
 
 ## Details
 
-Do not assume that a problem is technically difficult just because it remains unsolved.
+Do not infer technical difficulty merely because a problem remains unsolved.
 
 ## Examples
 

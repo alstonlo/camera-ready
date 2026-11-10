@@ -1,6 +1,6 @@
 # Recheck claims, the argument, and references after cutting
 
-Each remaining claim must keep its evidence, scope, and hedges under the [verb ladder](../claims/verb-ladder.md). Refer precisely to the new location of moved material, and weaken a claim only when the remaining evidence supports less, not because the evidence moved. Reread the problem, gap, approach, findings, and implications, and restore reasoning steps the cut removed. Repair references to cut text or nonexistent appendix sections, cite every remaining figure and table, and define each term before its first use.
+Keep each remaining claim's evidence, scope, and hedges under the [verb ladder](../claims/verb-ladder.md). Refer precisely to moved material's new location. Weaken a claim only when the remaining evidence supports less, not because the evidence moved. Reread the problem, gap, approach, findings, and implications, and restore reasoning steps lost in the cut. Repair references to cut text or nonexistent appendix sections, cite every remaining figure and table, and define each term before its first use.
 
 ## Details
 
@@ -20,7 +20,7 @@ This rule has no further details.
 
 > **After.** The coating prevents rust in fresh water (Appendix B).
 
-Before shows an editor's unnecessary hedge; After restores the draft's confidence. Moving the full test leaves the support for the claim intact.
+Moving the complete test leaves the claim's support intact, so After removes the editor's unnecessary hedge.
 
 **Edit 3.** Imagine an editor has removed the metal lid's only test with the author's approval, leaving evidence that supports reduced evaporation for the glass lid.
 
@@ -34,7 +34,7 @@ Before shows an editor's unnecessary hedge; After restores the draft's confidenc
 
 > **After.** We measure acidity. The soil is too acidic for beans. We therefore add lime.
 
-Before shows what remains after the editor's cut. The soil's acidity explains the decision to add lime; measuring it alone does not.
+The soil's acidity explains the decision to add lime; measuring it alone does not.
 
 **Edit 5.** Suppose the draft presents slow drainage as a possible explanation, and an editor has removed its hedge.
 
@@ -42,4 +42,4 @@ Before shows what remains after the editor's cut. The soil's acidity explains th
 
 > **After.** The delay may reflect slow drainage.
 
-Before is the editor's version after the cut; After restores the draft's uncertainty about the cause.
+After restores the draft's uncertainty about the cause.

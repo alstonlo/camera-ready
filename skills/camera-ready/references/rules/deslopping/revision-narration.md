@@ -1,6 +1,6 @@
 # Describe the work without narrating manuscript revisions
 
-Replace revision phrases such as "In this revised version, we clarify" or "As suggested by the reviewer" with the scientific content itself; such accounts belong only in a response letter or change log, where they stay. Keep all added explanations, evidence, and justifications, and any comparison between method versions that is part of the study.
+Replace revision phrases such as "In this revised version, we clarify" or "As suggested by the reviewer" with the scientific content. Keep such accounts only in response letters and change logs. Preserve all added explanations, evidence, and justifications, and any comparison between method versions that is part of the study.
 
 ## Details
 
@@ -14,7 +14,7 @@ This rule has no further details.
 
 > **After.** The second pump design uses less power than the first.
 
-The comparison between pump designs stays because it reports a study result, regardless of what prompted the authors to include it.
+The comparison between pump designs stays because it reports a study result.
 
 **Edit 2.**
 
@@ -22,4 +22,4 @@ The comparison between pump designs stays because it reports a study result, reg
 
 > **After.** Reviewer response: We added the calibration test. Manuscript: We report a calibration error of 2%.
 
-The reviewer response keeps its account of the added test because the reviewer needs to know what changed.
+The reviewer response keeps the account of the added test so the reviewer knows what changed.

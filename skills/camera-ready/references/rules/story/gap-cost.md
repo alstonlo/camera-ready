@@ -1,14 +1,14 @@
 # State the gap's cost
 
-State the specific gap in what is known or can be done, and its cost: what readers lose, pay, or cannot do because of it. "No prior work studies X" states a gap but not its cost. Replace "little is known" with the specific unknown when the draft supplies it. The cost may be a question readers cannot answer or the value of extending earlier work to a new case; it need not be a flaw in prior work or a hypothesis, so do not invent either. Flag a missing gap or cost, and flag rather than make any rewrite of the objectives that stating the gap requires. Distinguish established consequences from [speculative applications](../claims/speculation.md).
+State the specific gap in what is known or can be done and its cost: what readers lose, pay, or cannot do because of it. Replace "little is known" with the specific unknown when the draft supplies it. The cost may be a question readers cannot answer or the value of extending earlier work to a new case; it need not be a flaw in prior work or a hypothesis, so do not invent either. Flag a missing gap or cost. If stating the gap requires rewriting the objectives, flag that change rather than make it. Distinguish established consequences from [speculative applications](../claims/speculation.md).
 
 ## Details
 
-Compare what the draft says is unknown with what the cited work establishes, because a sweeping claim that nothing is known may contradict the cited sources. In applied work, distinguish learning what is needed to make a practical change from making that change.
+Compare the draft's stated unknowns with what the cited work establishes; a sweeping claim that nothing is known may contradict those sources. In applied work, distinguish learning what is needed to make a practical change from making that change.
 
 ## Examples
 
-**Edit 1.** Suppose the draft says elsewhere that the unknown load limit prevents determining whether the bridge can carry the new buses.
+**Edit 1.** Suppose the draft states elsewhere that the unknown load limit prevents determining whether the bridge can carry the new buses.
 
 > **Before.** The bridge's maximum safe load is unknown.
 
@@ -20,10 +20,10 @@ Compare what the draft says is unknown with what the cited work establishes, bec
 
 > **After.** It is unknown whether these seeds can sprout after a winter freeze, so the viability of autumn sowing is unclear.
 
-**Edit 3.** Imagine that the study described in the draft gathers information for designing a water filter but does not build one.
+**Edit 3.** Suppose the study gathers information to design a water filter but does not build one.
 
 > **Before.** We measure whether the membrane passes salt to build a water filter in this study.
 
 > **After.** We measure whether the membrane passes salt because we need that information to design a water filter.
 
-After is a proposal to the author because it rewrites the study's objective.
+The revision is a proposal to the author because it rewrites the study's objective.

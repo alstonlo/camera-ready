@@ -1,10 +1,17 @@
 # Apply the spine test before cutting sentences
 
-State the core claims (the text's spine) in one to three sentences, and each paragraph's role in one line. Keep content because the spine needs it, not because it is true or interesting. Classify each paragraph as **central** if it states a core claim, **supporting** if readers need it to understand or evaluate one or if it holds [protected content](protected-sentences.md), **ancillary** if it is relevant but readers can evaluate the core claims without it, and **off-spine** if it does not relate to them. If no short, specific title summarizes a section, flag its competing points before cutting. When [the request](idea-cuts.md) permits cutting, cut or relocate off-spine paragraphs, shorten ancillary ones, and then edit [sentence by sentence](sentence-dependencies.md). Keep a cut only if the argument remains at least as clear.
+State the core claims (the text's spine) in one to three sentences, and each paragraph's role in one line. Keep content because the spine needs it, not because it is true or interesting. Classify each paragraph:
+
+- Central: It states a core claim.
+- Supporting: Readers need it to understand or evaluate a core claim, or it holds [protected content](protected-sentences.md).
+- Ancillary: It is relevant, but readers can evaluate the core claims without it.
+- Off-spine: It does not relate to the core claims.
+
+If no short, specific title summarizes a section, flag its competing points before cutting. When [the request](idea-cuts.md) permits cutting, cut or relocate off-spine paragraphs, shorten ancillary ones, and then edit [sentence by sentence](sentence-dependencies.md). Keep a cut only if the argument remains at least as clear.
 
 ## Details
 
-Writing a short title for a section tests whether the section develops one coherent point. This check examines what the section says, not the printed heading above it, so a conventional heading such as "Results" is not a defect.
+Writing a short title tests whether a section develops one coherent point. This tests the section's content, so a conventional heading such as "Results" is not a defect.
 
 ## Examples
 
@@ -26,7 +33,7 @@ Writing a short title for a section tests whether the section develops one coher
 
 > **After.** The mesh blocks leaves but lets sand through.
 
-Before is an editor's proposed cut; After restores the sand result. That result limits what the mesh can exclude.
+The sand result limits what the mesh can exclude.
 
 **Edit 4.** Say the author asks to shorten a section about leaf blockage and pump power, and the draft also reports that the pump draws 5 W.
 
@@ -34,4 +41,4 @@ Before is an editor's proposed cut; After restores the sand result. That result 
 
 > **After.** The mesh blocks leaves. The pump draws 5 W.
 
-Before is an editor's proposed cut; After restores the power measurement. Flag the section's competing topics before deciding which finding to remove.
+After restores the power measurement. Flag the section's competing topics before deciding which finding to remove.

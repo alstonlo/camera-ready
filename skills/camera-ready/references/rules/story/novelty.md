@@ -1,10 +1,10 @@
 # State what is new and what comes from earlier work
 
-Distinguish what the authors contribute from standard components, borrowed ideas, and their earlier results ("we use the probe of Smith et al. [4]; our change is to ..."), and flag an unclear contribution rather than assign it. Keep wording that identifies the authors' earlier work (or flag it if the venue requires anonymity), and do not present that work as confirmation by other researchers.
+Distinguish what the authors contribute from standard components, borrowed ideas, and their earlier results. Flag an unclear contribution rather than assign it. Keep wording that identifies the authors' earlier work, or flag it if the venue requires anonymity. Do not present that work as confirmation by other researchers.
 
 ## Details
 
-State additions and credit using only what the draft says. Do not describe the authors' earlier work as if other researchers had independently confirmed the result. However, if two studies have authors in common, do not conclude from shared authorship alone that they reuse the same data or that neither study can independently confirm the other. Do not infer from writing style that the authors borrowed material without acknowledging it, and do not search for matching text.
+State additions and credit using only what the draft states. If two studies have authors in common, do not infer from that alone that they reuse the same data or that neither can independently confirm the other. Do not infer from writing style that the authors borrowed material without credit, and do not search for matching text.
 
 ## Examples
 
@@ -14,7 +14,7 @@ State additions and credit using only what the draft says. Do not describe the a
 
 > **After.** We introduce the overflow alarm for our published rain gauge.
 
-**Edit 2.** Say the draft identifies the earlier report as the authors’ own and states that it uses the same measurements.
+**Edit 2.** Suppose the draft identifies the earlier report as the authors' own and states that it uses the same measurements.
 
 > **Before.** An independent study confirms the effect.
 

@@ -1,12 +1,11 @@
 # Remove or flag unsupported labels on empirical claims
 
-Labels such as *solves*, *optimal*, *guarantees*, and *first to* need evidence for the full empirical claim. Flag unsupported superlatives and any *state-of-the-art*, *record*, or *human-level* claim that omits the task or quantity, the benchmark, the compared methods or results, or the metric. Remove *novel* when it adds only praise. Beyond removing a label, rewrite the claim only when the draft's evidence determines its [scope](scope.md); otherwise, flag it. An experiment or observation shows uniqueness only among the alternatives compared, so a uniqueness claim must name those alternatives, the property compared, and how finely the comparison distinguishes them.
+Labels such as *solves*, *optimal*, *guarantees*, and *first to* need evidence for the full empirical claim. Flag unsupported superlatives and any *state-of-the-art*, *record*, or *human-level* claim that omits the task or quantity, benchmark, compared methods or results, or metric. Remove *novel* when it adds only praise. Beyond removing a label, rewrite the claim only when the draft's evidence determines its [scope](scope.md); otherwise, flag it. An experiment or observation shows uniqueness only among the alternatives compared. A uniqueness claim must name those alternatives, the property compared, and how finely the comparison distinguishes them.
 
 ## Details
 
-An edit that goes beyond removing an unsupported label, such as narrowing a claim to the tested cases, changes what the claim asserts. Make that edit only when the draft's evidence determines the exact cases or conditions that the claim covers.
-
-Do not treat a claim that the work is the first of its kind as verified merely because you do not recall earlier work.
+- Rewriting claims: Narrowing a claim to tested cases goes beyond removing a label. Make such an edit only when the draft's evidence determines the exact cases or conditions covered.
+- Claims to be first: Not recalling earlier work does not verify a claim that the work is the first of its kind.
 
 ## Examples
 

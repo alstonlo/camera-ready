@@ -1,10 +1,10 @@
 # Use one term per concept
 
-Do not alternate terms such as "device", "sensor", and "system" for variety, including in captions and figure labels; vary sentence structure and function words instead. Keep different names only for distinct concepts, such as different types, scopes, or measured quantities. Use the field's standard term when the draft makes clear that its own term means exactly the same thing ("learning rate", not "step factor"), but flag rather than rename the authors' label for something they introduce. A clear pronoun or bare demonstrative may refer back to the term in the same or the next sentence, but repeat a specific name rather than replace it with a general category noun ("this compound"). To find synonyms, list the names the draft uses for each recurring concept, and flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. When describing a parallel or more general case, repeat the earlier wording exactly, then state what differs. When naming a formula's role helps readers follow without looking back, name its established role, such as a bound or definition, rather than calling every formula an equation.
+Do not alternate terms such as "device", "sensor", and "system" for variety, including in captions and figure labels; vary sentence structure and function words instead. Keep different names only for distinct concepts, such as types, scopes, or measured quantities. Use the field's standard term when the draft makes clear that its own term means exactly the same thing ("learning rate", not "step factor"), but flag the authors' label for something they introduce rather than renaming it. A clear pronoun or bare demonstrative may refer back to the term in the same or next sentence, but use the specific name rather than a general category noun ("this compound"). To find synonyms, list the names the draft uses for each recurring concept, and flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. When describing a parallel or more general case, repeat the earlier wording exactly, then state what differs. When naming a formula's role helps readers follow without looking back, use its established role, such as a bound or definition, rather than calling it an equation.
 
 ## Details
 
-Distinguish vector components from set elements. Use names that identify the mathematical relationship: an inequality, definition, or general relation need not be an equation.
+Distinguish vector components from set elements. Name mathematical relationships accurately: an inequality, definition, or general relation need not be an equation.
 
 ## Examples
 
@@ -20,9 +20,9 @@ Distinguish vector components from set elements. Use names that identify the mat
 
 > **After.** The drying cabinet is insulated. It stays warm. The drying cabinet holds six trays.
 
-The pronoun "It" clearly refers to the drying cabinet and gives readers no competing name to remember.
+The clear pronoun "It" introduces no competing name.
 
-**Edit 3.** Imagine a figure label names equipment that the body text calls a "drying cabinet". The change below is a proposal to the author.
+**Edit 3.** Suppose a figure label names equipment called a "drying cabinet" in the body. After proposes a change to the author.
 
 > **Before.** Chamber temperature (°C)
 

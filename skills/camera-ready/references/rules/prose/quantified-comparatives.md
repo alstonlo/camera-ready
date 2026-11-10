@@ -1,10 +1,10 @@
 # Replace vague comparisons with measurements
 
-For comparatives such as "more" or "faster", use the reported measurement and name what it is compared with: write "Our method runs in 0.3 s per example versus 1.1 s for the baseline (3.7× faster)", not "Our method is much faster". A label such as "large" needs a stated comparison or threshold and cannot replace the measurement. Do not calculate a ratio that the draft does not report, such as a speedup or a fold change.
+For comparatives such as "more" or "faster", give the reported measurement and name what it is compared with. A label such as "large" needs a stated comparison or threshold and cannot replace the measurement. Do not calculate a ratio, such as a speedup or fold change, that the draft does not report.
 
 ## Details
 
-Before presenting measurements as comparable, check that they satisfy the requirements for [comparison evidence](../claims/variability.md).
+Before comparing measurements, check that they meet the requirements for [comparison evidence](../claims/variability.md).
 
 ## Examples
 
@@ -14,7 +14,7 @@ Before presenting measurements as comparable, check that they satisfy the requir
 
 > **After.** In this test, cart A carries 80 kg, compared with 50 kg for cart B.
 
-**Edit 2.** Say the draft reports 12 mg of residue and gives 10 mg as the threshold for high residue.
+**Edit 2.** Suppose the draft reports 12 mg of residue and a 10 mg threshold for high residue.
 
 > **Before.** The filter leaves high residue.
 

@@ -1,6 +1,6 @@
 # Read the sentence aloud
 
-Listen for where you hesitate, cannot tell what to stress, or miss a connection, and fix the structure, not only the punctuation. A sentence that reads smoothly can still be unclear if it relies on pauses, stress, or background knowledge. Do not add a [writerly aside](writerly-asides.md) telling readers how to read it.
+Listen for hesitation, uncertainty about what to stress, or missing connections. Fix the structure, not just the punctuation. Even a sentence that reads smoothly can be unclear if it relies on pauses, stress, or background knowledge. Do not add a [writerly aside](writerly-asides.md) telling readers how to read it.
 
 ## Details
 
@@ -20,4 +20,4 @@ This rule has no further details.
 
 > **After.** The operator should rinse the jar rather than the lid.
 
-A reader cannot hear the emphasis on "jar" that would convey the choice aloud.
+A reader cannot hear the spoken emphasis on "jar" that conveys the choice.

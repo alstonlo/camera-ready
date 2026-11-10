@@ -1,10 +1,11 @@
 # Remove stray citation codes and placeholders, and flag missing information
 
-Remove artifacts of an unedited paste, such as chat citation codes (`citeturn0search0`, `contentReference[oaicite:...]`) and unfilled placeholders ("[Insert citation]"), keeping the surrounding claim and flagging the missing information. Flag AI-referrer URL parameters such as `utm_source=chatgpt.com` for removal.
+Remove artifacts left by an unedited paste, such as chat citation codes (`citeturn0search0`, `contentReference[oaicite:...]`) and unfilled placeholders ("[Insert citation]"). Keep the surrounding claim and flag the missing information. Flag URL parameters that identify an AI tool as the referrer, such as `utm_source=chatgpt.com`, for removal.
 
 ## Details
 
-Also check for citation codes from other chat interfaces. The parameter `utm_source=chatgpt.com` identifies ChatGPT as the referring website. When you flag a removed placeholder or citation code, state what information the surrounding sentence needs.
+- Check for citation codes from other chat interfaces too.
+- When flagging a removed placeholder or citation code, state what information the surrounding sentence needs.
 
 ## Examples
 
@@ -14,10 +15,10 @@ Also check for citation codes from other chat interfaces. The parameter `utm_sou
 
 > **After.** The bridge opened in 1986.
 
-**Edit 2.** Say an editor flags this URL for the author. After shows the proposed replacement; the URL in the draft stays unchanged.
+**Edit 2.** Suppose the editor flags this URL. The After passage shows the proposed replacement; the draft's URL stays unchanged.
 
 > **Before.** Data are at https://example.org/data?utm_source=chatgpt.com.
 
 > **After.** Data are at https://example.org/data.
 
-Showing the suggested URL in the flag lets the author see the requested change while preserving the draft's link.
+The flag shows the suggested URL without changing the draft's link.

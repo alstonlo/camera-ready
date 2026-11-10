@@ -1,6 +1,6 @@
 # Replace needless substitutes for "is", "has", or action verbs
 
-Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "is" or "has" when the meaning stays the same, and a following action noun with its verb ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity (a compound acting as a catalyst) or a precise technical meaning.
+Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "is" or "has" when the meaning stays the same. Replace a following action noun with its verb ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity or a precise technical meaning.
 
 ## Details
 
@@ -20,7 +20,7 @@ This rule has no further details.
 
 > **After.** The tray has two compartments and acts as a lid during transport.
 
-The tray takes on the role of a lid during transport. Calling it a lid would obscure the difference between what it is and how it is used.
+The tray is used as a lid during transport. Calling it a lid would obscure the difference between its identity and its use.
 
 **Edit 3.**
 

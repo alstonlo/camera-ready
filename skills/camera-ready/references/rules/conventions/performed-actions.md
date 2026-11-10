@@ -1,6 +1,6 @@
 # State performed actions directly
 
-When the draft shows an action was performed, replace "can", "aims to", or "seeks to" with a direct verb. Keep them for a capability the study did not use or a goal the authors have not reached, where removing them would [change the claim](../claims/unsupported-labels.md). Replace the ungrammatical "allows to model" with "models" or "allows us to model", as the draft means.
+When the draft shows that an action was performed, replace "can", "aims to", or "seeks to" with a direct verb. Keep them for an unused capability or unreached goal when removing them would [change the claim](../claims/unsupported-labels.md). Replace the ungrammatical "allows to model" with "models" or "allows us to model", as the draft means.
 
 ## Details
 
@@ -14,7 +14,7 @@ This rule has no further details.
 
 > **After.** The scale can weigh whole plants. We weigh each seed separately.
 
-The scale's ability to weigh a whole plant does not mean the authors used it that way.
+The unused capability stays qualified.
 
 **Edit 2.** Say the authors sort the seeds by hand and have not achieved automated sorting.
 
@@ -22,4 +22,4 @@ The scale's ability to weigh a whole plant does not mean the authors used it tha
 
 > **After.** We aim to automate sorting. We sort these seeds by hand.
 
-Hand sorting is an action the authors performed; automation is still only a goal.
+The unreached goal stays qualified.

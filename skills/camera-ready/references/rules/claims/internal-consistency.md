@@ -1,12 +1,12 @@
 # Flag conflicting claims and numbers
 
-Compare claims about the same object across sections and lists, and check totals, bounds, and trends against the draft's numerical constraints. Flag both passages of an apparent conflict, and either propose a revision stating the difference in setting or definition that the draft gives to explain it, or flag the missing explanation. Flag conflicting numbers without choosing a value. Flag a claim that two options are the only possibilities when the draft names another option in that scope, and name that option.
+Compare claims about the same object across sections and lists, and check totals, bounds, and trends against the draft's numerical constraints. Flag both passages of an apparent conflict. Propose a revision that states any difference in setting or definition the draft gives to explain it, or flag the missing explanation. Flag conflicting numbers without choosing a value. If a claim presents two options as the only possibilities but the draft names another in that scope, flag the claim and name that option.
 
 ## Details
 
-Check that the abstract, contribution list, results, captions, and conclusion agree. For example, one passage may state that an object supports an operation while another states that it cannot perform that operation. Do not assume that categories have no members in common or that a list includes every possibility.
-
-Comparing two approaches does not imply that they are the only options, as an exhaustive "either A or B" claim does. Category names that overlap in meaning do not, by themselves, establish a contradiction.
+- Check agreement across the abstract, contribution list, results, captions, and conclusion.
+- Do not assume that categories have no members in common or that a list is exhaustive. Comparing two approaches does not imply that they are the only options, as an exhaustive "either A or B" claim does.
+- Overlap in the meanings of category names does not by itself establish a contradiction.
 
 ## Examples
 

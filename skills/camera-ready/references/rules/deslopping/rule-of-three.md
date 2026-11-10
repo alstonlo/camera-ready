@@ -1,6 +1,6 @@
 # Revise rule-of-three lists written for rhythm
 
-In a list such as "faster, cheaper, and more robust", remove empty or redundant words and flag unsupported items, but never drop a substantive item just to change the count.
+In a list such as "faster, cheaper, and more robust", remove empty or redundant words and flag unsupported items. Never drop a substantive item just to change the count.
 
 ## Details
 
@@ -20,12 +20,12 @@ This rule has no further details.
 
 > **After.** The kit contains a ruler, a brush, and a tray.
 
-The list of contents stays because the ruler, brush, and tray are three distinct items.
+The list of contents stays because it names three distinct items.
 
-**Edit 3.** Suppose the draft supports "waterproof" but reports no fire test, and the editor separately flags the missing support for "fireproof".
+**Edit 3.** Suppose the draft supports "waterproof" but reports no fire test. The editor separately flags the missing support for "fireproof".
 
 > **Before.** The case is waterproof, fireproof, and remarkable.
 
 > **After.** The case is waterproof and fireproof.
 
-Fire resistance is a substantive claim even though it lacks support. The author needs to address that claim.
+Fire resistance is a substantive claim that the author needs to address, even though it lacks support.

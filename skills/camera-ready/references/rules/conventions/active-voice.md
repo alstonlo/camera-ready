@@ -1,17 +1,17 @@
 # Use active voice and keep the actor consistent
 
-Use active "we" for the authors' actions and decisions, but not for the research community or people in general; "we" may include the reader in derivations and proofs. In method descriptions, use either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate") throughout, but "we", not the method, for design choices ("we set k = 5"). Keep a single author's choice of "I" or "we" and apply it consistently. Do not assign an action to the authors when the draft omits the actor.
+Use active "we" for the authors' actions and decisions, but not for the research community or people in general; "we" may include the reader in derivations and proofs. In method descriptions, consistently use either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate") as the actor. Use "we" for design choices ("we set k = 5"). Keep a single author's choice of "I" or "we" and apply it consistently. Do not assign an action to the authors when the draft omits the actor.
 
-Keep passives in these cases:
+Keep passives:
 
-- When the actor is obvious, irrelevant, or unknown ("Images are normalized to zero mean").
+- When the actor is obvious, irrelevant, or unknown.
 - When they put [old information first](../prose/passives-fronting-inversions.md).
 - When a long actor belongs at the end.
 - In clear passive modifiers ("the samples selected by technicians").
 
 ## Details
 
-When both voices retain the same familiar subject, compare their endings with the next sentence or paragraph's topic. Active voice can sustain attention on the subject's activity; passive voice can shift attention toward the ending. Choose the version that prepares the intended continuation.
+When both voices keep the same familiar subject, compare how their endings prepare for the next sentence or paragraph's topic. Active voice can sustain attention on the subject's activity; passive voice can shift attention toward the ending. Choose the voice that prepares readers for what follows.
 
 ## Examples
 
@@ -39,4 +39,4 @@ When both voices retain the same familiar subject, compare their endings with th
 
 > **After.** The label was removed before delivery. We weigh the jar.
 
-The passive leaves the unknown actor unnamed. Writing "We removed the label" would assign the action to the authors without support.
+Writing "We removed the label" would assign the action to the authors without support.

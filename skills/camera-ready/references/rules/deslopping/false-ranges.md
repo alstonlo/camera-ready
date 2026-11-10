@@ -1,6 +1,6 @@
 # Replace false ranges with the settings tested
 
-When the endpoints of "from X to Y" lie on no ordered scale ("tasks ranging from image classification to reinforcement learning", unlike "from 10² to 10⁶ parameters"), replace the phrase with the settings tested. Never shorten a longer list to its endpoints.
+When the endpoints of "from X to Y" lie on no ordered scale ("from image classification to reinforcement learning"), replace the phrase with the settings tested. Keep ranges on ordered scales, such as "from 10² to 10⁶ parameters". Never shorten a longer list to its endpoints.
 
 ## Details
 
@@ -20,4 +20,4 @@ This rule has no further details.
 
 > **After.** We test brick and metal at 10–30 °C in 10 °C increments.
 
-The temperature range and its increments stay because temperature has an ordered scale; brick and metal do not mark positions on such a scale.
+The temperature range and increments stay because temperature has an ordered scale; brick and metal do not.

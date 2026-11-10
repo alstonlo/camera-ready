@@ -1,14 +1,12 @@
 # State units clearly and never change a number's value or precision
 
-Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats; match forms within a comparison only when value and precision stay unchanged. Resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats from the draft, or flag them. Flag, rather than perform, any unit conversion.
+Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats. Match forms within a comparison only when value and precision stay unchanged. Use the draft to resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats, or flag the ambiguity. Flag, rather than perform, any unit conversion.
 
 ## Details
 
-For storage capacity, a prefix may be binary (powers of two) or decimal (powers of ten). If the draft leaves the scale unclear, state the scale from elsewhere in the draft or flag that it is unstated.
-
-For durations, use the draft's convention to distinguish a decimal number from a clock reading, such as "1.30" for 1 min 30 s. If the draft leaves the format ambiguous, flag it. Neither check permits converting a numerical value.
-
-For percentages and differences in percentage points, follow the rule on [variability](../claims/variability.md).
+- Storage prefixes: A prefix may be binary (powers of two) or decimal (powers of ten). If its scale is unclear, state it from elsewhere in the draft or flag it as unstated.
+- Durations: Use the draft's convention to distinguish a decimal number from a clock reading, such as "1.30" for 1 min 30 s. Flag any ambiguity the draft leaves unresolved. Neither check permits converting a numerical value.
+- Percentages and percentage-point differences: Follow [variability](../claims/variability.md).
 
 ## Examples
 
@@ -30,7 +28,7 @@ For percentages and differences in percentage points, follow the rule on [variab
 
 > **After.** The capacity is 2 MiB.
 
-The draft uses MB for a binary unit, so this corrects the label without converting the capacity.
+The label correction preserves the capacity.
 
 **Edit 4.** Imagine the draft uses a period to separate minutes from seconds.
 
@@ -52,7 +50,7 @@ After restores the draft's precision and established format.
 
 > **After.** The chamber remains at 293.15 K.
 
-After restores the original value and units. Flag the proposed conversion for author review.
+After restores the original value and units; the proposed conversion requires author review.
 
 **Edit 7.** Suppose the draft uses M for exact counts in millions in this comparison.
 
@@ -68,4 +66,4 @@ The matching forms preserve both exact counts without rounding.
 
 > **After.** The sample counts are 3.2M and 412,678.
 
-After restores the draft's exact count. Flag the proposed rounding for author review.
+After restores the exact count; the proposed rounding requires author review.

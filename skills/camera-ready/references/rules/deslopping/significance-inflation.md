@@ -1,6 +1,6 @@
 # State what a result implies without exaggerating its importance
 
-Delete grand-trend phrases such as "marking a pivotal moment" or "paving the way", or replace them with the supported implication and its conditions. Keep a substantive implication that lacks evidence: mark a speculative explanation or mechanism under [speculation](../claims/speculation.md), and flag any other unsupported implication.
+Delete phrases that exaggerate importance, such as "marking a pivotal moment" or "paving the way", or replace them with the supported implication and its conditions. Keep substantive implications that lack evidence. Mark a speculative explanation or mechanism under [speculation](../claims/speculation.md), and flag any other unsupported implication.
 
 ## Details
 
@@ -20,10 +20,10 @@ This rule has no further details.
 
 > **After.** The smaller filter fits inside the tested bottles.
 
-**Edit 3.** Imagine the draft describes no safety tests.
+**Edit 3.** Suppose the draft describes no safety tests.
 
 > **Before.** The filter makes river water safe to drink, marking a historic turning point.
 
 > **After.** The filter makes river water safe to drink. Flag for the author: What safety tests support this claim?
 
-The drinking-water claim needs evidence. Treating it as empty praise would discard a substantive claim.
+The drinking-water claim needs evidence; it is a substantive claim, so it stays.

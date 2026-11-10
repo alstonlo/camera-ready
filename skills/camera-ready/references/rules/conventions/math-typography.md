@@ -1,10 +1,10 @@
 # Use the correct type for operators, subscripts, and signs
 
-Use upright type for multi-letter operators (`\log`, `\operatorname{softmax}`) and word subscripts (`\mathcal{L}_{\text{train}}`), but italic for variable subscripts (`x_i`). Use × (`\times`), not x or `*` (except in code), for multiplication and multiplicative factors, and write negative values in math mode for minus signs (`$-0.3$`), not hyphens. Fix LaTeX typography only where mathematical meaning stays unchanged, and flag any change to symbols, grouping, delimiters, or operator meaning. Propose a clearer form for ambiguous notation, such as a slash fraction whose denominator has no clear end, only when the draft establishes the intended meaning. Flag stacked inline fractions that disrupt line spacing, exponent fractions too small to read, and oversized delimiters; suggest slash fractions or smaller delimiters only with grouping preserved.
+Use upright type for multi-letter operators (`\log`, `\operatorname{softmax}`) and word subscripts (`\mathcal{L}_{\text{train}}`), but italic for variable subscripts (`x_i`). Use × (`\times`) for multiplication and multiplicative factors rather than x or `*`, except in code. Write negative values in math mode (`$-0.3$`) to give them minus signs rather than hyphens. Fix LaTeX typography only when mathematical meaning stays unchanged, and flag any change to symbols, grouping, delimiters, or operator meaning. Propose a clearer form for ambiguous notation, such as a slash fraction whose denominator has no clear end, only when the draft establishes the intended meaning. Flag stacked inline fractions that disrupt line spacing, exponent fractions too small to read, and oversized delimiters; suggest slash fractions or smaller delimiters only with grouping preserved.
 
 ## Details
 
-A slash fraction can leave readers unsure where the denominator ends.
+This rule has no further details.
 
 ## Examples
 
@@ -20,7 +20,7 @@ A slash fraction can leave readers unsure where the denominator ends.
 
 > **After.** We compare $t_i$ with $t_{\text{cool}}$.
 
-The index $i$ stays italic because it is a variable, whereas "cool" is a word label.
+The variable index $i$ stays italic; the word label "cool" is upright.
 
 **Edit 3.**
 
@@ -28,7 +28,7 @@ The index $i$ stays italic because it is a variable, whereas "cool" is a word la
 
 > **After.** The code `a*b` computes $a \times b$.
 
-The asterisk in `a*b` belongs to the code, so it stays as written.
+The asterisk stays in the code.
 
 **Edit 4.** Suppose the draft specifies $b+c$ as the denominator. After proposes a correction to the author.
 
@@ -36,4 +36,4 @@ The asterisk in `a*b` belongs to the code, so it stays as written.
 
 > **After.** The ratio is $\frac{a}{b+c}$.
 
-Putting both terms in the denominator changes the grouping, so the author needs to review it.
+Changing the grouping requires author review.

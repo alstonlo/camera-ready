@@ -1,6 +1,6 @@
 # Finish one topic before starting another
 
-Repair any unexplained return to an earlier topic (A, B, A). In a comparison organized by named properties, such as weight or cost, each property can be the topic: discuss every method on one property before moving to the next, instead of regrouping the text by method.
+Repair any unexplained return to an earlier topic (A, B, A). In a comparison organized by named properties, each property can be the topic: compare all methods on one property before moving to the next, rather than regrouping by method.
 
 ## Details
 
@@ -20,4 +20,4 @@ A comparison that switches between methods follows this order only if it names e
 
 > **After.** For weight, cart A is lighter than cart B. Cart B weighs 4 kg more. For cost, cart A is cheaper than cart B. Cart B costs $20 more.
 
-Weight and cost are the topics here, so mentioning both carts within each comparison keeps each topic together.
+Weight and cost are the topics, so comparing both carts on each property keeps each topic together.

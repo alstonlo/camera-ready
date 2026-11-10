@@ -1,10 +1,10 @@
 # Explain how the results address the gap
 
-Give this explanation in the discussion's first paragraph, for the gap stated in the introduction, then state the limitations under the [rule on limitations](../claims/limitations.md). If the introduction promises more than the results establish, flag the mismatch under the [rule on scope](../claims/scope.md).
+In the discussion's first paragraph, explain how the results address the gap stated in the introduction. Then state the limitations under the [rule on limitations](../claims/limitations.md). If the introduction promises more than the results establish, flag the mismatch under the [rule on scope](../claims/scope.md).
 
 ## Details
 
-Find the introduction's final substantive promise, which states what the study will establish rather than how the paper is organized. This promise may appear anywhere in the introduction, not only in its opening sentence. Compare what the introduction promises with what the body establishes and how the discussion addresses that promise.
+Find the introduction's final substantive promise: what the study will establish, rather than how the paper is organized. It may appear anywhere in the introduction. Compare this promise with what the body establishes and how the discussion addresses it.
 
 ## Examples
 
@@ -14,7 +14,7 @@ Find the introduction's final substantive promise, which states what the study w
 
 > **After.** The pump lifts water 10 m above the tank, which is high enough to reach the roof.
 
-**Edit 2.** Imagine the introduction promises a seal that works in fresh and salt water. This passage opens the discussion, and the draft reports that the seal stops leaks in fresh water but still leaks in salt water.
+**Edit 2.** Suppose the introduction promises a seal that works in fresh and salt water, but the results show that it stops leaks in fresh water and still leaks in salt water. This passage opens the discussion.
 
 > **Before.** The seal closes the stated gap by stopping leaks in both fresh and salt water.
 

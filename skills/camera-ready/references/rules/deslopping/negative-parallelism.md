@@ -1,6 +1,6 @@
 # Replace negative parallelism with the positive claim
 
-When a contrast rejects an alternative invented for emphasis, as in "not only faster but also more accurate", "It is not just an optimizer, it is a paradigm shift", or paired sentences ("The headline is not the speedup. The real story is ..."), state the supported result or measurement directly; a contrast that excludes a real alternative ("we measure X, not Y") is not this pattern.
+When a contrast rejects an alternative invented for emphasis, state the supported result or measurement directly. Look for "not only ... but also", "not just ...", and paired sentences such as "The headline is not the speedup. The real story is ...". Keep contrasts that exclude real alternatives ("we measure X, not Y").
 
 ## Details
 
@@ -20,4 +20,4 @@ This rule has no further details.
 
 > **After.** We measure mass, not volume, and record the mass and the temperature.
 
-The contrast with volume tells readers which quantity is measured.
+The contrast with volume identifies the measured quantity.

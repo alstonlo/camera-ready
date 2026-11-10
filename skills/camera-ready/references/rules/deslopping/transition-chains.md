@@ -1,6 +1,6 @@
 # Delete transition chains that announce more text
 
-Delete repeated openings such as "Moreover", "Furthermore", and "Additionally", letting the paragraph order convey the sequence, and never replace them with unsupported causal, temporal, or contrastive links. Keep transitions that show a [valid logical relation](../prose/transitions.md).
+Delete repeated openings such as "Moreover", "Furthermore", and "Additionally", letting paragraph order convey the sequence. Never replace them with unsupported causal, temporal, or contrastive links. Keep transitions that show a [valid logical relation](../prose/transitions.md).
 
 ## Details
 
@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Imagine these sentences open consecutive paragraphs about independent setup choices.
+**Edit 1.** Suppose these sentences open consecutive paragraphs about independent setup choices.
 
 > **Before.** Moreover, all participants use the same tablet. Additionally, each session lasts 20 minutes.
 
@@ -20,4 +20,4 @@ This rule has no further details.
 
 > **After.** The tray is steel. Furthermore, its coating is inert. Both properties are required by the protocol.
 
-Here "Furthermore" connects two requirements that must both be met, so it does more than announce another sentence.
+The word "Furthermore" connects two requirements that must both be met.

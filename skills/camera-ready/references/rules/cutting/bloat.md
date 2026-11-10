@@ -1,6 +1,6 @@
 # Delete empty wording without asking
 
-Delete [chatbot artifacts](../deslopping/chatbot-phrases.md), [generic openings](../deslopping/generic-openings-closings.md), and [leaked artifacts](../deslopping/generation-artifacts.md), repair [em dashes](../deslopping/em-dashes.md), and delete content announcements and signposts only when the [signpost rule](../prose/signposts.md) allows. Shorten remaining sentences without cutting [ideas](idea-cuts.md).
+Delete [chatbot replies](../deslopping/chatbot-phrases.md), [generic openings](../deslopping/generic-openings-closings.md), and [generation artifacts](../deslopping/generation-artifacts.md), and repair [em dashes](../deslopping/em-dashes.md). Delete content announcements and signposts only when the [signpost rule](../prose/signposts.md) allows. Shorten remaining sentences without cutting [ideas](idea-cuts.md).
 
 ## Details
 
@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the editor also alerts the author to the missing source.
+**Edit 1.** Suppose the editor also flags the missing source.
 
 > **Before.** The well is 12 m deep. [Insert source]
 
@@ -26,4 +26,4 @@ This rule has no further details.
 
 > **After.** The proof appears in Appendix A. We water each pot every morning.
 
-The Appendix A sentence lets readers find the proof.
+The Appendix A reference locates the proof.

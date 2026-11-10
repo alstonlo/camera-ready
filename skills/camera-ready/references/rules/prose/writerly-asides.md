@@ -1,6 +1,6 @@
 # State claims and reasons in complete, literal sentences
 
-Replace conversational idioms such as "Call it a wash" and editorial commands with complete, literal statements of the claim and the draft's reason for it, or flag a missing reason: "Treat this as an upper bound." becomes "This estimate is an upper bound, because the scan also counts duplicates." Keep a deliberately short sentence when it is complete and literal. Follow [intensifiers](intensifiers.md) for "Note that" and similar prompts. Preserve the author's supported stance under [author voice](../deslopping/author-voice.md).
+Replace conversational idioms such as "Call it a wash" and editorial commands with complete, literal statements of the claim and the draft's reason for it, or flag a missing reason. Keep a deliberately short sentence when it is complete and literal. Follow [intensifiers](intensifiers.md) for "Note that" and similar prompts. Preserve the author's supported stance under [author voice](../deslopping/author-voice.md).
 
 ## Details
 
@@ -20,4 +20,4 @@ This rule has no further details.
 
 > **After.** Regrettably, neither pump moves water.
 
-"Regrettably" preserves the author's judgment about the result without asking readers to interpret an idiom.
+"Regrettably" preserves the author's judgment about the result.

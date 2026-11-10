@@ -6,7 +6,7 @@ At any point, readers should understand as much as the preceding text could have
 - Put a section's claim in its first paragraph, and open each paragraph as the [paragraph rule](paragraph-development.md) directs.
 - Define unfamiliar terms before using them.
 
-To test the order, cover everything after a given sentence and ask what the reader knows so far: if a covered sentence would explain more of the visible text than an uncovered one, move it earlier, but a sentence that only adds precision to an already understood claim can stay. You may reorder sentences within a paragraph and paragraphs within a section, but flag moves between sections. Within a sentence, follow [old before new](old-before-new.md) and [stress position](stress-position.md).
+To test the order, cover everything after a given sentence and ask what the reader knows so far. If a covered sentence would explain more of the visible text than an uncovered one, move it earlier. A sentence that only adds precision to an understood claim can stay. You may reorder sentences within a paragraph and paragraphs within a section, but flag moves between sections. Within a sentence, follow [old before new](old-before-new.md) and [stress position](stress-position.md).
 
 ## Details
 

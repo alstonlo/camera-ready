@@ -1,21 +1,20 @@
 # Match each section to its part of the argument
 
-In a paper, present the argument in this order: Abstract, Introduction, Background and related work, Methods, Results, Discussion, and Conclusion; a thesis chapter, report, or proposal follows the same order under its own section names. Each result must follow the method description it needs. Keep combined or repeated sections if the argument stays clear, and follow venue rules. Each section has its own function:
+Present a paper's argument in this order: Abstract, Introduction, Background and related work, Methods, Results, Discussion, and Conclusion. A thesis chapter, report, or proposal follows the same order under its own section names. Each result must follow the method description it needs. Keep combined or repeated sections if the argument stays clear, and follow venue rules. Each section has its own function:
 
-- The introduction states the problem, gap, idea, and contributions; its opening states the problem and what is missing. State the contributions in the first quarter of the text, and flag a central result that first appears later.
-- Background gives only the context needed for the gap and comparisons; its opening states what the reader must know to see the gap.
-- Methods explains the idea. When the venue places Methods after Results, keep a brief description of the procedure with each result and refer readers to Methods for the full one.
-- Results gives the evidence.
-- Discussion interprets the evidence, limitations, and alternatives.
-- The conclusion states the implications.
+- Introduction: State the problem, gap, idea, and contributions. Open with the problem and what is missing. State the contributions in the first quarter of the text, and flag a central result that first appears later.
+- Background: Give only the context needed for the gap and comparisons. Open with what the reader must know to see the gap.
+- Methods: Explain the idea. When the venue places Methods after Results, keep a brief description of the procedure with each result and refer readers to Methods for the full description.
+- Results: Give the evidence.
+- Discussion: Interpret the evidence, limitations, and alternatives.
+- Conclusion: State the implications.
 
-The abstract opens with the problem and states all five parts of the argument in one or two sentences each when the venue's word limit allows, with the headline result and recognizable terms for the problem, system, and technique. Make it understandable without the body or bibliography: identify in the abstract any cited work readers need, and remove a reference to a section or figure only when the abstract already states that result. Flag a missing part or result, or needed content that exceeds the limit. A proposal describes the evidence the authors plan to gather, and a survey abstract may state what the reviewed studies establish together.
+Open the abstract with the problem and state all five parts of the argument in one or two sentences each when the venue's word limit allows. Include the headline result and recognizable terms for the problem, system, and technique. Make the abstract understandable without the body or bibliography: identify any cited work readers need, and remove a section or figure reference only when the abstract already states that result. Flag a missing part or result, or needed content that exceeds the limit. A proposal describes the evidence the authors plan to gather, and a survey abstract may state what the reviewed studies establish together.
 
 ## Details
 
-When Methods precedes Results, flag any substantial procedure first described in Results. A small result that validates a procedure may stay beside that procedure in Methods if it needs no separate discussion.
-
-The five parts of the argument in the abstract are the problem, the gap, the idea, the evidence, and the implication. To identify a cited work in the abstract, use the authors and year supplied by the draft when the venue permits that format, and flag any missing information needed to identify the work.
+- Methods and Results: When Methods precedes Results, flag any substantial procedure first described in Results. A small result that validates a procedure may stay beside it in Methods if it needs no separate discussion.
+- Abstract: The five parts of the argument are the problem, gap, idea, evidence, and implication. Identify cited work by the authors and year supplied in the draft when the venue permits that format; flag missing information needed to identify the work.
 
 ## Examples
 
@@ -43,4 +42,4 @@ The five parts of the argument in the abstract are the problem, the gap, the ide
 
 > **After.** Methods: temperature calibration and validation; drying procedure. Results: drying results.
 
-The calibration result stays beside the procedure it validates. The proposed move of the drying procedure needs the author's review.
+The calibration result stays beside the procedure it validates. Moving the drying procedure needs the author's review.

@@ -1,6 +1,6 @@
 # State the content directly
 
-When a sentence only promises later content, calls a topic complex, or gives a quantity or category but defers the content ("Three changes alter the reported accuracies, and we note each where it lands"), replace it with the draft's content, or flag the gap. Delete trailing promises such as "and we discuss each below" when the content is already present. Keep a summary of the main idea, a count whose items follow immediately ("We make four observations. First, ..."), and statements of real uncertainty, a real dispute, an unresolved definition, or a [limitation](../claims/limitations.md). A sentence is empty if, read without the rest of the paragraph, it amounts to "there are some, and they are below".
+When a sentence only promises later content, calls a topic complex, or names a quantity or category while deferring its content, replace it with the draft's content, or flag the gap. Delete trailing promises such as "and we discuss each below" when the content is already present. Keep summaries of the main idea, counts whose items follow immediately, and statements of real uncertainty, a real dispute, an unresolved definition, or a [limitation](../claims/limitations.md). A sentence is empty if, read alone, it amounts to "there are some, and they are below".
 
 ## Details
 
@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the draft names leaks and evaporation as the two sources elsewhere.
+**Edit 1.** Suppose the draft names leaks and evaporation as the two sources of water loss elsewhere.
 
 > **Before.** Two sources of water loss are discussed later.
 
@@ -32,4 +32,4 @@ This rule has no further details.
 
 > **After.** We explain below why the lid stays shut. Flag for the author: The promised explanation is missing.
 
-Before is an editor's proposed addition, which the draft does not support. The author must supply the explanation; the editor cannot infer it from the fact that the lid stays shut.
+Before is an unsupported addition by an editor. The author must supply the explanation; the fact that the lid stays shut does not establish why.

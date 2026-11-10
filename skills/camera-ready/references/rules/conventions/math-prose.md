@@ -1,14 +1,14 @@
 # Write mathematics as grammatical prose
 
-An equality can supply a sentence's verb; to check the grammar, mentally replace each formula with words that play the same role and reread.
+An equality can supply a sentence's verb. Check the grammar by mentally replacing each formula with words that play the same role.
 
-- Begin sentences and clauses with words, not bare symbols ("A function f is semicontinuous if...", not "f is semicontinuous if..."), and spell out sentence-initial numbers regardless of the number-spelling cutoff.
+- Begin sentences and clauses with words, not bare symbols. Spell out sentence-initial numbers regardless of the number-spelling cutoff.
 - Separate adjacent formulas with words ("Consider S_q, where q < p"), even across sentence boundaries.
 - Reword a sentence-final symbol that could be read as part of the next name or abbreviation.
 - Except in work on logic, write quantifiers and implications in prose as words ("for all" for $\forall$).
 - Never let a relation symbol stand for words in a verbal phrase ("is at most 0.1", not "is $\le 0.1$").
-- A trailing "where" clause may define symbols, but put any definition needed to understand a claim before the claim: in "Every convex polynomial has even degree, where a function is convex if ...", move the definition of convexity first.
-- End a displayed formula with a period when the sentence ends or a comma when it continues.
+- A trailing "where" clause may define symbols, but put definitions needed to understand a claim before it.
+- End a displayed formula with a period if the sentence ends or a comma if it continues.
 - Put a colon before a display only after a complete clause ("we define the loss as follows:"), never after an incomplete one ("the loss is:").
 - In LaTeX source, put no blank lines around a displayed formula that continues its paragraph.
 
@@ -24,7 +24,7 @@ An expression without a relation, such as $a+b$, usually acts as a noun phrase.
 
 > **After.** The area of a circle of radius $r$ is \[\pi r^2.\]
 
-**Edit 2.** Imagine a paper on logic in which this passage explains the universal quantifier.
+**Edit 2.** Suppose this passage in a paper on logic explains the universal quantifier.
 
 > **Before.** $P$ is the predicate in $\forall x\,P(x)$.
 

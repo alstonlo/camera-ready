@@ -1,14 +1,13 @@
 # Put actors in subjects and actions in verbs
 
-Rewrite a nominalization as a verb when it follows a weak verb ("perform an evaluation of", "lead to an improvement in") or shares a clause with other nominalizations. List a paragraph's main verbs: if most are "is", "has", or "leads to", check whether its actions are in nouns or missing. Flag any actor, or any action of one actor on another, that the draft never states. Keep a nominalization that names a technique ("quantization") or a recurring concept, refers to the previous sentence ("This reduction in noise ..."), replaces an awkward "the fact that" clause, or appears alone in a clear sentence.
+Rewrite a nominalization as a verb when it follows a weak verb ("perform an evaluation of") or shares a clause with other nominalizations. List a paragraph's main verbs: if most are "is", "has", or "leads to", check for actions expressed as nouns or left unstated. Flag any actor or action of one actor on another that the draft omits. Keep a nominalization that names a technique ("quantization") or recurring concept, refers to the previous sentence ("This reduction in noise ..."), replaces an awkward "the fact that" clause, or appears alone in a clear sentence.
 
-Keep the subject-verb pairing literal: the figurative "the schedule launches the jobs" needs the actual actor ("we launch the jobs on the schedule"), but a component, instrument, or organism may be the subject of an operation it performs ("the filter removes duplicates"); keep an instrument or organism as that subject. When an inanimate subject takes a verb of intending, thinking, perceiving, feeling, remembering, or eating ("hopes", "forgets"), replace the verb with what literally happens, as the draft states it: "the parser swallows the error" becomes "the parser catches the error and returns False". Keep established technical verbs with inanimate subjects ("the function expects an integer", "the model learns"), and a result or figure as the subject of a [reporting verb](../claims/verb-ladder.md) ("the results suggest"). Follow [voice](../conventions/active-voice.md) and [information flow](passives-fronting-inversions.md).
+Keep subject-verb pairings literal. Replace a figurative actor ("the schedule launches the jobs") with the actual actor; a component, instrument, or organism may be the subject of an operation it performs ("the filter removes duplicates"). Keep an instrument or organism as that subject. When an inanimate subject takes a verb of intending, thinking, perceiving, feeling, remembering, or eating, replace the verb with the literal action stated in the draft. Keep established technical verbs with inanimate subjects ("the function expects an integer", "the model learns"), and a result or figure as the subject of a [reporting verb](../claims/verb-ladder.md) ("the results suggest"). Follow [voice](../conventions/active-voice.md) and [information flow](passives-fronting-inversions.md).
 
 ## Details
 
-In theoretical work, an abstract concept may serve as the subject. If every subject in a paragraph is abstract, check for hidden actors or operations. Name them where the draft supplies them; flag omissions without requiring a concrete subject in every paragraph.
-
-A document cannot act. If the draft describes a specification or other document as acting (for example, making a decision), the sentence may need the person or component that acts as its subject. Take any replacement verb from what the draft says happens, without inferring unstated system behavior or assigning blame for a failure.
+- Abstract subjects: In theoretical work, an abstract concept may be the subject. If every subject in a paragraph is abstract, check for hidden actors or operations. Name those the draft supplies and flag omissions; do not require a concrete subject in every paragraph.
+- Documents as actors: If a specification or other document is described as acting, the sentence may need the person or component that acts as its subject. Use only actions stated in the draft, without inferring system behavior or assigning blame for a failure.
 
 ## Examples
 
@@ -34,7 +33,7 @@ Quantization names the technique being evaluated, so making it a verb would desc
 
 "This reduction in noise" stays because it connects the second sentence to the first.
 
-**Edit 4.** Say the draft states elsewhere that the recorder deletes the readings.
+**Edit 4.** Suppose the draft states elsewhere that the recorder deletes the readings.
 
 > **Before.** The recorder forgets readings after an hour.
 

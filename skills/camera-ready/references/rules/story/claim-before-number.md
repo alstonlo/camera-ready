@@ -1,10 +1,10 @@
 # State each finding before its representative numbers
 
-Describe the pattern in words: whether the effect is consistent, where it grows, and where it fails. For each claim, give one representative headline result, not an atypical best case, with its baseline and any interval or range needed to interpret it. Use the table to establish the pattern and, outside the [abstract](section-functions.md), refer to an existing table for the remaining values; remove duplicated numbers only when the prose keeps the comparison, [uncertainty](../claims/variability.md), and [statistical conclusion](../claims/statistical-significance.md). Use the same finding-first order for [quantified comparisons](../prose/quantified-comparatives.md). Flag numbers that support no claim and, when the request permits, move them only to an existing table or appendix.
+Describe the pattern in words: whether the effect is consistent, where it grows, and where it fails. For each claim, give one representative headline result, not an atypical best case, with its baseline and any interval or range needed to interpret it. Use the table to establish the pattern. Outside the [abstract](section-functions.md), refer to an existing table for the remaining values; remove duplicated numbers only when the prose keeps the comparison, [uncertainty](../claims/variability.md), and [statistical conclusion](../claims/statistical-significance.md). State the finding first in [quantified comparisons](../prose/quantified-comparatives.md) too. Flag numbers that support no claim and, when the request permits, move them only to an existing table or appendix.
 
 ## Details
 
-A headline number is the main result that a sentence focuses on. The sentence may still contain several numerals, such as the values before and after a change.
+A headline number is a sentence's main result. The sentence may still contain several numerals, such as values before and after a change.
 
 ## Examples
 
@@ -32,4 +32,4 @@ A headline number is the main result that a sentence focuses on. The sentence ma
 
 > **After.** Mean yield is 12 kg (95% CI, 9–15 kg) with fertilizer and 10 kg (95% CI, 8–12 kg) without it; the difference is not statistically significant (Table 4).
 
-The intervals and statistical conclusion stay because the two means alone could make the evidence for a difference look stronger than it is.
+The intervals and statistical conclusion stay because the two means alone could overstate the evidence for a difference.

@@ -1,6 +1,6 @@
 # Explain why an equation or definition is needed
 
-Flag any central equation, definition, or intermediate result (a lemma, theorem, or algorithm) whose purpose the draft never states; do not infer one. Move the draft's explanation of why such material is needed ahead of it within the same section; flag a move from another section. Follow [formal support](../claims/evidence-kind.md) when an application depends on unstated conditions.
+Flag any central equation, definition, or intermediate result (lemma, theorem, or algorithm) whose purpose the draft does not state; do not infer a purpose. Within a section, move the draft's explanation of why the material is needed before the material itself; flag a move from another section. Follow [formal support](../claims/evidence-kind.md) when an application depends on unstated conditions.
 
 ## Details
 
@@ -14,7 +14,7 @@ This rule has no further details.
 
 > **After.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
 
-**Edit 2.** Suppose the draft explains in another section that the equation converts each runner's distance and elapsed time into average speed. The change below is a proposal to the author.
+**Edit 2.** Suppose another section explains that the equation converts each runner's distance and elapsed time into average speed. After proposes a change to the author.
 
 > **Before.** We use $v=d/t$.
 

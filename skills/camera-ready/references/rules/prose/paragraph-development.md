@@ -1,12 +1,11 @@
 # Develop one point per paragraph
 
-State the point as a specific claim in the first sentence ("The gain vanishes without pretraining") instead of [announcing](signposts.md) a theme ("Results were mixed"). Only when readers cannot understand the claim without context, give at most one sentence of context from the draft before it. A results paragraph may open with the specific question it tests if the next sentence answers it, followed by the evidence; a descriptive or procedural paragraph may open with its first fact or step, except where a Methods section opens with its key idea ([section openings](../story/section-openings.md)). Judge a paragraph by whether its point is developed and coherent, not by its sentence count. Keep both sides of a comparison in one paragraph when they support one point. Split a paragraph where its point changes, and merge short paragraphs only when they develop the same point.
+State the point as a specific claim in the first sentence rather than [announcing](signposts.md) a theme. Only when readers need context to understand the claim, give at most one sentence of context from the draft before it. A results paragraph may open with the specific question it tests if the next sentence answers it, followed by evidence. A descriptive or procedural paragraph may open with its first fact or step, except where a Methods section opens with its key idea ([section openings](../story/section-openings.md)). Judge a paragraph by whether its point is developed and coherent, not by sentence count. Keep both sides of a comparison in one paragraph when they support one point. Split a paragraph where its point changes; merge short paragraphs only when they develop the same point.
 
 ## Details
 
-If an opening gives only generic context, follow [generic openings](../deslopping/generic-openings-closings.md). If a question merely connects paragraphs, follow [rhetorical questions](../deslopping/rhetorical-questions.md).
-
-End the paragraph on the point it develops or on an implication that the draft supports. Keep a useful closing sentence that connects to the next paragraph. If the closing sentence introduces an unrelated topic, move that topic to its own paragraph. Do not add a summary sentence to every short paragraph.
+- Openings: For generic context, follow [generic openings](../deslopping/generic-openings-closings.md). For a question that merely connects paragraphs, follow [rhetorical questions](../deslopping/rhetorical-questions.md).
+- Closings: End on the paragraph's point or a supported implication. Keep a useful connection to the next paragraph. Move an unrelated closing topic to its own paragraph. Do not add a summary sentence to every short paragraph.
 
 ## Examples
 

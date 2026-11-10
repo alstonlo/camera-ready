@@ -7,13 +7,15 @@
 | **find / observe / report** | a directly measured empirical result |
 | **suggest / indicate**; **hypothesize / conjecture** | an inference or interpretation that could reasonably be wrong |
 
-A figure or table "shows" only what it directly displays, so match the verb of any interpretation of it to the evidence. Replace *reveal* or *confirm* with a weaker verb unless the evidence establishes the conclusion. Flag a claimed disproof that rests only on an objection or an inconclusive test. For cited work, follow [prior work](../story/prior-work-comparisons.md), and preserve whether the source treats a result as central or incidental and whether it accepts or doubts it: do not write "notes in passing" for a result the source presents as central, or "assumes" for a premise it establishes.
+A figure or table "shows" only what it directly displays; match the verb for any interpretation to the evidence. Replace *reveal* or *confirm* with a weaker verb unless the evidence establishes the conclusion. Flag a claimed disproof that rests only on an objection or an inconclusive test. For cited work, follow [prior work](../story/prior-work-comparisons.md). Preserve whether the source treats a result as central or incidental and whether it accepts or doubts it.
 
-When the abstract, introduction, conclusion, or another summary restates a claim, keep the hedge, such as "suggests", and the rung of its supporting result. Trace each summary claim to its supporting result and flag any unsupported one; for a supported one, add any missing section, table, or figure reference, except in the abstract.
+When the abstract, introduction, conclusion, or another summary restates a claim, keep its hedge and the rung of its supporting result. Trace each summary claim to its supporting result and flag any unsupported claim. For a supported claim, add any missing section, table, or figure reference, except in the abstract.
 
 ## Details
 
-An empirical test, such as a benchmark or a laboratory measurement, does not prove a mechanism. To check a claim in a summary, follow its chain of support, through any intermediate claims, until you reach a direct observation, a demonstrated result, or an established result in a cited source. Another writer's agreement does not establish a disputed claim. An accepted result from prior work needs no new derivation.
+- Empirical evidence: An empirical test, such as a benchmark or laboratory measurement, does not prove a mechanism.
+- Summary claims: Follow the chain of support through any intermediate claims to a direct observation, a demonstrated result, or an established result in a cited source.
+- Cited results: Another writer's agreement does not establish a disputed claim. An accepted result from prior work needs no new derivation. Do not write "notes in passing" for a result the source presents as central, or "assumes" for a premise it establishes.
 
 ## Examples
 

@@ -1,10 +1,10 @@
 # State supported contributions without underclaiming
 
-Remove a hedge, such as "may", that makes a contribution sound less certain than its evidence supports. Replace a contribution that says only what the authors *study*, *explore*, *investigate*, *describe*, or *discuss* with the finding from the corresponding section, or flag the missing finding.
+Remove a hedge that makes a contribution sound less certain than its evidence supports. Replace a contribution that says only what the authors *study*, *explore*, *investigate*, *describe*, or *discuss* with the finding from the corresponding section, or flag the missing finding.
 
 ## Details
 
-A dataset, instrument, protocol, software tool, or other resource or artifact can itself be a contribution that readers can check. State the properties that the draft documents. Do not invent a gain in performance.
+A resource or artifact, such as a dataset, instrument, protocol, or software tool, can itself be a checkable contribution. State its documented properties without inventing a performance gain.
 
 ## Examples
 

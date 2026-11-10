@@ -1,11 +1,11 @@
 # Draw only the conclusions a statistical test supports
 
-Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft; flag any that is missing. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant, and use the numeric p-value that the draft reports anywhere rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
+Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft. Flag missing information. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant. Use a numeric p-value reported anywhere in the draft rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
 
 Check for these misreadings:
 
 - A p-value is not the probability that a hypothesis is true.
-- Failing to reject the null hypothesis does not establish equality: replace "the two methods perform the same (paired bootstrap, p = 0.21)" with "we find no significant difference between the two methods (paired bootstrap, p = 0.21)".
+- Failing to reject the null hypothesis does not establish equality. Replace a claim of equality with a statement that no significant difference was found, keeping the test and p-value.
 - Significance does not establish practical importance.
 - A result that is not significant does not by itself show that the test had too little power.
 - Flag a claim about whether one result is better that rests only on interval overlap, without a test.
@@ -14,9 +14,10 @@ When the draft tests significance across several datasets, outcomes, or measures
 
 ## Details
 
-A statistical test starts from a null hypothesis, such as "the two groups have equal means", and a significance level, which is the p-value threshold below which a result counts as significant. The test's direction is whether it checks for lower values, higher values, or a difference in either direction. When the draft gives only a bound or significance level, keep that statement without rounding or recomputing it.
-
-Statistical power is the probability that a test detects an effect of a given size when that effect exists. Power depends on the sample size, the variability of the data, and the size of the effect of interest. Never choose a replacement statistical test or invent a correction for multiple comparisons that the draft does not state.
+- Test specification: A statistical test starts from a null hypothesis and a significance level, the p-value threshold below which a result counts as significant. Its direction specifies whether it checks for lower values, higher values, or a difference in either direction.
+- Reported bounds: When the draft gives only a bound or significance level, keep it without rounding or recomputing it.
+- Power: Statistical power is the probability that a test detects an effect of a given size when that effect exists. It depends on sample size, data variability, and the effect size of interest.
+- Test choice: Never choose a replacement test or invent a correction for multiple comparisons that the draft does not state.
 
 ## Examples
 

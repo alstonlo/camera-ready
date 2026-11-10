@@ -1,10 +1,10 @@
 # State each contribution as a claim and name its supporting section
 
-Each claim must be checkable. If a contribution states only an activity, replace it with a claim under the [underclaiming rule](../claims/underclaiming.md), matching its strength to the evidence with the [verb ladder](../claims/verb-ladder.md). Flag contributions without evidence, and check a major result that supports no contribution with the [spine test](../cutting/spine-test.md), which makes it a candidate for cutting only under a length request. When contributions name their sections, delete any roadmap that states no content under the [signpost rule](../prose/signposts.md).
+Each claim must be checkable. Replace a contribution that states only an activity with a claim under the [underclaiming rule](../claims/underclaiming.md), matching its strength to the evidence with the [verb ladder](../claims/verb-ladder.md). Flag contributions without evidence. Check a major result that supports no contribution with the [spine test](../cutting/spine-test.md); the result is a candidate for cutting only under a length request. When contributions name their sections, delete any roadmap that states no content under the [signpost rule](../prose/signposts.md).
 
 ## Details
 
-To check a contribution claim, ask what evidence could distinguish it from its opposite, and what readers learn if they accept the claim. A result need not be surprising to count as a contribution. A resource, a tool, a replication (an independent repeat of earlier work), or a negative result counts as a contribution through the property or finding that the draft establishes for it, even without a new mechanism or theoretical discovery.
+To check a contribution claim, ask what evidence could distinguish it from its opposite and what readers learn by accepting it. A result need not be surprising to count as a contribution. A resource, tool, independent replication of earlier work, or negative result counts as a contribution through the property or finding the draft establishes for it, even without a new mechanism or theoretical discovery.
 
 ## Examples
 

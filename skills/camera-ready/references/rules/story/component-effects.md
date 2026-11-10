@@ -1,12 +1,11 @@
 # Identify which part produces the effect
 
-When a method, treatment, or design combines several parts or changes, the results must show which part produces the reported effect; otherwise, flag the missing evidence and credit only the combination under [causal language](../claims/causal-language.md). Flag any raised counterexample, conflicting result, or obvious alternative explanation the draft does not address, and any reply to a raised counterexample, conflicting result, or alternative explanation that gives no evidence, no reason the objection does not apply, and no statement of the [limitation](../claims/limitations.md) that remains.
+When a method, treatment, or design combines several parts or changes, the results must show which part produces the reported effect. Otherwise, flag the missing evidence and credit only the combination under [causal language](../claims/causal-language.md). Flag any raised counterexample, conflicting result, or obvious alternative explanation the draft does not address. Also flag a reply to a raised counterexample, conflicting result, or alternative explanation if it gives no evidence, no reason the objection does not apply, and no statement of the remaining [limitation](../claims/limitations.md).
 
 ## Details
 
-A comparison may remove, replace, or vary one part while keeping the others fixed. It may also vary parts together to distinguish their effects and show whether one part changes another's effect. No particular name for the design is required. An ablation, a test that removes a part, is one example. Separating one part's effect from the others does not establish that every part is necessary.
-
-To answer an objection, authors may give evidence against it, identify assumptions that do not apply, or acknowledge a limitation that remains. Repeating the claim does not answer the objection. Check that their answer addresses the objection the draft raises. Focus on challenges to the main interpretation that arise from the draft itself. Do not invent objections that a reviewer might raise.
+- Comparisons: A comparison may remove, replace, or vary one part while keeping the others fixed, or vary parts together to distinguish their effects and show whether one part changes another's effect. No particular design name is required; an ablation, which removes a part, is one example. Isolating one part's effect does not establish that every part is necessary.
+- Objections: Authors may answer an objection by giving evidence against it, identifying assumptions that do not apply, or acknowledging a remaining limitation. Repeating the claim does not answer the objection. Check that the answer addresses the objection raised in the draft. Focus on challenges to the main interpretation that arise from the draft; do not invent objections a reviewer might raise.
 
 ## Examples
 

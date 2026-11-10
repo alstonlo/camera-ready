@@ -1,6 +1,6 @@
 # Delete or replace empty commentary in trailing "-ing" phrases
 
-Delete trailing "-ing" phrases, such as "highlighting its importance", that add no checkable claim, or replace them with specific claims the draft supports.
+Delete a trailing "-ing" phrase that adds no checkable claim ("highlighting its importance"), or replace it with a specific claim the draft supports.
 
 ## Details
 
@@ -20,9 +20,9 @@ This rule has no further details.
 
 > **After.** The fan turns, drawing air through the filter.
 
-The phrase about drawing air stays because it tells readers what the fan does.
+The phrase "drawing air through the filter" stays because it states what the fan does.
 
-**Edit 3.** Say the draft identifies the fan as the object spinning at 600 rpm.
+**Edit 3.** Suppose the draft states that the fan spins at 600 rpm.
 
 > **Before.** We photograph the fan beside the filter, spinning at 600 rpm.
 

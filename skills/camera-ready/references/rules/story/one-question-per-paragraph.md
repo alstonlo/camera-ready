@@ -1,6 +1,6 @@
 # Answer one question per results paragraph
 
-Keep each answer and its evidence in one paragraph, ordered under the [paragraph rule](../prose/paragraph-development.md). Split a paragraph that answers two independent questions, and flag one that answers none.
+Keep each answer with its evidence in one paragraph, following the [paragraph rule](../prose/paragraph-development.md). Split a paragraph that answers two independent questions, and flag one that answers none.
 
 ## Details
 
@@ -20,7 +20,7 @@ This rule has no further details.
 
 > **After.** Does soaking shorten sprouting time? Soaking shortens sprouting time. Seeds sprout in 4 days after soaking and 7 days without soaking.
 
-The question states what the experiment tests. Keeping it gives readers the question and its answer together before the measurements.
+The question states what the experiment tests. Keeping it gives readers the question and its answer before the measurements.
 
 **Edit 3.** Suppose this is a results paragraph.
 
@@ -28,4 +28,4 @@ The question states what the experiment tests. Keeping it gives readers the ques
 
 > **After.** Trays were red, blue, or green. Each tray held 12 pots. Flag for the author: Which research question does this paragraph answer?
 
-The tray descriptions do not establish a result. The flag asks the author to identify the question rather than letting the editor invent one.
+The tray descriptions establish no result. Ask the author which question they answer rather than inventing one.

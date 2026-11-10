@@ -1,6 +1,6 @@
 # Remind readers what shorthand means after a gap
 
-When shorthand or a symbol returns after a long gap or section boundary, remind readers of its name and either its definition or where it was defined ("the graph-search step (Dijkstra's algorithm)", "the contrastive loss L_c defined in Section 3"), phrased as a reminder, not a new definition. Replace ambiguous labels such as "the rate" with the original full name, and name a distant display referred to by number alone ("the energy balance (9)").
+When shorthand or a symbol returns after a long gap or section boundary, remind readers of its name and either its definition or where it was defined ("the contrastive loss L_c defined in Section 3"). Phrase this as a reminder rather than a new definition. Replace ambiguous labels such as "the rate" with the original full name, and name a distant display referred to by number alone ("the energy balance (9)").
 
 ## Details
 
@@ -26,4 +26,4 @@ A reference to a nearby equation needs no added description if readers can tell 
 
 > **After.** Equation (3) gives the heat loss. We evaluate (3), then apply the energy balance (9).
 
-Readers have just been told what equation (3) does, so its second mention needs no reminder.
+Equation (3) needs no reminder because its purpose was just stated.
