@@ -1,8 +1,6 @@
 # Number referenced and central displays
 
-Number central displays, such as the objective and the main bound, even when the text never refers to them; leave unreferenced intermediate steps unnumbered.
-
-Identify rejected formulas and counterexamples beside their displays using the draft's stated status; retain central counterexamples and negative results.
+Number central displays, such as the objective and the main bound, even when the text never refers to them; leave unreferenced intermediate steps unnumbered. Identify rejected formulas and counterexamples beside their displays using the draft's stated status; retain central counterexamples and negative results.
 
 ## Details
 

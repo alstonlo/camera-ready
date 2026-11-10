@@ -1,8 +1,6 @@
 # Hedge interpretations, not measurements or procedures
 
-Tentative interpretations include proposed mechanisms. Keep reported measurement uncertainty; for a procedure, hedge only the reason for performing it. Use at most one hedge per uncertain claim, in a standard form such as "may", "likely", "suggests", or "appears to". Deleting a claim's only hedge strengthens it, and removing a redundant hedge must leave other uncertain claims hedged. A qualifier that limits the conditions or cases a claim covers, such as "usually" or "on average", is a [scope condition](../cutting/protected-sentences.md), not a hedge; keep it.
-
-Replace a vague softener such as "somewhat", "relatively", or "essentially" with the conditions or magnitudes the draft supplies; otherwise, keep the softener and flag the missing information.
+Tentative interpretations include proposed mechanisms. Keep reported measurement uncertainty; for a procedure, hedge only the reason for performing it. Use at most one hedge per uncertain claim, in a standard form such as "may", "likely", "suggests", or "appears to". Deleting a claim's only hedge strengthens it, and removing a redundant hedge must leave other uncertain claims hedged. A qualifier that limits the conditions or cases a claim covers, such as "usually" or "on average", is a [scope condition](../cutting/protected-sentences.md), not a hedge; keep it. Replace a vague softener such as "somewhat", "relatively", or "essentially" with the conditions or magnitudes the draft supplies; otherwise, keep the softener and flag the missing information.
 
 ## Details
 

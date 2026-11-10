@@ -50,7 +50,7 @@ Without a separate request from the author, you may:
 - Remove numbers from running text when a table already gives them.
 - Rewrite a caption to state a conclusion already drawn in the body.
 
-Flag any change to the claims, section order, or list of contributions instead of making it yourself, except claim edits that the [rules on claims](#claims) allow. Never add a cost, explanation, or number absent from the draft.
+Flag any change to the claims, section order, or list of contributions instead of making it yourself. Never add a cost, explanation, or number absent from the draft.
 
 ### The whole argument
 
