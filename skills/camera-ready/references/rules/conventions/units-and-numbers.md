@@ -1,6 +1,6 @@
-# Make every quantity unambiguous without changing it
+# State units clearly and never change a number's value or precision
 
-Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats, including a number-spelling cutoff that the draft or its style guide applies consistently; match forms within a comparison only when value and precision stay unchanged. Resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats from the draft, or flag them. Flag, rather than perform, any unit conversion.
+Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats; match forms within a comparison only when value and precision stay unchanged. Resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats from the draft, or flag them. Flag, rather than perform, any unit conversion.
 
 ## Details
 

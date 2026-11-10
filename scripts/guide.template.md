@@ -32,7 +32,7 @@ The guide has six sections of rules:
 - [Claims](#claims): reporting verbs matched to evidence, scope, overclaiming and underclaiming, consistency across the text, causal language, what an efficiency claim counts, statistical significance, hedges, speculation, and limitations.
 - [Cutting](#cutting): what you may delete or move without asking the author, the triage order under a length limit, sentences to protect, and how to repair text around a cut.
 - [Prose](#prose): explanation order, paragraphs, information flow from familiar to new, sentence structure, direct content instead of promises, concrete quantities, and plain wording.
-- [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, and typography.
+- [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, and mechanics.
 - [Deslopping](#deslopping): blacklisted and tolerable patterns common in AI-written prose.
 
 For a request narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk of text against every rule in each applicable section. When two rules call for different edits to a sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence, or use your judgment as an expert editor if both are equally clear.
@@ -294,11 +294,11 @@ When a convention in this section conflicts with general writing advice, follow 
 
 {{conventions/figure-table-references}}
 
-### Typography
+### Mechanics
 
-{{conventions/quantities}}
+{{conventions/style-choices}}
 
-{{conventions/marks-and-forms}}
+{{conventions/units-and-numbers}}
 
 ## Deslopping
 
