@@ -24,19 +24,19 @@ Open the abstract with the problem and state all five parts of the argument in o
 
 > **After.** We obtain depth from calibrated echo times (Methods). The lake is 12 m deep at the sampling point.
 
-**Edit 2.** Imagine the paper first reports a central result after its first quarter: the lid halves water loss in the tested tank. After is a proposal to the author for the introduction.
+**Edit 2.** Imagine the paper first reports a central result after its first quarter: the lid halves water loss in the tested tank. The edited text is a proposal to the author for the introduction.
 
 > **Before.** We test a lid to reduce water loss.
 
 > **After.** We test a lid to reduce water loss. The lid halves water loss in the tested tank.
 
-**Edit 3.** Say this passage appears in the abstract, and Section 5 establishes that the filter removes all visible sand from the tested samples. After is a proposal to the author.
+**Edit 3.** Say this passage appears in the abstract, and Section 5 establishes that the filter removes all visible sand from the tested samples. The edited text is a proposal to the author.
 
 > **Before.** The filter's result appears in Section 5.
 
 > **After.** The filter removes all visible sand from the tested samples.
 
-**Edit 4.** Suppose the calibration result only validates the adjacent procedure, and the drying procedure is substantial. After is a proposal to the author.
+**Edit 4.** Suppose the calibration result only validates the adjacent procedure, and the drying procedure is substantial. The edited text is a proposal to the author.
 
 > **Before.** Methods: temperature calibration and validation. Results: drying procedure and drying results.
 

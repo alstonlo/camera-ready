@@ -18,25 +18,25 @@ Flag table layouts that separate comparison partners or obscure groups; suggest 
 
 ## Examples
 
-**Edit 1.** Suppose the paragraph citing Figure 2 gives the measurement, time, units, and finding shown in After.
+**Edit 1.** Suppose the paragraph citing Figure 2 gives the measurement, time, units, and finding shown in the edited text.
 
 > **Before.** Figure 2: Plant growth.
 
 > **After.** Figure 2: Mean plant height after four weeks, in centimeters. Plants given fertilizer were taller than untreated plants.
 
-**Edit 2.** Suppose the draft identifies the dashes in Table 3 as missing measurements. After proposes a revision to the author.
+**Edit 2.** Suppose the draft identifies the dashes in Table 3 as missing measurements. The edited text proposes a revision to the author.
 
 > **Before.** Table 3: Daily air temperature at each site, in degrees Celsius.
 
 > **After.** Table 3: Daily air temperature at each site, in degrees Celsius. A dash marks a missing measurement.
 
-**Edit 3.** Suppose Figure 8's vertical axis starts at 9 cm and the draft reports heights of 11 cm for treated plants and 10 cm for controls. After proposes a revision to the author.
+**Edit 3.** Suppose Figure 8's vertical axis starts at 9 cm and the draft reports heights of 11 cm for treated plants and 10 cm for controls. The edited text proposes a revision to the author.
 
 > **Before.** Figure 8: The treated plants are twice as tall as the controls.
 
 > **After.** Figure 8: The treated plants are taller than the controls (11 cm versus 10 cm).
 
-**Edit 4.** Suppose measurements end at day 20 and the day-30 value comes from a fitted curve. After proposes a revision to the author.
+**Edit 4.** Suppose measurements end at day 20 and the day-30 value comes from a fitted curve. The edited text proposes a revision to the author.
 
 > **Before.** Figure 10: The measured height at day 30 is 18 cm.
 

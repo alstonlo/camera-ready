@@ -14,7 +14,7 @@ This rule has no further details.
 
 > **After.** We measure electron transport rate (ETR) at noon. ETR rises with light intensity.
 
-**Edit 2.** Suppose ETR means "electron transport rate" in the draft, but readers outside the subfield would not recognize it in the title. After proposes a title to the author.
+**Edit 2.** Suppose ETR means "electron transport rate" in the draft, but readers outside the subfield would not recognize it in the title. The edited text proposes a title to the author.
 
 > **Before.** ETR in shaded leaves
 
@@ -22,7 +22,7 @@ This rule has no further details.
 
 The title stays unchanged pending author review.
 
-**Edit 3.** Suppose AR means "annual rainfall" in the draft and appears only here and in a figure. After proposes a change to the author.
+**Edit 3.** Suppose AR means "annual rainfall" in the draft and appears only here and in a figure. The edited text proposes a change to the author.
 
 > **Before.** AR varies by site.
 

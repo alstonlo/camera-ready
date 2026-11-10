@@ -20,7 +20,7 @@ State additions and credit using only what the draft states. If two studies have
 
 > **After.** Our earlier report describes the effect using the same measurements.
 
-**Edit 3.** Suppose the venue requires anonymity; the editor flags the self-identification and proposes After to the author.
+**Edit 3.** Suppose the venue requires anonymity; the editor flags the self-identification and proposes the edited text to the author.
 
 > **Before.** We add an alarm to our earlier design (Lee et al., 2024).
 

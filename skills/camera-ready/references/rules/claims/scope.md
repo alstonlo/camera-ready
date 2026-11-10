@@ -29,13 +29,13 @@ Also check these claims:
 
 > **After.** The tested bulbs usually lit within a second.
 
-**Edit 2.** If the draft documents a crack in one photographed tile but gives no survey of other tiles, propose the revision in After to the author.
+**Edit 2.** If the draft documents a crack in one photographed tile but gives no survey of other tiles, propose the edited text to the author as a revision.
 
 > **Before.** Cracks are common in these tiles.
 
 > **After.** The photographed tile has a crack.
 
-**Edit 3.** Say the draft gives chair A a comfort score of 8 and chair B a score of 4, without establishing that the scores are proportional to comfort. Treat After as a proposal to the author.
+**Edit 3.** Say the draft gives chair A a comfort score of 8 and chair B a score of 4, without establishing that the scores are proportional to comfort. Treat the edited text as a proposal to the author.
 
 > **Before.** Chair A is twice as comfortable as chair B.
 

@@ -15,7 +15,7 @@ Remove artifacts left by an unedited paste, such as chat citation codes (`citetu
 
 > **After.** The bridge opened in 1986.
 
-**Edit 2.** Suppose the editor flags this URL. The After passage shows the proposed replacement; the draft's URL stays unchanged.
+**Edit 2.** Suppose the editor flags this URL. The edited text shows the proposed replacement; the draft's URL stays unchanged.
 
 > **Before.** Data are at https://example.org/data?utm_source=chatgpt.com.
 

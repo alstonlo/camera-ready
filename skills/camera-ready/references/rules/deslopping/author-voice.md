@@ -8,13 +8,13 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the After passage restores the authors' original wording.
+**Edit 1.** Suppose the edited text restores the authors' original wording.
 
 > **Before.** The pump stops. Water then drains. The water leaves the upper tank. The water enters the lower tank.
 
 > **After.** The pump stops. Water then drains from the upper tank into the lower tank.
 
-Before is an editor's rewrite; After restores the authors' sentence rhythm.
+The original text is an editor's rewrite; the edited text restores the authors' sentence rhythm.
 
 **Edit 2.** Suppose the draft makes no judgment about the finding's importance.
 
@@ -22,7 +22,7 @@ Before is an editor's rewrite; After restores the authors' sentence rhythm.
 
 > **After.** The seeds sprout after 3 days.
 
-Before adds the editor's judgment; After restores the authors' account.
+The original text adds the editor's judgment; the edited text restores the authors' account.
 
 **Edit 3.** Suppose the authors describe this finding as surprising.
 
@@ -30,7 +30,7 @@ Before adds the editor's judgment; After restores the authors' account.
 
 > **After.** Surprisingly, the dry seeds sprout first.
 
-Before is an editor's version that omits the authors' reaction; After restores it.
+The original text is an editor's version that omits the authors' reaction; the edited text restores it.
 
 **Edit 4.** Suppose the authors use first-person "we" throughout the draft.
 

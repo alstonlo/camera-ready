@@ -14,7 +14,7 @@ This rule has no further details.
 
 > **After.** To convert each runner's distance and elapsed time into average speed, we use $v=d/t$.
 
-**Edit 2.** Suppose another section explains that the equation converts each runner's distance and elapsed time into average speed. After proposes a change to the author.
+**Edit 2.** Suppose another section explains that the equation converts each runner's distance and elapsed time into average speed. The edited text proposes a change to the author.
 
 > **Before.** We use $v=d/t$.
 

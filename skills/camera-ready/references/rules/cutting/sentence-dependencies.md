@@ -21,7 +21,7 @@ For each sentence within [the request's scope](idea-cuts.md):
 
 > **After.** Because the blue dye was easiest to see, we use it for all remaining experiments.
 
-After restores the reason for choosing the dye and makes clear what "it" refers to.
+The edited text restores the reason for choosing the dye and makes clear what "it" refers to.
 
 **Edit 2.** Suppose the protocol appears in Section S2 of the existing supplement, and the author permits moving it there.
 
@@ -35,7 +35,7 @@ After restores the reason for choosing the dye and makes clear what "it" refers 
 
 > **After.** We calibrate at 0 °C and 20 °C.
 
-After restores the draft's calibration settings so that readers can repeat the procedure.
+The edited text restores the draft's calibration settings so that readers can repeat the procedure.
 
 **Edit 4.** Suppose the author allows content to be moved.
 
@@ -49,4 +49,4 @@ After restores the draft's calibration settings so that readers can repeat the p
 
 > **After.** Recovery time R is the time to return to 20 °C. We record R after each trial.
 
-After restores the definition needed by later sections.
+The edited text restores the definition needed by later sections.

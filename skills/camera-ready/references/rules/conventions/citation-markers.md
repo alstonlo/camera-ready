@@ -31,7 +31,7 @@
 
 > **After.** Drying shrinks the shell~\citep{ortiz2025}, and cooling slows decay~\citep{patel2024}.
 
-**Edit 4.** Suppose the draft elsewhere attributes the cooling hypothesis to the paper's authors. After proposes a clarification to the author.
+**Edit 4.** Suppose the draft elsewhere attributes the cooling hypothesis to the paper's authors. The edited text proposes a clarification to the author.
 
 > **Before.** Ortiz reports that the shell shrinks. Cooling may reduce this effect.
 

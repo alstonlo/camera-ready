@@ -15,7 +15,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose the draft says the coating darkens when heated but never defines "intelligent". After proposes a revision to the author.
+**Edit 1.** Suppose the draft says the coating darkens when heated but never defines "intelligent". The edited text proposes a revision to the author.
 
 > **Before.** We test an intelligent coating.
 

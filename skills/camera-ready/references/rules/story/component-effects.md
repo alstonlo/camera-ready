@@ -21,7 +21,7 @@ When a method, treatment, or design combines several parts or changes, the resul
 
 > **After.** The combined coating reduces leaks. We conjecture that it does so because the resin fills pores.
 
-**Edit 3.** Imagine the draft reports that both groups start with equal moisture. The editor flags the circular reply and proposes After to the author.
+**Edit 3.** Imagine the draft reports that both groups start with equal moisture. The editor flags the circular reply and proposes the edited text to the author.
 
 > **Before.** The pots with covers lose less water. Unequal starting moisture cannot explain this because the pots with covers lose less water.
 
@@ -33,8 +33,8 @@ When a method, treatment, or design combines several parts or changes, the resul
 
 > **After.** The mesh improves sediment removal because removing it increases sediment passage.
 
-**Edit 5.** Say the draft reports that the fertilized field received more rain but does not consider the effect of rainfall on yield. The editor flags the alternative explanation and proposes After to the author.
+**Edit 5.** Say the draft reports that the fertilized field received more rain but does not consider the effect of rainfall on yield.
 
 > **Before.** The fertilized field yields 20% more grain, so the fertilizer raises yield.
 
-> **After.** The fertilized field yields 20% more grain, but it also received more rain. The fertilizer, the rain, or both may explain the higher yield.
+Flag the alternative explanation for the author: the extra rain, not the fertilizer, may explain the higher yield.

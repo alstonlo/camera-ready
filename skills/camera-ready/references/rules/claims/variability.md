@@ -41,17 +41,17 @@ Also check the following:
 
 > **After.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
 
-**Edit 3.** Imagine the draft says the authors tested their tiles wet, while Lee's tiles were tested dry. The editor flags the comparison and proposes After to the author.
+**Edit 3.** Imagine the draft says the authors tested their tiles wet, while Lee's tiles were tested dry.
 
 > **Before.** Our tiles are stronger than Lee's tiles.
 
-> **After.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
+Flag the comparison for the author: the tiles were tested under different conditions, so these tests do not establish which tiles are stronger.
 
-**Edit 4.** Suppose the draft uses the same photographs to select the filter and measure its accuracy. The editor flags the claim and proposes After to the author.
+**Edit 4.** Suppose the draft uses the same photographs to select the filter and measure its accuracy.
 
 > **Before.** The photographs independently confirm the selected filter's accuracy.
 
-> **After.** The selected filter's accuracy is measured on the same photographs used to select it.
+Flag the claim for the author: photographs used to select the filter cannot independently confirm its accuracy.
 
 **Edit 5.** Say the draft describes separate, independently sampled plots for selection and held-out testing.
 

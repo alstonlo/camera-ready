@@ -41,4 +41,4 @@ The sand result limits what the mesh can exclude.
 
 > **After.** The mesh blocks leaves. The pump draws 5 W.
 
-After restores the power measurement. Flag the section's competing topics before deciding which finding to remove.
+The edited text restores the power measurement. Flag the section's competing topics before deciding which finding to remove.

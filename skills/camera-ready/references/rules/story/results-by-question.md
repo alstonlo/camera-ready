@@ -20,7 +20,7 @@ Keep the body text's claim strength and conditions in any proposed heading. If t
 
 > **After.** We test whether the lid reduces water loss enough to reduce refill frequency.
 
-**Edit 3.** After is a proposed order for the author's review.
+**Edit 3.** The edited text is a proposed order for the author's review.
 
 > **Before.** Single-coat method; double-coat method; single-coat result: cracks suggest a second coat is needed; double-coat result
 

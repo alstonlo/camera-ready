@@ -20,7 +20,7 @@ This rule has no further details.
 
 > **After.** The coating prevents rust in fresh water (Appendix B).
 
-Moving the complete test leaves the claim's support intact, so After removes the editor's unnecessary hedge.
+Moving the complete test leaves the claim's support intact, so the edited text removes the editor's unnecessary hedge.
 
 **Edit 3.** Imagine an editor has removed the metal lid's only test with the author's approval, leaving evidence that supports reduced evaporation for the glass lid.
 
@@ -42,4 +42,4 @@ The soil's acidity explains the decision to add lime; measuring it alone does no
 
 > **After.** The delay may reflect slow drainage.
 
-After restores the draft's uncertainty about the cause.
+The edited text restores the draft's uncertainty about the cause.

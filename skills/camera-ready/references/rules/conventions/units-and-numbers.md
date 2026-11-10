@@ -42,7 +42,7 @@ The label correction preserves the capacity.
 
 > **After.** The probe reads 1.20 mV.
 
-After restores the draft's precision and established format.
+The edited text restores the draft's precision and established format.
 
 **Edit 6.** Suppose an editor converted the draft's temperature to degrees Celsius while normalizing number forms.
 
@@ -50,7 +50,7 @@ After restores the draft's precision and established format.
 
 > **After.** The chamber remains at 293.15 K.
 
-After restores the original value and units; the proposed conversion requires author review.
+The edited text restores the original value and units; the proposed conversion requires author review.
 
 **Edit 7.** Suppose the draft uses M for exact counts in millions in this comparison.
 
@@ -66,4 +66,4 @@ The matching forms preserve both exact counts without rounding.
 
 > **After.** The sample counts are 3.2M and 412,678.
 
-After restores the exact count; the proposed rounding requires author review.
+The edited text restores the exact count; the proposed rounding requires author review.

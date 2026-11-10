@@ -8,13 +8,13 @@ Causal wording also includes "produces", "results in", "results from", and "cont
 
 ## Examples
 
-**Edit 1.** Suppose the draft's household survey reports only a correlation. After is a proposal to the author.
+**Edit 1.** Suppose the draft's household survey reports only a correlation. The edited text is a proposal to the author.
 
 > **Before.** In the surveyed households, owning more houseplants caused fewer colds.
 
 > **After.** In the surveyed households, owning more houseplants was associated with fewer colds.
 
-**Edit 2.** Say the controlled comparison in the draft adds mulch and shade together, with no separate test of either. After is a proposal to the author.
+**Edit 2.** Say the controlled comparison in the draft adds mulch and shade together, with no separate test of either. The edited text is a proposal to the author.
 
 > **Before.** Mulch reduces water loss.
 

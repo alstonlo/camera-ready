@@ -26,4 +26,4 @@ Before comparing measurements, check that they meet the requirements for [compar
 
 > **After.** The new rack dries clothes in 2 h, compared with 3 h for the old rack.
 
-After gives the reported times instead of calculating a speedup that the draft does not report.
+The edited text gives the reported times instead of calculating a speedup that the draft does not report.

@@ -8,13 +8,13 @@ The five parts are the problem, the gap in existing work, the idea, the evidence
 
 ## Examples
 
-**Edit 1.** Suppose the body reports the battery-life comparison in After, but the skimmed passages omit it.
+**Edit 1.** Suppose the body reports the battery-life comparison shown in the edited text, but the skimmed passages omit it.
 
 > **Before.** Figure 3: Battery life at 0 °C and 20 °C.
 
 > **After.** Figure 3: Battery life at 0 °C and 20 °C. The tested batteries last twice as long at 20 °C as at 0 °C.
 
-**Edit 2.** If the body's test results cover only indoor conditions, propose the revision in After to the author.
+**Edit 2.** If the body's test results cover only indoor conditions, propose the edited text to the author as a revision.
 
 > **Before.** Figure 2: The cover halves water loss indoors and outdoors.
 

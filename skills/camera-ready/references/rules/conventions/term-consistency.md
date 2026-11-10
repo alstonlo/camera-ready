@@ -22,7 +22,7 @@ Distinguish vector components from set elements. Name mathematical relationships
 
 The clear pronoun "It" introduces no competing name.
 
-**Edit 3.** Suppose a figure label names equipment called a "drying cabinet" in the body. After proposes a change to the author.
+**Edit 3.** Suppose a figure label names equipment called a "drying cabinet" in the body. The edited text proposes a change to the author.
 
 > **Before.** Chamber temperature (°C)
 

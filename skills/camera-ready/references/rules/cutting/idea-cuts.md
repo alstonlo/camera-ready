@@ -26,4 +26,4 @@ This rule has no further details.
 
 > **After.** We dry the seeds overnight at 30 °C.
 
-After restores a method detail that the author has not asked to move.
+The edited text restores a method detail that the author has not asked to move.

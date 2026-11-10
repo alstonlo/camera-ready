@@ -32,4 +32,4 @@ Keep every assumption in the theorem statement: assumptions are part of the clai
 
 > **After.** Assumption 1 (regularity): Let $a<b$, and let $f$ be continuous on $[a,b]$ and differentiable on $(a,b)$. Theorem 4. Under Assumption 1, $f$ satisfies the mean value theorem.
 
-After proposes a reorganization for author review and preserves all three restrictions on $a$, $b$, and $f$.
+The edited text proposes a reorganization for author review and preserves all three restrictions on $a$, $b$, and $f$.

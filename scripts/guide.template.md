@@ -17,9 +17,9 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 
 > **Before.** {{ A passage that breaks the rule. }}
 
-> **After.** {{ The same passage, corrected under this rule alone. }}
+> **After.** {{ The same passage, corrected under this rule alone. Leave out this quote when the passage needs only a flag for the author. }}
 
-{{ Optional explanation of the edit, when it is not obvious. }}
+{{ Optional explanation of the edit, when it is not obvious. Without an edited passage, the explanation is required and states the flag for the author. }}
 ```
 
 The guide below collects each rule page's title and summary into one document. Read the full page when a rule applies to your text and you need further details or examples. Each example assumes that every fact it states is accurate, and each illustrates only its own rule, so an example may break other rules.

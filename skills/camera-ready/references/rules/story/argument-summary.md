@@ -40,4 +40,4 @@ The failed flood warnings appear in the editor's summary, not in the draft. The 
 
 > **Before.** Small flies and overheating make homes uncomfortable, so we propose a finer window screen and a reflective roof paint.
 
-> **After.** Flag for the author: The summary can be written only by naming two unrelated problems, small flies and overheating, so the draft has two competing focuses.
+Flag for the author that the summary can be written only by naming two unrelated problems, small flies and overheating, so the draft has two competing focuses.

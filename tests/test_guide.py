@@ -30,6 +30,9 @@ def test_guide_is_up_to_date():
             "> **After.** We list:\n> - A.\n\nWhy.",
         ),
         page("## Details", "```python\n# A comment, not a heading.\n```", "## Examples", EX1),
+        page(
+            "## Details", "More.", "## Examples", LABEL + "> **Before.** We evaluate.\n\nFlag it."
+        ),
     ],
 )
 def test_valid_pages_render_only_title_and_summary(text: str):

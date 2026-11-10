@@ -31,7 +31,7 @@ When the abstract, introduction, conclusion, or another summary restates a claim
 
 > **After.** We prove that the minimum is unique when the function is strictly convex.
 
-**Edit 3.** Say the test neither detects nor rules out the effect; the editor flags the claimed disproof and proposes After to the author.
+**Edit 3.** Say the test neither detects nor rules out the effect; the editor flags the claimed disproof and proposes the edited text to the author.
 
 > **Before.** The test disproves the proposed effect.
 

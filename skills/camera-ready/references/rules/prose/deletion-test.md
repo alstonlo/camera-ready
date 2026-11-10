@@ -14,7 +14,7 @@ Brevity alone does not justify an edit. Keep distinctions even when simpler word
 
 > **After.** The nurse asks the patient to lift the weight.
 
-Before is an editor's shortening that assigns the lifting to the nurse. After restores who asks and who is asked to act.
+The original text is an editor's shortening that assigns the lifting to the nurse. The edited text restores who asks and who is asked to act.
 
 **Edit 2.** Suppose the draft counts a score of exactly 60 as passing.
 
@@ -22,7 +22,7 @@ Before is an editor's shortening that assigns the lifting to the nurse. After re
 
 > **After.** A passing score is at least 60.
 
-Before is an editor's rewrite that excludes a score the draft counts as passing. After restores the intended threshold.
+The original text is an editor's rewrite that excludes a score the draft counts as passing. The edited text restores the intended threshold.
 
 **Edit 3.** Suppose the draft says the lamp cannot turn on while the door is closed and may stay off while it is open.
 
@@ -30,7 +30,7 @@ Before is an editor's rewrite that excludes a score the draft counts as passing.
 
 > **After.** The lamp stays off unless the door opens.
 
-Before is an editor's rewrite; After restores the draft. An open door does not guarantee that the lamp will turn on.
+The original text is an editor's rewrite; the edited text restores the draft. An open door does not guarantee that the lamp will turn on.
 
 **Edit 4.**
 
@@ -46,4 +46,4 @@ The two instances of "that" keep the finding and the description of the scale ea
 
 > **After.** The latch can lock automatically.
 
-Before is an editor's shortening. After restores what the draft says the latch can do without claiming that it actually locks.
+The original text is an editor's shortening. The edited text restores what the draft says the latch can do without claiming that it actually locks.

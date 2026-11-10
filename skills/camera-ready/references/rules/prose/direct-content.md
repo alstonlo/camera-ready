@@ -32,4 +32,4 @@ This rule has no further details.
 
 > **After.** We explain below why the lid stays shut.
 
-After restores the draft's promise, and the editor flags the missing explanation in the report. The author must supply the explanation; the fact that the lid stays shut does not establish why.
+The edited text restores the draft's promise, and the editor flags the missing explanation in the report. The author must supply the explanation; the fact that the lid stays shut does not establish why.

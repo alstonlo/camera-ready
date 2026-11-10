@@ -22,7 +22,7 @@ Check later equations, captions, figures, and appendices before flagging a symbo
 
 > **After.** Let $m$ denote mass and $w$ denote moisture content.
 
-After proposes a symbol choice for author review.
+The edited text proposes a symbol choice for author review.
 
 **Edit 3.** Suppose both symbols are used throughout the paper, but the request does not authorize moving their definitions.
 
@@ -30,7 +30,7 @@ After proposes a symbol choice for author review.
 
 > **After.** Notation: Let $h$ denote height. Let $w$ denote width. Methods:
 
-After proposes a move that requires author authorization.
+The edited text proposes a move that requires author authorization.
 
 **Edit 4.** Say the draft defines all four symbols.
 
@@ -38,4 +38,4 @@ After proposes a move that requires author authorization.
 
 > **After.** Let $R=(a+b)/(c+d)$. We compare $R$ across sites and plot $R$ over time.
 
-After proposes new notation for author review.
+The edited text proposes new notation for author review.

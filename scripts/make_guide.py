@@ -1,3 +1,4 @@
+import itertools
 import posixpath
 import re
 import sys
@@ -25,26 +26,25 @@ def fail(msg: str):
 
 def check_examples(name: str, examples: str):
     for i, edit in enumerate(re.split(r"\n\n(?=\*\*Edit )", examples), 1):
-        parts = edit.split("\n\n")
-        label = LABEL.fullmatch(parts[0])
-        quotes = [QUOTE.fullmatch(part) for part in parts[1:3]]
+        label, *parts = edit.split("\n\n")
+        quotes = list(itertools.takewhile(bool, (QUOTE.fullmatch(part) for part in parts)))
+        notes = parts[len(quotes) :]
         if not (
-            len(parts) in (3, 4)
-            and label
-            and all(quotes)
-            and [m[1] for m in quotes] == ["Before", "After"]
+            LABEL.fullmatch(label)
+            and [m[1] for m in quotes] in (["Before"], ["Before", "After"])
             and all(re.sub(r"^>", "", m[2], flags=re.M).strip() for m in quotes)
-            and all(NOTE.fullmatch(part) for part in parts[3:])
+            and len(notes) in ((1,) if len(quotes) == 1 else (0, 1))
+            and all(NOTE.fullmatch(part) for part in notes)
         ):
             fail(
                 f"{name}.md: each edit must be an '**Edit N.**' line with optional context, "
-                "a quote starting '> **Before.**', a quote starting '> **After.**', "
-                "and an optional one-paragraph explanation"
+                "a quote starting '> **Before.**', an optional quote starting '> **After.**', "
+                "and a one-paragraph explanation, which is optional only with an After quote"
             )
 
-        if label[1] != str(i):
+        if LABEL.fullmatch(label)[1] != str(i):
             fail(f"{name}.md: edits must be numbered 1, 2, ... in order")
-        if quotes[0][2].strip() == quotes[1][2].strip():
+        if len(quotes) == 2 and quotes[0][2].strip() == quotes[1][2].strip():
             fail(f"{name}.md: an edit's After passage repeats its Before passage")
 
 

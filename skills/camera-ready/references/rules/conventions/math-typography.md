@@ -30,7 +30,7 @@ The variable index $i$ stays italic; the word label "cool" is upright.
 
 The asterisk stays in the code.
 
-**Edit 4.** Suppose the draft specifies $b+c$ as the denominator. After proposes a correction to the author.
+**Edit 4.** Suppose the draft specifies $b+c$ as the denominator. The edited text proposes a correction to the author.
 
 > **Before.** The ratio is $a/b+c$.
 

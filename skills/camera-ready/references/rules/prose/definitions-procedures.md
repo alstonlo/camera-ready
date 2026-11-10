@@ -42,7 +42,7 @@ Check that the draft states the settings below for each kind of work. Never supp
 
 > **After.** To separate the water from the sand, we let the sand settle, then pour off the water.
 
-**Edit 4.** Suppose the draft gives 3 g as the correct mean elsewhere. The editor flags the mismatch and proposes After to the author.
+**Edit 4.** Suppose the draft gives 3 g as the correct mean elsewhere. The editor flags the mismatch and proposes the edited text to the author.
 
 > **Before.** For masses of 2 g and 4 g, the mean mass is 6 g.
 
