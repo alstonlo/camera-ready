@@ -1,12 +1,10 @@
 # Name the cited source when an attribution is vague
 
-For attributions such as "studies show", "experts believe", or "X has been shown to", name a source only when the draft cites one for that claim; otherwise, flag the missing attribution. An explicitly hypothetical objection that the paper poses and answers needs no citation to identify an objector (see Details). Follow the [prior-work rules](../story/prior-work-comparisons.md) to make clear who holds each position.
+For attributions such as "studies show", "experts believe", or "X has been shown to", name a source only when the draft cites one for that claim, following [citation-marker](../conventions/citation-markers.md) and [prior-work](../story/prior-work-comparisons.md) rules; otherwise, flag the missing attribution. An objection that the paper clearly frames as hypothetical and then answers needs no cited objector, but "Some may argue" alone is not such framing.
 
 ## Details
 
 The cited source is usually in the same sentence or an adjacent one. If the draft cites several nearby sources that could support the claim but does not identify which one applies, flag the ambiguity.
-
-The words "Some may argue" alone do not make an objection explicitly hypothetical; the paper must clearly frame the objection as hypothetical and answer it.
 
 ## Examples
 

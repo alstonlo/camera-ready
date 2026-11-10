@@ -1,10 +1,10 @@
 # State what ambiguous or suggestive terms mean
 
-State what a term means when the draft invents a suggestive name (an "intelligent" coating), uses a technical word loosely ("exponential" for rapid growth), or uses a word with several meanings in the field ("stability"). Flag an undefined invented term and suggest a literal alternative. Keep established technical wording such as "the enzyme recognizes its substrate", but explain the literal operation at first use. When an ordinary word collides with a nearby technical term ("a normal sample" near "normal distribution"), replace the ordinary word and keep the technical term. For intentions attributed to systems and unfamiliar categories, see Details.
+A suggestive coinage names a technical object with a colloquial expression (an "intelligent" coating). An overloaded term changes a precise meaning used elsewhere ("deconvolution" for transposed convolution); also check technical words used loosely ("exponential" for rapid growth). For a suitcase word, which has several meanings in the field ("generalization": train-to-test performance, transfer, or validity outside the experiment), state which meaning applies. Flag coined suggestive terms, even when defined, and suggest literal alternatives. Keep established technical wording ("the enzyme recognizes its substrate"), but explain the literal operation at first use. When an ordinary word collides with a nearby technical term ("a normal sample" near "normal distribution"), replace the ordinary word and keep the technical term. Replace an intention or mental state attributed to a system ("the particle wants to minimize its energy") with the literal operation or the authors' design goal, or flag it; follow [marks and forms](marks-and-forms.md) for distancing quotes. Follow [definitions and procedures](../prose/definitions-procedures.md) for unfamiliar categories and competing definitions.
 
 ## Details
 
-Replace intentions or mental states attributed to a system ("the particle wants to minimize its energy") with the literal operation or the authors' design goal; if the draft states neither, flag the missing information. Follow [definitions and procedures](../prose/definitions-procedures.md) for unfamiliar categories and competing definitions.
+This rule has no further details.
 
 ## Examples
 

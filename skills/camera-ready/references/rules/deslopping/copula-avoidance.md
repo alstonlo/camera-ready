@@ -1,6 +1,6 @@
 # Replace needless substitutes for "is", "has", or action verbs
 
-Phrases such as "serves as", "acts as", "represents", or "boasts" can become "is" or "has" when the meaning stays the same; a following action noun can become a verb ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity, such as a compound acting as a catalyst, or have a precise technical meaning.
+Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "is" or "has" when the meaning stays the same, and a following action noun with its verb ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity (a compound acting as a catalyst) or a precise technical meaning.
 
 ## Details
 

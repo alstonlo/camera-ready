@@ -1,6 +1,6 @@
 # Replace empty verbs with specific changes or operations
 
-When "affects", "varies", or "has implications for" reports an unspecified change, state its direction and size. When "provides", "enables", or "allows" states only an outcome, state the operation that produces it. Flag missing measurements or operations. Keep wording that already explains the change or capability. For an explicitly untested hypothesis, state the hypothesized direction without requiring a measured size.
+When "affects", "varies", or "has implications for" reports an unspecified change, state its direction and size, or flag the missing measurement. When "provides", "enables", or "allows" states only an outcome ("the cache enables fast retrieval"), state the operation that produces it, or flag the missing operation. Keep wording that already explains the change or capability. For an explicitly untested hypothesis, state the hypothesized direction without requiring a measured size.
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Identify which part produces the effect
 
-When a method, treatment, intervention, material, or design combines several parts or changes, the results must show which part produces the reported effect. If no evidence separates one part's effect, flag the missing evidence and credit only the combination under [causal language](../claims/causal-language.md). Treat an untested explanation as [speculation](../claims/speculation.md). Flag any obvious alternative explanation that the draft does not address. If the draft raises a counterexample, conflicting result, or alternative explanation, check its reply. Flag the reply if it gives neither evidence nor a reason why the objection does not apply.
+When a method, treatment, or design combines several parts or changes, the results must show which part produces the reported effect; otherwise, flag the missing evidence and credit only the combination under [causal language](../claims/causal-language.md). Flag any raised counterexample, conflicting result, or obvious alternative explanation the draft does not address, and any reply to a raised counterexample, conflicting result, or alternative explanation that gives no evidence, no reason the objection does not apply, and no statement of the [limitation](../claims/limitations.md) that remains.
 
 ## Details
 

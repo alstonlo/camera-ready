@@ -43,6 +43,8 @@ def test_valid_pages_render_only_title_and_summary(text: str):
     [
         page(),
         page("## Examples", EX1),
+        "# Use verbs for actions\n\nWrite actions as verbs (see Details).\n\n## Details\n\nMore.\n\n"
+        "## Examples\n\n" + EX1,
         page("## Details", "More cases."),
         page("## Examples", "## Details", "More cases."),
         page("## Details", "", "## Examples", EX1),

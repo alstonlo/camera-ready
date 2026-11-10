@@ -1,12 +1,12 @@
 # Identify the kind of evidence supporting each claim
 
-If a sentence reads like a theorem but gives no formal result or conditions, link it to the proved result and its assumptions, restate it as the observed or intuitive claim the draft supports, or flag it. If the draft applies a theorem to observations or experiments, flag the claim when the theorem's assumptions do not hold. An unmet assumption makes a theorem inapplicable, not false. Never drop a condition to simplify a formal statement. Instead, flag any condition that seems unnecessary (see Details). Distinguish proofs, calculations from a model, simulations, and measurements of the real system. Flag any claim that a model result holds in the real system without evidence. A valid claim limited to the model needs no experiment or field study.
+Link a sentence that reads like a theorem but gives no formal result or conditions ("all local minima have error close to that of the global minimum") to the proved result and its assumptions, restate it as the observed or intuitive claim the draft supports, or flag it. Flag a claim that applies a theorem to observations or experiments that violate its assumptions, such as a convergence result for convex objectives cited for non-convex training; the theorem is then inapplicable, not false. Never drop a condition to simplify a formal statement; flag one that seems unnecessary. Flag an unsupported claim that a result from a model or simulation holds in the real system; a valid claim limited to the model needs no experiment or field study.
 
 ## Details
 
 A statement about all cases, inputs, runs, or allowed parameter values may claim a mathematical guarantee even without the word "theorem". Find the supporting result and its conditions before judging whether the result applies.
 
-Propose a simpler mathematical condition only when the draft shows that the two conditions are equivalent and that the condition you would remove adds no useful information. Flag a suspected error in a proof separately from a claim that applies a valid theorem where its assumptions do not hold.
+Propose a simpler mathematical condition only when the draft shows that the simpler condition still guarantees the conclusion and that the condition you would remove adds no useful information. Flag a suspected error in a proof separately from a claim that applies a valid theorem where its assumptions do not hold.
 
 ## Examples
 

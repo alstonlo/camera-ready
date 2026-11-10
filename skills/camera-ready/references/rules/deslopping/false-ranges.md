@@ -1,6 +1,6 @@
 # Replace false ranges with the settings tested
 
-When the endpoints of "from X to Y" do not lie on an ordered scale, the phrase implies breadth without defining a range. Replace it with the draft's tested settings. Keep true ranges along an ordered scale. Never shorten a longer list to its endpoints.
+When the endpoints of "from X to Y" lie on no ordered scale ("tasks ranging from image classification to reinforcement learning", unlike "from 10² to 10⁶ parameters"), replace the phrase with the settings tested. Never shorten a longer list to its endpoints.
 
 ## Details
 

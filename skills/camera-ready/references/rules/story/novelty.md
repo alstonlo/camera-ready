@@ -1,6 +1,6 @@
 # State what is new and what comes from earlier work
 
-Distinguish what the authors contribute from standard components, borrowed ideas, and their earlier results. If the work extends a preliminary publication, state what the authors added. Keep wording that identifies their earlier work, or flag it if the venue requires anonymity. Do not present their earlier work as independent confirmation. Flag any unclear contribution or credit instead of assigning it.
+Distinguish what the authors contribute from standard components, borrowed ideas, and their earlier results ("we use the probe of Smith et al. [4]; our change is to ..."), and flag an unclear contribution rather than assign it. Keep wording that identifies the authors' earlier work (or flag it if the venue requires anonymity), and do not present that work as confirmation by other researchers.
 
 ## Details
 

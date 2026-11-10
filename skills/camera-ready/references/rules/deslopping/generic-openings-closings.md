@@ -1,6 +1,6 @@
 # Delete generic openings and closings
 
-Generic filler could fit any paper in the field (such as "The future looks bright"). Also delete popularity claims that sound factual ("There has been much recent interest in X"). Merely naming the topic does not make a sentence necessary. If the draft gives a specific reason the topic matters, use that reason instead. If readers need background first, follow [brief setup](../prose/paragraph-development.md).
+Delete filler that could fit any paper in the field, even a sentence that names the topic ("In the ever-evolving field of deep learning", "The future looks bright"), including popularity claims that sound factual ("There has been much recent interest in X"). If the draft gives a specific reason the topic matters, use that reason instead, and if readers need background first, follow [brief setup](../prose/paragraph-development.md).
 
 ## Details
 

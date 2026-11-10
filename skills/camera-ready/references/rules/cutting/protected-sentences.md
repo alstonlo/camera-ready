@@ -1,15 +1,15 @@
 # Protect sentences the argument depends on
 
-Move the material listed below only when the [sentence-by-sentence steps](sentence-dependencies.md) allow:
+Keep the material below even when it adds no new information, and move it only when the [sentence-by-sentence steps](sentence-dependencies.md) allow:
 
-- Keep hedges, qualifiers, scope conditions, limitations, supporting evidence, and counterevidence. Cut a repeated limitation only when the triage order reaches it and a full statement remains elsewhere. Because removing a caveat changes a [claim's scope](../claims/scope.md), [recalibrate the claim](post-cut-check.md) after an authorized cut only as remaining evidence requires.
-- Keep the reasons for choices in the method and the details needed to reproduce the work (see Details).
-- Keep definitions, topic sentences, necessary framing, [high-level summaries](../prose/direct-content.md), [logical transitions](../prose/transitions.md), and references back to earlier sections that later text relies on. Keep [standalone caption content](../conventions/captions.md) even when it repeats the body (see Details).
-- Keep fair credit to prior work and accurate descriptions of it. Preserve acknowledgments, funding statements, disclosures of assistance (including help from AI tools), and disclosures of financial or other relationships that could bias the work.
+- Nonredundant hedges, qualifiers, scope conditions, limitations, supporting evidence, and counterevidence. Cut a repeated limitation only when the triage order reaches it and a full statement remains elsewhere. Removing a caveat changes a [claim's scope](../claims/scope.md); after an authorized cut, [recalibrate the claim](post-cut-check.md).
+- The reasons for method choices and the details needed to reproduce the work, such as the statistical tests, the handling of missing data, and corrections for multiple comparisons.
+- Topic sentences, necessary framing, [high-level summaries](../prose/direct-content.md), [logical transitions](../prose/transitions.md), and references back to earlier sections that later text relies on. When cutting a minor result, usually keep the sentence on why this class of question matters if it frames surviving results. Keep [standalone caption content](../conventions/captions.md), including "adapted from" credits and permission notices, even when it repeats the body.
+- Fair credit to prior work and accurate descriptions of it, acknowledgments, funding statements, and disclosures of assistance (including from AI tools) and of conflicts of interest.
 
 ## Details
 
-Readers may need a sentence even when it adds no new facts. Details needed to reproduce the work include the statistical tests used, how the authors handle missing data, and how they correct for multiple comparisons. A topic sentence states a paragraph's point. Standalone caption content lets readers understand a caption without the body text and includes "adapted from" credits and permission notices. Before treating two results as redundant, check whether they describe different conditions or failure cases. Do not guess at assistance that the draft does not record, and do not search for financial or other relationships that the draft does not disclose.
+A topic sentence states a paragraph's point. Before treating two results as redundant, check whether they describe different conditions or failure cases. Do not guess at assistance that the draft does not record, and do not search for financial or other relationships that the draft does not disclose.
 
 ## Examples
 

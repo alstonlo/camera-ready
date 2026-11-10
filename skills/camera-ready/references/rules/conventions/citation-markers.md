@@ -1,14 +1,12 @@
 # Keep citation markers out of subject and object positions
 
-This covers both bracketed and parenthetical markers. Replace "[8] introduces" with a textual citation such as `\citet{key}`, keeping the citation key. When asserting an established result, shorten "In a recent study, ... showed that X" to "X (citation)". Keep cited authors as the subject when reporting, characterizing, or contrasting a claim that the paper does not assert, following [prior work](../story/prior-work-comparisons.md). Place each citation beside its clause when the draft identifies that link; otherwise, flag a trailing cluster that obscures which source supports which claim. Flag any passage that leaves unclear where a source's material begins or ends. For package commands, author formatting, and multi-sentence attribution, see Details.
+Replace a citation marker used as a subject or object ("[8] introduces") with a textual citation that names the authors. When asserting an established result, shorten "In a recent study, ... showed that X" to "X (citation)". Keep cited authors as the subject when reporting, characterizing, or contrasting a claim the paper does not assert, following [prior work](../story/prior-work-comparisons.md). Place each citation beside its clause when the draft identifies that link; otherwise, flag a trailing cluster that obscures which source supports which claim. Flag any passage that leaves unclear where a source's material begins or ends. Use the document's citation package commands, such as natbib's `\citet` (textual) and `\citep` (parenthetical), with a non-breaking space before a parenthetical citation (`result~\citep{key}`). Use upright "et al." only for three or more authors.
 
 ## Details
 
 To test a citation marker in parentheses or brackets, remove it temporarily and read the sentence. The remaining words must form a grammatical sentence. When a marker splits a verb phrase, as in "has~\citep{key} dissolved", move it after the full verb phrase without changing which claim it supports.
 
-Match the commands of the document's citation package. In natbib, `\citet` names the authors in running text and `\citep` encloses the citation in parentheses or brackets. Other packages use different commands, such as `\textcite` and `\parencite` in biblatex. Put a non-breaking space before a parenthetical citation, as in `result~\citep{key}`. Use "et al." only for three or more authors. Set it in upright type.
-
-When a passage moves from reporting a cited source's claims to presenting the paper's own interpretation, state who makes each claim at the transition point. Follow [prior work](../story/prior-work-comparisons.md) to preserve the source's qualifications.
+When attributing claims to a source, follow [prior work](../story/prior-work-comparisons.md) to preserve the source's qualifications.
 
 ## Examples
 

@@ -1,6 +1,6 @@
 # Use headings to show how the argument is organized
 
-Make each parent heading describe all its subsections, and give headings under the same parent [parallel form](../prose/parallel-form.md). When it makes the argument hard to follow, flag a parent with only one subheading, a fourth-level heading, or a very short section. When a heading could state its section's finding, flag it and propose one that keeps the body's claim strength and conditions. Also flag and propose any change to how sections are grouped or nested. Do not make either change yourself. Keep distinctions that help readers, and follow venue requirements.
+Make each parent heading describe all its subsections, and give headings under the same parent [parallel form](../prose/parallel-form.md). Flag a parent with only one subheading, a fourth-level heading, or a very short section when it makes the argument hard to follow. Propose, but do not make, a heading that states its section's finding with the body's claim strength and conditions, and any change to how sections are grouped or nested. Keep distinctions that help readers, and follow venue requirements.
 
 ## Details
 

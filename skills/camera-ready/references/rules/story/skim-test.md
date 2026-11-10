@@ -1,6 +1,6 @@
 # Test the argument by skimming
 
-Check that the abstract, headings, first paragraph of each section, and [captions](../conventions/captions.md) alone state all five parts of the argument. When the request allows, restore any missing part or connection from the draft. Flag missing content and any repair that changes a claim or the section order.
+Check that the abstract, headings, first paragraph of each section, and [captions](../conventions/captions.md) alone state all five parts of the argument. When the request allows, restore any missing part or connection; otherwise, flag it.
 
 ## Details
 

@@ -1,12 +1,12 @@
 # Test the argument with five lines and one sentence
 
-Before editing, use only what the draft states to write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication. Flag any missing component, including a missing cost. Combine the idea and evidence into core claims for the [spine test](../cutting/spine-test.md). Use the five-line summary to compress the argument into one sentence connecting why the problem matters, what existing work leaves unresolved, the proposed idea, and its supporting result; flag a missing gap or competing focuses without choosing a focus or inventing a connection. Keep these diagnostic notes out of the paper.
+Write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication, and flag any line the draft does not supply. Combine the idea and evidence into core claims for the [spine test](../cutting/spine-test.md).
+
+Combine the five lines into one test sentence: "A matters, and B is known, but C fails because D; therefore we propose E, which achieves F." The lines and the sentence are notes, not text for the paper. If the sentence lists facts without a problem or gap, flag what is missing. If it requires unrelated problems, flag the competing focuses and ask which one the text addresses, without inventing a connection. Judge both cases by meaning, not by counting "but": a gap need not use that word, and several "but" clauses may describe obstacles to answering one question.
 
 ## Details
 
 The five lines are your notes for checking the argument. Do not insert them into the paper. Write each line using only what the draft states. The gap is what existing work leaves unresolved, and its cost is why that gap matters. The spine test uses the core claims to check whether each paragraph supports the argument. If the draft omits part of a line, such as the gap's cost, write the rest of the line and flag the missing part for the author.
-
-Build the one-sentence summary from the five lines on the problem, the gap and its cost, the idea, the evidence, and the implication. The sentence pattern is a test of the argument, not wording that the paper must use. When the sentence requires unrelated problems, do not choose one of the problems, and do not invent a claim that connects them. Decide whether the ideas connect by reading what they say, not by counting conjunctions such as "but". A gap need not begin with "but", and several clauses that begin with "but" may describe obstacles to answering one question rather than separate problems.
 
 ## Examples
 

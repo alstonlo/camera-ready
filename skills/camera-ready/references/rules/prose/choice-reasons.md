@@ -1,6 +1,6 @@
 # State the reasons for a choice
 
-Unless the omitted items are obvious, replace "for various reasons" or a list's final "etc." with the draft's reasons or items, or flag the gap. When a stated claim depends on an unexplained method choice, give the draft's reason or flag the missing reason. Do not ask authors to justify routine choices whose role is clear. A reason for a choice is not evidence that the choice caused a result. For causal claims, follow [causal language](../claims/causal-language.md).
+Unless the omitted items are obvious, replace "for various reasons" or a list's final "etc." with the draft's reasons or items, or flag the gap. When a claim depends on an unexplained method choice, give the draft's reason or flag its absence; do not ask authors to justify routine choices whose role is clear. A reason for a choice is not evidence that the choice caused a result ([causal language](../claims/causal-language.md)).
 
 ## Details
 

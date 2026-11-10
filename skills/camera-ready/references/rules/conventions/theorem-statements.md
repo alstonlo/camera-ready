@@ -1,10 +1,10 @@
 # Make theorem statements self-contained
 
-Introduce a theorem, lemma, or algorithm with a complete sentence, and use a colon only after a complete clause. Make the formal statement self-contained: state each object's type and define every symbol before use. Keep motivation and informal comments outside the statement. If hypotheses run for several lines, flag the statement and suggest extracting them into named conditions defined before it (see Details).
+Introduce a theorem, lemma, or algorithm with a complete sentence. In the formal statement, name its objects and any needed definition reference ("The function H defined in (5) is continuous"), and define every symbol before use; keep motivation and informal comments outside it. If hypotheses run for several lines, flag the statement and suggest extracting them into named conditions defined before it ("Assumption 1 (smoothness)").
 
 ## Details
 
-State the type of each object, as in "the linear operator $A$". Keep every assumption in the theorem statement, because an assumption is part of the claim rather than commentary. When suggesting named conditions, such as "Assumption 1 (smoothness)", preserve every restriction. If an assumption seems unnecessary, follow [formal support](../claims/evidence-kind.md).
+Keep every assumption in the theorem statement, because an assumption is part of the claim rather than commentary. If an assumption seems unnecessary, follow [formal support](../claims/evidence-kind.md).
 
 ## Examples
 

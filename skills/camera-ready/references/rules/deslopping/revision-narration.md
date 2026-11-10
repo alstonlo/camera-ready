@@ -1,6 +1,6 @@
 # Describe the work without narrating manuscript revisions
 
-Revision phrases (diff-anchored prose) include "In this revised version, we clarify" and "As suggested by the reviewer". In the paper, give the scientific content directly in their place. Revision history belongs in the response letter or change log. Keep all added explanations, evidence, and justifications, and keep substantive comparisons between method versions when part of the study.
+Replace revision phrases such as "In this revised version, we clarify" or "As suggested by the reviewer" with the scientific content itself; such accounts belong only in a response letter or change log, where they stay. Keep all added explanations, evidence, and justifications, and any comparison between method versions that is part of the study.
 
 ## Details
 

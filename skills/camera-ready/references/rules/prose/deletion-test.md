@@ -1,6 +1,6 @@
 # Apply the deletion test without changing meaning
 
-Delete a word or clause only if it adds nothing and the sentence remains as easy to understand. Any deletion, replacement, or restructuring must keep the [structural words](first-reading.md) readers need on the first reading. Preserve who acts, what each actor does, what each word refers to, and whether something is possible, required, or actual. Also keep definitions, logical relations, distinctions, the cases covered, and the author's stance. Follow the [claim rules](../claims/scope.md) to any substantive change. If you are unsure whether an edit changes the meaning, keep the original and flag the ambiguity.
+Test every clause by deleting it, and keep the deletion only if the word or clause adds nothing and the sentence stays as easy to understand. Every deletion, replacement, or restructuring must keep the [structural words](first-reading.md) readers need on the first reading, and must preserve who does what, what each word refers to, whether something is possible, required, or actual, definitions, logical relations, distinctions, the cases covered, and the author's stance. Apply the [claim rules](../claims/scope.md) to any substantive change. If you are unsure whether an edit changes the meaning, keep the original and flag the ambiguity.
 
 ## Details
 

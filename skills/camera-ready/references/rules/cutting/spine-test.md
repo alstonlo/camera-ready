@@ -1,10 +1,8 @@
 # Apply the spine test before cutting sentences
 
-State the core claims in one to three sentences and summarize each paragraph's role in one line. Classify each paragraph as **central**, **supporting**, **ancillary**, or **off-spine** (see Details). Treat a paragraph that contains counterevidence or other [protected content](protected-sentences.md) as supporting if it is not central. If no short, specific title summarizes a section, flag its competing points before cutting. When [the request](idea-cuts.md) permits cutting, cut or relocate off-spine paragraphs, shorten ancillary ones, and then edit [sentence by sentence](sentence-dependencies.md). Keep a cut only if the argument remains at least as clear.
+State the core claims (the text's spine) in one to three sentences, and each paragraph's role in one line. Keep content because the spine needs it, not because it is true or interesting. Classify each paragraph as **central** if it states a core claim, **supporting** if readers need it to understand or evaluate one or if it holds [protected content](protected-sentences.md), **ancillary** if it is relevant but readers can evaluate the core claims without it, and **off-spine** if it does not relate to them. If no short, specific title summarizes a section, flag its competing points before cutting. When [the request](idea-cuts.md) permits cutting, cut or relocate off-spine paragraphs, shorten ancillary ones, and then edit [sentence by sentence](sentence-dependencies.md). Keep a cut only if the argument remains at least as clear.
 
 ## Details
-
-The core claims form the text's spine. A paragraph is **central** if it states a core claim, and **supporting** if readers need it to understand or evaluate one. It is **ancillary** if it is relevant but readers can evaluate the core claims without it, and **off-spine** if it does not relate to them. Never treat a paragraph that contains counterevidence or other protected content as expendable.
 
 Writing a short title for a section tests whether the section develops one coherent point. This check examines what the section says, not the printed heading above it, so a conventional heading such as "Results" is not a defect.
 

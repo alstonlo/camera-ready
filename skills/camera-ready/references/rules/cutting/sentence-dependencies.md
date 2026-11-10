@@ -1,17 +1,17 @@
 # Repair text that depends on a sentence you cut or move
 
-For each sentence within [the request's scope](idea-cuts.md), follow four steps:
+For each sentence within [the request's scope](idea-cuts.md):
 
-1. **Check whether it is needed.** Apply "Protect sentences the argument depends on" before deleting a sentence that a core claim or the reader needs.
-2. **Check what depends on it.** Check for a later reference such as "this" or "as shown above", a term defined or source cited only here, a hedge or evidence for another claim, or a break in the paragraph's topic string. Repair every dependent passage in the same edit, or keep the sentence.
-3. **Choose whether to delete or move it.** Delete only content that no reader needs. Move content that only some readers or a skeptical reviewer will need, and never delete details needed to reproduce the work. Move material to an appendix or supplement only if the draft already has one. Otherwise, keep it in place and flag what to move. Make moved material understandable on its own, and point to it from the main text. Keep enough of the method and the reasons for choosing it in the main text for readers to judge the results. Keep essential steps and definitions used later in the main explanation (see Details for footnotes and parentheses).
-4. **Read across the gap.** Check that the sentence after the cut begins with something the remaining text has already introduced. Restore any missing connection from the draft, or keep the original sentence.
+1. **Check whether a core claim or the reader needs it;** if so, apply "Protect sentences the argument depends on".
+2. **Check what depends on it:** a later reference such as "this" or "as shown above", a term defined or source cited only here, a hedge or evidence for another claim, or the paragraph's topic string. Repair every dependent passage in the same edit, or keep the sentence.
+3. **Choose whether to delete or move it.** Delete only content that no reader needs, and never delete details needed to reproduce the work; move content that only some readers or a skeptical reviewer will need. Move material to an appendix or supplement only if the draft already has one; otherwise, keep it in place and flag what to move. Make moved material understandable on its own. In the main text, point to moved material where it becomes relevant. Keep enough of the method and the reasons for choosing it in the main text for readers to judge the results. If the venue permits footnotes, you may move secondary comments into new footnotes. Keep essential steps of a method, derivation, or algorithm, and the only definition of a term later text uses, in the main explanation, not in footnotes or parentheses.
+4. **Read across the gap.** The sentence after the gap must open with a term, result, or referent supplied by the sentence before it. Restore any missing connection only from the draft, or keep the original sentence; if the link requires an inference that the deleted sentence made, add a clause to an adjacent sentence or reuse the original framing sentence to open what follows.
 
 ## Details
 
-Search the rest of the text for passages that depend on the sentence you plan to cut or move, not only the sentence immediately after the gap. When you point to a large supplement from the relevant place in the main text, name the specific section, figure, or procedure rather than the supplement as a whole. Never guess a section number. If the draft has no appendix or supplement, keep the material in place and flag what that section would need to contain.
+Search the rest of the text for passages that depend on the sentence you plan to cut or move, not only the sentence immediately after the gap. When you point to a large supplement, name the specific section, figure, or procedure rather than the supplement as a whole. Never guess a section number. If the draft has no appendix or supplement, keep the material in place and flag what that section would need to contain.
 
-If the venue permits footnotes, you may move secondary comments into footnotes. Do not put an essential step of a method, derivation, or algorithm, or the only definition of a term that later text uses, in a footnote or in parentheses. If the author has authorized moving content, move such a step or definition into the main explanation. Otherwise, flag where it appears. A brief definition of notation may remain in parentheses when it is clear and easy to find.
+If the draft already puts such a step or definition in a footnote or parentheses and the author has authorized moving content, move it into the main explanation. Otherwise, flag where it appears. A brief definition of notation may remain in parentheses when it is clear and easy to find.
 
 ## Examples
 

@@ -1,6 +1,6 @@
 # Explain why an equation or definition is needed
 
-Flag any central equation or definition whose purpose the draft never states; do not infer one. If the explanation appears later in the same paragraph or section, move it before the equation or definition. If it appears only in another section, flag the proposed move. Follow [formal support](../claims/evidence-kind.md) when an application depends on unstated conditions.
+Flag any central equation, definition, or intermediate result (a lemma, theorem, or algorithm) whose purpose the draft never states; do not infer one. Move the draft's explanation of why such material is needed ahead of it within the same section; flag a move from another section. Follow [formal support](../claims/evidence-kind.md) when an application depends on unstated conditions.
 
 ## Details
 

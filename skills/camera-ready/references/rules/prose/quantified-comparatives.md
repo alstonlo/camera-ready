@@ -1,10 +1,10 @@
 # Replace vague comparisons with measurements
 
-For comparatives such as "more" or "faster", use the reported measurement and name what it is compared with. Lead with the [headline number](../story/claim-before-number.md), describe the overall pattern, and refer to the table for remaining values. A label such as "large" needs a stated comparison or threshold and cannot replace the measurement. Do not calculate unreported ratios (see Details).
+For comparatives such as "more" or "faster", use the reported measurement and name what it is compared with: write "Our method runs in 0.3 s per example versus 1.1 s for the baseline (3.7× faster)", not "Our method is much faster". A label such as "large" needs a stated comparison or threshold and cannot replace the measurement. Do not calculate a ratio that the draft does not report, such as a speedup or a fold change.
 
 ## Details
 
-Do not calculate a ratio that the draft does not report, such as a speedup or a fold change, merely to make the wording more concrete. Before presenting measurements as comparable, check that they satisfy the requirements for [comparison evidence](../claims/variability.md).
+Before presenting measurements as comparable, check that they satisfy the requirements for [comparison evidence](../claims/variability.md).
 
 ## Examples
 

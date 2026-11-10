@@ -1,6 +1,6 @@
 # Remind readers what shorthand means after a gap
 
-When shorthand or a symbol returns after a long gap or section boundary, remind readers of its name and either its definition or where it was defined. Phrase this as a reminder ("Recall that $r$ denotes...") rather than a new definition. Replace ambiguous labels such as "the rate" with the original full name. When referring to a distant display by number alone, add its name, as in "the energy balance (9)".
+When shorthand or a symbol returns after a long gap or section boundary, remind readers of its name and either its definition or where it was defined ("the graph-search step (Dijkstra's algorithm)", "the contrastive loss L_c defined in Section 3"), phrased as a reminder, not a new definition. Replace ambiguous labels such as "the rate" with the original full name, and name a distant display referred to by number alone ("the energy balance (9)").
 
 ## Details
 

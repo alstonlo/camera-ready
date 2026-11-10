@@ -1,6 +1,6 @@
 # State findings instead of how they are reported
 
-When a sentence only states a reporting policy, such as "we report both metrics", replace it with the draft's conclusions, measurements, and outcomes. Flag any missing results. Keep a sentence that describes an actual reporting or analysis procedure when it explains what the authors did rather than replacing a result.
+When a sentence only states a reporting policy, such as "we report both metrics", replace it with the draft's conclusions, measurements, and outcomes, or flag the missing results. Keep a sentence that describes an actual reporting or analysis procedure when it explains what the authors did rather than replacing a result.
 
 ## Details
 

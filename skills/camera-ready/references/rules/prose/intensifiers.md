@@ -1,10 +1,10 @@
 # Cut words that add only emphasis
 
-Examples include "very" and "extremely"; a [measurement](quantified-comparatives.md) from the draft may replace them. Treat "essentially" and "largely" as [softeners](../claims/hedges.md); preserve their scope or uncertainty unless the draft supplies a precise replacement. Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a proof step routine for readers outside the subfield. Remove them from empirical claims, and flag any unexplained nonroutine step.
+Replace words such as "very" and "extremely" with the [measurement](quantified-comparatives.md) when the draft supplies it, and otherwise cut only the emphasis. Treat softeners such as "essentially" and "largely" as [hedges](../claims/hedges.md). Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a step in a derivation or proof that is routine for readers outside the subfield, and flag any unexplained nonroutine step or wording that substitutes for an argument.
 
 ## Details
 
-When "highly", "remarkably", or "exceptionally" adds only emphasis, cut it or replace it with a measurement from the draft. Words such as "somewhat" and "relatively" soften a claim, as "largely" does; deleting them strengthens the claim without evidence. When a modifier asserts uniqueness, completeness, or superiority, follow [unsupported labels](../claims/unsupported-labels.md) rather than deleting the factual claim. Remove words such as "clearly" from empirical statements such as "clearly outperforms".
+When "highly", "remarkably", or "exceptionally" adds only emphasis, apply the same rule. Words such as "somewhat" and "relatively" soften a claim, as "largely" does; deleting them strengthens the claim without evidence. When a modifier asserts uniqueness, completeness, or superiority, follow [unsupported labels](../claims/unsupported-labels.md) rather than deleting the factual claim.
 
 ## Examples
 

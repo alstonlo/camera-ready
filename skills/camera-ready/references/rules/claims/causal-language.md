@@ -1,6 +1,6 @@
 # Reserve causal language for causal evidence
 
-For wording such as "causes", "leads to", or "improves because", the evidence must isolate a factor's effect. Describe a correlation with "is associated with" or "correlates with". Keep cause and effect in the order the evidence supports, and do not call one of several causes the only cause. When the draft tests several changes only together, attribute the effect to their combination, not to one component, and do not call each component necessary. Flag unsupported causal claims, and mark an untested mechanism as [speculation](speculation.md).
+Use causal wording such as "causes", "leads to", or "improves because" only with evidence that isolates the factor's effect, such as an ablation of that component; describe a correlation as "is associated with" or "correlates with". Keep cause and effect in the order the evidence supports, and do not call one of several causes the only cause. When the draft tests several changes only together, credit their combination, not one component, and do not call each component necessary. Mark an untested mechanism as [speculation](speculation.md).
 
 ## Details
 

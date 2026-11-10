@@ -1,10 +1,10 @@
 # Match tense to the time frame
 
-Use present tense for the paper's contents ("Section 4 shows"), results, method, setup, established facts, and prior work that still applies. Preserve a draft's consistent past tense for experiments, and use past tense for events outside the described procedure. Use future tense only for uncompleted plans, never for later sections. Keep tense consistent within each time frame. Prefer simple forms unless perfect tense marks current relevance ("has tested") or an event before another past event ("had tested"). Keep past tense for reported findings ("Lee found that the alloy was weaker") and hypothetical situations ("if the sample were larger"). Do not turn a general research recommendation into the authors' own promise. For relative dates and past gaps, see Details.
+Use present tense for the paper's contents ("Section 4 shows", not "we will show"), results, method and setup, established facts, and prior work that still applies ("Smith et al. propose"). Use past tense for events at a specific time outside the described procedure ("we collected 500 documents in 2024"), and keep it for reported findings ("Lee found that the alloy was weaker"), hypotheticals ("if the sample were larger"), and a draft's consistent past tense for experiments. Use future tense only for uncompleted plans, as in a proposal. Keep tense consistent within each time frame. Prefer simple to perfect tense ("Smith et al. show" or "showed", not "have shown"), but keep perfect tense for current relevance ("no prior work has evaluated X at this scale") or an event before another past event ("had tested"). Do not turn a general research recommendation into the authors' own promise. Replace a relative date, such as "last year", with the draft's calendar date, or flag it.
 
 ## Details
 
-Replace a relative date, such as "last year", with the calendar date that the draft gives. If the draft gives no calendar date, flag the omission. Do not assume that an event occurred in the publication year of the paper reporting it.
+Do not assume that an event occurred in the publication year of the paper reporting it.
 
 A sentence such as "No work had studied X before Lee" describes only the gap that existed before Lee's work. It does not state whether that gap remains open.
 

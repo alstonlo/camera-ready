@@ -1,10 +1,8 @@
 # Make every quantity unambiguous without changing it
 
-Give every measurement and axis its unit, and separate numbers from units with a non-breaking space. Preserve numerical values, precision, and established formats; match forms within a comparison only when value and precision remain unchanged. Resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats from the draft, or flag them when the draft does not establish the interpretation. Flag proposed rounding or unit conversion for author review instead of performing it.
+Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats, including a number-spelling cutoff that the draft or its style guide applies consistently; match forms within a comparison only when value and precision stay unchanged. Resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats from the draft, or flag them. Flag, rather than perform, any unit conversion.
 
 ## Details
-
-In LaTeX, use a tilde to insert a non-breaking space between the number and its unit, as in `40~ms`.
 
 For storage capacity, a prefix may be binary (powers of two) or decimal (powers of ten). If the draft leaves the scale unclear, state the scale from elsewhere in the draft or flag that it is unstated.
 

@@ -1,6 +1,6 @@
 # Make reported failures as noticeable as successes
 
-When a draft presents every result as a success, give reported failures and counterevidence comparable prominence, and [match each claim to its evidence](../claims/scope.md). Never invent a failure, add a balancing caveat, or hedge a supported finding to make the tone seem cautious.
+When a draft presents every result as a success, give its failures and counterevidence comparable prominence and [match each claim to its evidence](../claims/scope.md). Never invent a failure, or add a caveat or hedge for balance.
 
 ## Details
 

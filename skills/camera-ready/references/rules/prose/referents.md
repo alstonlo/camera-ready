@@ -1,10 +1,10 @@
 # Resolve references without changing the claim's status
 
-Make each pronoun, demonstrative, comparative, and shorthand noun phrase identify one referent from the text alone, including beneath headings. Name ambiguous baselines or previous runs with the draft's labels and reuse those names. Restore context lost during editing, and flag unresolved connections rather than choosing a referent. Replace an ambiguous "this", "that", or "it" with wording that names the supported referent. Preserve its status and evaluation: a conjecture is not a finding, and a change is not necessarily an improvement. Allow bare "This" to introduce an interpretation after one unambiguous claim.
+Make each pronoun, demonstrative, comparative, and shorthand noun phrase identify one referent from the text alone. Name ambiguous baselines or previous runs with the draft's labels ("the v1.2 measurement in Section 4.1") and reuse those names. The first sentence under a section title or a run-in paragraph title must make sense without it ("**Gradient caching.** Gradient caching recomputes ...", not "**Gradient caching.** This technique recomputes ..."). Restore context lost during editing, and flag connections you cannot resolve rather than choosing a referent. Replace an ambiguous "this", "that", or "it" with wording that names the referent the draft supports, preserving its status and evaluation (a conjecture is not a finding, and a change is not necessarily an improvement): in "We prune low-magnitude weights and retrain. This improves generalization.", write "This pruning step improves generalization" if the draft identifies pruning as the cause. Allow bare "This" to introduce an interpretation after one unambiguous claim in openings such as "This means that", "This is because", and "This suggests that".
 
 ## Details
 
-The first sentence under a heading, including a bold title that opens a paragraph such as "**Sample preparation.**", must make sense without the heading. To test it, cover the heading and read the sentence alone. Check that the sentence still names its own subject.
+To test the first sentence under a heading, cover the heading and read the sentence alone. Check that the sentence still names its own subject.
 
 ## Examples
 

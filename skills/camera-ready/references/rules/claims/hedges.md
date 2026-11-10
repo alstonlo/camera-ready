@@ -1,10 +1,12 @@
 # Hedge interpretations, not measurements or procedures
 
-Tentative interpretations include proposed mechanisms. Keep reported measurement uncertainty. Hedge only the reason for performing a procedure. Make a claim more or less confident only when the evidence supports the change. In every summary of a claim, keep the claim's hedge and its [verb-ladder strength](verb-ladder.md). Use at most one hedge per uncertain claim, in a standard form such as "may", "likely", or "suggests". When you remove a redundant hedge, keep the hedges on other uncertain claims and keep every [scope condition](../cutting/protected-sentences.md). Replace vague softeners such as *somewhat* or *relatively* with the conditions or magnitudes that the draft supplies. If the draft supplies neither, keep the softener and flag the missing information.
+Tentative interpretations include proposed mechanisms. Keep reported measurement uncertainty; for a procedure, hedge only the reason for performing it. Use at most one hedge per uncertain claim, in a standard form such as "may", "likely", "suggests", or "appears to". Deleting a claim's only hedge strengthens it, and removing a redundant hedge must leave other uncertain claims hedged. A qualifier that limits the conditions or cases a claim covers, such as "usually" or "on average", is a [scope condition](../cutting/protected-sentences.md), not a hedge; keep it.
+
+Replace a vague softener such as "somewhat", "relatively", or "essentially" with the conditions or magnitudes the draft supplies; otherwise, keep the softener and flag the missing information.
 
 ## Details
 
-A hedge marks a claim as uncertain, so deleting the only hedge on a claim makes the claim stronger. Reported measurement uncertainty includes values such as a standard error, and summaries of a claim include the abstract. A scope condition is a qualifier such as *usually*, *on average*, or *in most runs* that limits the conditions or cases a claim covers, so deleting it changes the claim. A vague softener is a qualifier that weakens a claim without saying by how much.
+Reported measurement uncertainty includes values such as a standard error, and summaries of a claim include the abstract.
 
 ## Examples
 

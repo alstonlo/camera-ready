@@ -1,12 +1,10 @@
 # Replace narration of the thinking process with conclusions and evidence
 
-An example of thinking-process narration is "Let us think step by step". Keep mathematical setup, proof steps, and substantive reasoning (see Details).
+Such narration includes "Let us think step by step", "Breaking this down", and numbered steps narrating the writer's own thinking. Keep mathematical setup ("Let X be"), the steps of a proof, substantive reasoning that the result depends on, and model reasoning that the paper quotes or analyzes as experimental material.
 
 ## Details
 
-Also replace sequences of numbered steps in which the writer narrates their own thinking, as in "First, I should compare ... Next, I can conclude ...".
-
-Keep mathematical setup such as "Let X be", the steps of a proof, and any substantive reasoning that the result depends on. Keep a model's account of its reasoning when the paper quotes or analyzes that account as experimental material.
+This rule has no further details.
 
 ## Examples
 

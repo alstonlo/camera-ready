@@ -1,6 +1,6 @@
 # Explain why the evidence supports the claim
 
-An explanation of the reasoning is needed when readers outside the subfield may not see how a measurement or reason supports a claim. Check that the assumptions behind that reasoning hold in this study. Use only support from the draft. If the draft omits the connection, flag the gap instead of inventing a reason. Follow [scope](../claims/scope.md) for claims that exceed what the measurement establishes, and [formal support](../claims/evidence-kind.md) for conclusions from a theorem.
+Explain the reasoning when readers outside the subfield may not see how the evidence supports a claim, and check that its assumptions hold in this study; flag a connection the draft omits. Follow [scope](../claims/scope.md) for claims that exceed what the measurement establishes, and [formal support](../claims/evidence-kind.md) for conclusions from a theorem.
 
 ## Details
 

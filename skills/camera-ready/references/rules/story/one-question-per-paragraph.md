@@ -1,6 +1,6 @@
 # Answer one question per results paragraph
 
-Follow the [paragraph rule](../prose/paragraph-development.md) to place the question and answer, then give the evidence. Split a paragraph that answers two independent questions, and flag one that answers none.
+Keep each answer and its evidence in one paragraph, ordered under the [paragraph rule](../prose/paragraph-development.md). Split a paragraph that answers two independent questions, and flag one that answers none.
 
 ## Details
 

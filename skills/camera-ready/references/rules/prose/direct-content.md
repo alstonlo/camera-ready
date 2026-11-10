@@ -1,6 +1,6 @@
 # State the content directly
 
-When a sentence only promises later content or calls a topic complex, replace it with the draft's content, or flag the gap. Delete trailing promises such as "and we discuss each below" when the content is already present. Keep a summary of the main idea and any count whose items follow immediately ("We make four observations. First, ..."). Keep statements of real uncertainty, a real dispute, an unresolved definition, or a [limitation](../claims/limitations.md). To test a sentence, cover the rest of the paragraph and ask whether the sentence alone says anything readers can understand or check.
+When a sentence only promises later content, calls a topic complex, or gives a quantity or category but defers the content ("Three changes alter the reported accuracies, and we note each where it lands"), replace it with the draft's content, or flag the gap. Delete trailing promises such as "and we discuss each below" when the content is already present. Keep a summary of the main idea, a count whose items follow immediately ("We make four observations. First, ..."), and statements of real uncertainty, a real dispute, an unresolved definition, or a [limitation](../claims/limitations.md). A sentence is empty if, read without the rest of the paragraph, it amounts to "there are some, and they are below".
 
 ## Details
 

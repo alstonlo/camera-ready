@@ -1,6 +1,6 @@
 # State each finding before its representative numbers
 
-State the finding in words before giving its numbers, including where the supported pattern fails. Choose a representative headline result for each claim rather than an unrepresentative best case. Retain its baseline and any interval or range needed for interpretation. Refer to an existing table for remaining values, removing duplicated numbers only when the prose retains the comparison, [uncertainty](../claims/variability.md), and [statistical conclusion](../claims/statistical-significance.md). Check which claim each number supports, and flag numbers without an identifiable supporting claim. Relocate them only when the request permits relocation and a suitable destination exists.
+Describe the pattern in words: whether the effect is consistent, where it grows, and where it fails. For each claim, give one representative headline result, not an atypical best case, with its baseline and any interval or range needed to interpret it. Use the table to establish the pattern and, outside the [abstract](section-functions.md), refer to an existing table for the remaining values; remove duplicated numbers only when the prose keeps the comparison, [uncertainty](../claims/variability.md), and [statistical conclusion](../claims/statistical-significance.md). Use the same finding-first order for [quantified comparisons](../prose/quantified-comparatives.md). Flag numbers that support no claim and, when the request permits, move them only to an existing table or appendix.
 
 ## Details
 

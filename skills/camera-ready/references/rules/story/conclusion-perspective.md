@@ -1,6 +1,6 @@
 # Use the conclusion to explain what the findings mean
 
-In the conclusion, keep one statement of each contribution under the [triage order](../cutting/triage-order.md). Connect these statements, then state what the established findings let readers understand or do. A conclusion may be understandable without reading the paper, as long as it explains what the findings mean. Flag a conclusion that instead repeats general statements, merely repeats the abstract, gives new supporting evidence, or introduces a new subject. Future work may state a specific question that the findings raise and what answering it would establish, but do not invent a research plan. Preserve the findings' scope and [limitations](../claims/limitations.md), and label [speculative implications](../claims/speculation.md). When shortening restated contributions, repair the connections between them. Do not join copied sentences that depend on omitted context.
+Keep one statement of each contribution under the [triage order](../cutting/triage-order.md), connect these statements, then state what the findings let readers understand or do. Label speculative implications as [speculation](../claims/speculation.md). Flag a conclusion that only repeats general statements or the abstract, gives new supporting evidence, or introduces a new subject. Future work may state a specific question the findings raise and what answering it would establish; do not invent a research plan.
 
 ## Details
 

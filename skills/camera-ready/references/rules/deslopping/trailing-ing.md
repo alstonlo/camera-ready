@@ -1,6 +1,6 @@
 # Delete or replace empty commentary in trailing "-ing" phrases
 
-Delete trailing "-ing" phrases, such as "highlighting its importance" or "reflecting broader trends", that add no checkable claim, or replace them with specific claims the draft supports. Keep substantive phrases, but clarify their attachment or meaning under the [first-reading rule](../prose/first-reading.md) when ambiguous.
+Delete trailing "-ing" phrases, such as "highlighting its importance", that add no checkable claim, or replace them with specific claims the draft supports.
 
 ## Details
 

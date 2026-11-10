@@ -1,6 +1,6 @@
 # Revise rule-of-three lists written for rhythm
 
-A list such as "faster, cheaper, and more robust" must state three distinct, supported items. Remove empty or redundant words, and flag unsupported attributes. Never drop a substantive item just to change the count. Keep three items when the subject requires them.
+In a list such as "faster, cheaper, and more robust", remove empty or redundant words and flag unsupported items, but never drop a substantive item just to change the count.
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Preserve the author's voice
 
-Keep the draft's [varied rhythm](repetitive-syntax.md) and the authors' genuine opinions and reactions. Never add opinions, reactions, emphasis, sentence fragments, opposing positions, or unstated details. After rewriting, [verify that the meaning is unchanged](../prose/deletion-test.md). Follow conventions on [voice](../conventions/active-voice.md), [tense](../conventions/tense.md), and [terminology](../conventions/term-consistency.md). Never treat first-person "we", present tense for the text or prior work, or repeated technical terms as defects merely because generated prose uses them. [Match confidence to evidence](../claims/scope.md) without adding hedges.
+Keep the draft's [varied rhythm](repetitive-syntax.md) and the authors' genuine opinions and reactions; never add opinions, reactions, emphasis, sentence fragments, opposing positions, or unstated details. [Verify that each rewrite keeps the meaning](../prose/deletion-test.md). Never treat ["we"](../conventions/active-voice.md), [present tense](../conventions/tense.md) for the text or prior work, or [repeated technical terms](../conventions/term-consistency.md) as defects merely because generated prose uses them. [Matching a claim's confidence to its evidence](../claims/scope.md) adds no opinion.
 
 ## Details
 

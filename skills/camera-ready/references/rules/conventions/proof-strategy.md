@@ -1,12 +1,12 @@
 # Open each proof with its strategy and state when each goal is met
 
-Make clear whether each statement is assumed, defined, established, or deferred to a later proof. Add strategy or progress statements only when identifiable in the draft; otherwise, flag the omission. Follow [intensifiers](../prose/intensifiers.md) for "clearly" and "it is easy to see". See Details for cases and constructions.
+Make clear whether each statement is assumed, defined, established, or deferred to a later proof. Treat cases in the order and under the names the proof announces, and at the transition from constructing an object to using it, state the property that justifies the next step. Add strategy or progress statements only from the draft; otherwise, flag the omission. Follow [intensifiers](../prose/intensifiers.md) for "clearly" and "it is easy to see".
+
+Flag deferred proofs whose stated dependencies form a cycle; a forward reference alone is no defect. Flag missing equality links between successive bounds when the draft establishes that their right-hand sides are equal.
 
 ## Details
 
-Treat cases in the order announced and under the names given in the proof. Change the order only when the draft states that one case's argument depends on the result of another.
-
-Separate the construction of an object from its use. At the transition, state the property of the constructed object that justifies the next step. If the draft neither explains the proof's strategy nor marks which goals are met, flag the omission rather than inventing an explanation.
+Flag a proof that orders cases differently from their definition without a stated dependency. Change the order of cases only when the draft states that one case's argument depends on the result of another. If the draft neither explains the proof's strategy nor marks which goals are met, flag the omission rather than inventing an explanation.
 
 ## Examples
 

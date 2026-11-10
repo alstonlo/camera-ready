@@ -1,6 +1,6 @@
 # Never state speculation as fact
 
-For a proposed explanation or mechanism, support must come from a test or argument. Mark an unsupported explanation or mechanism as a conjecture ("We conjecture that") or put it in a passage explicitly labeled speculative. If an explanation relies on an undefined term or an unstated measurement, flag it instead of marking it as a conjecture. A claim that one property does not imply another requires a counterexample, a supporting result, or a reference. When the draft says a question is open, keep it open. Failure under the tested conditions does not show that success is impossible, so flag any unsupported negative conclusion.
+Mark an explanation or mechanism that no test or argument supports as a conjecture ("We conjecture that") or put it in a passage explicitly labeled speculative. Flag, instead of marking as a conjecture, an explanation that relies on an undefined term or an unstated measurement: "The gain comes from reduced internal covariate shift" cannot be checked until the text states how the shift is measured. A claim that one property does not imply another needs a counterexample, a supporting result, a reference, or a statement that the question is open. Failure under the tested conditions does not show that success is impossible, so flag any unsupported negative conclusion.
 
 ## Details
 

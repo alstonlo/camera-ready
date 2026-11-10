@@ -60,6 +60,8 @@ def read_rule(name: str, text: str) -> tuple[str, str]:
     summary, *parts = (part.strip() for part in re.split(r"^## .*$", body, flags=re.M))
     if not summary:
         fail(f"{name}.md: the rule text after the title is empty")
+    if re.search(r"\bDetails\b", summary):
+        fail(f"{name}.md: the summary must state its rule without pointing to Details")
     if not all(parts):
         fail(f"{name}.md: a section under {heads} is empty")
 

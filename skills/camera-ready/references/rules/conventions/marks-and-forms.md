@@ -1,12 +1,14 @@
 # Use marks and type styles only for meaning, and keep the draft's accepted forms
 
-Use sentence case for headings unless the venue requires title case, remove decorative bold and italics, and keep definition italics and emphasis that affects meaning. Remove quotation marks around a word used in its ordinary sense; when quotes signal that a word is used loosely, keep them and state the draft's explanation beside the word, or keep them and flag the term if the draft never explains it. Do not add commas merely because a restrictive clause uses "which", or around a symbol that names the preceding noun. Preserve accepted spelling varieties and term forms, changing them only to resolve a genuine inconsistency or meet a venue requirement; change restrictive "which" to "that" only when the venue requires it. Preserve exact literals character for character, keep sentence punctuation outside unless it belongs to the literal, and flag proposed corrections to their contents. Use "cf." only to mean "compare", never as a substitute for "see".
+Use sentence case for headings unless the venue requires title case; remove decorative bold and italics, but keep definition italics and emphasis that affects meaning. Use quotation marks only for quoted text, words mentioned as words, and words used loosely or without endorsement (the model's "reasoning"), not around a word used in its ordinary sense. Beside a word used loosely, state the draft's explanation, or flag the word if the draft never explains it. Check that commas marking a non-restrictive clause match the intended meaning ("the encoder, which has 12 layers, ..."); do not add commas merely because a restrictive clause uses "which", or around a symbol that names the preceding noun ("a directed graph G with source s"); and change restrictive "which" to "that" only when the venue requires it.
+
+Change accepted spelling varieties and term forms only to meet a venue requirement or resolve a genuine inconsistency; if the draft mixes two acceptable forms ("dataset" and "data set") and the venue specifies neither, use the more frequent one. Keep an established field term unhyphenated when the draft consistently writes it so ("a large language model"). Put sentence punctuation outside an exact literal, such as a command or string, unless it belongs to the literal. Use "cf." only to mean "compare", never for "see".
 
 ## Details
 
 When italics mark what a negation denies, state the contrast in words if the draft makes it clear. Otherwise, keep the italics and flag the ambiguity.
 
-Accepted forms include US, UK, and other established spelling varieties, "dataset" versus "data set", and field terms the draft consistently writes without hyphens.
+Accepted spelling varieties include US, UK, and other established varieties.
 
 ## Examples
 

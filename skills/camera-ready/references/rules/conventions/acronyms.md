@@ -1,10 +1,10 @@
 # Spell out acronyms and introduce few new ones
 
-Spell out an acronym where repeated use begins, and use the full term for isolated earlier mentions. Define it separately in the abstract, the body, and each major section where it returns. Prefer the full term unless the acronym is standard or shortens a long, recurring name. Spell out an acronym that appears once or twice, shares letters with another common term in the field ("LR"), or saves no syllables read aloud ("TS" for time step). Flag an unfamiliar title acronym (see Details) and propose a spelled-out title, but leave the title unchanged and define the acronym in the body. Flag opaque coined labels rather than renaming them. If an acronym you would expand also appears in tables, figures, or code, flag the expansion instead.
+Spell out an acronym where repeated use begins, and use the full term for isolated earlier mentions. Define it separately in the abstract and body, and again at the start of each major section or chapter where it returns. Prefer the full term unless the acronym is standard or shortens a long, recurring name; spell out an acronym that appears once or twice, has another common expansion in the field ("LR"), or saves no syllables read aloud ("TS" for time step). Flag a title acronym that readers outside the subfield would not know before the abstract, and propose a spelled-out title, but leave the title unchanged. Flag opaque coined labels rather than renaming them. If an acronym you would replace with its full term also appears in tables, figures, or code, flag the replacement instead.
 
 ## Details
 
-Treat an acronym in the title as unfamiliar if readers in the field outside the subfield would not know it before reading the abstract. When an acronym that you would otherwise expand appears in tables, figures, or code, flag the change so the author can keep the prose and displays consistent.
+This rule has no further details.
 
 ## Examples
 

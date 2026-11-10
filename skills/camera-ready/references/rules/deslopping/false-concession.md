@@ -1,6 +1,6 @@
 # Make both sides of a false concession specific
 
-When a concession such as "While X has advanced, Y remains a challenge" makes no concrete comparison, replace each vague side with the draft's specific finding. Flag any side the draft leaves unspecified. Keep concessions in which both sides are specific and supported.
+In a concession such as "While X has advanced, Y remains a challenge", replace each vague side with the draft's specific finding, and flag any side the draft leaves unspecified. Keep concessions whose sides are both specific ("the gain holds on the two smaller benchmarks but not the largest").
 
 ## Details
 

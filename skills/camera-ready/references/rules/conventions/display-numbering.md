@@ -1,10 +1,10 @@
 # Number referenced and central displays
 
-Leave intermediate steps unnumbered. See Details.
+Number central displays, such as the objective and the main bound, even when the text never refers to them; leave unreferenced intermediate steps unnumbered.
+
+Identify rejected formulas and counterexamples beside their displays using the draft's stated status; retain central counterexamples and negative results.
 
 ## Details
-
-A display is mathematics set apart from running text. Central displays include governing equations, the objective, and the main bound.
 
 Keep existing `\label` commands unchanged. Flag any numbering change that requires editing a protected display environment.
 

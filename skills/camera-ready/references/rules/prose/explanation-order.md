@@ -1,10 +1,10 @@
 # Explain ideas in the order readers need
 
-State the main idea before explaining how it works. State a finding and its interpretation before supporting evidence. Put a section's claim in its first paragraph, and open each paragraph as the [paragraph rule](paragraph-development.md) directs. Define unfamiliar terms before using them. If readers need a later explanation to understand an earlier sentence, move that explanation earlier. You may reorder sentences within a paragraph and paragraphs within a section, but flag moves between sections. Within a sentence, follow [old before new](old-before-new.md) and [stress position](stress-position.md).
+At any point, readers should understand as much as the preceding text could have explained. State the main idea before how it works, and a finding and its interpretation before the supporting evidence. Put a section's claim in its first paragraph, and open each paragraph as the [paragraph rule](paragraph-development.md) directs. Define unfamiliar terms before using them. To test the order, cover everything after a given sentence and ask what the reader knows so far: if a covered sentence would explain more of the visible text than an uncovered one, move it earlier, but a sentence that only adds precision to an already understood claim can stay. You may reorder sentences within a paragraph and paragraphs within a section, but flag moves between sections. Within a sentence, follow [old before new](old-before-new.md) and [stress position](stress-position.md).
 
 ## Details
 
-To test the order, cover everything after a sentence and check whether readers have what they need to understand the visible text. A later sentence that only adds precision does not need to move. After moving an explanation earlier, check that every term it uses is already defined at its new position.
+After moving an explanation earlier, check that every term it uses is already defined at its new position.
 
 ## Examples
 

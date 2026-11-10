@@ -1,10 +1,10 @@
 # Finish one topic before starting another
 
-Repair any unexplained return to an earlier topic. In a comparison organized by named properties, each property can be the topic; keep that structure instead of regrouping the text by method (see Details). Reorder sentences and paragraphs within a section when needed, but flag changes to section order.
+Repair any unexplained return to an earlier topic (A, B, A). In a comparison organized by named properties, such as weight or cost, each property can be the topic: discuss every method on one property before moving to the next, instead of regrouping the text by method.
 
 ## Details
 
-When a comparison treats each property, such as weight or cost, as a topic, discuss both methods on one property before comparing them on the next. Keep the comparison organized by property instead of grouping all statements about each method. A comparison that switches between methods follows this order only if it names each property and compares the methods consistently on that property before moving to the next.
+A comparison that switches between methods follows this order only if it names each property and compares the methods consistently on that property before moving to the next.
 
 ## Examples
 

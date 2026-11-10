@@ -1,6 +1,6 @@
 # Flag comparisons with prior work that readers cannot yet understand
 
-Detailed comparisons with prior work may appear in any section. Leave each comparison in place, and flag it only if it appears before material that readers need to understand it. Do not flag background that readers need to understand the problem. For what to say in a comparison, follow the [rule on comparing with prior work](prior-work-comparisons.md).
+Leave each comparison with prior work in place, and flag it only if it appears before material that readers need to understand it; do not flag background that readers need to understand the problem.
 
 ## Details
 

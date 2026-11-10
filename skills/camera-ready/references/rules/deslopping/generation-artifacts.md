@@ -1,10 +1,10 @@
 # Remove stray citation codes and placeholders, and flag missing information
 
-Chat citation codes include `citeturn0search0` and `contentReference[oaicite:...]`; an unfilled placeholder may read "[Insert citation]". Keep the surrounding claim and flag the missing information. For URLs with `utm_source=chatgpt.com`, leave the URL unchanged and flag the parameter for removal.
+Remove artifacts of an unedited paste, such as chat citation codes (`citeturn0search0`, `contentReference[oaicite:...]`) and unfilled placeholders ("[Insert citation]"), keeping the surrounding claim and flagging the missing information. Flag AI-referrer URL parameters such as `utm_source=chatgpt.com` for removal.
 
 ## Details
 
-Also check for unfilled author fields, such as "[Author name here]", and for citation codes from other chat interfaces. The parameter `utm_source=chatgpt.com` identifies ChatGPT as the referring website. When you flag a removed placeholder or citation code, state what information the surrounding sentence needs.
+Also check for citation codes from other chat interfaces. The parameter `utm_source=chatgpt.com` identifies ChatGPT as the referring website. When you flag a removed placeholder or citation code, state what information the surrounding sentence needs.
 
 ## Examples
 

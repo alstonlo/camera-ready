@@ -1,6 +1,6 @@
 # State performed actions directly
 
-When the draft shows an action was performed, replace "can", "aims to", or "seeks to" with a direct verb. Keep these words for a capability the study did not use and a goal the authors have not reached; removing them would [change the claim](../claims/unsupported-labels.md).
+When the draft shows an action was performed, replace "can", "aims to", or "seeks to" with a direct verb. Keep them for a capability the study did not use or a goal the authors have not reached, where removing them would [change the claim](../claims/unsupported-labels.md). Replace the ungrammatical "allows to model" with "models" or "allows us to model", as the draft means.
 
 ## Details
 

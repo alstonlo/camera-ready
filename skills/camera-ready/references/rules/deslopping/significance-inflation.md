@@ -1,6 +1,6 @@
 # State what a result implies without exaggerating its importance
 
-Delete empty grand-trend phrases such as "marking a pivotal moment" or "paving the way", or replace them with the supported implication and its conditions. If an implication lacks evidence, keep the claim and flag the missing support.
+Delete grand-trend phrases such as "marking a pivotal moment" or "paving the way", or replace them with the supported implication and its conditions. Keep and flag an implication that lacks evidence.
 
 ## Details
 

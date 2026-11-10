@@ -1,6 +1,6 @@
 # Specify what an efficiency claim counts
 
-Efficiency claims include claims about speed, yield, cost, samples needed, or scaling. State the unit of counting, the conditions and assumptions, and the costs included or excluded. A comparison must name what it compares against, and a ratio must define its numerator and denominator. An analytical bound must define each size variable and the case analyzed (see Details). Add any missing detail the draft states elsewhere; otherwise, flag it. A better ratio or asymptotic bound alone does not show lower total cost under the claimed conditions. Flag suspected errors in the analysis without changing the mathematics.
+For a claim about speed, yield, cost, samples needed, or scaling, state the unit counted, the conditions and assumptions, and the costs included or excluded. Name the baseline of each comparison, and define a ratio's numerator and denominator and an analytical bound's size variables and the case analyzed (such as the worst, average, or amortized case). Fill missing detail from elsewhere in the draft, or flag it. A better ratio or asymptotic bound alone does not show lower total cost under the claimed conditions. An upper bound on one algorithm's cost does not establish a lower bound for every algorithm solving the problem. Flag suspected errors in the analysis without changing the mathematics.
 
 ## Details
 

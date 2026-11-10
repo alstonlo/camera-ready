@@ -1,10 +1,8 @@
 # State supported contributions without underclaiming
 
-Remove unneeded hedges (see Details). Each item in a list of contributions should state a claim that readers can check and cite its supporting section or result when the draft provides one. If an item says only what the authors *study*, *explore*, or *investigate*, replace it with the finding from the corresponding section, or flag the missing finding.
+Remove a hedge, such as "may", that makes a contribution sound less certain than its evidence supports. Replace a contribution that says only what the authors *study*, *explore*, *investigate*, *describe*, or *discuss* with the finding from the corresponding section, or flag the missing finding.
 
 ## Details
-
-A contribution is underclaimed when a hedge such as "may" makes it sound less certain than the evidence supports, or when an activity verb such as *study*, *explore*, or *investigate* states what the authors did without stating what they found. Remove a hedge only when the evidence establishes the claim without it. If you are unsure whether the evidence supports the stronger claim, flag the claim instead of strengthening it.
 
 A dataset, instrument, protocol, software tool, or other resource or artifact can itself be a contribution that readers can check. State the properties that the draft documents. Do not invent a gain in performance.
 

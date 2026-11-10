@@ -1,6 +1,6 @@
 # Replace slogan-like analogies with literal explanations
 
-For an analogy such as "X is the Y of Z", the replacement mechanism must come from the draft. Delete any slogan that makes no substantive claim. If an analogy asserts an unexplained mechanism, keep the analogy and flag the missing explanation.
+Replace an analogy such as "X is the Y of Z" ("attention is the currency of deep learning") only with a mechanism the draft states. Delete a slogan that makes no substantive claim, but keep an analogy that asserts an unexplained mechanism, and flag it.
 
 ## Details
 

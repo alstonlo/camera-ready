@@ -1,6 +1,6 @@
 # Vary sentence structure to show how ideas connect
 
-Look for consecutive sentences or paragraphs that share an opening, clause pattern, or length. Using the [topic string](../prose/topic-string.md), join sentences through relations stated in the draft: a shared object, condition, time, or consequence. Let those relations decide sentence structure instead of varying lengths at random. Do not invent causes, sequences, or contrasts. Preserve [parallel wording for parallel ideas](../prose/parallel-form.md) and [consistent technical terms](../conventions/term-consistency.md). Keep sentences complete and literal without adding [writerly asides](../prose/writerly-asides.md), contrasts, or emphasis. Keep the original structure whenever varying it reduces clarity.
+Look for consecutive sentences or paragraphs that share an opening, clause pattern, or length, as when every sentence is 15 to 25 words long and every paragraph has the same structure. Vary them by letting relations the draft states (a shared object, condition, time, or consequence) decide how sentences join and are structured, using the [topic string](../prose/topic-string.md), not by random length changes. Preserve [parallel wording for parallel ideas](../prose/parallel-form.md), and keep sentences complete and literal, without [writerly asides](../prose/writerly-asides.md).
 
 ## Details
 

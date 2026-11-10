@@ -1,6 +1,6 @@
 # Organize results around research questions
 
-State which questions the Results section answers and connect each to a contribution. If a heading names only a dataset, sample, site, or setup, flag it and propose one that states a question or finding. If one result motivates the next experiment, keep that sequence and keep the interpretation beside the result. Distinguish [measurement from inference](../claims/hedges.md). Flag an experiment for cutting if it answers no identifiable question, and flag any proposed section move or reordering. Also flag a result with no described procedure or an evaluation procedure with no reported use, and delete neither.
+State which questions the Results section answers, and connect each to a contribution. Flag a heading that names only a dataset or setup, and propose one that states a question or finding. When one result motivates the next experiment, keep that sequence, with the interpretation beside the result. Flag for cutting an experiment that answers no question, and flag, but delete neither, a result with no described procedure or an evaluation procedure with no reported use.
 
 ## Details
 

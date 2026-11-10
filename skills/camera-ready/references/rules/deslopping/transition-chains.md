@@ -1,6 +1,6 @@
 # Delete transition chains that announce more text
 
-Typical chains repeat openings such as "Moreover", "Furthermore", and "Additionally". Keep transitions that show a [valid logical relation](../prose/transitions.md). Do not replace additive sentences with unsupported causal, temporal, or contrastive connections.
+Delete repeated openings such as "Moreover", "Furthermore", and "Additionally", letting the paragraph order convey the sequence, and never replace them with unsupported causal, temporal, or contrastive links. Keep transitions that show a [valid logical relation](../prose/transitions.md).
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Expand compressed wording that slows the first reading
 
-Check for [inanimate subjects given human actions](../prose/character-action.md) ("the model hopes"), [nouns used as verbs and unusual word pairs](../prose/literal-wording.md), and [noun strings, omitted "that" or articles, and long gaps between subject and verb](../prose/first-reading.md). Expand compressed wording only when it slows the first reading, following each linked page's exceptions. Keep clear short forms and established technical terms.
+Check for [inanimate subjects given human actions](../prose/character-action.md), [nouns used as verbs and unusual word pairs](../prose/literal-wording.md), and [noun strings, omitted "that" or articles, and long gaps between subject and verb](../prose/first-reading.md), and keep short forms that are clear on the first reading.
 
 ## Details
 

@@ -1,6 +1,6 @@
 # Read the sentence aloud
 
-You may imagine reading aloud; listen for places where you hesitate, cannot tell what to stress, or miss a connection. Fix the structure and state the meaning literally, because punctuation alone may not be enough. A sentence read smoothly can still be unclear if it relies on pauses, stress, or background knowledge. Do not add a [writerly aside](writerly-asides.md) telling readers how to read it.
+Listen for where you hesitate, cannot tell what to stress, or miss a connection, and fix the structure, not only the punctuation. A sentence that reads smoothly can still be unclear if it relies on pauses, stress, or background knowledge. Do not add a [writerly aside](writerly-asides.md) telling readers how to read it.
 
 ## Details
 

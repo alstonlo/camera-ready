@@ -1,6 +1,6 @@
 # Flag conflicting claims and numbers
 
-Compare claims about the same object across sections and lists, and check that totals, bounds, and trends obey the draft's numerical constraints. If a stated difference in setting or definition explains an apparent conflict, flag both passages and propose a revision that states the difference. Otherwise, flag both passages and the missing explanation. Flag conflicting numbers instead of choosing a value. Flag any claim that two options are the only possibilities when the draft names another option in that scope, and name that option.
+Compare claims about the same object across sections and lists, and check totals, bounds, and trends against the draft's numerical constraints. Flag both passages of an apparent conflict, and either propose a revision stating the difference in setting or definition that the draft gives to explain it, or flag the missing explanation. Flag conflicting numbers without choosing a value. Flag a claim that two options are the only possibilities when the draft names another option in that scope, and name that option.
 
 ## Details
 

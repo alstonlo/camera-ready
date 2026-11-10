@@ -1,12 +1,12 @@
 # Follow the triage order to meet a length limit
 
-Preserve [protected content](protected-sentences.md) and follow [relocation safeguards](sentence-dependencies.md) when cutting material in the following order:
+Preserving [protected content](protected-sentences.md) and following [relocation safeguards](sentence-dependencies.md), cut material in this order:
 
-1. **Repeated points.** Cut points repeated across the introduction, section openings, and conclusion, keeping the most informative statement (usually the one that explains the point). Preserve one statement of each contribution in each of the abstract, introduction, and conclusion, along with [shorthand reminders](../conventions/shorthand-reminders.md). Keep a closing restatement when readers need the intervening explanation to understand the opening claim. If a restatement copies another passage word for word, as when a conclusion repeats the abstract, revise it to state established results or flag it. Apply the [deletion test](../prose/deletion-test.md).
-2. **Remaining signposts.** Cut signposts left after removing empty wording, including the introduction's closing [roadmap](../prose/signposts.md). Keep references to evidence and proofs.
-3. **Unrelated background and related work.** Cut background that does not motivate the research question and citation lists unrelated to the gap. Keep the few works and comparisons that define the gap.
-4. **Minor results, secondary analyses, and exploratory findings.** Remove results from the main text if they do not support a central claim, and relocate sensitivity analyses and robustness checks needed for rigor. In the main text, keep any failure or counterevidence that alters a central claim, and state a failed approach as a negative result rather than narrating attempts.
-5. **Full parameter lists and procedural details.** Keep [explicit procedures](../prose/definitions-procedures.md), essential steps, and conditions in the main text so readers can reproduce the method in outline. Relocate complete parameter lists, full parameter sweeps, and subsidiary details.
+1. **Repeated points** across the introduction, section openings, and conclusion. Keep the most informative statement (usually the one that explains the point), one statement of each contribution in each of the abstract, introduction, and conclusion, and [shorthand reminders](../conventions/shorthand-reminders.md). Keep a closing restatement when readers need the intervening explanation to understand the opening claim. Revise a word-for-word copy, such as a conclusion that repeats the abstract, to state established results, or flag it. Apply the [deletion test](../prose/deletion-test.md).
+2. **Remaining signposts**, including the introduction's closing [roadmap](../prose/signposts.md). Keep references to evidence and proofs.
+3. **Unrelated background and related work:** background that does not motivate the research question and citation lists that state no relation to the gap. Keep the few works and comparisons that define the gap.
+4. **Minor results, secondary analyses, exploratory findings, and accounts of what the authors tried first.** Remove results that do not support a central claim from the main text, and relocate material that supports rigor: sensitivity analyses, robustness checks, and the negative result a skeptical reviewer will ask about. In the main text, keep any failure or counterevidence that alters a central claim, and state a failed approach as a negative result.
+5. **Full parameter lists and sweeps, and subsidiary details.** Relocate them, but keep [explicit procedures](../prose/definitions-procedures.md) and conditions in the main text so readers can reproduce the method in outline.
 
 ## Details
 

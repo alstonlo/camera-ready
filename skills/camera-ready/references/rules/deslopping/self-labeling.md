@@ -1,6 +1,6 @@
 # Delete sentences that only label results important or surprising
 
-For example, delete "This is the key result" when it only labels an earlier result. If the draft explains why the result matters, organize the passage around that reason. Otherwise, delete the label without adding an explanation. Keep a word of authorial stance that introduces a claim ("Interestingly,").
+Delete a sentence such as "This is the key result"; if the draft explains why the result matters, organize the passage around that reason, and otherwise add no explanation. Keep a word of authorial stance that introduces a claim ("Interestingly,").
 
 ## Details
 

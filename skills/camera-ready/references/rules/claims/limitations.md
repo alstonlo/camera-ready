@@ -1,10 +1,10 @@
 # State limitations precisely and explain their effects
 
-Give each limitation in full and without apology where it first affects a method or inference, and keep brief reminders that limit later claims. A limitation of an interpretation introduced in the Discussion may appear there first. Next to each limitation, keep the draft's explanation of how it affects the results and which conclusions still hold, or flag the missing explanation. Flag unexplained unexpected results, unjustified data exclusions, and decoy limitations (see Details). Every future-work statement must name the current limitation it addresses. Move a limitation between sections only under the [relocation rules](../cutting/idea-cuts.md). Delete a repeated full statement only when a request to shorten the text reaches it in the [triage order](../cutting/triage-order.md).
+State each limitation in full and without apology where it first affects a method or inference. Beside each limitation, keep the draft's explanation of how it affects the results ("results may not transfer to larger models, since every run uses the same 100M-parameter backbone") and which conclusions still hold, or flag the missing explanation. Flag unexplained unexpected results, unjustified data exclusions, and decoy limitations: a minor weakness named while a larger one documented elsewhere in the draft goes unmentioned. Every future-work statement must name the current limitation it addresses. Keep brief reminders that limit later claims; move a limitation, or delete a repeated full statement of it, only as the [relocation rules](../cutting/idea-cuts.md) and the [triage order](../cutting/triage-order.md) allow.
 
 ## Details
 
-When a later claim depends on a limitation, keep the brief reminder of the limitation next to that claim. If the draft does not explain how a limitation affects the results, flag the missing explanation instead of working out for yourself which conclusions still hold. A decoy limitation is a stated limitation that names a minor weakness while a larger weakness documented elsewhere in the draft goes unmentioned.
+When a later claim depends on a limitation, keep the brief reminder of the limitation next to that claim. If the draft does not explain how a limitation affects the results, flag the missing explanation instead of working out for yourself which conclusions still hold.
 
 ## Examples
 

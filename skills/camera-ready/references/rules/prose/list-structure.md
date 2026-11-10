@@ -1,14 +1,12 @@
 # Use lists when readers need separate items
 
-Readers need separate items when they must distinguish the items or follow them one by one. If bullets make an argument but hide reasons or connections between claims, rewrite them as connected prose. Remove item numbers that imply an unsupported order or ranking, unless the text refers to them. Flag any change to a list of contributions or objectives instead of making it.
+Use a list when readers must tell items apart or follow them one by one. If bullets make an argument but hide reasons or connections between claims, rewrite them as connected prose. Group long lists using categories the draft establishes, retaining every item and qualification and distinguishing primary from secondary items. Suggest a table when readers compare objects across shared properties. Remove item numbers that imply an unsupported order or ranking, unless the text refers to them. For a list of contributions or objectives, flag rather than make any regrouping, renumbering, or conversion to prose.
 
 ## Details
 
 When turning bullets into prose, connect ideas only as the draft states or establishes. Do not add a word such as "therefore" merely to make the sentences read smoothly. Keep short, incidental examples within a sentence when readers do not need to refer to them separately. Do not format minor details as a displayed list that makes them look like contributions.
 
-Group a long list only by categories established in the draft. Do not require groups of three or impose a fixed limit on the number of items. Keep every item and qualification, and preserve the distinction between primary and secondary items. Give equivalent entries [parallel form](parallel-form.md). For a list of contributions or objectives, flag any proposed regrouping, renumbering, or conversion to prose instead of editing the list.
-
-When a table would help readers compare several objects on the same properties, suggest one instead of creating it yourself or supplying missing entries.
+Do not require groups of three or impose a fixed limit on the number of items. Give equivalent entries [parallel form](parallel-form.md).
 
 ## Examples
 

@@ -1,10 +1,10 @@
 # Delete conversational replies left by a chatbot
 
-For example, delete "Certainly!" except in analyzed text (see Details).
+Delete "Certainly!", "Great question", "I hope this helps", "As of my last update", and similar replies to the user. Keep such wording in material the paper analyzes, such as a prompt, a model output, or text shown to study participants.
 
 ## Details
 
-Also delete an assistant's offers to continue, disclaimers about its status, and direct replies to the user, such as "Great question", "I hope this helps", or "As of my last update". Keep conversational wording when it appears inside material that the paper analyzes, such as a prompt, a model output, or text shown to study participants.
+This rule has no further details.
 
 ## Examples
 

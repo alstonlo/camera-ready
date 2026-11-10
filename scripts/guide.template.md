@@ -22,7 +22,7 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 {{ Optional explanation of the edit, when it is not obvious. }}
 ```
 
-The guide below reproduces each rule's heading and summary, and each rule page adds `Details` and at least one example. Read the full page when a rule applies to your text but the summary does not show which edit to make, or when the summary refers to a case on the page. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.
+The guide below reproduces each rule's heading and summary, and each rule page adds `Details` and at least one example. Read the full page when a rule applies to your text but the summary does not show which edit to make. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.
 
 ## Table of contents
 
@@ -50,7 +50,7 @@ Without a separate request from the author, you may:
 - Remove numbers from running text when a table already gives them.
 - Rewrite a caption to state a conclusion already drawn in the body.
 
-Flag any change to the claims, section order, or list of contributions instead of making it yourself. Never add a cost, explanation, or number absent from the draft.
+Flag any change to the claims, section order, or list of contributions instead of making it yourself, except claim edits that the [rules on claims](#claims) allow. Never add a cost, explanation, or number absent from the draft.
 
 ### The whole argument
 

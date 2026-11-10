@@ -1,18 +1,12 @@
 # Define each symbol by its first use and give it one meaning
 
-An informal definition suffices at first use; [refresh the definition after a gap](shorthand-reminders.md). Give each object one symbol. Flag conflicting meanings, unused definitions, easily confused symbols, dense notation, and functions equated with values; do not rename symbols yourself. Keep local definitions near the passages that use them. When definitions of symbols used throughout the paper are scattered, move them into an existing notation section only if the request [allows relocation](../cutting/idea-cuts.md); otherwise, flag them. Never create a new notation section. See Details for notation improvements and distinguishing functions from values.
+An informal definition suffices at first use; [refresh it after a gap](shorthand-reminders.md). Give each object one symbol, and introduce no symbol the text does not use again ("Every continuous function on a compact set is bounded" needs no "f"). Flag conflicting meanings, symbols used against their standard meaning in the field, unused definitions, easily confused symbols, dense notation, and functions equated with their values ("$V = 0.31$" meaning "$V(x_0) = 0.31$"). Keep local definitions near the passages that use them. Move scattered definitions of symbols used throughout the paper into an existing Preliminaries or Notation section only if the request [allows relocation](../cutting/idea-cuts.md); otherwise, flag them. Never create such a section. Suggest, rather than make, any renaming or other notation improvement, such as words in place of an index that distinguishes nothing, a short name for a recurring complex expression, or a vector, set, or other collection grouping related quantities.
+
+Flag unspecified factor order in noncommuting products and inconsistent use of definition signs. For ranges, flag unclear finite bounds, endpoint inclusion, index origin, element types, or empty-range conventions. Supply conventions only from the draft; never assume commutativity or merge boundary cases to shorten notation.
 
 ## Details
 
 Check later equations, captions, figures, and appendices before flagging a symbol definition as unused.
-
-Distinguish a function from its value. For example, if $V$ is a potential function, flag "$V = 0.31$" when the draft means "$V(x_0) = 0.31$".
-
-Suggest notation changes to the author rather than rewriting equations yourself:
-
-- Suggest words in place of an indexed symbol when the index does not distinguish one quantity from another.
-- Suggest a short name for a complex expression that appears repeatedly.
-- Suggest grouping quantities in a vector, set, or other collection when grouping clarifies their structure.
 
 ## Examples
 

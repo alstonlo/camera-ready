@@ -1,6 +1,6 @@
 # Explain how the results address the gap
 
-Give this explanation in the discussion's first paragraph, for the gap stated in the introduction. Then state the limitations under the [rule on limitations](../claims/limitations.md). If the introduction promises more than the results establish, flag the mismatch under the [rule on scope](../claims/scope.md).
+Give this explanation in the discussion's first paragraph, for the gap stated in the introduction, then state the limitations under the [rule on limitations](../claims/limitations.md). If the introduction promises more than the results establish, flag the mismatch under the [rule on scope](../claims/scope.md).
 
 ## Details
 

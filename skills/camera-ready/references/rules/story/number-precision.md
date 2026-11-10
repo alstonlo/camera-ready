@@ -1,6 +1,6 @@
 # Match precision to the claim
 
-Report only the digits that the measurement and comparison support. Keep words that mark estimates or approximations. Flag unsupported precision or comparable quantities reported with different precision. Never add digits, round values, or replace numbers without the author's authorization and the source data.
+Flag precision beyond what the measurement and comparison support, and unjustified differences in precision between comparable quantities; never change a number's value or precision without the author's approval and the source data, except to replace a threshold such as p < 0.05 with the draft's reported [p-value](../claims/statistical-significance.md). Keep words that mark estimates or approximations.
 
 ## Details
 
