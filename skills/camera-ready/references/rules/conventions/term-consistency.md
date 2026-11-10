@@ -1,6 +1,6 @@
 # Use one term per concept
 
-Do not alternate terms such as "device", "sensor", and "system" for variety, including in captions and figure labels; vary sentence structure and function words instead. Keep different names only for distinct concepts, such as different types, scopes, or measured quantities. A clear pronoun or bare demonstrative may refer back to the term in the same or the next sentence, but repeat a specific name rather than replace it with a general category noun ("this compound"). To find synonyms, list the names the draft uses for each recurring concept, and flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. When describing a parallel or more general case, repeat the earlier wording exactly, then state what differs. When naming a formula's role helps readers follow without looking back, name its established role, such as a bound or definition, rather than calling every formula an equation.
+Do not alternate terms such as "device", "sensor", and "system" for variety, including in captions and figure labels; vary sentence structure and function words instead. Keep different names only for distinct concepts, such as different types, scopes, or measured quantities. Prefer the field's standard term whenever one exists ("learning rate", not "step factor"). A clear pronoun or bare demonstrative may refer back to the term in the same or the next sentence, but repeat a specific name rather than replace it with a general category noun ("this compound"). To find synonyms, list the names the draft uses for each recurring concept, and flag any inconsistency that prose edits cannot fix, such as a mismatched figure label. When describing a parallel or more general case, repeat the earlier wording exactly, then state what differs. When naming a formula's role helps readers follow without looking back, name its established role, such as a bound or definition, rather than calling every formula an equation.
 
 ## Details
 
@@ -27,3 +27,9 @@ The pronoun "It" clearly refers to the drying cabinet and gives readers no compe
 > **Before.** Chamber temperature (°C)
 
 > **After.** Drying cabinet temperature (°C)
+
+**Edit 4.** Suppose the draft's "step factor" is the learning rate.
+
+> **Before.** We halve the step factor after each epoch.
+
+> **After.** We halve the learning rate after each epoch.
