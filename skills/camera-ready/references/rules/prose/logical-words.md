@@ -47,7 +47,7 @@ The first sentence allows a rate that rises and falls; calling it decreasing wou
 
 The slash in S/N belongs to the standard abbreviation for signal-to-noise ratio.
 
-**Edit 5.** Suppose the draft does not say whether other materials are present.
+**Edit 5.** Suppose the draft does not say whether other materials are present. The editor flags the unsupported inference and proposes After to the author.
 
 > **Before.** The kit includes steel and glass, so it must contain another material.
 

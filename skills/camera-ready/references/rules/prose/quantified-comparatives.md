@@ -20,8 +20,10 @@ Before comparing measurements, check that they meet the requirements for [compar
 
 > **After.** The filter leaves 12 mg of residue, which is above the 10 mg threshold for high residue.
 
-**Edit 3.** Suppose cart A's load is the main result, and Table 2 reports all five loads.
+**Edit 3.** Suppose the draft reports drying times of 2 h for the new rack and 3 h for the old rack, but no ratio between them.
 
-> **Before.** Cart A carries 80 kg, cart B carries 50 kg, cart C carries 48 kg, cart D carries 45 kg, and cart E carries 40 kg.
+> **Before.** The new rack dries clothes much faster than the old rack.
 
-> **After.** Cart A carries 80 kg, and each of the other four carts carries at most 50 kg (Table 2).
+> **After.** The new rack dries clothes in 2 h, compared with 3 h for the old rack.
+
+After gives the reported times instead of calculating a speedup that the draft does not report.

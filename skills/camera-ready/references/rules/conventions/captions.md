@@ -34,7 +34,7 @@ Flag table layouts that separate comparison partners or obscure groups; suggest 
 
 > **Before.** Figure 8: The treated plants are twice as tall as the controls.
 
-> **After.** Figure 8: The treated plants are 11 cm tall and the controls are 10 cm tall.
+> **After.** Figure 8: The treated plants are taller than the controls (11 cm versus 10 cm).
 
 **Edit 4.** Suppose measurements end at day 20 and the day-30 value comes from a fitted curve. After proposes a revision to the author.
 

@@ -59,7 +59,7 @@ Run the four stages of the [full workflow](#full-workflow) in lighter form: keep
 
 ## Full workflow
 
-### 1. Audit
+### Audit
 
 #### Choose the notes file
 
@@ -79,7 +79,7 @@ Keep notes under about 3,500 words per file. Quote the draft exactly. Begin with
 1. **Story.** Write the five lines required by the guide's story rules, using "missing" where the draft supplies nothing.
 2. **Reverse outline.** Give each paragraph's location, point, and tag from the guide's spine test. Write "unclear" when you cannot state its point.
 3. **Claim ledger.** List every claim in the title, abstract, introduction, contributions, results summaries, and conclusion. Give each claim a label, location, rung on the guide's verb ladder, supporting evidence, and its numbers copied exactly.
-4. **Style sheet.** Choose one term per concept and list the variants it replaces. Record acronym definitions and locations, and notation, spelling, capitalization, and citation choices under the guide's terminology rules.
+4. **Style sheet.** Choose one term per concept and list the variants it replaces. Record acronym definitions and locations, and notation, spelling, capitalization, and citation choices under the guide's conventions.
 
 Include the cut plan for a length request. End with numbered questions the author can answer with a word or fact, and an empty edit log. Write the notes at this stage and update them as the work proceeds. After this stage, keep the claim ledger unchanged as a record of the original claims. Reread the notes at each later stage and after compaction.
 
@@ -93,9 +93,7 @@ Use a question tool if available. Ask at most four questions, with one option pe
 - Leave unresolved claim strength, contributions, section order, and competing problem statements unchanged; report them as blockers.
 - Apply the cut plan in ranked order until the target is met or one of the guide's stop rules applies. Report the plan and what remains.
 
-<a id="edit"></a>
-
-### 2. Edit
+### Edit
 
 Make the structural changes that the writing guide allows without the author's request. Rewrite a paragraph that makes the wrong point or several points, using its audited point and only content from the draft. Flag changes to section order, the contributions list, and claims, except for claim edits allowed below.
 
@@ -103,7 +101,7 @@ Edit one chunk at a time. A chunk is usually a paragraph, but it may be one topi
 
 Before moving on, check that the chunk opens with its audited point and uses your chosen terms. Restore wording where no rule requires a change. When keeping notes, mark completed paragraphs and stages, add new questions and style decisions, record the author's terminology answers, and log changed claims with their ledger labels, old wording, new wording, and evidence. After editing, check terminology across paragraphs, including where acronyms and shorthand need to be spelled out again. Count tolerable patterns across paragraphs.
 
-### 3. Verify
+### Verify
 
 For editing requests, run these checks regardless of text length. Use any reliable method, preferably single read-only commands: `grep -c` per pattern, `grep -onF -e ... -e ...` for recorded strings, `wc -w` for each edited file and available original, and `diff` when an original is available. Loops, scripts, pipes, and git are often refused. Report each command and its output; mark a check "unavailable" only when it could not run, and say why.
 
@@ -112,9 +110,7 @@ For editing requests, run these checks regardless of text length. Use any reliab
 3. **Fresh reader.** For a polish, tighten, or cut longer than a few paragraphs, give a subagent only the paths of the edited document's files. Have it read nothing else and act as a reader in the field but outside the subfield. Ask for the main claim in one sentence and exact quotes of passages it cannot follow, terms it cannot understand, and claims without supporting results. Do not ask whether claims need weakening or qualifiers. Discard findings whose quotes are absent. Fix findings covered by a rule; flag the rest with the reader's quote. Without a subagent, report this check as not run.
 4. **Stop.** Make at most one corrective pass, limited to findings from these checks. Record whether every check passed, a failure was fixed, a failure remains, or a check could not run. Never stop because the edit seems finished to you.
 
-<a id="report"></a>
-
-### 4. Report
+### Report
 
 For named files, edit in place and return only the report. Otherwise return the edited text followed by the report. If no edit is needed, leave the text unchanged and say so. Do not make a small change merely to show that you edited it. In the report, name only edited files, originals used for comparison, and editor's notes. If you kept notes, leave them in place and give their path. Use these headings in order, omitting empty ones:
 

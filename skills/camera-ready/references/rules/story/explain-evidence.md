@@ -8,11 +8,11 @@ A principle that connects evidence to a claim needs support if readers dispute i
 
 ## Examples
 
-**Edit 1.** Suppose the draft states elsewhere that the indicator can light only when the lid is sealed.
+**Edit 1.** Suppose the draft states elsewhere that the indicator turns green only when the lid is sealed.
 
 > **Before.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator is green, so the lid is sealed.
 
-> **After.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator lights only when the lid is sealed. The indicator is green, so the lid is sealed.
+> **After.** Filling takes 4 minutes and draining takes 6 minutes, so draining takes longer. The indicator turns green only when the lid is sealed. The indicator is green, so the lid is sealed.
 
 The time comparison needs no explanation beyond the two durations.
 

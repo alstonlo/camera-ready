@@ -28,7 +28,7 @@ Link a sentence that reads like a theorem but gives no formal result or conditio
 
 > **After.** Theorem 1 does not apply to these sensors because their errors are correlated.
 
-**Edit 4.** Say the draft shows that positivity already requires x to be nonzero and that stating both conditions adds no useful information.
+**Edit 4.** Say the draft shows that positivity already requires x to be nonzero and that stating both conditions adds no useful information. The editor flags the redundant condition and proposes After to the author.
 
 > **Before.** For positive, nonzero x, the bound holds.
 

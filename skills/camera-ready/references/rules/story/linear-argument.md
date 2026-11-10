@@ -26,4 +26,4 @@ Discuss related minor objections together so repetition does not exaggerate thei
 
 > **After.** 2 Temperature definition; 3 Leak test; 4 Flexible seal motivated by the leak test; 5 Flexible-seal test
 
-The leak test supplies the reason for the flexible seal, so the second test belongs after that result.
+The definition moves first because both tests use it. The flexible-seal sections stay after the leak test because that result supplies the reason for the flexible seal.

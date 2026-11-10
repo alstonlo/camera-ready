@@ -8,7 +8,7 @@ This rule has no further details.
 
 ## Examples
 
-**Edit 1.** Suppose readers need the mesh-ratio definition in Methods to understand that comparison, but can already compare fly sizes. After is a proposal to the author.
+**Edit 1.** Suppose readers need the mesh-ratio definition in Methods to understand the mesh-ratio comparison, but can already compare fly sizes. After is a proposal to the author.
 
 > **Before.** Introduction: Lee's screen blocks adult flies; ours also blocks small flies. Our mesh ratio is lower. Methods: We define the mesh ratio.
 

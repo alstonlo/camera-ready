@@ -34,6 +34,6 @@ The asterisk stays in the code.
 
 > **Before.** The ratio is $a/b+c$.
 
-> **After.** The ratio is $\frac{a}{b+c}$.
+> **After.** The ratio is $a/(b+c)$.
 
 Changing the grouping requires author review.

@@ -28,8 +28,8 @@ A headline number is a sentence's main result. The sentence may still contain se
 
 **Edit 4.** Suppose Table 4 contains both the individual daily yields and the summary statistics.
 
-> **Before.** Mean yield is 12 kg (95% CI, 9–15 kg) with fertilizer and 10 kg (95% CI, 8–12 kg) without it; the difference is not statistically significant. Daily yields with fertilizer are 9, 12, and 15 kg (Table 4).
+> **Before.** Mean yield is 12 kg (95% CI, 9–15 kg) with fertilizer and 10 kg (95% CI, 8–12 kg) without it; the difference is not statistically significant. Daily yields with fertilizer are 9, 10, 12, 14, and 15 kg (Table 4).
 
-> **After.** Mean yield is 12 kg (95% CI, 9–15 kg) with fertilizer and 10 kg (95% CI, 8–12 kg) without it; the difference is not statistically significant (Table 4).
+> **After.** Mean yields with and without fertilizer do not differ significantly: 12 kg (95% CI, 9–15 kg) with fertilizer and 10 kg (95% CI, 8–12 kg) without it (Table 4).
 
 The intervals and statistical conclusion stay because the two means alone could overstate the evidence for a difference.

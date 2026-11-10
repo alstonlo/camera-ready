@@ -26,8 +26,8 @@ Distinguish a new question raised by the findings from one the study promised to
 
 > **After.** The sensor detects smoke in dry weather. The promised test in rain remains incomplete.
 
-**Edit 4.** Suppose the draft identifies the outer layer as the one that sheds rain.
+**Edit 4.** Suppose the restated contributions use "drying cabinet" and "chamber" for the same equipment.
 
-> **Before.** Two insulation layers lower heat loss. The latter also sheds rain.
+> **Before.** The drying cabinet halves drying time. The chamber also uses less power than an oven.
 
-> **After.** Two insulation layers lower heat loss. The outer layer also sheds rain.
+> **After.** The drying cabinet halves drying time. It also uses less power than an oven.

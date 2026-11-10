@@ -10,19 +10,19 @@ Compare claims about the same object across sections and lists, and check totals
 
 ## Examples
 
-**Edit 1.** Suppose the draft says elsewhere that the lamp works in dry conditions and fails in rain.
+**Edit 1.** Suppose the draft says elsewhere that the lamp works in dry conditions and fails in rain. The editor flags both passages and proposes After to the author.
 
 > **Before.** Abstract: The lamp works. Results: The lamp does not work.
 
 > **After.** Abstract: In dry conditions, the lamp works. Results: In rain, the lamp does not work.
 
-**Edit 2.** Imagine the draft also permits responses through an online form.
+**Edit 2.** Imagine the draft also permits responses through an online form. The editor flags the claim and proposes After to the author.
 
 > **Before.** Participants must respond by phone or by mail.
 
 > **After.** Participants must respond by phone, by mail, or through an online form.
 
-**Edit 3.** Say the draft reports that two students commute by both bus and train.
+**Edit 3.** Say the draft reports that two students commute by both bus and train. The editor flags both passages and proposes After to the author.
 
 > **Before.** Twelve students commute: eight by bus and six by train, with no overlap.
 

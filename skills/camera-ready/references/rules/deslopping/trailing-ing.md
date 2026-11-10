@@ -1,6 +1,6 @@
 # Delete or replace empty commentary in trailing "-ing" phrases
 
-Delete a trailing "-ing" phrase that adds no checkable claim ("highlighting its importance"), or replace it with a specific claim the draft supports.
+Delete a trailing "-ing" phrase that adds no checkable claim ("highlighting its importance"), or replace it with a specific claim the draft supports. Rewrite a trailing "-ing" phrase whose actor is unclear as a clause that names the actor, following [first reading](../prose/first-reading.md).
 
 ## Details
 

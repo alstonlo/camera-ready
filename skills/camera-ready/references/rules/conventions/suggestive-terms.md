@@ -1,7 +1,7 @@
 # State what ambiguous or suggestive terms mean
 
 - Suggestive coinages name technical objects with colloquial expressions (an "intelligent" coating). Flag them even when defined, and suggest literal alternatives, unless a standard term means exactly the same thing ([term consistency](term-consistency.md)).
-- Overloaded terms change a precise meaning used elsewhere ("deconvolution" for transposed convolution). Also check technical words used loosely ("exponential" for rapid growth).
+- Overloaded terms change a precise meaning used elsewhere ("deconvolution" for transposed convolution), and technical words can be used loosely ("exponential" for rapid growth). Replace either with the precise wording when the draft establishes the intended meaning; otherwise, flag it.
 - For words with several meanings in the field ("generalization": train-to-test performance, transfer, or validity outside the experiment), state which meaning applies.
 - Keep established technical wording ("the enzyme recognizes its substrate"), but explain the literal operation at first use.
 - When an ordinary word collides with a nearby technical term ("a normal sample" near "normal distribution"), replace the ordinary word and keep the technical term.

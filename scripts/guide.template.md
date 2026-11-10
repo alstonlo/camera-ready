@@ -22,7 +22,7 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 {{ Optional explanation of the edit, when it is not obvious. }}
 ```
 
-The guide below reproduces each rule's heading and summary, and each rule page adds `Details` and at least one example. Read the full page when a rule applies to your text but the summary does not show which edit to make. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.
+The guide below collects each rule page's title and summary into one document. Read the full page when a rule applies to your text and you need further details or examples. Each example assumes that every fact it states is accurate, and each illustrates only its own rule, so an example may break other rules.
 
 ## Table of contents
 

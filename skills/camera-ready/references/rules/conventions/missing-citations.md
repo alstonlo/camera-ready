@@ -12,7 +12,7 @@ Each example proposes a correction to the author.
 
 ## Examples
 
-**Edit 1.** Suppose the draft names ortiz2025 as the source, but the bibliography lacks ortiz2026.
+**Edit 1.** Suppose the draft names ortiz2025 as the source, but the bibliography lacks ortiz2026. The editor flags the citation and proposes After to the author.
 
 > **Before.** Drying shrinks the shell~\citep{ortiz2026}.
 

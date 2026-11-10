@@ -41,13 +41,13 @@ Also check the following:
 
 > **After.** Across six independently prepared batches, the mean yield is 72 ± 3% (standard deviation).
 
-**Edit 3.** Imagine the draft says the authors tested their tiles wet, while Lee's tiles were tested dry.
+**Edit 3.** Imagine the draft says the authors tested their tiles wet, while Lee's tiles were tested dry. The editor flags the comparison and proposes After to the author.
 
 > **Before.** Our tiles are stronger than Lee's tiles.
 
 > **After.** These tests do not establish whether our tiles, tested wet, are stronger than Lee's tiles, tested dry.
 
-**Edit 4.** Suppose the draft uses the same photographs to select the filter and measure its accuracy.
+**Edit 4.** Suppose the draft uses the same photographs to select the filter and measure its accuracy. The editor flags the claim and proposes After to the author.
 
 > **Before.** The photographs independently confirm the selected filter's accuracy.
 

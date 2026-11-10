@@ -22,7 +22,7 @@ This guide is generated from a collection of writing rules. Each rule has its ow
 {{ Optional explanation of the edit, when it is not obvious. }}
 ```
 
-The guide below reproduces each rule's heading and summary, and each rule page adds `Details` and at least one example. Read the full page when a rule applies to your text but the summary does not show which edit to make. Each example shows one edit that its rule calls for. No example permits a change beyond what the user asked for.
+The guide below collects each rule page's title and summary into one document. Read the full page when a rule applies to your text and you need further details or examples. Each example assumes that every fact it states is accurate, and each illustrates only its own rule, so an example may break other rules.
 
 ## Table of contents
 
@@ -83,7 +83,7 @@ Open the abstract with the problem and state all five parts of the argument in o
 
 **[Explain why the problem is hard](rules/story/why-hard.md).** Explain why the obvious way to solve the problem fails, or flag the missing explanation.
 
-**[State each contribution as a claim and name its supporting section](rules/story/contribution-claims.md).** Each claim must be checkable. Replace a contribution that states only an activity with a claim under the [underclaiming rule](rules/claims/underclaiming.md), matching its strength to the evidence with the [verb ladder](rules/claims/verb-ladder.md). Flag contributions without evidence. Check a major result that supports no contribution with the [spine test](rules/cutting/spine-test.md); the result is a candidate for cutting only under a length request. When contributions name their sections, delete any roadmap that states no content under the [signpost rule](rules/prose/signposts.md).
+**[State each contribution as a claim and name its supporting section](rules/story/contribution-claims.md).** Each claim must be checkable and name the section that supports it. Replace a contribution that states only an activity with a claim under the [underclaiming rule](rules/claims/underclaiming.md), matching its strength to the evidence with the [verb ladder](rules/claims/verb-ladder.md). Flag contributions without evidence. Check a major result that supports no contribution with the [spine test](rules/cutting/spine-test.md); the result is a candidate for cutting only under a length request. When contributions name their sections, delete any roadmap that states no content under the [signpost rule](rules/prose/signposts.md).
 
 ### Section openings and connections
 
@@ -195,7 +195,7 @@ Also check the following:
 - Flag a stated test condition that could push every measurement in the same direction, such as calibration or a warm cache.
 - Flag a convergence claim supported only by successive estimates rather than a measure of error.
 
-**[Draw only the conclusions a statistical test supports](rules/claims/statistical-significance.md).** Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft. Flag missing information. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant. Use a numeric p-value reported anywhere in the draft rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
+**[Draw only the conclusions a statistical test supports](rules/claims/statistical-significance.md).** Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft. Flag missing information, including a claim of statistical significance that names no test. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant. Use a numeric p-value reported anywhere in the draft rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
 
 Check for these misreadings:
 
@@ -203,7 +203,7 @@ Check for these misreadings:
 - Failing to reject the null hypothesis does not establish equality. Replace a claim of equality with a statement that no significant difference was found, keeping the test and p-value.
 - Significance does not establish practical importance.
 - A result that is not significant does not by itself show that the test had too little power.
-- Flag a claim about whether one result is better that rests only on interval overlap, without a test.
+- Flag a claim that one result is better, or that results do not differ, when it rests only on whether intervals overlap, without a test.
 
 When the draft tests significance across several datasets, outcomes, or measures, flag a missing account of how it handles multiple comparisons.
 
@@ -395,7 +395,7 @@ Keep passives:
 - When a long actor belongs at the end.
 - In clear passive modifiers ("the samples selected by technicians").
 
-**[State performed actions directly](rules/conventions/performed-actions.md).** When the draft shows that an action was performed, replace "can", "aims to", or "seeks to" with a direct verb. Keep them for an unused capability or unreached goal when removing them would [change the claim](rules/claims/unsupported-labels.md). Replace the ungrammatical "allows to model" with "models" or "allows us to model", as the draft means.
+**[State performed actions directly](rules/conventions/performed-actions.md).** When the draft shows that an action was performed, replace "can", "aims to", or "seeks to" with a direct verb. Keep them for an unused capability or unreached goal when removing them would [change the claim](rules/claims/scope.md). Replace the ungrammatical "allows to model" with "models" or "allows us to model", as the draft means.
 
 **[Match tense to the time frame](rules/conventions/tense.md).**
 
@@ -419,7 +419,7 @@ Keep tense consistent within each time frame. Do not turn a general research rec
 **[State what ambiguous or suggestive terms mean](rules/conventions/suggestive-terms.md).**
 
 - Suggestive coinages name technical objects with colloquial expressions (an "intelligent" coating). Flag them even when defined, and suggest literal alternatives, unless a standard term means exactly the same thing ([term consistency](rules/conventions/term-consistency.md)).
-- Overloaded terms change a precise meaning used elsewhere ("deconvolution" for transposed convolution). Also check technical words used loosely ("exponential" for rapid growth).
+- Overloaded terms change a precise meaning used elsewhere ("deconvolution" for transposed convolution), and technical words can be used loosely ("exponential" for rapid growth). Replace either with the precise wording when the draft establishes the intended meaning; otherwise, flag it.
 - For words with several meanings in the field ("generalization": train-to-test performance, transfer, or validity outside the experiment), state which meaning applies.
 - Keep established technical wording ("the enzyme recognizes its substrate"), but explain the literal operation at first use.
 - When an ordinary word collides with a nearby technical term ("a normal sample" near "normal distribution"), replace the ordinary word and keep the technical term.
@@ -538,7 +538,7 @@ Restore any missing verb in a phrase after a comma ("adds 3 ms, below the limit"
 
 **[Replace needless substitutes for "is", "has", or action verbs](rules/deslopping/copula-avoidance.md).** Replace phrases such as "serves as", "acts as", "represents", or "boasts" with "is" or "has" when the meaning stays the same. Replace a following action noun with its verb ("serves as a temperature monitor" becomes "monitors temperature"). Keep these verbs when they express a role distinct from identity or a precise technical meaning.
 
-**[Delete or replace empty commentary in trailing "-ing" phrases](rules/deslopping/trailing-ing.md).** Delete a trailing "-ing" phrase that adds no checkable claim ("highlighting its importance"), or replace it with a specific claim the draft supports.
+**[Delete or replace empty commentary in trailing "-ing" phrases](rules/deslopping/trailing-ing.md).** Delete a trailing "-ing" phrase that adds no checkable claim ("highlighting its importance"), or replace it with a specific claim the draft supports. Rewrite a trailing "-ing" phrase whose actor is unclear as a clause that names the actor, following [first reading](rules/prose/first-reading.md).
 
 **[Delete sentences that only label results important or surprising](rules/deslopping/self-labeling.md).** Delete sentences that only label a result important or surprising ("This is the key result"). If the draft explains why the result matters, organize the passage around that reason; otherwise, add no explanation. Keep a word that expresses the authors' stance and introduces a claim ("Interestingly,").
 

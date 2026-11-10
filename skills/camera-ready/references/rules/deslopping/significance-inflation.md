@@ -20,10 +20,10 @@ This rule has no further details.
 
 > **After.** The smaller filter fits inside the tested bottles.
 
-**Edit 3.** Suppose the draft describes no safety tests.
+**Edit 3.** Suppose the draft describes no safety tests, and the editor flags the missing support separately.
 
 > **Before.** The filter makes river water safe to drink, marking a historic turning point.
 
-> **After.** The filter makes river water safe to drink. Flag for the author: What safety tests support this claim?
+> **After.** The filter makes river water safe to drink.
 
 The drinking-water claim needs evidence; it is a substantive claim, so it stays.

@@ -1,6 +1,6 @@
 # State each contribution as a claim and name its supporting section
 
-Each claim must be checkable. Replace a contribution that states only an activity with a claim under the [underclaiming rule](../claims/underclaiming.md), matching its strength to the evidence with the [verb ladder](../claims/verb-ladder.md). Flag contributions without evidence. Check a major result that supports no contribution with the [spine test](../cutting/spine-test.md); the result is a candidate for cutting only under a length request. When contributions name their sections, delete any roadmap that states no content under the [signpost rule](../prose/signposts.md).
+Each claim must be checkable and name the section that supports it. Replace a contribution that states only an activity with a claim under the [underclaiming rule](../claims/underclaiming.md), matching its strength to the evidence with the [verb ladder](../claims/verb-ladder.md). Flag contributions without evidence. Check a major result that supports no contribution with the [spine test](../cutting/spine-test.md); the result is a candidate for cutting only under a length request. When contributions name their sections, delete any roadmap that states no content under the [signpost rule](../prose/signposts.md).
 
 ## Details
 

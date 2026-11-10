@@ -1,6 +1,6 @@
 # Draw only the conclusions a statistical test supports
 
-Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft. Flag missing information. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant. Use a numeric p-value reported anywhere in the draft rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
+Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft. Flag missing information, including a claim of statistical significance that names no test. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant. Use a numeric p-value reported anywhere in the draft rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
 
 Check for these misreadings:
 
@@ -8,7 +8,7 @@ Check for these misreadings:
 - Failing to reject the null hypothesis does not establish equality. Replace a claim of equality with a statement that no significant difference was found, keeping the test and p-value.
 - Significance does not establish practical importance.
 - A result that is not significant does not by itself show that the test had too little power.
-- Flag a claim about whether one result is better that rests only on interval overlap, without a test.
+- Flag a claim that one result is better, or that results do not differ, when it rests only on whether intervals overlap, without a test.
 
 When the draft tests significance across several datasets, outcomes, or measures, flag a missing account of how it handles multiple comparisons.
 
@@ -27,7 +27,7 @@ When the draft tests significance across several datasets, outcomes, or measures
 
 > **After.** Mean drying times do not differ significantly between paints A and B (Welch's t-test, p = 0.18).
 
-**Edit 2.** Say the draft reports a 2 min reduction in drying time but gives no statistical test.
+**Edit 2.** Say the draft uses "significantly" to mean a large reduction, reports a 2 min reduction in drying time, and gives no statistical test.
 
 > **Before.** Paint A reduces drying time significantly.
 

@@ -48,7 +48,7 @@ An upper bound on one algorithm's cost does not by itself prove that the algorit
 
 > **After.** Method A's time grows asymptotically more slowly than method B's.
 
-**Edit 4.** If the draft proves a quadratic upper bound for the algorithm under discussion, the claim can be narrowed as follows.
+**Edit 4.** Suppose the draft proves a quadratic upper bound for the algorithm under discussion but no lower bound for the problem. The editor flags the unsupported lower bound and proposes After to the author.
 
 > **Before.** Every algorithm for the problem requires quadratic time.
 

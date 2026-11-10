@@ -26,10 +26,10 @@ This rule has no further details.
 
 > **After.** We have not defined partial failure, so these tests cannot distinguish it from complete failure.
 
-**Edit 4.** Suppose the draft promises to explain later why the lid stays shut but never provides the explanation.
+**Edit 4.** Suppose the draft promises to explain later why the lid stays shut but never provides the explanation, and an editor has replaced the promise with an explanation the draft does not give.
 
 > **Before.** The lid stays shut because its latch resists pressure.
 
-> **After.** We explain below why the lid stays shut. Flag for the author: The promised explanation is missing.
+> **After.** We explain below why the lid stays shut.
 
-Before is an unsupported addition by an editor. The author must supply the explanation; the fact that the lid stays shut does not establish why.
+After restores the draft's promise, and the editor flags the missing explanation in the report. The author must supply the explanation; the fact that the lid stays shut does not establish why.

@@ -28,4 +28,6 @@ The remaining question presents wet soil and wilting leaves as a puzzle that the
 
 > **Before.** Do these tests not prove that the mulch prevents water loss?
 
-> **After.** The mulch reduces water loss in these tests.
+> **After.** We find that the mulch reduces water loss in these tests.
+
+The verb "find" fits a directly measured result, and "reduces" states what the measurements show.
