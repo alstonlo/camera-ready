@@ -1,6 +1,12 @@
 # Write captions that stand alone and state the finding
 
-A caption that only names its figure or table ("Results on ImageNet.") is incomplete: complete it with facts from the citing paragraph, and flag those absent from the draft. Identify quantities, units, axes, and conditions (dataset, model, setting); explain each visual encoding (line styles, colors, shaded regions, [error bars](../claims/variability.md)); and state whether higher or lower is better when that is not obvious. State the supported finding, check that it matches the body text, and name compared methods or conditions directly, not by color alone. In tables, flag unexplained blanks, dashes, and columns with mixed or missing units. Flag claims drawn from visual slopes or distances that a plot's stated axis ranges, dual vertical axes, or fitted-curve range do not support, and any extrapolated value described as measured; a truncated axis is not by itself an error.
+A caption that only names its figure or table ("Results on ImageNet.") is incomplete: complete it with facts from the citing paragraph, and flag those absent from the draft. In each caption:
+
+- Identify quantities, units, axes, and conditions (dataset, model, setting).
+- Explain each visual encoding (line styles, colors, shaded regions, [error bars](../claims/variability.md)), and state whether higher or lower is better when that is not obvious.
+- State the supported finding, check that it matches the body text, and name compared methods or conditions directly, not by color alone.
+
+In tables, flag unexplained blanks, dashes, and columns with mixed or missing units. Flag claims drawn from visual slopes or distances that a plot's stated axis ranges, dual vertical axes, or fitted-curve range do not support, and any extrapolated value described as measured; a truncated axis is not by itself an error.
 
 Flag table layouts that separate comparison partners or obscure groups; suggest adjacent entries and ordering that exposes the intended comparison, preserving meaningful chronological or semantic order.
 

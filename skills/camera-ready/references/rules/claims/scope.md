@@ -4,7 +4,13 @@ Scope ranges from every case ("X always holds") through a tendency across contex
 
 A single example, such as a generated sample or saliency map, can establish that a case occurs. Flag a universal claim contradicted by an in-scope example; an exception need not refute a tendency. Flag a broader claim from one example or from sampled data unless the draft explains how it was selected (such as at random, as typical, or as the best case) and, for sampled data, justifies the target population. Keep an explicit label marking an example as hypothetical or constructed, but never add one by inference. Check [independent confirmation](variability.md) under its own rule.
 
-Unless the draft supports the interpretation, flag a research question or conclusion that treats a score as the broader property it measures indirectly, or a ratio of scores as a proportional change in that property, without rewriting the question or adding a caveat. A result without a comparison supports "X works", not "X is better" or "X is practical"; flag any stronger claim that lacks a relevant baseline. A claim such as "ready for clinical use" or "ready for production" also needs evidence on costs and operating conditions beyond test gains, and must address the adverse consequences and relevant alternatives that the draft identifies; flag missing support or unsupported assurances unless the draft explicitly marks the claim as tentative. A claimed trend over time needs observations over time, and a small sample needs both its count of cases and its total visible in the text. Flag words that assume an unstated fact, such as "the solution" (which may assume that a solution exists or is unique).
+Also check these kinds of claim:
+
+- Unless the draft supports the interpretation, flag a research question or conclusion that treats a score as the broader property it measures indirectly, or a ratio of scores as a proportional change in that property, without rewriting the question or adding a caveat.
+- A result without a comparison supports "X works", not "X is better" or "X is practical"; flag any stronger claim that lacks a relevant baseline.
+- A claim such as "ready for clinical use" or "ready for production" also needs evidence on costs and operating conditions beyond test gains, and must address the adverse consequences and relevant alternatives that the draft identifies; flag missing support or unsupported assurances unless the draft explicitly marks the claim as tentative.
+- A claimed trend over time needs observations over time, and a small sample needs both its count of cases and its total visible in the text.
+- Flag words that assume an unstated fact, such as "the solution" (which may assume that a solution exists or is unique).
 
 ## Details
 

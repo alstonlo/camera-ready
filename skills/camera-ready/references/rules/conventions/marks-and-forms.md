@@ -1,8 +1,11 @@
 # Use marks and type styles only for meaning, and keep the draft's accepted forms
 
-Use sentence case for headings unless the venue requires title case; remove decorative bold and italics, but keep definition italics and emphasis that affects meaning. Use quotation marks only for quoted text, words mentioned as words, and words used loosely or without endorsement (the model's "reasoning"), not around a word used in its ordinary sense. Beside a word used loosely, state the draft's explanation, or flag the word if the draft never explains it. Check that commas marking a non-restrictive clause match the intended meaning ("the encoder, which has 12 layers, ..."); do not add commas merely because a restrictive clause uses "which", or around a symbol that names the preceding noun ("a directed graph G with source s"); and change restrictive "which" to "that" only when the venue requires it.
-
-Change accepted spelling varieties and term forms only to meet a venue requirement or resolve a genuine inconsistency; if the draft mixes two acceptable forms ("dataset" and "data set") and the venue specifies neither, use the more frequent one. Keep an established field term unhyphenated when the draft consistently writes it so ("a large language model"). Put sentence punctuation outside an exact literal, such as a command or string, unless it belongs to the literal. Use "cf." only to mean "compare", never for "see".
+- Use sentence case for headings unless the venue requires title case; remove decorative bold and italics, but keep definition italics and emphasis that affects meaning.
+- Use quotation marks only for quoted text, words mentioned as words, and words used loosely or without endorsement (the model's "reasoning"), not around a word used in its ordinary sense. Beside a word used loosely, state the draft's explanation, or flag the word if the draft never explains it.
+- Check that commas marking a non-restrictive clause match the intended meaning ("the encoder, which has 12 layers, ..."); do not add commas merely because a restrictive clause uses "which", or around a symbol that names the preceding noun ("a directed graph G with source s"); and change restrictive "which" to "that" only when the venue requires it.
+- Change accepted spelling varieties and term forms only to meet a venue requirement or resolve a genuine inconsistency; if the draft mixes two acceptable forms ("dataset" and "data set") and the venue specifies neither, use the more frequent one. Keep an established field term unhyphenated when the draft consistently writes it so ("a large language model").
+- Put sentence punctuation outside an exact literal, such as a command or string, unless it belongs to the literal.
+- Use "cf." only to mean "compare", never for "see".
 
 ## Details
 

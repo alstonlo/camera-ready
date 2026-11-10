@@ -1,6 +1,13 @@
 # Use active voice and keep the actor consistent
 
-Use active "we" for the authors' actions and decisions, but not for the research community or people in general; "we" may include the reader in derivations and proofs. In method descriptions, use either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate") throughout, but "we", not the method, for design choices ("we set k = 5"). Keep a single author's choice of "I" or "we" and apply it consistently. Keep passives when the actor is obvious, irrelevant, or unknown ("Images are normalized to zero mean"); when they put [old information first](../prose/passives-fronting-inversions.md); when a long actor belongs at the end; and in clear passive modifiers ("the samples selected by technicians"). Do not assign an action to the authors when the draft omits the actor.
+Use active "we" for the authors' actions and decisions, but not for the research community or people in general; "we" may include the reader in derivations and proofs. In method descriptions, use either the method ("the algorithm refines the estimate") or "we" ("we refine the estimate") throughout, but "we", not the method, for design choices ("we set k = 5"). Keep a single author's choice of "I" or "we" and apply it consistently. Do not assign an action to the authors when the draft omits the actor.
+
+Keep passives in these cases:
+
+- When the actor is obvious, irrelevant, or unknown ("Images are normalized to zero mean").
+- When they put [old information first](../prose/passives-fronting-inversions.md).
+- When a long actor belongs at the end.
+- In clear passive modifiers ("the samples selected by technicians").
 
 ## Details
 

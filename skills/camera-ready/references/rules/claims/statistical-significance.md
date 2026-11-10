@@ -1,6 +1,16 @@
 # Draw only the conclusions a statistical test supports
 
-Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft; flag any that is missing. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant, and use the numeric p-value that the draft reports anywhere rather than a threshold such as p < 0.05. A p-value is not the probability that a hypothesis is true. Preserve the tested hypothesis and the test's direction. Failing to reject the null hypothesis does not establish equality: replace "the two methods perform the same (paired bootstrap, p = 0.21)" with "we find no significant difference between the two methods (paired bootstrap, p = 0.21)". Significance does not establish practical importance. A result that is not significant does not by itself show that the test had too little power. Flag a claim about whether one result is better that rests only on interval overlap, without a test. When the draft tests significance across several datasets, outcomes, or measures, flag a missing account of how it handles multiple comparisons.
+Use *significant* only for a named statistical test, reported with its p-value or significance level and any effect size in the draft; flag any that is missing. Where *significant* means large or important, replace it with the reported magnitude. Keep the draft's effect and uncertainty estimates even for a result that is not significant, and use the numeric p-value that the draft reports anywhere rather than a threshold such as p < 0.05. Preserve the tested hypothesis and the test's direction.
+
+Check for these misreadings:
+
+- A p-value is not the probability that a hypothesis is true.
+- Failing to reject the null hypothesis does not establish equality: replace "the two methods perform the same (paired bootstrap, p = 0.21)" with "we find no significant difference between the two methods (paired bootstrap, p = 0.21)".
+- Significance does not establish practical importance.
+- A result that is not significant does not by itself show that the test had too little power.
+- Flag a claim about whether one result is better that rests only on interval overlap, without a test.
+
+When the draft tests significance across several datasets, outcomes, or measures, flag a missing account of how it handles multiple comparisons.
 
 ## Details
 
