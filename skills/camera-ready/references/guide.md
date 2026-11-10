@@ -457,16 +457,14 @@ Flag table layouts that separate comparison partners or obscure groups; suggest 
 
 ### Mechanics
 
-**[Make each free style choice consistent, following the venue](rules/conventions/style-choices.md).** For each choice below, use the venue's form if it requires one; otherwise use the form the draft establishes, and where the draft mixes accepted forms, use the more frequent one. Never convert one accepted form to another by preference.
+**[Make each free style choice consistent, following the venue](rules/conventions/style-choices.md).** Wherever the draft must choose between forms that are equally accepted, use the venue's form if it requires one; otherwise use the form the draft establishes, and where the draft mixes accepted forms, use the more frequent one. Never convert one accepted form to another by preference. Common choices of this kind include the following:
 
 - The variety of English (US, UK, Canadian, or another), judged as a whole system rather than word by word: Canadian English writes both "colour" and "analyze".
 - The spelling, spacing, and hyphenation of each term ("dataset" or "data set"). Keep an established field term unhyphenated when the draft consistently writes it so ("a large language model").
 - Heading case. Where neither case predominates, use sentence case.
 - The cutoff below which numbers are spelled out as words.
 - The serial comma before "and" or "or" in a list of three or more items.
-- "Which" or "that" to begin a clause that identifies its noun. A draft may use both, so change one to the other only when the venue requires it.
-
-Never add or remove commas around a clause to make the style consistent: the commas decide whether the clause describes every noun mentioned ("the samples, which are dry, ...") or picks out some of them ("the samples which are dry ..."). Add no commas around a symbol that names the preceding noun ("a directed graph G with source s").
+- "Which" or "that" to begin a clause that identifies its noun. A draft may use both, so change one to the other only when the venue requires it. Never add or remove commas around such a clause, because the commas decide whether the clause describes every noun mentioned ("the samples, which are dry, ...") or picks out some of them ("the samples which are dry ...").
 
 **[State units clearly and never change a number's value or precision](rules/conventions/units-and-numbers.md).** Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats; match forms within a comparison only when value and precision stay unchanged. Resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats from the draft, or flag them. Flag, rather than perform, any unit conversion.
 
