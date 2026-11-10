@@ -7,7 +7,7 @@ Wherever the draft must choose between forms that are equally accepted, use the 
 - Heading case. Where neither case predominates, use sentence case.
 - The cutoff below which numbers are spelled out as words.
 - The serial comma before "and" or "or" in a list of three or more items.
-- "Which" or "that" to begin a clause that identifies its noun. A draft may use both, so change one to the other only when the venue requires it. Never add or remove commas around such a clause, because the commas decide whether the clause describes every noun mentioned ("the samples, which are dry, ...") or picks out some of them ("the samples which are dry ...").
+- "Which" or "that" to begin a clause that identifies its noun. A draft may use both, so change one to the other only when the venue requires it.
 
 ## Details
 
@@ -64,9 +64,3 @@ Accepted varieties include US, UK, Canadian, and other established varieties of 
 > **After.** The sensors which face the window record higher temperatures.
 
 After restores the draft's accepted wording.
-
-**Edit 9.** Suppose an editor added commas, although the draft refers only to the samples stored in glass jars.
-
-> **Before.** The samples, which are stored in glass jars, remain dry.
-
-> **After.** The samples which are stored in glass jars remain dry.
