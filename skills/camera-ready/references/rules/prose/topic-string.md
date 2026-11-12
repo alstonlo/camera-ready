@@ -10,7 +10,7 @@ When individual sentences are clear but the paragraph is hard to follow, check i
 
 - Bracketed connectives: These are only a test; the edited text does not need a connecting word between every pair of sentences.
 - Paragraph openings and endings: Check that they fit what the paragraph contributes to the section.
-- Unclear connections: Check both sentences. The earlier one may create an expectation the later one does not meet. Before moving or deleting ideas, follow [cutting permissions](../cutting/idea-cuts.md).
+- Unclear connections: Check both sentences. The earlier one may create an expectation the later one does not meet. Before moving or deleting ideas, follow [cutting permissions](../cuts/idea-cuts.md).
 
 ## Examples
 

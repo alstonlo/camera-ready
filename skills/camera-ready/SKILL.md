@@ -35,10 +35,10 @@ Note the target files or section, length target, and venue. Follow the matching 
 | cut to a length | audit with a ranked cut plan, edit, check | as for polish, plus deletion and relocation in the guide's triage order |
 | story, flow, or argument check | audit only | nothing |
 | overclaiming check, hedging question | make a claim ledger of the named claims, or of all claims if none are named; propose revisions with evidence for claims that exceed their support | nothing, unless the request asks you to apply the revisions; propose no qualification the evidence does not require, and never weaken a claim because a reviewer might object |
-| de-AI pass | edit with the guide's Deslopping section and the rules it links, then check | minimal prose changes |
+| de-AI pass | edit with the guide's AI slop section and the rules it links, then check | minimal prose changes |
 | one convention | edit with that convention and the rules it links, then check | that convention only; flag other errors |
 
-<a id="read-the-guide"></a>For polish, tighten, cut, and story checks, read the whole guide, in several reads if needed, until you reach its last section, Deslopping. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
+<a id="read-the-guide"></a>For polish, tighten, cut, and story checks, read the whole guide, in several reads if needed, until you reach its last section, AI slop. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
 
 Read the whole text before editing, including files that contain parts of the same document, such as a LaTeX `\input` or a linked chapter. Edit only within the requested scope. For a length request, measure the text with `wc -w`, state the assumed words per page for a page target, and list planned cuts and their locations in the triage order.
 

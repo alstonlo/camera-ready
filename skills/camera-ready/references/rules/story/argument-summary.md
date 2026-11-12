@@ -1,6 +1,6 @@
 # Test the argument with five lines and one sentence
 
-Write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication. Flag any line the draft does not supply. Combine the idea and evidence into core claims for the [spine test](../cutting/spine-test.md).
+Write one line each for the problem, the gap and its cost, the idea, the evidence, and the implication. Flag any line the draft does not supply. Combine the idea and evidence into core claims for the [spine test](../cuts/spine-test.md).
 
 Combine the five lines into one test sentence: "A matters, and B is known, but C fails because D; therefore we propose E, which achieves F." The lines and sentence are notes, not text for the paper. If the sentence lists facts without a problem or gap, flag what is missing. If it requires unrelated problems, flag the competing focuses and ask which one the text addresses; do not invent a connection. Judge both cases by meaning: a gap need not use "but", and several "but" clauses may describe obstacles to answering one question.
 

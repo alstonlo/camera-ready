@@ -1,6 +1,6 @@
 # Use the conclusion to explain what the findings mean
 
-Keep one statement of each contribution under the [triage order](../cutting/triage-order.md), connect the statements, then state what the findings let readers understand or do. Label speculative implications as [speculation](../claims/speculation.md). Flag a conclusion that only repeats general statements or the abstract, gives new supporting evidence, or introduces a new subject. Future work may state a specific question the findings raise and what answering it would establish; do not invent a research plan.
+Keep one statement of each contribution under the [triage order](../cuts/triage-order.md), connect the statements, then state what the findings let readers understand or do. Label speculative implications as [speculation](../claims/speculation.md). Flag a conclusion that only repeats general statements or the abstract, gives new supporting evidence, or introduces a new subject. Future work may state a specific question the findings raise and what answering it would establish; do not invent a research plan.
 
 ## Details
 

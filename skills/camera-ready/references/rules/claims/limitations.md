@@ -1,6 +1,6 @@
 # State limitations precisely and explain their effects
 
-State each limitation in full and without apology where it first affects a method or inference. Beside it, keep the draft's explanation of how it affects the results and which conclusions still hold, or flag the missing explanation. Flag unexplained unexpected results, unjustified data exclusions, and decoy limitations that name a minor weakness while omitting a larger one documented elsewhere in the draft. A limitation phrased as future work must still state what the current results do not cover. Keep brief reminders that limit later claims. Move a limitation, or delete a repeated full statement of it, only as the [relocation rules](../cutting/idea-cuts.md) and the [triage order](../cutting/triage-order.md) allow.
+State each limitation in full and without apology where it first affects a method or inference. Beside it, keep the draft's explanation of how it affects the results and which conclusions still hold, or flag the missing explanation. Flag unexplained unexpected results, unjustified data exclusions, and decoy limitations that name a minor weakness while omitting a larger one documented elsewhere in the draft. A limitation phrased as future work must still state what the current results do not cover. Keep brief reminders that limit later claims. Move a limitation, or delete a repeated full statement of it, only as the [relocation rules](../cuts/idea-cuts.md) and the [triage order](../cuts/triage-order.md) allow.
 
 ## Details
 

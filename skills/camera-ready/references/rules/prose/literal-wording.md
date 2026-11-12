@@ -4,7 +4,7 @@ Name the actual event, object, and quantity in words you would use at a whiteboa
 
 Replace figurative verbs with the literal events stated in the draft, without guessing from the image. Rewrite a noun used as a temporary verb as a verb phrase naming the action ("we footnote the caveat" becomes "we state the caveat in a footnote"), following the [parts-of-speech rule](../conventions/parts-of-speech.md). Rewrite unusual word pairs that readers must decode ("verified red") in ordinary wording ("verified that the test fails on the original code"). Keep established technical terms, verbs, and word combinations. Replace opaque phrasal verbs only with exact equivalents.
 
-Keep analogies whose correspondence the draft makes clear. Replace decorative or misleading imagery with literal wording, and never add a new analogy. For slogan-like sentences, follow the [aphorism rule](../deslopping/aphorisms.md). When explaining an unfamiliar term, keep the population, metric, and denominator it covers. Clarify ambiguous prepositions and which item "replace" or "substitute" removes and which takes its place, using only meanings the draft establishes; otherwise, flag the ambiguity.
+Keep analogies whose correspondence the draft makes clear. Replace decorative or misleading imagery with literal wording, and never add a new analogy. For slogan-like sentences, follow the [aphorism rule](../slop/aphorisms.md). When explaining an unfamiliar term, keep the population, metric, and denominator it covers. Clarify ambiguous prepositions and which item "replace" or "substitute" removes and which takes its place, using only meanings the draft establishes; otherwise, flag the ambiguity.
 
 ## Details
 
