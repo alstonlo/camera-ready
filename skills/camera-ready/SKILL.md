@@ -38,7 +38,7 @@ Note the target files or section, length target, and venue. Follow the matching 
 | deslopping pass | edit with the guide's AI patterns section and the rules it links, then check | minimal prose changes |
 | one convention | edit with that convention and the rules it links, then check | that convention only; flag other errors |
 
-<a id="read-the-guide"></a>For polish, tighten, cut, and story checks, read the whole guide, in several reads if needed, until you reach its last section, AI patterns. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
+For polish, tighten, cut, and story checks, read the whole guide, in several reads if needed, until you reach its last section, AI patterns. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
 
 Read the whole text before editing, including files that contain parts of the same document, such as a LaTeX `\input` or a linked chapter. Edit only within the requested scope. For a length request, measure the text with `wc -w`, state the assumed words per page for a page target, and list planned cuts and their locations in the triage order.
 
@@ -52,7 +52,7 @@ Read the whole text before editing, including files that contain parts of the sa
 
 **Make targeted edits.** Make each replacement with the Edit tool, or an equivalent patch tool, on the shortest span that fixes the finding and is unique in the file. When one sentence has two or more findings, or a finding about its order (numbers before the finding they support, a subject far from its verb), replace the whole sentence, built from that sentence's own content. Moving a sentence within its paragraph is a targeted edit. Batch the independent edits for one section of the text in a single turn where your host allows it. Replace a whole paragraph only when the finding is about the paragraph itself: it makes the wrong point or several points, its sentences are in the wrong order, or most of its sentences have findings. Build such a paragraph from its original sentences, changing only what the findings require. Never rewrite a file that holds the author's text with Write. If you have no editing tool for files, return the edited text with every unchanged sentence exactly as it was.
 
-**Work in the guide's order.** Make the structural changes that the guide allows without the author's request, and flag changes to section order and the contributions list. Within each section of the text, look for findings in this order: claims, cutting, prose, conventions, and AI slop, because each later section works on the result of the earlier ones.
+**Work in the guide's order.** Make the structural changes that the guide allows without the author's request, and flag changes to section order and the contributions list. Within each section of the text, look for findings in the order of the guide's sections, Claims, Cuts, Prose, Conventions, and AI patterns, because each later section works on the result of the earlier ones.
 
 **Propose claim changes; do not make them.** A claim change alters a claim's strength or scope, marks it as conjecture, or resolves a contradiction between two parts of the draft. List each one in the report with the old wording, the proposed wording, and the draft's evidence for it, and leave the text unchanged. Make claim changes only when the request asks you to change claims. The draft's evidence settles a claim's strength when it shows what kind of evidence the claim rests on: a simulation, one dataset, one run, or a comparison without an ablation supports the verb and scope for that kind of evidence, not more. Where "significant" or "significantly" asserts statistical significance and the draft names no test, flag it; where it means large or important, propose the reported difference in its place. Propose no caveat, scope statement, or hedge for any other reason, such as caution or a reviewer's possible objection.
 
@@ -63,7 +63,7 @@ Read the whole text before editing, including files that contain parts of the sa
 One agent does every step, with no subagents. Write the audit to a notes file, as described in [notes](#notes), so that it survives compaction.
 
 1. **Save the original.** Before the first edit, copy each target file to `.camera-ready/` in the [project root](#notes), keeping its path and adding `.orig` before the extension. Run each command on its own, and give `cp` no flags: `mkdir -p .camera-ready/paper`, then `cp paper/main.tex .camera-ready/paper/main.orig.tex`. If that copy exists, add a number (`main.orig.2.tex`); never overwrite an earlier original. If copying fails, save an exact copy with a file tool. If no copy can be saved, say so in the notes and the report, compare against the text you read before editing, and name the checks that could not run.
-2. **Audit.** For polish, tighten, cut, or story checks, write in the notes file the five lines of the guide's argument test, each section's point, the claim strength the evidence supports for the claims in the abstract, introduction, and conclusion, and one term per concept. Add a ranked cut plan with estimated savings for a length request. For overclaiming or hedging, write a claim ledger there and skip the rest. For narrow sweeps, write only the status block and unresolved findings.
+2. **Audit.** For polish, tighten, cut, or story checks, write in the notes file the five lines of the guide's argument test, each section's point, the claim strength the evidence supports for the claims in the abstract, introduction, and conclusion, and one term per concept. Add a ranked cut plan with estimated savings for a length request. For overclaiming or hedging, write a claim ledger there and skip the rest. For a deslopping pass or one convention, write only the status block and unresolved findings.
 3. **Ask.** Follow [questions](#questions). If you cannot ask, follow the [rules for when you cannot ask](#when-you-cannot-ask).
 4. **Edit.** Go through the requested text one section at a time, following the [edit rules](#edit). Test each sentence against the rules in the guide's order:
    - Does the paragraph open with its point, and does each sentence open with information the previous one supplied?
@@ -73,7 +73,7 @@ One agent does every step, with no subagents. Write the audit to a notes file, a
    - Does any word add only emphasis, any verb leave its operation unstated, or any noun stand in for the measured quantity?
 
    Find each section's findings before editing it, then send its edits. In the notes, mark the section done and record its flags, proposed claim changes, and any wording you kept under a rule's exception.
-5. **Check.** For each edited file, compare it with the saved original using plain `diff`, `grep`, and `wc -w`. Run each command on its own, with no `&&`, `;`, variables, process substitution, or temporary files, because hosts often refuse such commands; a pipe from `grep -o` into `wc -l` is fine and counts occurrences, whereas `grep -c` counts lines. Confirm that no number, citation key, label, or URL was changed, that each added one comes from elsewhere in the draft under [search before you flag](#edit), and that the guide allows each removal, such as a number already in a table. Count em dashes and the guide's other blacklisted patterns, and fix those in editable prose within the request's scope. Read every changed span in the `diff` beside the original, however small, and restore any fact, number, hedge, condition, scope, attribution, or logical relation that the edit added, dropped, or changed, unless the request's row allows the removal. For a length request, compare the word count with the target. If a check is refused, use another way to check, and name the check in the report if none works. Begin no further stylistic pass.
+5. **Check.** For each edited file, compare it with the saved original using plain `diff`, `grep`, and `wc -w`. Run each command on its own, with no `&&`, `;`, variables, process substitution, or temporary files, because hosts often refuse such commands; a pipe from `grep -o` into `wc -l` is fine and counts occurrences, whereas `grep -c` counts lines. Confirm that no number, citation key, label, or URL was changed, that each added one comes from elsewhere in the draft under [search before you flag](#edit), and that the guide allows each removal, such as a number already in a table. Count em dashes and the guide's other blacklisted patterns, and fix those in editable prose within the request's scope. Read every changed span in the `diff` beside the original, however small, and restore any fact, number, hedge, condition, scope, attribution, or logical relation that the edit added, dropped, or changed, unless the request's row allows the removal. For a length request, compare the word count with the target. After each fix, run again the check that found the problem, until every check passes. If a check is refused, use another way to check, and name the check in the report if none works. Begin no further stylistic pass.
 6. **Report.** Use the [report format](#report). For story checks, return the audit; for overclaiming or hedging, the ledger with proposed revisions and evidence.
 
 ### Questions
@@ -90,7 +90,23 @@ Ask before editing only when a question affects several paragraphs, no interpret
 
 The project root is `${CLAUDE_PROJECT_DIR}` if your host sets it, and otherwise the directory where the session started. Run `printenv CAMERA_READY_ROOT`; treat failure or refusal as unset. Choose the notes directory from the first source that specifies one: the request, `CAMERA_READY_ROOT`, the project's instructions, or `.camera-ready/` in the project root. Use one notes file per document, named after its main file: the file that includes the others, such as the LaTeX file with `\documentclass` or the Markdown file that links the chapters. Keep the main file's path and replace its extension with `.notes.md`: `paper/main.tex` becomes `.camera-ready/paper/main.notes.md`. The notes cover every file of the document, and each entry names the file it quotes when the document has more than one. An explicitly requested notes file takes precedence.
 
-If notes for the same document exist, update them: revise quotations that changed, add entries for new paragraphs and claims, and delete entries for text that no longer exists, but keep the old wording in the claim-change log. Keep notes under about 3,500 words, and quote the draft exactly. Write a status block (request, target, length target, venue, and a checklist of steps and sections, updated after each section), the audit, numbered questions the author can answer with a word or fact, and a log of each proposed or applied claim change with its old wording, new wording, and evidence. Reread the notes after compaction.
+If notes for the same document exist, update them: revise quotations that changed, add entries for new paragraphs and claims, and delete entries for text that no longer exists, but keep the old wording in the claim-change log. Keep notes under about 3,500 words, and quote the draft exactly. Write a status block, the audit, numbered questions the author can answer with a word or fact, and a log of each proposed or applied claim change with its old wording, new wording, and evidence. Start the status block from this template, list the sections in scope, and tick each item when it is done:
+
+```markdown
+## Status
+
+- Request: polish §3 and §4
+- Target: paper/main.tex
+- Length target: none
+- Venue: NeurIPS
+- [ ] Save the original
+- [ ] Audit
+- [ ] Ask
+- [ ] Edit §3
+- [ ] Edit §4
+- [ ] Check
+- [ ] Report
+```
 
 ## Report
 
