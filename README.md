@@ -43,7 +43,7 @@ This installs the skill for every agent the [Skills CLI](https://github.com/verc
 
 ## Usage
 
-In Claude Code, run `/camera-ready` followed by the request. In Codex, start the request with `$camera-ready:camera-ready` instead.
+In Claude Code, run `/camera-ready` followed by the request. In Codex, start the request with `$camera-ready:camera-ready` instead. Note that model invocation has been disabled for this skill.
 
 ```
 /camera-ready polish this section
@@ -51,14 +51,14 @@ In Claude Code, run `/camera-ready` followed by the request. In Codex, start the
 /camera-ready cut this to eight pages
 ```
 
-The skill will read the source text and writing guide, audit and edit the source text according to your instructions, check its work, and return a report back to you. If you only want feedback without any editing, use the word "review":
+The skill will read the source text and writing guide, audit and edit the source text according to your instructions, check its work, and return a report back to you. If you only want feedback without any edits, use the word "review" explicitly:
 
 ```
 /camera-ready review my introduction
 /camera-ready review the story of my paper
 ```
 
-To aid in its execution, the skill will save a notes file that serves as a working memory of the text's story, outline, claims, and more, and, before its first edit, a backup of the original source texts. By default, these will be saved in a `.camera-ready/` directory at the project root. For example, if you were editing `paper/main.tex`, the skill would create the files:
+To aid in its execution, the skill will save a notes file that serves as a working memory of the text's story, outline, claims, and more, and, in edit mode, a backup of the original source texts. By default, these will be saved in a `.camera-ready/` directory at the project root. For example, if you were editing `paper/main.tex`, the skill would create the files:
 
 ```
 .camera-ready/paper/
