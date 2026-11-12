@@ -8,7 +8,7 @@
 
 </div>
 
-I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizing skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill aims to holistically improve the quality of AI-generated academic writing. It was created by compiling guidance from multiple resources on academic writing and humanizer skills (see [Credits](#credits)). The result is a unified writing guide covering a variety of topics including story crafting, claim calibration, concision, clarity, prose, and AI slop patterns.  Afterwards, I personally tuned it by testing the skill on AI-generated reports and providing feedback.
+I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizing skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill aims to holistically improve the quality of AI-generated academic writing. It was created by compiling guidance from multiple resources on academic writing and humanizer skills (see [Credits](#credits)). The result is a unified writing guide covering a variety of topics including story, claims, cuts, prose, conventions, and AI slop patterns. Afterwards, I refined it by testing the skill on AI-generated papers and making manual edits.
 
 > [!NOTE]
 > Writing is subjective, and this skill reflects just one of many styles and preferences. I welcome any feedback and contributions to improve this skill.
@@ -17,7 +17,7 @@ I created this skill out of frustration with Opus 5's writing style when using a
 
 ### Claude Code
 
-```text
+```
 /plugin marketplace add alstonlo/camera-ready
 /plugin install camera-ready@camera-ready
 ```
@@ -51,22 +51,28 @@ In Claude Code, run `/camera-ready` followed by the request. In Codex, start the
 /camera-ready cut this to eight pages
 ```
 
-The skill reads the text and the writing guide, edits the text section by section with targeted changes, checks the result against a saved copy of the original, and returns a report. It does not change what the draft claims: it proposes claim changes in the report instead, unless you ask it to change claims.
-
-Before editing, the skill saves a copy of each file and writes its audit of the text (the argument, each section's point, the strength of the main claims, and the terms) to a notes file, so that the audit survives compaction. Both go in `.camera-ready/` at the project root. For example, for `paper/main.tex`:
+The skill will read the source text and writing guide, audit and edit the source text according to your instructions, check its work, and return a report back to you. If you only want feedback without any editing, use the word "review":
 
 ```
-.camera-ready/paper/main.orig.tex
-.camera-ready/paper/main.notes.md
+/camera-ready review my introduction
+/camera-ready review the story of my paper
 ```
 
-To store the notes elsewhere, name a directory in the prompt, `CLAUDE.md` or `AGENTS.md`, or set the `CAMERA_READY_ROOT` environment variable.
+To aid in its execution, the skill will save a notes file that serves as a working memory of the text's story, outline, claims, and more, and, before its first edit, a backup of the original source texts. By default, these will be saved in a `.camera-ready/` directory at the project root. For example, if you were editing `paper/main.tex`, the skill would create the files:
+
+```
+.camera-ready/paper/
+    main.orig.tex
+    main.notes.md
+```
+
+To store these files elsewhere, name a directory in the prompt, `CLAUDE.md` or `AGENTS.md`, or set the `CAMERA_READY_ROOT` environment variable.
 
 ## Credits
 
 Writing guidance was compiled from:
 
--  A variety of resources on writing in [REFERENCES.md](REFERENCES.md)
+- A variety of resources on writing in [REFERENCES.md](REFERENCES.md)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
 - [blader/humanizer](https://github.com/blader/humanizer)
 - [brandonwise/humanizer](https://github.com/brandonwise/humanizer)

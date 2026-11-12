@@ -1,6 +1,6 @@
 ---
 name: camera-ready
-description: Edits academic writing into camera-ready form. Use it when the user asks to polish or tighten a draft, cut it to a page limit, check its story or argument, check for overclaiming, answer a question about hedging, check one field convention, or deslop it, that is, remove AI slop (the patterns common in AI-written prose).
+description: Edits academic writing into camera-ready form. Use it when the user asks to polish or tighten a draft, cut it to a page limit, review it without editing, fix its story or argument, check for overclaiming, answer a question about hedging, check one field convention, or deslop it, that is, remove AI slop (the patterns common in AI-written prose).
 argument-hint: '[request, e.g. "polish §3" or "cut this to eight pages"]'
 disable-model-invocation: true
 allowed-tools: Bash(printenv CAMERA_READY_ROOT)
@@ -28,17 +28,20 @@ Preserve the content of equations, code, macros, labels, citation keys, bibliogr
 
 Note the target files or section, length target, and venue. Follow the matching row below; for other requests, apply the relevant guide sections within the requested scope. The row limits every later step.
 
+A request is a review only when it uses the word "review" for what you should do, as in "review my introduction". The words "check", "audit", and "critique" do not make it one, and neither does a mention of reviewers or reviews, as in "address the reviewers' comments". A review changes nothing, whatever else the request asks.
+
 | Request | What you do | What you may change |
 |---|---|---|
 | polish | audit, edit, check | prose, conventions, mechanical errors, bloat; no idea-level cuts; claims only as proposals |
 | tighten | as for polish, aiming to reduce word count | as for polish |
 | cut to a length | audit with a ranked cut plan, edit, check | as for polish, plus deletion and relocation in the guide's triage order |
-| story, flow, or argument check | audit only | nothing |
+| review | audit against every guide section, or only the sections the request names; report each finding with its suggested replacement | nothing |
+| story, flow, or argument check | audit, edit with the guide's Story section and the rules it links, then check | as for polish, within the Story section |
 | overclaiming check, hedging question | make a claim ledger of the named claims, or of all claims if none are named; propose revisions with evidence for claims that exceed their support | nothing, unless the request asks you to apply the revisions; propose no qualification the evidence does not require, and never weaken a claim because a reviewer might object |
 | deslopping pass | edit with the guide's AI patterns section and the rules it links, then check | minimal prose changes |
 | one convention | edit with that convention and the rules it links, then check | that convention only; flag other errors |
 
-For polish, tighten, cut, and story checks, read the whole guide, in several reads if needed, until you reach its last section, AI patterns. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
+For polish, tighten, cut, and a review that names no section, read the whole guide, in several reads if needed, until you reach its last section, AI patterns. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
 
 Read the whole text before editing, including files that contain parts of the same document, such as a LaTeX `\input` or a linked chapter. Edit only within the requested scope. For a length request, measure the text with `wc -w`, state the assumed words per page for a page target, and list planned cuts and their locations in the triage order.
 
@@ -67,10 +70,10 @@ These rules apply to every edit.
 
 ## Workflow
 
-One agent does every step, with no subagents. Write the audit to a notes file, as described in [notes](#notes), so that it survives compaction. A request whose row in the [requests](#requests) table lets you change nothing goes from the audit to the report, without the Edit and Check steps.
+One agent does every step, with no subagents. Write the audit to a notes file, as described in [notes](#notes), so that it survives compaction. A request whose row in the [requests](#requests) table lets you change nothing goes from the audit to the report, without the Save, Edit, and Check steps.
 
-1. **Save the original.** Before the first edit, copy each target file to `.camera-ready/` in the [project root](#notes), keeping its path and adding `.orig` before the extension. Run each command on its own, and give `cp` no flags: `mkdir -p .camera-ready/paper`, then `cp paper/main.tex .camera-ready/paper/main.orig.tex`. If that copy exists, add a number (`main.orig.2.tex`); never overwrite an earlier original. If copying fails, save an exact copy with a file tool. If no copy can be saved, say so in the notes and the report, compare against the text you read before editing, and name the checks that could not run.
-2. **Audit.** For polish, tighten, cut, or story checks, write in the notes file the five lines of the guide's argument test, each section's point, the claim strength the evidence supports for the claims in the abstract, introduction, and conclusion, and one term per concept. Add a ranked cut plan with estimated savings for a length request. For overclaiming or hedging, write only a claim ledger there. For a deslopping pass or one convention, write only the status block and unresolved findings.
+1. **Save the original.** Before the first edit, copy each target file to the [notes directory](#notes), keeping its path and adding `.orig` before the extension. Run each command on its own, and give `cp` no flags; for the default directory: `mkdir -p .camera-ready/paper`, then `cp paper/main.tex .camera-ready/paper/main.orig.tex`. If that copy exists, add a number (`main.orig.2.tex`); never overwrite an earlier original. If copying fails, save an exact copy with a file tool. If no copy can be saved, say so in the notes and the report, compare against the text you read before editing, and name the checks that could not run.
+2. **Audit.** For polish, tighten, cut, story checks, or a review that names no section, write in the notes file the five lines of the guide's argument test, each section's point, the claim strength the evidence supports for the claims in the abstract, introduction, and conclusion, and one term per concept. Add a ranked cut plan with estimated savings for a length request. For a review, also write each finding in the notes, by section of the text, instead of making it; for a review that names sections, write only the status block and these findings. For overclaiming or hedging, write only a claim ledger there. For a deslopping pass or one convention, write only the status block and unresolved findings.
 3. **Ask.** Follow [questions](#questions). If you cannot ask, follow the [rules for when you cannot ask](#when-you-cannot-ask).
 4. **Edit.** Go through the requested text one section at a time, following the [edit rules](#edit). Test each sentence against the rules in the guide's order:
    - Does the paragraph open with its point, and does each sentence open with information the previous one supplied?
@@ -87,11 +90,11 @@ One agent does every step, with no subagents. Write the audit to a notes file, a
    - **Length.** For a length request, compare the word count with the target.
 
    After each fix, run again the check that found the problem, until every check passes. If a check is refused, use another way to check, and name the check in the report if none works. Begin no further stylistic pass.
-6. **Report.** Use the [report format](#report). For story checks, return the audit; for overclaiming or hedging, the ledger with proposed revisions and evidence.
+6. **Report.** Use the [report format](#report). For a review, return the audit and the findings, grouped by section of the text, each with its exact words, rule, and suggested replacement; for overclaiming or hedging, the ledger with proposed revisions and evidence.
 
 ### Questions
 
-Ask before editing only when a question affects several paragraphs, no interpretation is clearly preferable, and a wrong choice would be costly to reverse from the report. Such questions usually concern the story, competing problem statements, or a term that renames a method throughout. Also ask the author to approve a length request's cut plan before cutting, unless the request already lets you choose the cuts. Ask nothing for audit-only requests, overclaiming checks, hedging questions, deslopping passes, or single conventions, and nothing if the request says "no questions". Use a question tool if available, with at most four questions, or fewer if the tool accepts fewer, one option per interpretation, and the default first; wait for the answers. If the tool is absent or refused, do not ask in plain text.
+Ask before editing only when a question affects several paragraphs, no interpretation is clearly preferable, and a wrong choice would be costly to reverse from the report. Such questions usually concern the story, competing problem statements, or a term that renames a method throughout. Also ask the author to approve a length request's cut plan before cutting, unless the request already lets you choose the cuts. Ask nothing for reviews, overclaiming checks, hedging questions, deslopping passes, or single conventions, and nothing if the request says "no questions". Use a question tool if available, with at most four questions, or fewer if the tool accepts fewer, one option per interpretation, and the default first; wait for the answers. If the tool is absent or refused, do not ask in plain text.
 
 ### When you cannot ask
 
