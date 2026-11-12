@@ -30,10 +30,10 @@ The guide has six sections of rules:
 
 - [Story](#story): the argument from problem to implications, titles and headings, section order and openings, contributions, related work, results by question, and numbers that support claims.
 - [Claims](#claims): reporting verbs matched to evidence, scope, overclaiming and underclaiming, consistency across the text, causal language, what an efficiency claim counts, statistical significance, hedges, speculation, and limitations.
-- [Cutting](#cutting): what you may delete or move without asking the author, the triage order under a length limit, sentences to protect, and how to repair text around a cut.
+- [Cuts](#cuts): what you may delete or move without asking the author, the triage order under a length limit, sentences to protect, and how to repair text around a cut.
 - [Prose](#prose): explanation order, paragraphs, information flow from familiar to new, sentence structure, direct content instead of promises, concrete quantities, and plain wording.
 - [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, and mechanics.
-- [Deslopping](#deslopping): blacklisted and tolerable patterns common in AI-written prose.
+- [AI patterns](#ai-patterns): blacklisted and tolerable patterns common in AI-written prose.
 
 For a request narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk of text against every rule in each applicable section. When two rules call for different edits to a sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence, or use your judgment as an expert editor if both are equally clear.
 
@@ -41,7 +41,7 @@ For a request narrower than a full polish, apply the sections it names and every
 
 Organize the text around one five-part argument: a problem the reader cares about; a gap in what is known or possible, with the cost of leaving it open; an idea that fills the gap; evidence that the idea works; and what the findings imply.
 
-Check this argument across the whole text and within each section before editing individual sentences, because sentence edits cannot fix a missing or illogical step. Use the [rules on claims](#claims) to match each claim to its evidence, the [rules on cutting](#cutting) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
+Check this argument across the whole text and within each section before editing individual sentences, because sentence edits cannot fix a missing or illogical step. Use the [rules on claims](#claims) to match each claim to its evidence, the [rules on cuts](#cuts) to decide what stays, and the [rules on prose](#prose) to edit paragraphs and sentences.
 
 Without a separate request from the author, you may:
 
@@ -150,29 +150,29 @@ Every claim must match its evidence. Claiming either more or less than the evide
 
 {{claims/limitations}}
 
-## Cutting
+## Cuts
 
-Use the [spine test](rules/cutting/spine-test.md) to find the core claims and the paragraphs readers need to understand or evaluate them. Then check the request to see what you may delete or move.
+Use the [spine test](rules/cuts/spine-test.md) to find the core claims and the paragraphs readers need to understand or evaluate them. Then check the request to see what you may delete or move.
 
-### Deciding what to cut
+### What to cut
 
-{{cutting/bloat}}
+{{cuts/bloat}}
 
-{{cutting/idea-cuts}}
+{{cuts/idea-cuts}}
 
-{{cutting/spine-test}}
+{{cuts/spine-test}}
 
-{{cutting/triage-order}}
+{{cuts/triage-order}}
 
-{{cutting/protected-sentences}}
+{{cuts/protected-sentences}}
 
-### Making the cut
+### Repairs after a cut
 
-{{cutting/sentence-dependencies}}
+{{cuts/sentence-dependencies}}
 
-{{cutting/stop-rules}}
+{{cuts/stop-rules}}
 
-{{cutting/post-cut-check}}
+{{cuts/post-cut-check}}
 
 ## Prose
 
@@ -300,61 +300,61 @@ When a convention in this section conflicts with general writing advice, follow 
 
 {{conventions/units-and-numbers}}
 
-## Deslopping
+## AI patterns
 
-Patterns common in AI-written prose fall into two groups:
+Patterns common in AI-written prose, called AI slop, fall into two groups:
 
 1. **Blacklisted patterns.** Remove every instance, even a single one, or flag it where the rule says to. The three-instance threshold below does not apply.
 2. **Tolerable patterns.** Edit a single instance when the edit makes the sentence clearer. Rewrite a whole passage only when it contains three or more instances of tolerable patterns.
 
-{{deslopping/author-voice}}
+{{slop/author-voice}}
 
 ### Blacklisted patterns
 
-{{deslopping/em-dashes}}
+{{slop/em-dashes}}
 
-{{deslopping/chatbot-phrases}}
+{{slop/chatbot-phrases}}
 
-{{deslopping/generic-openings-closings}}
+{{slop/generic-openings-closings}}
 
-{{deslopping/generation-artifacts}}
+{{slop/generation-artifacts}}
 
 ### Tolerable patterns
 
-{{deslopping/prose-rule-patterns}}
+{{slop/prose-rule-patterns}}
 
-{{deslopping/compressed-constructions}}
+{{slop/compressed-constructions}}
 
-{{deslopping/pause-punctuation}}
+{{slop/pause-punctuation}}
 
-{{deslopping/reasoning-leakage}}
+{{slop/reasoning-leakage}}
 
-{{deslopping/revision-narration}}
+{{slop/revision-narration}}
 
-{{deslopping/vague-attribution}}
+{{slop/vague-attribution}}
 
-{{deslopping/negative-parallelism}}
+{{slop/negative-parallelism}}
 
-{{deslopping/false-concession}}
+{{slop/false-concession}}
 
-{{deslopping/rule-of-three}}
+{{slop/rule-of-three}}
 
-{{deslopping/false-ranges}}
+{{slop/false-ranges}}
 
-{{deslopping/transition-chains}}
+{{slop/transition-chains}}
 
-{{deslopping/copula-avoidance}}
+{{slop/copula-avoidance}}
 
-{{deslopping/trailing-ing}}
+{{slop/trailing-ing}}
 
-{{deslopping/self-labeling}}
+{{slop/self-labeling}}
 
-{{deslopping/rhetorical-questions}}
+{{slop/rhetorical-questions}}
 
-{{deslopping/repetitive-syntax}}
+{{slop/repetitive-syntax}}
 
-{{deslopping/significance-inflation}}
+{{slop/significance-inflation}}
 
-{{deslopping/aphorisms}}
+{{slop/aphorisms}}
 
-{{deslopping/relentless-positivity}}
+{{slop/relentless-positivity}}

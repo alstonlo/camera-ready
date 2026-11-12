@@ -2,6 +2,12 @@
 
 This project follows [Semantic Versioning](https://semver.org/). The version is set in [`.claude-plugin/plugin.json`](.claude-plugin/plugin.json); bump it with every release so that installed plugins pick up the update.
 
+## 0.4.0 (2026-11-11)
+
+- Merged the lite and full modes into a single workflow.
+- Renamed the guide sections Cutting and Deslopping.
+- Improved the writing of the README and the skill instructions.
+
 ## 0.3.0 (2026-11-08)
 
 - Split the writing guide into one page per rule.

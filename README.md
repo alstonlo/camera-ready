@@ -1,8 +1,14 @@
-<h1 align="center">camera-ready</h1>
+<div align="center">
 
-An editing skill for camera-ready academic writing.
+# camera-ready
 
-I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizing skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill was created by compiling writing tips across multiple deep research reports on academic writing and prior humanizer skills (see [Credits](#credits)). Afterwards, I personally tuned it by testing the skill on AI-generated reports and providing feedback.
+**An editing skill for camera-ready academic writing.**
+
+[![skills.sh installs](https://skills.sh/b/alstonlo/camera-ready)](https://skills.sh/alstonlo/camera-ready)
+
+</div>
+
+I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizing skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill aims to holistically improve the quality of AI-generated academic writing. It was created by compiling guidance from multiple resources on academic writing and humanizer skills (see [Credits](#credits)). The result is a unified writing guide covering a variety of topics including story, claims, cuts, prose, conventions, and AI slop patterns. Afterwards, I refined it by testing the skill on AI-generated papers and making manual edits.
 
 > [!NOTE]
 > Writing is subjective, and this skill reflects just one of many styles and preferences. I welcome any feedback and contributions to improve this skill.
@@ -11,12 +17,12 @@ I created this skill out of frustration with Opus 5's writing style when using a
 
 ### Claude Code
 
-```text
+```
 /plugin marketplace add alstonlo/camera-ready
 /plugin install camera-ready@camera-ready
 ```
 
-Invoke the Claude Code plugin with `/camera-ready:camera-ready` or the shorter `/camera-ready` unless another command already uses that name. To install updates, run `/plugin marketplace update camera-ready`, or enable automatic updates for the marketplace under **Marketplaces** in `/plugin`.
+To install updates, run `/plugin marketplace update camera-ready`, or enable automatic updates for the marketplace under **Marketplaces** in `/plugin`.
 
 ### Codex
 
@@ -25,7 +31,7 @@ codex plugin marketplace add alstonlo/camera-ready
 codex plugin add camera-ready@camera-ready
 ```
 
-Codex runs the skill only when you name it. To install updates, run `codex plugin marketplace upgrade camera-ready`.
+To install updates, run `codex plugin marketplace upgrade camera-ready`.
 
 ### Other agents
 
@@ -33,45 +39,44 @@ Codex runs the skill only when you name it. To install updates, run `codex plugi
 npx skills add alstonlo/camera-ready --global --agent '*'
 ```
 
-This installs the skill for every agent the [Skills CLI](https://github.com/vercel-labs/skills) supports. Omit `--global` to install it only in the current project. If the Skills CLI does not support your agent, copy the whole `skills/camera-ready/` folder into its skills directory, because the skill reads `references/guide.md` on every run.
+This installs the skill for every agent the [Skills CLI](https://github.com/vercel-labs/skills) supports. Omit `--global` to install it only in the current project. If the Skills CLI does not support your agent, copy the whole `skills/camera-ready/` folder into its skills directory.
 
 ## Usage
 
-In Claude Code, run `/camera-ready` followed by the request. In Codex, start the request with `$camera-ready:camera-ready` instead.
-
-### Lite mode
-
-By default, the skill edits in lite mode. It reads the whole text and identifies its story, claims, and terminology. It then edits the text chunk by chunk, rereads it, and reports what changed along with questions for the author.
+In Claude Code, run `/camera-ready` followed by the request. In Codex, start the request with `$camera-ready:camera-ready` instead. Note that model invocation has been disabled for this skill.
 
 ```
 /camera-ready polish this section
 /camera-ready tighten my abstract
+/camera-ready cut this to eight pages
 ```
 
-### Full mode
-
-For a more comprehensive edit, run the skill in full mode:
+The skill will read the source text and writing guide, audit and edit the source text according to your instructions, check its work, and return a report back to you. If you only want feedback without any edits, use the word "review" explicitly:
 
 ```
-/camera-ready full polish this paper
-/camera-ready full cut this to eight pages
+/camera-ready review my introduction
+/camera-ready review the story of my paper
 ```
 
-Full mode records the paper's argument, each paragraph's purpose, the evidence for its claims, and terminology choices in audit notes. The skill uses these notes to edit for factual consistency, readability, and clear academic style while tracking changes and unresolved questions. Compared with lite mode, full mode should produce higher-quality revisions with greater consistency and attention to detail.
+To aid in its execution, the skill will save a notes file that serves as a working memory of the text's story, outline, claims, and more, and, in edit mode, a backup of the original source texts. By default, these will be saved in a `.camera-ready/` directory at the project root. For example, if you were editing `paper/main.tex`, the skill would create the files:
 
-The audit notes are saved in `.camera-ready/` at the project root, the directory where the session started. For example, notes for `paper/main.tex` go in `.camera-ready/paper/main.notes.md`. To store the notes elsewhere, name a directory in the request, set the `CAMERA_READY_ROOT` environment variable, or name a directory in the project's `CLAUDE.md` or `AGENTS.md`.
+```
+.camera-ready/paper/
+    main.orig.tex
+    main.notes.md
+```
+
+To store these files elsewhere, name a directory in the prompt, `CLAUDE.md` or `AGENTS.md`, or set the `CAMERA_READY_ROOT` environment variable.
 
 ## Credits
 
-Writing guidance compiled from:
+Writing guidance was compiled from:
 
-- Several deep research reports on academic writing
+- A variety of resources on writing in [REFERENCES.md](REFERENCES.md)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
 - [blader/humanizer](https://github.com/blader/humanizer)
 - [brandonwise/humanizer](https://github.com/brandonwise/humanizer)
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
-
-See [REFERENCES.md](REFERENCES.md) for the sources cited by the deep research reports and for sources I found myself.
 
 ## License
 

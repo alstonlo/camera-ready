@@ -1,6 +1,6 @@
 # Delete empty wording without asking
 
-Delete [chatbot replies](../deslopping/chatbot-phrases.md), [generic openings](../deslopping/generic-openings-closings.md), and [generation artifacts](../deslopping/generation-artifacts.md), and repair [em dashes](../deslopping/em-dashes.md). Delete content announcements and signposts only when the [signpost rule](../prose/signposts.md) allows. Shorten remaining sentences without cutting [ideas](idea-cuts.md).
+Delete [chatbot replies](../slop/chatbot-phrases.md), [generic openings](../slop/generic-openings-closings.md), and [generation artifacts](../slop/generation-artifacts.md), and repair [em dashes](../slop/em-dashes.md). Delete content announcements and signposts only when the [signpost rule](../prose/signposts.md) allows. Shorten remaining sentences without cutting [ideas](idea-cuts.md).
 
 ## Details
 
