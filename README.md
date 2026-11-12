@@ -39,29 +39,22 @@ This installs the skill for every agent the [Skills CLI](https://github.com/verc
 
 In Claude Code, run `/camera-ready` followed by the request. In Codex, start the request with `$camera-ready:camera-ready` instead.
 
-### Lite mode
-
-By default, the skill edits in lite mode. It reads the text and writing guide, edits the text chunk by chunk, rereads the result, and returns a report to the user.
-
 ```
 /camera-ready polish this section
 /camera-ready tighten my abstract
+/camera-ready cut this to eight pages
 ```
 
-### Full mode
+The skill reads the text and the writing guide, edits the text section by section with targeted changes, checks the result against a saved copy of the original, and returns a report. It does not change what the draft claims: it proposes claim changes in the report instead, unless you ask it to change claims.
 
-For a more comprehensive edit, run the skill in full mode:
+Before editing, the skill saves a copy of each file and writes its audit of the text (the argument, each section's point, the strength of the main claims, and the terms) to a notes file, so that the audit survives compaction. Both go in `.camera-ready/` at the project root. For example, for `paper/main.tex`:
 
 ```
-/camera-ready full polish this paper
-/camera-ready full cut this to eight pages
+.camera-ready/paper/main.orig.tex
+.camera-ready/paper/main.notes.md
 ```
 
-Instead of managing everything in-context, full mode first reads the paper and writes a set of audit notes on it, which records high-level information like the paper's central argument, outline, claims and their evidence, and convention choices. The notes are [TODO]
-
-skill uses these notes to edit for factual consistency, readability, and clear academic style while tracking changes and unresolved questions. Compared with lite mode, full mode should produce higher-quality revisions with greater consistency and attention to detail, but require more tokens in return.
-
-By default, the audit notes are saved in `.camera-ready/` at the project root. For example, notes for `paper/main.tex` would go in `.camera-ready/paper/main.notes.md`. To store the notes elsewhere, name a directory in the prompt, `CLAUDE.md` or `AGENTS.md` or set the `CAMERA_READY_ROOT` environment variable.
+To store the notes elsewhere, name a directory in the prompt, `CLAUDE.md` or `AGENTS.md`, or set the `CAMERA_READY_ROOT` environment variable.
 
 ## Credits
 
