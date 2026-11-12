@@ -5,7 +5,7 @@ This project follows [Semantic Versioning](https://semver.org/). The version is 
 ## 0.4.0 (2026-11-11)
 
 - Merged the lite and full modes into a single workflow. The skill now saves a copy of each file and its audit notes in `.camera-ready/`, checks its edits against the saved copy, and proposes claim changes in its report instead of making them, unless asked.
-- Renamed the guide sections Cutting to Cuts and Deslopping to AI slop.
+- Renamed the guide sections Cutting to Cuts and Deslopping to AI patterns.
 - Improved the writing of the README and the skill instructions.
 
 ## 0.3.0 (2026-11-08)

@@ -33,7 +33,7 @@ The guide has six sections of rules:
 - [Cuts](#cuts): what you may delete or move without asking the author, the triage order under a length limit, sentences to protect, and how to repair text around a cut.
 - [Prose](#prose): explanation order, paragraphs, information flow from familiar to new, sentence structure, direct content instead of promises, concrete quantities, and plain wording.
 - [Conventions](#conventions): voice, tense, terminology, mathematics, citations and credit, figures and tables, and mechanics.
-- [AI slop](#ai-slop): blacklisted and tolerable patterns common in AI-written prose.
+- [AI patterns](#ai-patterns): blacklisted and tolerable patterns common in AI-written prose.
 
 For a request narrower than a full polish, apply the sections it names and every rule they link to. Check each chunk of text against every rule in each applicable section. When two rules call for different edits to a sentence and one links to the other, follow the linked rule. Otherwise, choose the clearer sentence, or use your judgment as an expert editor if both are equally clear.
 
@@ -491,9 +491,9 @@ Flag table layouts that separate comparison partners or obscure groups; suggest 
 
 **[State units clearly and never change a number's value or precision](rules/conventions/units-and-numbers.md).** Give every measurement and axis its unit, separated from the number by a non-breaking space (`0.3~s`). Preserve established number formats. Match forms within a comparison only when value and precision stay unchanged. Use the draft to resolve ambiguous unit meanings, measurement bases, binary or decimal prefixes, and duration formats, or flag the ambiguity. Flag, rather than perform, any unit conversion.
 
-## AI slop
+## AI patterns
 
-Patterns common in AI-written prose fall into two groups:
+Patterns common in AI-written prose, called AI slop, fall into two groups:
 
 1. **Blacklisted patterns.** Remove every instance, even a single one, or flag it where the rule says to. The three-instance threshold below does not apply.
 2. **Tolerable patterns.** Edit a single instance when the edit makes the sentence clearer. Rewrite a whole passage only when it contains three or more instances of tolerable patterns.

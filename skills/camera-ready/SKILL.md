@@ -1,6 +1,6 @@
 ---
 name: camera-ready
-description: Edits academic writing into camera-ready form. Use it when the user asks to polish or tighten a draft, cut it to a page limit, check its story or argument, check for overclaiming, answer a question about hedging, check one field convention, or remove patterns of AI-written prose.
+description: Edits academic writing into camera-ready form. Use it when the user asks to polish or tighten a draft, cut it to a page limit, check its story or argument, check for overclaiming, answer a question about hedging, check one field convention, or deslop it, that is, remove AI slop (the patterns common in AI-written prose).
 argument-hint: '[request, e.g. "polish §3" or "cut this to eight pages"]'
 disable-model-invocation: true
 allowed-tools: Bash(printenv CAMERA_READY_ROOT)
@@ -35,10 +35,10 @@ Note the target files or section, length target, and venue. Follow the matching 
 | cut to a length | audit with a ranked cut plan, edit, check | as for polish, plus deletion and relocation in the guide's triage order |
 | story, flow, or argument check | audit only | nothing |
 | overclaiming check, hedging question | make a claim ledger of the named claims, or of all claims if none are named; propose revisions with evidence for claims that exceed their support | nothing, unless the request asks you to apply the revisions; propose no qualification the evidence does not require, and never weaken a claim because a reviewer might object |
-| de-AI pass | edit with the guide's AI slop section and the rules it links, then check | minimal prose changes |
+| deslopping pass | edit with the guide's AI patterns section and the rules it links, then check | minimal prose changes |
 | one convention | edit with that convention and the rules it links, then check | that convention only; flag other errors |
 
-<a id="read-the-guide"></a>For polish, tighten, cut, and story checks, read the whole guide, in several reads if needed, until you reach its last section, AI slop. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
+<a id="read-the-guide"></a>For polish, tighten, cut, and story checks, read the whole guide, in several reads if needed, until you reach its last section, AI patterns. For a narrower request, read the guide's preamble (everything before `## Story`) and the sections the request names. Open a linked rule page when a rule applies and its exceptions or examples matter. After each compaction, reread the notes and the guide sections you still need before continuing to edit.
 
 Read the whole text before editing, including files that contain parts of the same document, such as a LaTeX `\input` or a linked chapter. Edit only within the requested scope. For a length request, measure the text with `wc -w`, state the assumed words per page for a page target, and list planned cuts and their locations in the triage order.
 
@@ -52,7 +52,7 @@ Read the whole text before editing, including files that contain parts of the sa
 
 **Make targeted edits.** Make each replacement with the Edit tool, or an equivalent patch tool, on the shortest span that fixes the finding and is unique in the file. When one sentence has two or more findings, or a finding about its order (numbers before the finding they support, a subject far from its verb), replace the whole sentence, built from that sentence's own content. Moving a sentence within its paragraph is a targeted edit. Batch the independent edits for one section of the text in a single turn where your host allows it. Replace a whole paragraph only when the finding is about the paragraph itself: it makes the wrong point or several points, its sentences are in the wrong order, or most of its sentences have findings. Build such a paragraph from its original sentences, changing only what the findings require. Never rewrite a file that holds the author's text with Write. If you have no editing tool for files, return the edited text with every unchanged sentence exactly as it was.
 
-**Work in the guide's order.** Make the structural changes that the guide allows without the author's request, and flag changes to section order and the contributions list. Within each section of the text, look for findings in this order: claims, cutting, prose, conventions, and patterns of AI-written prose, because each later section works on the result of the earlier ones.
+**Work in the guide's order.** Make the structural changes that the guide allows without the author's request, and flag changes to section order and the contributions list. Within each section of the text, look for findings in this order: claims, cutting, prose, conventions, and AI slop, because each later section works on the result of the earlier ones.
 
 **Propose claim changes; do not make them.** A claim change alters a claim's strength or scope, marks it as conjecture, or resolves a contradiction between two parts of the draft. List each one in the report with the old wording, the proposed wording, and the draft's evidence for it, and leave the text unchanged. Make claim changes only when the request asks you to change claims. The draft's evidence settles a claim's strength when it shows what kind of evidence the claim rests on: a simulation, one dataset, one run, or a comparison without an ablation supports the verb and scope for that kind of evidence, not more. Where "significant" or "significantly" asserts statistical significance and the draft names no test, flag it; where it means large or important, propose the reported difference in its place. Propose no caveat, scope statement, or hedge for any other reason, such as caution or a reviewer's possible objection.
 
@@ -78,7 +78,7 @@ One agent does every step, with no subagents. Write the audit to a notes file, a
 
 ### Questions
 
-Ask before editing only when a question affects several paragraphs, no interpretation is clearly preferable, and a wrong choice would be costly to reverse from the report. Such questions usually concern the story, competing problem statements, or a term that renames a method throughout. Also ask the author to approve a length request's cut plan before cutting, unless the request already lets you choose the cuts. Ask nothing for audit-only requests, overclaiming checks, hedging questions, de-AI passes, or single conventions, and nothing if the request says "no questions". Use a question tool if available, with at most four questions, one option per interpretation, and the default first; wait for the answers. If the tool is absent or refused, do not ask in plain text.
+Ask before editing only when a question affects several paragraphs, no interpretation is clearly preferable, and a wrong choice would be costly to reverse from the report. Such questions usually concern the story, competing problem statements, or a term that renames a method throughout. Also ask the author to approve a length request's cut plan before cutting, unless the request already lets you choose the cuts. Ask nothing for audit-only requests, overclaiming checks, hedging questions, deslopping passes, or single conventions, and nothing if the request says "no questions". Use a question tool if available, with at most four questions, one option per interpretation, and the default first; wait for the answers. If the tool is absent or refused, do not ask in plain text.
 
 ### When you cannot ask
 
