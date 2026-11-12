@@ -1,5 +1,7 @@
 <h1 align="center">camera-ready</h1>
 
+<p align="center"><a href="https://skills.sh/alstonlo/camera-ready"><img src="https://skills.sh/b/alstonlo/camera-ready" alt="skills.sh installs"></a></p>
+
 An editing skill for camera-ready academic writing.
 
 I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizing skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill aims to holistically improve the quality of AI-generated academic writing. It was created by compiling guidance from multiple resources on academic writing and humanizer skills (see [Credits](#credits)). The result is a unified writing guide covering a variety of topics including story crafting, claim calibration, concision, clarity, prose, and AI slop patterns.  Afterwards, I personally tuned it by testing the skill on AI-generated reports and providing feedback.
