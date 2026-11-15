@@ -1,7 +1,7 @@
 ---
 name: camera-ready
 description: Edits academic writing into camera-ready form. This skill can be used for story crafting, claim calibration, cutting text, polishing prose, applying field conventions, deslopping AI-generated text, reviewing a draft, and more. 
-argument-hint: '[paper] [request, e.g. "polish §3" or "cut this to eight pages"]'
+argument-hint: '[style|paper] [request, e.g. "polish §3" or "cut this to eight pages"]'
 disable-model-invocation: true
 allowed-tools: Bash(printenv CAMERA_READY_ROOT)
 license: MIT
@@ -27,7 +27,7 @@ The skill has two modes, each with its own workflow and guide:
 - **Style mode** edits the style of any writing, such as a paragraph, a docstring, a code comment, or documentation, and removes AI patterns. It writes nothing but the edits. Read its [workflow](references/style/workflow.md) and [guide](references/style/guide.md).
 - **Paper mode** edits a paper as a whole: its story, claims, and length, as well as its style. It keeps notes and saves the original. Read its [workflow](references/paper/workflow.md) and [guide](references/paper/guide.md).
 
-The request is the text typed with the skill's name; in Claude Code, it follows `ARGUMENTS:`. A leading `paper` selects paper mode, and so does a request for a story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length; otherwise use style mode. Remove a leading `paper` before classifying the request. Read your mode's workflow and guide before doing any work.
+The request is the text typed with the skill's name; in Claude Code, it follows `ARGUMENTS:`. A leading `style` or `paper` selects that mode. Without one, a request for a story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length selects paper mode; otherwise use style mode. If a leading `style` comes with a request that only paper mode handles, say so and do nothing else. Remove a leading `style` or `paper` before classifying the request. Read your mode's workflow and guide before doing any work.
 
 ## What to edit
 
