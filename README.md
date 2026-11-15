@@ -8,7 +8,7 @@
 
 </div>
 
-I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizing skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill aims to holistically improve the quality of AI-generated academic writing. It was created by compiling guidance from multiple resources on academic writing and humanizer skills (see [Credits](#credits)). The result is a unified writing guide covering a variety of topics including story, claims, cuts, prose, conventions, and AI slop patterns. Afterwards, I refined it by testing the skill on AI-generated papers and making manual edits.
+I created this skill out of frustration with Opus 5's writing style when using agents for exploratory research. Prior humanizer skills generally improved the superficial style of writing but failed to fix the deeper issues that made Opus 5 incomprehensible. This skill aims to holistically improve the quality of AI-generated academic writing. It was created by compiling guidance from multiple resources on academic writing and humanizer skills (see [Credits](#credits)). The result is a unified writing guide covering a variety of topics, including story, claims, cuts, prose, conventions, and AI slop patterns. Afterwards, I refined it by testing the skill on AI-generated papers and making manual edits.
 
 > [!NOTE]
 > Writing is subjective, and this skill reflects just one of many styles and preferences. I welcome any feedback and contributions to improve this skill.
@@ -58,35 +58,35 @@ The skill will read the source text and writing guide, edit the source text acco
 /camera-ready review the story of my paper
 ```
 
-The skill has two modes, style mode and paper mode.
+**Modes.** The skill has two modes, style mode and paper mode. The mode can be specified by using the word "style" or "paper" immediately following the skill command. If unspecified, the skill will choose the mode based on the request.
 
 ### Style mode
 
-By default, the skill runs in style mode, which edits the style of any writing, such as a paragraph, a docstring, or a code comment, and removes AI patterns without saving any files.
+In style mode, the skill edits for writing style, such as improving clarity or removing AI slop patterns. This mode is generally applicable to all types of text and is recommended if you just want to achieve a formal academic writing style.
 
 ```
-/camera-ready tighten this docstring
-/camera-ready deslop this paragraph
+/camera-ready style tighten this docstring
+/camera-ready style deslop this paragraph
 ```
 
 ### Paper mode
 
-Start the request with `paper` to run paper mode, which also works on a paper's story, claims, and length. Requests to check a story or claims, or to cut to a length, always run in paper mode.
+In paper mode, the skill will also try to edit for structural qualities like story, claim strength, or concision, on top of writing style. This mode is recommended if you want more substantive edits and are editing a long-form document like a paper, blog post, or technical report.
 
 ```
-/camera-ready paper polish this section
-/camera-ready cut this to eight pages
+/camera-ready paper polish the introduction
+/camera-ready paper cut this to eight pages
 ```
 
-To aid in its execution, the skill will save a notes file that serves as a working memory of the text's story, outline, claims, and more, and, in edit mode, a backup of the original source texts. By default, these will be saved in a `.camera-ready/` directory at the project root. For example, if you were editing `paper/main.tex`, the skill would create the files:
+In paper mode, the skill will save a notes file that serves as a working memory of the text's story, outline, claims, and more, and, if editing, a backup of the original source texts. By default, these will be saved in a `.camera-ready/` directory at the project root. For example, if you were editing `manuscript/main.tex`, the skill would create the files:
 
 ```
-.camera-ready/paper/
+.camera-ready/manuscript/
     main.orig.tex
     main.notes.md
 ```
 
-To store these files elsewhere, name a directory in the prompt, `CLAUDE.md` or `AGENTS.md`, or set the `CAMERA_READY_ROOT` environment variable.
+To store these files elsewhere, name a directory in the prompt, in `CLAUDE.md` or `AGENTS.md`, or set the `CAMERA_READY_ROOT` environment variable.
 
 ## Credits
 

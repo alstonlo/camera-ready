@@ -14,7 +14,7 @@ You have access to a [writing guide](guide.md) that compiles best-practice *rule
 | deslopping pass | edit with the guide's AI patterns section and the rules it links, then check | minimal prose changes |
 | one convention | edit with that convention and the rules it links, then check | that convention only; flag other errors |
 
-A story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length needs paper mode: say so and do nothing else.
+A story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length needs paper mode: tell the author to start the request with `paper`, and do nothing else.
 
 ## Scope
 
