@@ -4,7 +4,7 @@ Replace "for various reasons" or a list's final "etc." with the draft's reasons 
 
 ## Details
 
-Judge whether a choice needs a reason by what a researcher in the field but outside the subfield needs to know. Check whether the draft explains the following when they are central to the method:
+Judge whether a choice needs a reason by what the intended audience needs to know. Check whether the draft explains the following when they are central to the method:
 
 - Transformations that are not standard in the field.
 - Steps used to prepare samples.

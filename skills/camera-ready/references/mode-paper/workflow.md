@@ -6,6 +6,10 @@ You have access to a [writing guide](guide.md) that compiles best-practice *rule
 
 ## Requests
 
+Note the target files or section, length target, venue, and audience. When the request does not name the venue or the audience, infer them from the text and the files around it, such as a venue's style file or template, and from what the text assumes its readers already know. List an inferred venue or audience under Assumptions in the report. Follow the matching row of the table below; for other requests, apply the relevant guide sections within the requested scope. The row limits every later step.
+
+A request is a review only when it uses the word "review" for what you should do, as in "review my introduction". The words "check", "audit", and "critique" do not make it one, and neither does a mention of reviewers or reviews, as in "address the reviewers' comments". A review changes nothing, whatever else the request asks.
+
 | Request | What you do | What you may change |
 |---|---|---|
 | polish | audit, edit, check | prose, conventions, mechanical errors, bloat; no idea-level cuts; claims only as proposals |
@@ -78,7 +82,7 @@ If notes for the same document exist, update them: revise quotations that change
 - Target: paper/main.tex
 - Length target: none
 - Venue: NeurIPS
-- Audience: machine learning researchers outside the paper's subfield
+- Audience: machine learning researchers (inferred from the venue)
 - [ ] Save the original
 - [ ] Audit
 - [ ] Ask

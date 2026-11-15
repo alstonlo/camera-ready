@@ -1,6 +1,6 @@
 # Revise cuts when stop rules apply
 
-If a cut leaves a paragraph without needed explanation or support, or breaks its [topic string](../prose/topic-string.md), merge it with an adjacent paragraph that makes the same point, or restore what is missing. Before cutting a confusing passage, look for a missing step or [referent](../prose/referents.md). Restore it only from elsewhere in the draft, or flag it. If a reader outside the subfield cannot follow the shortened passage, restore the needed context and steps instead of cutting further. These stop rules override the length target. Never meet a target by adding negative `\vspace`, reducing font sizes, or narrowing figures; report the remaining excess instead.
+If a cut leaves a paragraph without needed explanation or support, or breaks its [topic string](../prose/topic-string.md), merge it with an adjacent paragraph that makes the same point, or restore what is missing. Before cutting a confusing passage, look for a missing step or [referent](../prose/referents.md). Restore it only from elsewhere in the draft, or flag it. If a reader from the intended audience cannot follow the shortened passage, restore the needed context and steps instead of cutting further. These stop rules override the length target. Never meet a target by adding negative `\vspace`, reducing font sizes, or narrowing figures; report the remaining excess instead.
 
 ## Details
 

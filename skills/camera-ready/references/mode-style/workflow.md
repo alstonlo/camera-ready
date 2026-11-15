@@ -6,6 +6,10 @@ You have access to a [writing guide](guide.md) that compiles best-practice *rule
 
 ## Requests
 
+Note the target text and its audience. When the request does not name the audience, infer it from the text and the files around it, such as a project's README or a venue's template, and from what the text assumes its readers already know. Follow the matching row of the table below; for other requests, apply the relevant guide sections within the requested scope. The row limits every later step.
+
+A request is a review only when it uses the word "review" for what you should do, as in "review my introduction". The words "check", "audit", and "critique" do not make it one, and neither does a mention of reviewers or reviews, as in "address the reviewers' comments". A review changes nothing, whatever else the request asks.
+
 | Request | What you do | What you may change |
 |---|---|---|
 | polish | edit with every section of the guide, then check | prose, conventions, mechanical errors, bloat |

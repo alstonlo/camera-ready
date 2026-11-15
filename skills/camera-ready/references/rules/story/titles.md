@@ -1,6 +1,6 @@
 # Flag titles that are unclear or overstate the contribution
 
-Flag a title that hides the subject, omits searchable terms for what distinguishes the work, has two reasonable readings, contains needless wording, overstates or understates the contribution, or uses an acronym unfamiliar outside the subfield ([acronym rule](../conventions/acronyms.md)). Suggest a revision that keeps the body's claim strength and conditions. Leave the title unchanged, and follow venue requirements.
+Flag a title that hides the subject, omits searchable terms for what distinguishes the work, has two reasonable readings, contains needless wording, overstates or understates the contribution, or uses an acronym unfamiliar to the intended audience ([acronym rule](../conventions/acronyms.md)). Suggest a revision that keeps the body's claim strength and conditions. Leave the title unchanged, and follow venue requirements.
 
 ## Details
 
