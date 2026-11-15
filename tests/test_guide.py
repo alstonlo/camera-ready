@@ -10,10 +10,11 @@ def page(*sections: str) -> str:
     return "\n\n".join(["# Use verbs for actions", "Write actions as verbs.", *sections]) + "\n"
 
 
-def test_guide_is_up_to_date():
-    assert make_guide.GUIDE.read_text() == make_guide.build(), (
-        "references/guide.md is out of date; run python3 scripts/make_guide.py"
-    )
+def test_guides_are_up_to_date():
+    for path, text in make_guide.build().items():
+        assert path.read_text() == text, (
+            f"{path.relative_to(make_guide.SKILL)} is out of date; run python3 scripts/make_guide.py"
+        )
 
 
 @pytest.mark.parametrize(
@@ -114,7 +115,7 @@ def test_fenced_headings_stay_in_their_section():
 
 def test_relink_resolves_relative_rule_links():
     assert make_guide.relink("../prose/verbs.md", "story/titles", {"prose/verbs"}) == (
-        "rules/prose/verbs.md"
+        "../rules/prose/verbs.md"
     )
 
 
@@ -129,56 +130,83 @@ def test_relink_rejects_targets_that_are_not_rule_pages(target: str):
     [("Write verbs.", " "), ("- Write verbs.", "\n\n"), ("> Write verbs.", "\n\n")],
 )
 def test_render_puts_block_summaries_on_their_own_line(summary: str, sep: str):
-    lead = "**[Use verbs](rules/prose/verbs.md).**"
+    lead = "**[Use verbs](../rules/prose/verbs.md).**"
     assert make_guide.render("prose/verbs", "Use verbs", summary, set()) == lead + sep + summary
 
 
 TEMPLATE = "# Guide\n\n```markdown\n## Details\n```\n\n## Prose\n\n{{prose/verbs}}\n"
 
 
+def write(repo, paper: str = TEMPLATE, style: str = TEMPLATE, skill: str = "\n"):
+    (repo / "SKILL.md").write_text(skill)
+    for mode, template in [("paper", paper), ("style", style)]:
+        (make_guide.TEMPLATES / f"{mode}.md").write_text(template)
+
+
 @pytest.fixture
 def repo(tmp_path, monkeypatch):
     skill = tmp_path / "skill"
-    rules = skill / "references" / "rules"
-    (rules / "prose").mkdir(parents=True)
-    (rules / "prose" / "verbs.md").write_text(page("## Details", "More cases.", "## Examples", EX1))
+    refs = skill / "references"
+    (refs / "rules" / "prose").mkdir(parents=True)
+    (refs / "rules" / "prose" / "verbs.md").write_text(
+        page("## Details", "More cases.", "## Examples", EX1)
+    )
+    for mode in make_guide.MODES:
+        (refs / mode).mkdir()
+        (refs / mode / "workflow.md").write_text("\n")
+    (tmp_path / "templates").mkdir()
     monkeypatch.setattr(make_guide, "SKILL", skill)
-    monkeypatch.setattr(make_guide, "RULES", rules)
-    monkeypatch.setattr(make_guide, "GUIDE", skill / "references" / "guide.md")
-    monkeypatch.setattr(make_guide, "TEMPLATE", tmp_path / "guide.template.md")
+    monkeypatch.setattr(make_guide, "REFS", refs)
+    monkeypatch.setattr(make_guide, "RULES", refs / "rules")
+    monkeypatch.setattr(make_guide, "TEMPLATES", tmp_path / "templates")
     return skill
 
 
 def test_build_accepts_valid_links(repo):
-    (repo / "SKILL.md").write_text(
-        "Read the [guide](references/guide.md), [prose](references/guide.md#prose), "
+    skill = (
+        "Read the [guide](references/paper/guide.md), [prose](references/paper/guide.md#prose), "
         '[verbs](references/rules/prose/verbs.md), and [edit](#edit).\n\n<a id="edit"></a>\n'
     )
-    make_guide.TEMPLATE.write_text(TEMPLATE + "\nSee [prose](#prose).\n")
-    assert "**[Use verbs for actions](rules/prose/verbs.md).** Write" in make_guide.build()
+    write(repo, paper=TEMPLATE + "\nSee [prose](#prose).\n", skill=skill)
+    (repo / "references" / "style" / "workflow.md").write_text("Read the [guide](guide.md).\n")
+    guide = make_guide.build()[repo / "references" / "paper" / "guide.md"]
+    assert "**[Use verbs for actions](../rules/prose/verbs.md).** Write" in guide
 
 
 @pytest.mark.parametrize(
     ("skill", "extra"),
     [
-        ("[x](references/guide.md#nope)", ""),
+        ("[x](references/paper/guide.md#nope)", ""),
         ("[x](references/rule/prose/verbs.md)", ""),
         ("[x](references/rules/prose/verbs)", ""),
         ("[x](#nope)", ""),
         ("", "See [details](#details).\n"),
-        ("", "See [nouns](rules/prose/nouns.md).\n"),
+        ("", "See [nouns](../rules/prose/nouns.md).\n"),
     ],
 )
 def test_build_rejects_broken_links(repo, skill: str, extra: str):
-    (repo / "SKILL.md").write_text(skill + "\n")
-    make_guide.TEMPLATE.write_text(TEMPLATE + "\n" + extra)
+    write(repo, paper=TEMPLATE + "\n" + extra, skill=skill + "\n")
+    with pytest.raises(SystemExit):
+        make_guide.build()
+
+
+def test_build_rejects_broken_links_in_workflows(repo):
+    write(repo)
+    (repo / "references" / "style" / "workflow.md").write_text("See [x](guide.md#nope).\n")
+    with pytest.raises(SystemExit):
+        make_guide.build()
+
+
+def test_only_the_full_template_must_hold_every_rule(repo):
+    write(repo, style="# Guide\n")
+    assert make_guide.build()[repo / "references" / "style" / "guide.md"] == "# Guide\n"
+    write(repo, paper="# Guide\n")
     with pytest.raises(SystemExit):
         make_guide.build()
 
 
 def test_build_rejects_pages_outside_section_folders(repo):
-    (repo / "SKILL.md").write_text("\n")
-    make_guide.TEMPLATE.write_text(TEMPLATE)
+    write(repo)
     (make_guide.RULES / "stray.md").write_text("# Stray\n")
     with pytest.raises(SystemExit):
         make_guide.build()

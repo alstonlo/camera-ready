@@ -6,9 +6,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / "skills" / "camera-ready"
-RULES = SKILL / "references" / "rules"
-GUIDE = SKILL / "references" / "guide.md"
-TEMPLATE = ROOT / "scripts" / "guide.template.md"
+REFS = SKILL / "references"
+RULES = REFS / "rules"
+TEMPLATES = ROOT / "scripts" / "templates"
+MODES = ["style", "paper"]
+FULL = "paper"  # the mode whose guide must hold every rule
 
 SLOT = re.compile(r"^\{\{([a-z0-9-]+/[a-z0-9-]+)\}\}$", flags=re.M)
 LINK = re.compile(r"\]\(([^)]+)\)")
@@ -77,12 +79,12 @@ def relink(target: str, name: str, names: set[str]) -> str:
     path = posixpath.normpath(posixpath.join(posixpath.dirname(name), target))
     if not path.endswith(".md") or path.removesuffix(".md") not in names:
         fail(f"{name}.md: link to {target} is neither a URL nor a rule page")
-    return f"rules/{path}"
+    return f"../rules/{path}"
 
 
 def render(name: str, title: str, summary: str, names: set[str]) -> str:
     summary = LINK.sub(lambda m: f"]({relink(m[1], name, names)})", summary)
-    lead = f"**[{title}](rules/{name}.md).**"
+    lead = f"**[{title}](../rules/{name}.md).**"
     if re.match(r"[-*+>] |\d+\. |\||```", summary):
         return f"{lead}\n\n{summary}"
     return f"{lead} {summary}"
@@ -98,7 +100,7 @@ def anchors(text: str) -> set[str]:
     return heads | set(re.findall(r'<a id="([\w-]+)"></a>', text))
 
 
-def build() -> str:
+def build() -> dict[Path, str]:
     stray = set(RULES.rglob("*.md")) - set(RULES.glob("*/*.md"))
     if stray:
         fail(f"rule pages must sit at rules/<section>/<name>.md: {sorted(map(str, stray))}")
@@ -114,18 +116,23 @@ def build() -> str:
         for target in LINK.findall(text):
             relink(target, name, names)
 
-    template = TEMPLATE.read_text()
-    slots = SLOT.findall(template)
+    guides = {}
+    for mode in MODES:
+        template = (TEMPLATES / f"{mode}.md").read_text()
+        slots = SLOT.findall(template)
 
-    unknown = sorted(set(slots) - names)
-    unused = sorted(names - set(slots))
-    repeated = sorted({s for s in slots if slots.count(s) > 1})
-    if unknown or unused or repeated:
-        fail(f"template slots: unknown {unknown}, missing {unused}, repeated {repeated}")
+        unknown = sorted(set(slots) - names)
+        unused = sorted(names - set(slots)) if mode == FULL else []
+        repeated = sorted({s for s in slots if slots.count(s) > 1})
+        if unknown or unused or repeated:
+            fail(f"{mode} template slots: unknown {unknown}, missing {unused}, repeated {repeated}")
 
-    guide = SLOT.sub(lambda m: render(m[1], *rules[m[1]], names), template)
+        guides[REFS / mode / "guide.md"] = SLOT.sub(
+            lambda m: render(m[1], *rules[m[1]], names), template
+        )
 
-    texts = {SKILL / "SKILL.md": (SKILL / "SKILL.md").read_text(), GUIDE: guide}
+    docs = [SKILL / "SKILL.md", *(REFS / mode / "workflow.md" for mode in MODES)]
+    texts = {page: page.read_text() for page in docs} | guides
     for page, text in texts.items():
         for target in LINK.findall(text):
             if target.startswith(("http://", "https://")):
@@ -134,11 +141,12 @@ def build() -> str:
             path, _, anchor = target.partition("#")
             dest = (page.parent / path).resolve() if path else page
             if dest not in texts and not dest.is_file():
-                fail(f"{page.name}: link to missing file {target}")
+                fail(f"{page.relative_to(SKILL)}: link to missing file {target}")
             if anchor and anchor not in anchors(texts.get(dest) or dest.read_text()):
-                fail(f"{page.name}: link to missing heading {target}")
-    return guide
+                fail(f"{page.relative_to(SKILL)}: link to missing heading {target}")
+    return guides
 
 
 if __name__ == "__main__":
-    GUIDE.write_text(build())
+    for path, text in build().items():
+        path.write_text(text)
