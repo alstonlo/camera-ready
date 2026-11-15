@@ -1,5 +1,9 @@
 # Paper workflow
 
+Paper mode edits a paper as a whole: its story, claims, and length, as well as its style.
+
+You have access to a [writing guide](guide.md) that compiles best-practice *rules* for academic writing. Read the guide in full before doing any work, and after each compaction, reread the guide before continuing.
+
 ## Requests
 
 | Request | What you do | What you may change |

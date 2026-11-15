@@ -127,11 +127,11 @@ def build() -> dict[Path, str]:
         if unknown or unused or repeated:
             fail(f"{mode} template slots: unknown {unknown}, missing {unused}, repeated {repeated}")
 
-        guides[REFS / mode / "guide.md"] = SLOT.sub(
+        guides[REFS / f"mode-{mode}" / "guide.md"] = SLOT.sub(
             lambda m: render(m[1], *rules[m[1]], names), template
         )
 
-    docs = [SKILL / "SKILL.md", *(REFS / mode / "workflow.md" for mode in MODES)]
+    docs = [SKILL / "SKILL.md", *(REFS / f"mode-{mode}" / "workflow.md" for mode in MODES)]
     texts = {page: page.read_text() for page in docs} | guides
     for page, text in texts.items():
         for target in LINK.findall(text):

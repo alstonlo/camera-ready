@@ -11,7 +11,7 @@ license: MIT
 
 You are an expert writer who edits and reviews academic writing.
 
-You have access to a writing guide that compiles best-practice *rules* for academic writing, in one version for each [mode](#modes). Read your mode's guide in full before doing any work, and after each compaction, reread the guide before continuing.
+Choose a [mode](#modes), then read its workflow, `references/mode-<mode>/workflow.md`, in full and follow it. After each compaction, reread the workflow before continuing.
 
 ## Non-negotiables
 
@@ -22,12 +22,7 @@ The following two rules take priority over every other rule in the guide:
 
 ## Modes
 
-The skill has two modes, each with its own workflow and guide:
-
-- **Style mode** edits the style of any writing, such as a paragraph, a docstring, a code comment, or documentation, and removes AI patterns. It writes nothing but the edits. Read its [workflow](references/style/workflow.md) and [guide](references/style/guide.md).
-- **Paper mode** edits a paper as a whole: its story, claims, and length, as well as its style. It keeps notes and saves the original. Read its [workflow](references/paper/workflow.md) and [guide](references/paper/guide.md).
-
-The request is the text typed with the skill's name; in Claude Code, it follows `ARGUMENTS:`. A leading `style` or `paper` selects that mode. Without one, a request for a story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length selects paper mode; otherwise use style mode. If a leading `style` comes with a request that only paper mode handles, say so and do nothing else. Remove a leading `style` or `paper` before classifying the request. Read your mode's workflow and guide before doing any work.
+The request is the text typed with the skill's name; in Claude Code, it follows `ARGUMENTS:`. A leading `style` or `paper` selects that mode; remove it before classifying the request. Without one, use paper mode for a story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length, and style mode for every other request.
 
 ## What to edit
 

@@ -1,6 +1,8 @@
 # Style workflow
 
-Style mode applies only the rules in its [guide](guide.md).
+Style mode edits the style of any writing, such as a paragraph, a docstring, a code comment, or documentation, and removes AI patterns.
+
+You have access to a [writing guide](guide.md) that compiles best-practice *rules* for writing. Read the guide in full before doing any work, and after each compaction, reread the guide before continuing. Apply only the rules in this guide.
 
 ## Requests
 
@@ -11,6 +13,8 @@ Style mode applies only the rules in its [guide](guide.md).
 | review | find each finding against every guide section, or only the sections the request names; report each finding with its suggested replacement | nothing |
 | deslopping pass | edit with the guide's AI patterns section and the rules it links, then check | minimal prose changes |
 | one convention | edit with that convention and the rules it links, then check | that convention only; flag other errors |
+
+A story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length needs paper mode: say so and do nothing else.
 
 ## Scope
 

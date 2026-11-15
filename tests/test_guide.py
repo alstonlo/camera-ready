@@ -13,7 +13,8 @@ def page(*sections: str) -> str:
 def test_guides_are_up_to_date():
     for path, text in make_guide.build().items():
         assert path.read_text() == text, (
-            f"{path.relative_to(make_guide.SKILL)} is out of date; run python3 scripts/make_guide.py"
+            f"{path.relative_to(make_guide.SKILL)} is out of date; "
+            "run python3 scripts/make_guide.py"
         )
 
 
@@ -152,8 +153,8 @@ def repo(tmp_path, monkeypatch):
         page("## Details", "More cases.", "## Examples", EX1)
     )
     for mode in make_guide.MODES:
-        (refs / mode).mkdir()
-        (refs / mode / "workflow.md").write_text("\n")
+        (refs / f"mode-{mode}").mkdir()
+        (refs / f"mode-{mode}" / "workflow.md").write_text("\n")
     (tmp_path / "templates").mkdir()
     monkeypatch.setattr(make_guide, "SKILL", skill)
     monkeypatch.setattr(make_guide, "REFS", refs)
@@ -164,19 +165,20 @@ def repo(tmp_path, monkeypatch):
 
 def test_build_accepts_valid_links(repo):
     skill = (
-        "Read the [guide](references/paper/guide.md), [prose](references/paper/guide.md#prose), "
+        "Read the [guide](references/mode-paper/guide.md), "
+        "[prose](references/mode-paper/guide.md#prose), "
         '[verbs](references/rules/prose/verbs.md), and [edit](#edit).\n\n<a id="edit"></a>\n'
     )
     write(repo, paper=TEMPLATE + "\nSee [prose](#prose).\n", skill=skill)
-    (repo / "references" / "style" / "workflow.md").write_text("Read the [guide](guide.md).\n")
-    guide = make_guide.build()[repo / "references" / "paper" / "guide.md"]
+    (repo / "references" / "mode-style" / "workflow.md").write_text("Read the [guide](guide.md).\n")
+    guide = make_guide.build()[repo / "references" / "mode-paper" / "guide.md"]
     assert "**[Use verbs for actions](../rules/prose/verbs.md).** Write" in guide
 
 
 @pytest.mark.parametrize(
     ("skill", "extra"),
     [
-        ("[x](references/paper/guide.md#nope)", ""),
+        ("[x](references/mode-paper/guide.md#nope)", ""),
         ("[x](references/rule/prose/verbs.md)", ""),
         ("[x](references/rules/prose/verbs)", ""),
         ("[x](#nope)", ""),
@@ -192,14 +194,14 @@ def test_build_rejects_broken_links(repo, skill: str, extra: str):
 
 def test_build_rejects_broken_links_in_workflows(repo):
     write(repo)
-    (repo / "references" / "style" / "workflow.md").write_text("See [x](guide.md#nope).\n")
+    (repo / "references" / "mode-style" / "workflow.md").write_text("See [x](guide.md#nope).\n")
     with pytest.raises(SystemExit):
         make_guide.build()
 
 
 def test_only_the_full_template_must_hold_every_rule(repo):
     write(repo, style="# Guide\n")
-    assert make_guide.build()[repo / "references" / "style" / "guide.md"] == "# Guide\n"
+    assert make_guide.build()[repo / "references" / "mode-style" / "guide.md"] == "# Guide\n"
     write(repo, paper="# Guide\n")
     with pytest.raises(SystemExit):
         make_guide.build()
