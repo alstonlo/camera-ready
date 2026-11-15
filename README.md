@@ -62,7 +62,7 @@ The skill will read the source text and writing guide, edit the source text acco
 
 ### Style mode
 
-In style mode, the skill edits for writing style, such as improving clarity or removing AI slop patterns. This mode is generally applicable to all types of text and is recommended if you just want to achieve a formal academic writing style.
+In style mode, the skill edits for writing style, such as improving clarity or removing AI slop patterns. This mode is recommended if you just want to achieve a formal academic writing style.
 
 ```
 /camera-ready style tighten this docstring
