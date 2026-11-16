@@ -1,6 +1,6 @@
-# Style workflow
+# Text workflow
 
-Style mode edits the style of any writing, such as a paragraph, a docstring, a code comment, or documentation, and removes AI patterns.
+Text mode edits the style of any writing, such as a paragraph, a docstring, a code comment, or documentation, and removes AI patterns.
 
 You have access to a [writing guide](guide.md) that compiles best-practice *rules* for writing. Read the guide in full before doing any work, and after each compaction, reread the guide before continuing. Apply only the rules in this guide.
 
@@ -22,7 +22,7 @@ A story, flow, or argument check, an overclaiming check, a hedging question, or 
 
 ## Scope
 
-Leave every claim as the author wrote it: change no claim's strength or scope, and add or remove no hedge. When a rule links to a rule page that the guide does not include, such as a page on claims or on cutting ideas, the case is outside style mode: leave the text and flag the problem.
+Leave every claim as the author wrote it: change no claim's strength or scope, and add or remove no hedge. When a rule links to a rule page that the guide does not include, such as a page on claims or on cutting ideas, the case is outside text mode: leave the text and flag the problem.
 
 In a code file, edit only the prose of comments and docstrings. Preserve the comment syntax, the docstring's field names and layout, identifiers, directives such as `# noqa`, code examples, and what the text says the code does. If a comment disagrees with the code, flag it instead of fixing it. Follow the conventions of the language and of the kind of text, not those of a paper.
 

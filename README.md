@@ -58,15 +58,15 @@ The skill will read the source text and writing guide, edit the source text acco
 /camera-ready review the story of my paper
 ```
 
-**Modes.** The skill has two modes, style mode and paper mode. The mode can be specified by using the word "style" or "paper" immediately following the skill command. If unspecified, the skill will choose the mode based on the request.
+**Modes.** The skill has two modes, text mode and paper mode. The mode can be specified by using the word "text" or "paper" immediately following the skill command. If unspecified, the skill will choose the mode based on the request.
 
-### Style mode
+### Text mode
 
-In style mode, the skill edits for writing style, such as improving clarity or removing AI slop patterns. This mode is recommended if you just want to achieve a formal academic writing style.
+In text mode, the skill edits for writing style, such as improving clarity or removing AI slop patterns. This mode is recommended if you just want to achieve a formal academic writing style.
 
 ```
-/camera-ready style tighten this docstring
-/camera-ready style deslop this paragraph
+/camera-ready text tighten this docstring
+/camera-ready text deslop this paragraph
 ```
 
 ### Paper mode

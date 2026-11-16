@@ -4,7 +4,7 @@ This project follows [Semantic Versioning](https://semver.org/). The version is 
 
 ## Unreleased
 
-- Changed the lite and full modes into a style and paper mode.
+- Changed the lite and full modes into a text and paper mode.
 - Gave each mode its own workflow and guide.
 - Renamed the guide sections Cutting and Deslopping.
 - Improved the writing of the README and the skill instructions.

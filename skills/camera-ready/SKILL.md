@@ -1,7 +1,7 @@
 ---
 name: camera-ready
 description: Edits academic writing into camera-ready form. This skill can be used for story crafting, claim calibration, cutting text, polishing prose, applying field conventions, deslopping AI-generated text, reviewing a draft, and more. 
-argument-hint: '[style|paper] [request, e.g. "polish §3" or "cut this to eight pages"]'
+argument-hint: '[text|paper] [request, e.g. "polish §3" or "cut this to eight pages"]'
 disable-model-invocation: true
 allowed-tools: Bash(printenv CAMERA_READY_ROOT)
 license: MIT
@@ -22,7 +22,7 @@ The following two rules take priority over every other rule in the guide:
 
 ## Choosing a mode
 
-The request is the text typed with the skill's name; in Claude Code, it follows `ARGUMENTS:`. A leading `style` or `paper` selects that mode; remove it before classifying the request. Without one, use paper mode for a story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length, and style mode for every other request.
+The request is the text typed with the skill's name; in Claude Code, it follows `ARGUMENTS:`. A leading `text` or `paper` selects that mode; remove it before classifying the request. Without one, use paper mode for a story, flow, or argument check, an overclaiming check, a hedging question, or a cut to a length, and text mode for every other request.
 
 ## Finding the input text
 
