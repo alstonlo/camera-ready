@@ -1,6 +1,6 @@
 # References
 
-The following are sources cited by the deep research reports used to create this skill. Note that this does not necessarily mean that the sources support the contents of this skill, since they were gathered (and possibly misinterpreted) by Claude. Rather, they directly or indirectly contributed to the skill and are thus included:
+The following are sources cited by the deep research reports used to initialize this skill. Note that this does not necessarily mean that the sources support the contents of this skill, since they were gathered (and possibly misinterpreted) by Claude. Rather, they directly or indirectly contributed to the skill and are thus included:
 
 - Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, and Marc G. Bellemare (2022). [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264).
 - Adrian Barnett and Zoe Doubleday (2020). [Meta-Research: The growth of acronyms in the scientific literature](https://doi.org/10.7554/eLife.60080).
@@ -44,7 +44,7 @@ The following are sources cited by the deep research reports used to create this
 - Jennifer Widom (2006). [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html).
 - Stefanie Wulff, Ute Römer, and John Swales (2012). [Attended/unattended this in academic student writing: Quantitative and qualitative perspectives](https://doi.org/10.1515/cllt-2012-0006).
 
-I found the following sources myself, and Claude added their advice to the skill:
+The following are sources I manually curated to refine the skill:
 
 - Michael Alley (2018). The Craft of Scientific Writing.
 - Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald (2024). The Craft of Research.

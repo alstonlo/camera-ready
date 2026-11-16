@@ -13,7 +13,7 @@ Flag table layouts that separate comparison partners or obscure groups; suggest 
 ## Details
 
 - Table cells and units: A blank cell or dash can mean that a value is unavailable, unsupported, or inapplicable. Never assume it means zero. Propose a table note or header repair that explains the blanks, dashes, or units, without changing data or computing new columns.
-- Page limits: For formatting changes intended to meet a page limit, follow the [stop rules](../cutting/stop-rules.md).
+- Page limits: For formatting changes intended to meet a page limit, follow the [stop rules](../cuts/stop-rules.md).
 - Fitted relationships: For claims about a relationship estimated by fitting a model to data, follow [statistical significance](../claims/statistical-significance.md).
 
 ## Examples

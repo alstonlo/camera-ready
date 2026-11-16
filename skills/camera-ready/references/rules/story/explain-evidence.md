@@ -1,6 +1,6 @@
 # Explain why the evidence supports the claim
 
-When readers outside the subfield may not see how the evidence supports a claim, explain the reasoning and check that its assumptions hold in this study. Flag a connection the draft omits. Follow [scope](../claims/scope.md) for claims that exceed what the measurement establishes, and [formal support](../claims/evidence-kind.md) for conclusions from a theorem.
+When the intended audience may not see how the evidence supports a claim, explain the reasoning and check that its assumptions hold in this study. Flag a connection the draft omits. Follow [scope](../claims/scope.md) for claims that exceed what the measurement establishes, and [formal support](../claims/evidence-kind.md) for conclusions from a theorem.
 
 ## Details
 

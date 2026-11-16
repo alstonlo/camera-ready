@@ -1,6 +1,6 @@
 # State the content a signpost announces
 
-Replace a signpost with the content it announces and, if needed, a location reference. Keep references that locate content, subject to the [abstract rule](../story/section-functions.md), and [genuine transitions and summaries](../cutting/protected-sentences.md). Keep a roadmap of at most two sentences at the end of an introduction or chapter opening unless the contributions already name their sections ([contribution claims](../story/contribution-claims.md)). Delete announcements that state no content, roadmaps within a section that repeat its subheadings, and signposts that take more effort to understand than they save.
+Replace a signpost with the content it announces and, if needed, a location reference. Keep references that locate content, subject to the [abstract rule](../story/section-functions.md), and [genuine transitions and summaries](../cuts/protected-sentences.md). Keep a roadmap of at most two sentences at the end of an introduction or chapter opening unless the contributions already name their sections ([contribution claims](../story/contribution-claims.md)). Delete announcements that state no content, roadmaps within a section that repeat its subheadings, and signposts that take more effort to understand than they save.
 
 For each roadmap you keep, check that its item count, order, names, and distinctions match the actual sections or items. Correct mismatches that the draft resolves unambiguously, and flag conflicting categories.
 

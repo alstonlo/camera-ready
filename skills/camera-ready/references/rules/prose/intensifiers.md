@@ -1,6 +1,6 @@
 # Cut words that add only emphasis
 
-Replace "very", "extremely", and similar words with the [measurement](quantified-comparatives.md) when the draft supplies it; otherwise, cut only the emphasis. Treat softeners such as "essentially" and "largely" as [hedges](../claims/hedges.md). Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a derivation or proof step that is routine for readers outside the subfield. Flag unexplained nonroutine steps and wording that substitutes for an argument.
+Replace "very", "extremely", and similar words with the [measurement](quantified-comparatives.md) when the draft supplies it; otherwise, cut only the emphasis. Treat softeners such as "essentially" and "largely" as [hedges](../claims/hedges.md). Delete "Note that" and similar prompts unless they prevent a likely misreading. Keep "obviously", "clearly", or "trivially" only before a derivation or proof step that is routine for the intended audience. Flag unexplained nonroutine steps and wording that substitutes for an argument.
 
 ## Details
 
@@ -36,7 +36,7 @@ The prompt stays to prevent readers from mistaking a lack of detected damage for
 
 > **After.** Clearly, adding zero leaves the sum unchanged, so we can safely drop the last term.
 
-The word "Clearly" can stay because adding zero is a routine step for readers outside the subfield.
+The word "Clearly" can stay because adding zero is a routine step for the intended audience.
 
 **Edit 5.**
 

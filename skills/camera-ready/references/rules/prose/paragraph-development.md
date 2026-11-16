@@ -4,7 +4,7 @@ State the point as a specific claim in the first sentence rather than [announcin
 
 ## Details
 
-- Openings: For generic context, follow [generic openings](../deslopping/generic-openings-closings.md). For a question that merely connects paragraphs, follow [rhetorical questions](../deslopping/rhetorical-questions.md).
+- Openings: For generic context, follow [generic openings](../slop/generic-openings-closings.md). For a question that merely connects paragraphs, follow [rhetorical questions](../slop/rhetorical-questions.md).
 - Closings: End on the paragraph's point or a supported implication. Keep a useful connection to the next paragraph. Move an unrelated closing topic to its own paragraph. Do not add a summary sentence to every short paragraph.
 
 ## Examples

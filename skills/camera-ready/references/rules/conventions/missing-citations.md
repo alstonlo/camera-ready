@@ -1,6 +1,6 @@
 # Flag missing citations and citation keys absent from the references
 
-Flag technical claims presented as prior knowledge without an identifiable source, and citation keys missing from the supplied references. Common knowledge needs no citation, but never delete an existing citation as unnecessary. Preserve secondhand wording such as "as cited in". Follow [vague attribution](../deslopping/vague-attribution.md) for "Studies show". For a specific passage or result cited from a book or long survey, flag a missing page, section, or theorem locator.
+Flag technical claims presented as prior knowledge without an identifiable source, and citation keys missing from the supplied references. Common knowledge needs no citation, but never delete an existing citation as unnecessary. Preserve secondhand wording such as "as cited in". Follow [vague attribution](../slop/vague-attribution.md) for "Studies show". For a specific passage or result cited from a book or long survey, flag a missing page, section, or theorem locator.
 
 ## Details
 

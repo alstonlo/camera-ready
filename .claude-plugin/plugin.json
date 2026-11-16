@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "camera-ready",
   "description": "Edits academic writing into camera-ready form.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": {
     "name": "alstonlo",
     "url": "https://github.com/alstonlo"

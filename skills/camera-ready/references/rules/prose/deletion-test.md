@@ -4,7 +4,7 @@ Test every clause by deleting it. Keep a deletion only if the word or clause add
 
 ## Details
 
-Brevity alone does not justify an edit. Keep distinctions even when simpler wording conveys the general idea. Compare the exact cases in which each version holds, including values equal to a threshold, the population measured, and the denominator of any rate or fraction. Structural words include articles and "that" after verbs such as "show" and "find". When cutting ideas rather than tightening wording, follow [cutting permissions](../cutting/idea-cuts.md) and [protected content](../cutting/protected-sentences.md).
+Brevity alone does not justify an edit. Keep distinctions even when simpler wording conveys the general idea. Compare the exact cases in which each version holds, including values equal to a threshold, the population measured, and the denominator of any rate or fraction. Structural words include articles and "that" after verbs such as "show" and "find". When cutting ideas rather than tightening wording, follow [cutting permissions](../cuts/idea-cuts.md) and [protected content](../cuts/protected-sentences.md).
 
 ## Examples
 
