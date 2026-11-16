@@ -58,7 +58,7 @@ The skill will read the source text and writing guide, edit the source text acco
 /camera-ready review the story of my paper
 ```
 
-**Modes.** The skill has two modes, text mode and paper mode. The mode can be specified by using the word "text" or "paper" immediately following the skill command. If unspecified, the skill will choose the mode based on the request.
+The skill has two modes, text mode and paper mode. The mode can be specified by using the word "text" or "paper" immediately following the skill command. If unspecified, the skill will choose the mode based on the request.
 
 ### Text mode
 
