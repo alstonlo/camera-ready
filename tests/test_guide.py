@@ -138,9 +138,9 @@ def test_render_puts_block_summaries_on_their_own_line(summary: str, sep: str):
 TEMPLATE = "# Guide\n\n```markdown\n## Details\n```\n\n## Prose\n\n{{prose/verbs}}\n"
 
 
-def write(repo, paper: str = TEMPLATE, style: str = TEMPLATE, skill: str = "\n"):
+def write(repo, paper: str = TEMPLATE, text: str = TEMPLATE, skill: str = "\n"):
     (repo / "SKILL.md").write_text(skill)
-    for mode, template in [("paper", paper), ("style", style)]:
+    for mode, template in [("paper", paper), ("text", text)]:
         (make_guide.TEMPLATES / f"{mode}.md").write_text(template)
 
 
@@ -170,7 +170,7 @@ def test_build_accepts_valid_links(repo):
         '[verbs](references/rules/prose/verbs.md), and [edit](#edit).\n\n<a id="edit"></a>\n'
     )
     write(repo, paper=TEMPLATE + "\nSee [prose](#prose).\n", skill=skill)
-    (repo / "references" / "mode-style" / "workflow.md").write_text("Read the [guide](guide.md).\n")
+    (repo / "references" / "mode-text" / "workflow.md").write_text("Read the [guide](guide.md).\n")
     guide = make_guide.build()[repo / "references" / "mode-paper" / "guide.md"]
     assert "**[Use verbs for actions](../rules/prose/verbs.md).** Write" in guide
 
@@ -194,14 +194,14 @@ def test_build_rejects_broken_links(repo, skill: str, extra: str):
 
 def test_build_rejects_broken_links_in_workflows(repo):
     write(repo)
-    (repo / "references" / "mode-style" / "workflow.md").write_text("See [x](guide.md#nope).\n")
+    (repo / "references" / "mode-text" / "workflow.md").write_text("See [x](guide.md#nope).\n")
     with pytest.raises(SystemExit):
         make_guide.build()
 
 
 def test_only_the_full_template_must_hold_every_rule(repo):
-    write(repo, style="# Guide\n")
-    assert make_guide.build()[repo / "references" / "mode-style" / "guide.md"] == "# Guide\n"
+    write(repo, text="# Guide\n")
+    assert make_guide.build()[repo / "references" / "mode-text" / "guide.md"] == "# Guide\n"
     write(repo, paper="# Guide\n")
     with pytest.raises(SystemExit):
         make_guide.build()

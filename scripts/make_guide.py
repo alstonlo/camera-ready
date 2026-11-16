@@ -9,7 +9,7 @@ SKILL = ROOT / "skills" / "camera-ready"
 REFS = SKILL / "references"
 RULES = REFS / "rules"
 TEMPLATES = ROOT / "scripts" / "templates"
-MODES = ["style", "paper"]
+MODES = ["text", "paper"]
 FULL = "paper"  # the mode whose guide must hold every rule
 
 SLOT = re.compile(r"^\{\{([a-z0-9-]+/[a-z0-9-]+)\}\}$", flags=re.M)

@@ -35,4 +35,4 @@ Decide which mode to run based on the user request:
 
 ## Executing the workflow
 
-Depending on the chosen mode, read either the [text mode workflow](references/mode-style/workflow.md) or the [paper mode workflow](references/mode-paper/workflow.md) and execute it. Do not read the workflow of the other unchosen mode, and do not read any workflows before choosing a mode.
+Depending on the chosen mode, read either the [text mode workflow](references/mode-text/workflow.md) or the [paper mode workflow](references/mode-paper/workflow.md) and execute it. Do not read the workflow of the other unchosen mode, and do not read any workflows before choosing a mode.
